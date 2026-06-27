@@ -1,0 +1,10 @@
+{
+    "mode": "idfp",
+    "callgraph": "VTA",
+    "run_number": 1,
+    "status": "SUCCESS",
+    "duration_seconds": 36495.58,
+    "peak_memory_gb": 13.9242,
+    "peak_cpu_percent": 100.21,
+    "timestamp": "2026-05-29T03:20:40.467983"
+}

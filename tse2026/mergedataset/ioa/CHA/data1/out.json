@@ -1,0 +1,2932 @@
+[
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/retrofit/2b6c719c6645f8e48dca6d0047c752069d321bc4/original-without-dependencies/merge/retrofit-1.2.3-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "l0.<java.lang.String: char[] value> - l0.<java.lang.String: char[] value>",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "<init>",
+              "line": 199,
+              "class": "java.lang.String"
+            },
+            "text": "l0.<java.lang.String: char[] value> = $stack15",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceResponse",
+                "line": 415,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "log",
+                "line": 19,
+                "class": "retrofit.android.AndroidLog"
+              },
+              {
+                "method": "substring",
+                "line": 1969,
+                "class": "java.lang.String"
+              },
+              {
+                "method": "<init>",
+                "line": 199,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "<init>",
+              "line": 426,
+              "class": "java.lang.String"
+            },
+            "text": "l0.<java.lang.String: char[] value> = $stack5",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceResponse",
+                "line": 438,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "<init>",
+                "line": 491,
+                "class": "java.lang.String"
+              },
+              {
+                "method": "<init>",
+                "line": 426,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/retrofit/2b6c719c6645f8e48dca6d0047c752069d321bc4/original-without-dependencies/merge/retrofit-1.2.3-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "l3 - $stack15",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "substring",
+              "line": 1965,
+              "class": "java.lang.String"
+            },
+            "text": "l3 = l2 - l1",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceResponse",
+                "line": 415,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "log",
+                "line": 19,
+                "class": "retrofit.android.AndroidLog"
+              },
+              {
+                "method": "substring",
+                "line": 1965,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "substring",
+              "line": 1960,
+              "class": "java.lang.String"
+            },
+            "text": "$stack15 = new java.lang.StringIndexOutOfBoundsException",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceResponse",
+                "line": 438,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "log",
+                "line": 19,
+                "class": "retrofit.android.AndroidLog"
+              },
+              {
+                "method": "substring",
+                "line": 1960,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/retrofit/2b6c719c6645f8e48dca6d0047c752069d321bc4/original-without-dependencies/merge/retrofit-1.2.3-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "l0.<java.lang.String: char[] value> - l0.<java.lang.String: char[] value>",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "<init>",
+              "line": 199,
+              "class": "java.lang.String"
+            },
+            "text": "l0.<java.lang.String: char[] value> = $stack15",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceRequest",
+                "line": 369,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "log",
+                "line": 19,
+                "class": "retrofit.android.AndroidLog"
+              },
+              {
+                "method": "substring",
+                "line": 1969,
+                "class": "java.lang.String"
+              },
+              {
+                "method": "<init>",
+                "line": 199,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "<init>",
+              "line": 426,
+              "class": "java.lang.String"
+            },
+            "text": "l0.<java.lang.String: char[] value> = $stack5",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceRequest",
+                "line": 398,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "<init>",
+                "line": 491,
+                "class": "java.lang.String"
+              },
+              {
+                "method": "<init>",
+                "line": 426,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/retrofit/2b6c719c6645f8e48dca6d0047c752069d321bc4/original-without-dependencies/merge/retrofit-1.2.3-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "l3 - $stack15",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "substring",
+              "line": 1965,
+              "class": "java.lang.String"
+            },
+            "text": "l3 = l2 - l1",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceRequest",
+                "line": 369,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "log",
+                "line": 19,
+                "class": "retrofit.android.AndroidLog"
+              },
+              {
+                "method": "substring",
+                "line": 1965,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "substring",
+              "line": 1960,
+              "class": "java.lang.String"
+            },
+            "text": "$stack15 = new java.lang.StringIndexOutOfBoundsException",
+            "stackTrace": [
+              {
+                "method": "logAndReplaceRequest",
+                "line": 398,
+                "class": "retrofit.RestAdapter"
+              },
+              {
+                "method": "log",
+                "line": 19,
+                "class": "retrofit.android.AndroidLog"
+              },
+              {
+                "method": "substring",
+                "line": 1960,
+                "class": "java.lang.String"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/activiti/bf46684ba62f5883673ea8fb0a14aecfe0aedea2/original-without-dependencies/merge/activiti-engine-5.16-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "name - $stack22",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "execute",
+              "line": 111,
+              "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+            },
+            "text": "name = (java.lang.String) $stack29",
+            "stackTrace": [{
+              "method": "execute",
+              "line": 111,
+              "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "execute",
+              "line": 127,
+              "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+            },
+            "text": "$stack22 = <org.activiti.engine.delegate.event.ActivitiEventType: org.activiti.engine.delegate.event.ActivitiEventType TASK_CREATED>",
+            "stackTrace": [{
+              "method": "execute",
+              "line": 127,
+              "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/activiti/bf46684ba62f5883673ea8fb0a14aecfe0aedea2/original-without-dependencies/merge/activiti-engine-5.16-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "scriptResolver - $stack6",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "get",
+              "line": 70,
+              "class": "org.activiti.engine.impl.scripting.ScriptBindings"
+            },
+            "text": "scriptResolver = (org.activiti.engine.impl.scripting.Resolver) $stack8",
+            "stackTrace": [
+              {
+                "method": "execute",
+                "line": 114,
+                "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+              },
+              {
+                "method": "setFormKey",
+                "line": 701,
+                "class": "org.activiti.engine.impl.persistence.entity.TaskEntity"
+              },
+              {
+                "method": "getHistoryManager",
+                "line": 325,
+                "class": "org.activiti.engine.impl.interceptor.CommandContext"
+              },
+              {
+                "method": "getSession",
+                "line": 203,
+                "class": "org.activiti.engine.impl.interceptor.CommandContext"
+              },
+              {
+                "method": "get",
+                "line": 70,
+                "class": "org.activiti.engine.impl.scripting.ScriptBindings"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "get",
+              "line": 75,
+              "class": "org.activiti.engine.impl.scripting.ScriptBindings"
+            },
+            "text": "$stack6 = this.<org.activiti.engine.impl.scripting.ScriptBindings: javax.script.Bindings defaultBindings>",
+            "stackTrace": [
+              {
+                "method": "execute",
+                "line": 126,
+                "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+              },
+              {
+                "method": "dispatchEvent",
+                "line": 65,
+                "class": "org.activiti.engine.delegate.event.impl.ActivitiEventDispatcherImpl"
+              },
+              {
+                "method": "dispatchEvent",
+                "line": 94,
+                "class": "org.activiti.engine.delegate.event.impl.ActivitiEventSupport"
+              },
+              {
+                "method": "get",
+                "line": 75,
+                "class": "org.activiti.engine.impl.scripting.ScriptBindings"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/activiti/bf46684ba62f5883673ea8fb0a14aecfe0aedea2/original-without-dependencies/merge/activiti-engine-5.16-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "stack - $stack3",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "getStack",
+              "line": 85,
+              "class": "org.activiti.engine.impl.context.Context"
+            },
+            "text": "stack = (java.util.Stack) $stack2",
+            "stackTrace": [
+              {
+                "method": "execute",
+                "line": 111,
+                "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+              },
+              {
+                "method": "getValue",
+                "line": 45,
+                "class": "org.activiti.engine.impl.el.JuelExpression"
+              },
+              {
+                "method": "getProcessEngineConfiguration",
+                "line": 52,
+                "class": "org.activiti.engine.impl.context.Context"
+              },
+              {
+                "method": "getStack",
+                "line": 85,
+                "class": "org.activiti.engine.impl.context.Context"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "getStack",
+              "line": 87,
+              "class": "org.activiti.engine.impl.context.Context"
+            },
+            "text": "$stack3 = new java.util.Stack",
+            "stackTrace": [
+              {
+                "method": "execute",
+                "line": 125,
+                "class": "org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior"
+              },
+              {
+                "method": "getProcessEngineConfiguration",
+                "line": 52,
+                "class": "org.activiti.engine.impl.context.Context"
+              },
+              {
+                "method": "getStack",
+                "line": 87,
+                "class": "org.activiti.engine.impl.context.Context"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/okhttp/1151c9853ccc3c9c3211c613b9b845b925f8c6a6/original-without-dependencies/merge/static-server-2.0.0-SNAPSHOT-shaded.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "$u0 - $stack6",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "checkOffsetAndCount",
+            "line": 86,
+            "class": "com.squareup.okhttp.internal.Util"
+          },
+          "text": "$u0 = new java.lang.ArrayIndexOutOfBoundsException",
+          "stackTrace": [
+            {
+              "method": "consumeHeader",
+              "line": 112,
+              "class": "com.squareup.okhttp.internal.bytes.GzipSource"
+            },
+            {
+              "method": "getByte",
+              "line": 81,
+              "class": "com.squareup.okhttp.internal.bytes.OkBuffer"
+            },
+            {
+              "method": "checkOffsetAndCount",
+              "line": 86,
+              "class": "com.squareup.okhttp.internal.Util"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "checkOffsetAndCount",
+            "line": 85,
+            "class": "com.squareup.okhttp.internal.Util"
+          },
+          "text": "$stack6 = offset | count",
+          "stackTrace": [
+            {
+              "method": "consumeHeader",
+              "line": 138,
+              "class": "com.squareup.okhttp.internal.bytes.GzipSource"
+            },
+            {
+              "method": "seek",
+              "line": 40,
+              "class": "com.squareup.okhttp.internal.bytes.OkBuffers"
+            },
+            {
+              "method": "read",
+              "line": 411,
+              "class": "com.squareup.okhttp.internal.bytes.OkBuffer"
+            },
+            {
+              "method": "write",
+              "line": 371,
+              "class": "com.squareup.okhttp.internal.bytes.OkBuffer"
+            },
+            {
+              "method": "checkOffsetAndCount",
+              "line": 85,
+              "class": "com.squareup.okhttp.internal.Util"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/HikariCP/1bca94af9ec625f21d1b58ff10efb5be71ab87a6/original-without-dependencies/merge/HikariCP-1.3.4-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "loginTimeout - $stack35",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 344,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "loginTimeout = $stack48",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 344,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "$stack35 = this.<com.zaxxer.hikari.HikariPool: java.util.concurrent.atomic.AtomicInteger totalConnections>",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/HikariCP/1bca94af9ec625f21d1b58ff10efb5be71ab87a6/original-without-dependencies/merge/HikariCP-1.3.4-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "loginTimeout - $stack35",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 348,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "loginTimeout = acquisitionTimeout / $stack46",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 348,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "$stack35 = this.<com.zaxxer.hikari.HikariPool: java.util.concurrent.atomic.AtomicInteger totalConnections>",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/HikariCP/1bca94af9ec625f21d1b58ff10efb5be71ab87a6/original-without-dependencies/merge/HikariCP-1.3.4-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "loginTimeout - $stack35",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 341,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "loginTimeout = 2000",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 341,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "$stack35 = this.<com.zaxxer.hikari.HikariPool: java.util.concurrent.atomic.AtomicInteger totalConnections>",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/HikariCP/1bca94af9ec625f21d1b58ff10efb5be71ab87a6/original-without-dependencies/merge/HikariCP-1.3.4-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "acquisitionTimeout - $stack35",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 339,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "acquisitionTimeout = (int) $stack7",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 339,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            },
+            "text": "$stack35 = this.<com.zaxxer.hikari.HikariPool: java.util.concurrent.atomic.AtomicInteger totalConnections>",
+            "stackTrace": [{
+              "method": "addConnection",
+              "line": 356,
+              "class": "com.zaxxer.hikari.HikariPool"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/voldemort/b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997/original-without-dependencies/merge/voldemort-1.10.4.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "ArrayList.<java.util.ArrayList: java.lang.Object[] elementData> - ArrayList.<java.util.ArrayList: java.lang.Object[] elementData>",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "<init>",
+              "line": -1,
+              "class": "java.util.ArrayList"
+            },
+            "text": "ArrayList.<java.util.ArrayList: java.lang.Object[] elementData> = null",
+            "stackTrace": [
+              {
+                "method": "<init>",
+                "line": 123,
+                "class": "voldemort.VoldemortClientShell"
+              },
+              {
+                "method": "<init>",
+                "line": 226,
+                "class": "voldemort.client.protocol.admin.AdminClient"
+              },
+              {
+                "method": "<init>",
+                "line": 195,
+                "class": "voldemort.client.protocol.admin.AdminClient"
+              },
+              {
+                "method": "<init>",
+                "line": 69,
+                "class": "voldemort.store.ErrorCodeMapper"
+              },
+              {
+                "method": "next",
+                "line": 267,
+                "class": "voldemort.store.memory.InMemoryStorageEngine$InMemoryIterator"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "<init>",
+              "line": -1,
+              "class": "java.util.ArrayList"
+            },
+            "text": "ArrayList.<java.util.ArrayList: java.lang.Object[] elementData> = null",
+            "stackTrace": [
+              {
+                "method": "<init>",
+                "line": 128,
+                "class": "voldemort.VoldemortClientShell"
+              },
+              {
+                "method": "updateRoutingStrategy",
+                "line": 22,
+                "class": "voldemort.routing.RoutingStrategyFactory"
+              },
+              {
+                "method": "<init>",
+                "line": 44,
+                "class": "voldemort.routing.RouteToAllStrategy"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/voldemort/b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997/original-without-dependencies/merge/voldemort-1.10.4.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "<java.lang.Integer: java.lang.Class TYPE> - <java.lang.Integer: java.lang.Class TYPE>",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "<clinit>",
+              "line": 72,
+              "class": "java.lang.Integer"
+            },
+            "text": "<java.lang.Integer: java.lang.Class TYPE> = $stack0",
+            "stackTrace": [
+              {
+                "method": "<init>",
+                "line": 123,
+                "class": "voldemort.VoldemortClientShell"
+              },
+              {
+                "method": "<init>",
+                "line": 37,
+                "class": "voldemort.client.protocol.admin.AdminClientConfig"
+              },
+              {
+                "method": "<init>",
+                "line": 44,
+                "class": "voldemort.client.protocol.admin.AdminClientConfig"
+              },
+              {
+                "method": "getInt",
+                "line": 230,
+                "class": "voldemort.utils.Props"
+              },
+              {
+                "method": "<clinit>",
+                "line": 72,
+                "class": "java.lang.Integer"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "<clinit>",
+              "line": 72,
+              "class": "java.lang.Integer"
+            },
+            "text": "<java.lang.Integer: java.lang.Class TYPE> = $stack0",
+            "stackTrace": [
+              {
+                "method": "<init>",
+                "line": 128,
+                "class": "voldemort.VoldemortClientShell"
+              },
+              {
+                "method": "updateRoutingStrategy",
+                "line": 22,
+                "class": "voldemort.routing.RoutingStrategyFactory"
+              },
+              {
+                "method": "<init>",
+                "line": 45,
+                "class": "voldemort.routing.RouteToAllStrategy"
+              },
+              {
+                "method": "<clinit>",
+                "line": 72,
+                "class": "java.lang.Integer"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/voldemort/4cc1c145819030c8e2baffe4c92383de14b8d880/original-without-dependencies/merge/voldemort-1.9.21.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "<java.lang.Character: java.lang.Class TYPE> - <java.lang.Character: java.lang.Class TYPE>",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "<clinit>",
+            "line": 195,
+            "class": "java.lang.Character"
+          },
+          "text": "<java.lang.Character: java.lang.Class TYPE> = $stack2",
+          "stackTrace": [
+            {
+              "method": "<init>",
+              "line": 359,
+              "class": "voldemort.server.VoldemortConfig"
+            },
+            {
+              "method": "getLong",
+              "line": 204,
+              "class": "voldemort.utils.Props"
+            },
+            {
+              "method": "parseLong",
+              "line": 631,
+              "class": "java.lang.Long"
+            },
+            {
+              "method": "parseLong",
+              "line": 587,
+              "class": "java.lang.Long"
+            },
+            {
+              "method": "<clinit>",
+              "line": 195,
+              "class": "java.lang.Character"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "<clinit>",
+            "line": 195,
+            "class": "java.lang.Character"
+          },
+          "text": "<java.lang.Character: java.lang.Class TYPE> = $stack2",
+          "stackTrace": [
+            {
+              "method": "<init>",
+              "line": 448,
+              "class": "voldemort.server.VoldemortConfig"
+            },
+            {
+              "method": "getBoolean",
+              "line": 190,
+              "class": "voldemort.utils.Props"
+            },
+            {
+              "method": "equalsIgnoreCase",
+              "line": 1109,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "regionMatches",
+              "line": 1367,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "<clinit>",
+              "line": 195,
+              "class": "java.lang.Character"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u9 - parentTypesSettings#137",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 582,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u9 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 582,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "parentTypesSettings#137 = ''",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u13 - parentTypesSettings#137",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 617,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u13 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 617,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "parentTypesSettings#137 = ''",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u16 - parentTypesSettings#137",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 635,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u16 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 635,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "parentTypesSettings#137 = ''",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u8 - parentTypesSettings#137",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 576,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u8 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 576,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "parentTypesSettings#137 = ''",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u3 - parentTypesSettings#137",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 515,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u3 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 515,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "parentTypesSettings#137 = ''",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 683,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u3 - $stack243",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 500,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u3 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 500,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$stack243 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u13 - $stack243",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 602,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u13 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 602,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$stack243 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u8 - $stack243",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 561,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u8 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 561,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$stack243 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u16 - $stack243",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 620,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u16 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 620,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$stack243 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u9 - $stack243",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 567,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$u9 = new java.lang.StringBuilder",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 567,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            },
+            "text": "$stack243 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "parseSettings",
+              "line": 646,
+              "class": "org.elasticsearch.river.mongodb.MongoDBRiverDefinition"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u0 - $stack67",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "processBlockingQueue",
+              "line": 161,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            },
+            "text": "$u0 = new java.util.HashMap",
+            "stackTrace": [{
+              "method": "processBlockingQueue",
+              "line": 161,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "processBlockingQueue",
+              "line": 176,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            },
+            "text": "$stack67 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "processBlockingQueue",
+              "line": 176,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "ioEx_2 - $stack67",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "processBlockingQueue",
+              "line": 161,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            },
+            "text": "ioEx_2 = $u0",
+            "stackTrace": [{
+              "method": "processBlockingQueue",
+              "line": 161,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "processBlockingQueue",
+              "line": 176,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            },
+            "text": "$stack67 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE>",
+            "stackTrace": [{
+              "method": "processBlockingQueue",
+              "line": 176,
+              "class": "org.elasticsearch.river.mongodb.Indexer"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/hector/0588608e7a2bdf974c985ff546207104f672bf6c/original-without-dependencies/merge/hector-core-1.1-3-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u1 - $stack17",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "open",
+              "line": 95,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            },
+            "text": "$u1 = new org.apache.thrift.transport.TSocket",
+            "stackTrace": [{
+              "method": "open",
+              "line": 95,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "open",
+              "line": 122,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            },
+            "text": "$stack17 = this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport transport>",
+            "stackTrace": [{
+              "method": "open",
+              "line": 122,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/hector/0588608e7a2bdf974c985ff546207104f672bf6c/original-without-dependencies/merge/hector-core-1.1-3-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "socket - $stack17",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "open",
+              "line": 95,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            },
+            "text": "socket = $u1",
+            "stackTrace": [{
+              "method": "open",
+              "line": 95,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "open",
+              "line": 122,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            },
+            "text": "$stack17 = this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport transport>",
+            "stackTrace": [{
+              "method": "open",
+              "line": 122,
+              "class": "me.prettyprint.cassandra.connection.client.HSaslThriftClient"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/MPAndroidChart/af114d180da6ec5633d32c701ff5467f7629fcf3/original-without-dependencies/merge/MPChartExample-classes.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u5 - $stack37",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "onProgressChanged",
+              "line": 168,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            },
+            "text": "$u5 = new com.github.mikephil.charting.data.Entry",
+            "stackTrace": [{
+              "method": "onProgressChanged",
+              "line": 168,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "onProgressChanged",
+              "line": 183,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            },
+            "text": "$stack37 = <com.github.mikephil.charting.charts.ScatterChart$ScatterShape: com.github.mikephil.charting.charts.ScatterChart$ScatterShape SQUARE>",
+            "stackTrace": [{
+              "method": "onProgressChanged",
+              "line": 183,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/MPAndroidChart/af114d180da6ec5633d32c701ff5467f7629fcf3/original-without-dependencies/merge/MPChartExample-classes.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u7 - $stack37",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "onProgressChanged",
+              "line": 178,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            },
+            "text": "$u7 = new com.github.mikephil.charting.data.Entry",
+            "stackTrace": [{
+              "method": "onProgressChanged",
+              "line": 178,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "onProgressChanged",
+              "line": 183,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            },
+            "text": "$stack37 = <com.github.mikephil.charting.charts.ScatterChart$ScatterShape: com.github.mikephil.charting.charts.ScatterChart$ScatterShape SQUARE>",
+            "stackTrace": [{
+              "method": "onProgressChanged",
+              "line": 183,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/MPAndroidChart/af114d180da6ec5633d32c701ff5467f7629fcf3/original-without-dependencies/merge/MPChartExample-classes.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u6 - $stack37",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "onProgressChanged",
+              "line": 173,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            },
+            "text": "$u6 = new com.github.mikephil.charting.data.Entry",
+            "stackTrace": [{
+              "method": "onProgressChanged",
+              "line": 173,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "onProgressChanged",
+              "line": 183,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            },
+            "text": "$stack37 = <com.github.mikephil.charting.charts.ScatterChart$ScatterShape: com.github.mikephil.charting.charts.ScatterChart$ScatterShape SQUARE>",
+            "stackTrace": [{
+              "method": "onProgressChanged",
+              "line": 183,
+              "class": "com.xxmassdeveloper.mpchartexample.ScatterChartActivity"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-tests.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u8 - $stack50",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "$u8 = new org.elasticsearch.action.support.replication.ReplicationOperationTests$TestPrimary",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 116,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "$stack50 = (org.elasticsearch.action.support.replication.ReplicationOperationTests$TestPrimary$Result) $stack49",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 116,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-tests.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "primary - $stack50",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "primary = $u8",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 116,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "$stack50 = (org.elasticsearch.action.support.replication.ReplicationOperationTests$TestPrimary$Result) $stack49",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 116,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-tests.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "$u6 - $u8",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 103,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "$u6 = new org.elasticsearch.action.support.PlainActionFuture",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 103,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "$u8 = new org.elasticsearch.action.support.replication.ReplicationOperationTests$TestPrimary",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-tests.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "replica#28 - $u8",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 103,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "replica#28 = $u6",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 103,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            },
+            "text": "$u8 = new org.elasticsearch.action.support.replication.ReplicationOperationTests$TestPrimary",
+            "stackTrace": [{
+              "method": "testReplication",
+              "line": 106,
+              "class": "org.elasticsearch.action.support.replication.ReplicationOperationTests"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "e - stringField",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "get",
+            "line": 136,
+            "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+          },
+          "text": "e = $stack11",
+          "stackTrace": [
+            {
+              "method": "<init>",
+              "line": 238,
+              "class": "org.elasticsearch.index.IndexSettings"
+            },
+            {
+              "method": "get",
+              "line": 385,
+              "class": "org.elasticsearch.common.settings.AbstractScopedSettings"
+            },
+            {
+              "method": "get",
+              "line": 329,
+              "class": "org.elasticsearch.common.settings.AbstractScopedSettings"
+            },
+            {
+              "method": "get",
+              "line": 136,
+              "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "get",
+            "line": 130,
+            "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+          },
+          "text": "stringField = (java.lang.String) key",
+          "stackTrace": [
+            {
+              "method": "<init>",
+              "line": 246,
+              "class": "org.elasticsearch.index.IndexSettings"
+            },
+            {
+              "method": "get",
+              "line": 385,
+              "class": "org.elasticsearch.common.settings.AbstractScopedSettings"
+            },
+            {
+              "method": "get",
+              "line": 329,
+              "class": "org.elasticsearch.common.settings.AbstractScopedSettings"
+            },
+            {
+              "method": "get",
+              "line": 130,
+              "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "indexResponse - $stack114",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "update",
+              "line": 254,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            },
+            "text": "indexResponse = (org.elasticsearch.action.index.IndexResponse) $stack113",
+            "stackTrace": [{
+              "method": "update",
+              "line": 254,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "update",
+              "line": 255,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            },
+            "text": "$stack114 = new org.elasticsearch.action.update.UpdateResponse",
+            "stackTrace": [{
+              "method": "update",
+              "line": 255,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "response - $stack90",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "update",
+              "line": 266,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            },
+            "text": "response = (org.elasticsearch.action.delete.DeleteResponse) $stack88",
+            "stackTrace": [{
+              "method": "update",
+              "line": 266,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "update",
+              "line": 268,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            },
+            "text": "$stack90 = new org.elasticsearch.action.update.UpdateResponse",
+            "stackTrace": [{
+              "method": "update",
+              "line": 268,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "updateResponse - response",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "update",
+              "line": 255,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            },
+            "text": "updateResponse = $stack114",
+            "stackTrace": [{
+              "method": "update",
+              "line": 255,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "update",
+              "line": 266,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            },
+            "text": "response = (org.elasticsearch.action.delete.DeleteResponse) $stack88",
+            "stackTrace": [{
+              "method": "update",
+              "line": 266,
+              "class": "org.elasticsearch.action.bulk.TransportShardBulkAction"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "l4 - $stack16",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "doRun",
+              "line": 458,
+              "class": "org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction"
+            },
+            "text": "l4 = null",
+            "stackTrace": [{
+              "method": "doRun",
+              "line": 458,
+              "class": "org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction"
+            }],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "doRun",
+              "line": 459,
+              "class": "org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction"
+            },
+            "text": "$stack16 = this.<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: org.elasticsearch.action.support.replication.TransportReplicationAction this$0>",
+            "stackTrace": [{
+              "method": "doRun",
+              "line": 459,
+              "class": "org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction"
+            }],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    },
+    {
+      "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+      "label": "OA conflict",
+      "type": "OAINTER",
+      "body": {
+        "description": "e - stringField",
+        "interference": [
+          {
+            "location": {
+              "file": "",
+              "method": "get",
+              "line": 136,
+              "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+            },
+            "text": "e = $stack11",
+            "stackTrace": [
+              {
+                "method": "doRun",
+                "line": 458,
+                "class": "org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction"
+              },
+              {
+                "method": "getReplicaShardReference",
+                "line": 767,
+                "class": "org.elasticsearch.action.support.replication.TransportReplicationAction"
+              },
+              {
+                "method": "indexServiceSafe",
+                "line": 338,
+                "class": "org.elasticsearch.indices.IndicesService"
+              },
+              {
+                "method": "get",
+                "line": 136,
+                "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+              }
+            ],
+            "type": "declaration",
+            "branch": "L"
+          },
+          {
+            "location": {
+              "file": "",
+              "method": "get",
+              "line": 130,
+              "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+            },
+            "text": "stringField = (java.lang.String) key",
+            "stackTrace": [
+              {
+                "method": "doRun",
+                "line": 459,
+                "class": "org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction"
+              },
+              {
+                "method": "shardOperationOnReplica",
+                "line": 39,
+                "class": "org.elasticsearch.action.admin.indices.flush.TransportShardFlushAction"
+              },
+              {
+                "method": "shardOperationOnReplica",
+                "line": 66,
+                "class": "org.elasticsearch.action.admin.indices.flush.TransportShardFlushAction"
+              },
+              {
+                "method": "indexServiceSafe",
+                "line": 338,
+                "class": "org.elasticsearch.indices.IndicesService"
+              },
+              {
+                "method": "get",
+                "line": 130,
+                "class": "org.elasticsearch.search.lookup.LeafIndexLookup"
+              }
+            ],
+            "type": "override",
+            "branch": "R"
+          }
+        ]
+      }
+    }
+  ]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "$u7 - $stack50",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "<init>",
+            "line": 134,
+            "class": "org.elasticsearch.index.engine.InternalEngine"
+          },
+          "text": "$u7 = new org.elasticsearch.index.seqno.SequenceNumbersService",
+          "stackTrace": [{
+            "method": "<init>",
+            "line": 134,
+            "class": "org.elasticsearch.index.engine.InternalEngine"
+          }],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "<init>",
+            "line": 162,
+            "class": "org.elasticsearch.index.engine.InternalEngine"
+          },
+          "text": "$stack50 = this.<org.elasticsearch.index.engine.InternalEngine: org.apache.lucene.search.SearcherManager searcherManager>",
+          "stackTrace": [{
+            "method": "<init>",
+            "line": 162,
+            "class": "org.elasticsearch.index.engine.InternalEngine"
+          }],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "$u1 - $stack5",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "writeByte",
+            "line": 1183,
+            "class": "org.elasticsearch.index.store.Store$LuceneVerifyingIndexOutput"
+          },
+          "text": "$u1 = new java.lang.AssertionError",
+          "stackTrace": [
+            {
+              "method": "writeTo",
+              "line": 140,
+              "class": "org.elasticsearch.action.DocWriteResponse"
+            },
+            {
+              "method": "writeZLong",
+              "line": 232,
+              "class": "org.elasticsearch.common.io.stream.StreamOutput"
+            },
+            {
+              "method": "writeByte",
+              "line": 37,
+              "class": "org.elasticsearch.common.io.stream.OutputStreamStreamOutput"
+            },
+            {
+              "method": "write",
+              "line": 40,
+              "class": "org.elasticsearch.common.lucene.store.IndexOutputOutputStream"
+            },
+            {
+              "method": "writeByte",
+              "line": 1183,
+              "class": "org.elasticsearch.index.store.Store$LuceneVerifyingIndexOutput"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "writeByte",
+            "line": 1170,
+            "class": "org.elasticsearch.index.store.Store$LuceneVerifyingIndexOutput"
+          },
+          "text": "$stack5 = this.<org.elasticsearch.index.store.Store$LuceneVerifyingIndexOutput: long writtenBytes>",
+          "stackTrace": [
+            {
+              "method": "writeTo",
+              "line": 141,
+              "class": "org.elasticsearch.action.DocWriteResponse"
+            },
+            {
+              "method": "writeBoolean",
+              "line": 332,
+              "class": "org.elasticsearch.common.io.stream.StreamOutput"
+            },
+            {
+              "method": "writeByte",
+              "line": 37,
+              "class": "org.elasticsearch.common.io.stream.OutputStreamStreamOutput"
+            },
+            {
+              "method": "write",
+              "line": 40,
+              "class": "org.elasticsearch.common.lucene.store.IndexOutputOutputStream"
+            },
+            {
+              "method": "writeByte",
+              "line": 1170,
+              "class": "org.elasticsearch.index.store.Store$LuceneVerifyingIndexOutput"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "this.<org.elasticsearch.common.compress.CompressedStreamInput: int position> - this.<org.elasticsearch.common.compress.CompressedStreamInput: int position>",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "read",
+            "line": 75,
+            "class": "org.elasticsearch.common.compress.CompressedStreamInput"
+          },
+          "text": "this.<org.elasticsearch.common.compress.CompressedStreamInput: int position> = $stack3",
+          "stackTrace": [
+            {
+              "method": "readFrom",
+              "line": 129,
+              "class": "org.elasticsearch.action.DocWriteResponse"
+            },
+            {
+              "method": "readZLong",
+              "line": 266,
+              "class": "org.elasticsearch.common.io.stream.StreamInput"
+            },
+            {
+              "method": "readByte",
+              "line": 41,
+              "class": "org.elasticsearch.common.io.stream.InputStreamStreamInput"
+            },
+            {
+              "method": "read",
+              "line": 75,
+              "class": "org.elasticsearch.common.compress.CompressedStreamInput"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "readyBuffer",
+            "line": 163,
+            "class": "org.elasticsearch.common.compress.CompressedStreamInput"
+          },
+          "text": "this.<org.elasticsearch.common.compress.CompressedStreamInput: int position> = 0",
+          "stackTrace": [
+            {
+              "method": "readFrom",
+              "line": 130,
+              "class": "org.elasticsearch.action.DocWriteResponse"
+            },
+            {
+              "method": "readBoolean",
+              "line": 367,
+              "class": "org.elasticsearch.common.io.stream.StreamInput"
+            },
+            {
+              "method": "readByte",
+              "line": 41,
+              "class": "org.elasticsearch.common.io.stream.InputStreamStreamInput"
+            },
+            {
+              "method": "read",
+              "line": 72,
+              "class": "org.elasticsearch.common.compress.CompressedStreamInput"
+            },
+            {
+              "method": "readyBuffer",
+              "line": 163,
+              "class": "org.elasticsearch.common.compress.CompressedStreamInput"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-2.0.0-SNAPSHOT-tests.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "l4 - l3",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "lastIndexOf",
+            "line": 1654,
+            "class": "java.lang.String"
+          },
+          "text": "l4 = l4 + $i1",
+          "stackTrace": [
+            {
+              "method": "testSynonymsAnalysis",
+              "line": 65,
+              "class": "org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2397,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1611,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1654,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "lastIndexOf",
+            "line": 1652,
+            "class": "java.lang.String"
+          },
+          "text": "l3 = l0.<java.lang.String: char[] value>",
+          "stackTrace": [
+            {
+              "method": "testSynonymsAnalysis",
+              "line": 75,
+              "class": "org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2397,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1611,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1652,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-2.0.0-SNAPSHOT-tests.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "l6 - $i0",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "replace",
+            "line": 2078,
+            "class": "java.lang.String"
+          },
+          "text": "l6 = newarray (char)[l3]",
+          "stackTrace": [
+            {
+              "method": "testQueryModeCommonGramsAnalysis",
+              "line": 228,
+              "class": "org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2399,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "replace",
+              "line": 2078,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "replace",
+            "line": -1,
+            "class": "java.lang.String"
+          },
+          "text": "$i0 = (int) l1",
+          "stackTrace": [
+            {
+              "method": "testQueryModeCommonGramsAnalysis",
+              "line": 229,
+              "class": "org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests"
+            },
+            {
+              "method": "createHome",
+              "line": 248,
+              "class": "org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2399,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "replace",
+              "line": -1,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-2.0.0-SNAPSHOT-tests.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "l6 - $i0",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "replace",
+            "line": 2078,
+            "class": "java.lang.String"
+          },
+          "text": "l6 = newarray (char)[l3]",
+          "stackTrace": [
+            {
+              "method": "testCommonGramsAnalysis",
+              "line": 143,
+              "class": "org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2399,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "replace",
+              "line": 2078,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "replace",
+            "line": -1,
+            "class": "java.lang.String"
+          },
+          "text": "$i0 = (int) l1",
+          "stackTrace": [
+            {
+              "method": "testCommonGramsAnalysis",
+              "line": 144,
+              "class": "org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests"
+            },
+            {
+              "method": "createHome",
+              "line": 248,
+              "class": "org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2399,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "replace",
+              "line": -1,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-analysis-kuromoji-2.0.0-SNAPSHOT-tests.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "l4 - l3",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "lastIndexOf",
+            "line": 1654,
+            "class": "java.lang.String"
+          },
+          "text": "l4 = l4 + $i1",
+          "stackTrace": [
+            {
+              "method": "createAnalysisService",
+              "line": 196,
+              "class": "org.elasticsearch.index.analysis.KuromojiAnalysisTests"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2397,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1611,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1654,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "lastIndexOf",
+            "line": 1652,
+            "class": "java.lang.String"
+          },
+          "text": "l3 = l0.<java.lang.String: char[] value>",
+          "stackTrace": [
+            {
+              "method": "createAnalysisService",
+              "line": 207,
+              "class": "org.elasticsearch.index.analysis.KuromojiAnalysisTests"
+            },
+            {
+              "method": "getResourceAsStream",
+              "line": 2217,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "resolveName",
+              "line": 2397,
+              "class": "java.lang.Class"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1611,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "lastIndexOf",
+              "line": 1652,
+              "class": "java.lang.String"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/fitnesse/4d9ba9d221d879507440feb084fa7521b95111ec/original-without-dependencies/merge/fitnesse.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "l1[l2] - l1[l2]",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "toChars",
+            "line": 5174,
+            "class": "java.lang.Character"
+          },
+          "text": "l1[l2] = $stack6",
+          "stackTrace": [
+            {
+              "method": "<init>",
+              "line": 24,
+              "class": "fitnesse.testsystems.slim.tables.SlimTableFactory"
+            },
+            {
+              "method": "addTableType",
+              "line": 46,
+              "class": "fitnesse.testsystems.slim.tables.SlimTableFactory"
+            },
+            {
+              "method": "toLowerCase",
+              "line": 2670,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "toLowerCase",
+              "line": 2626,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "toChars",
+              "line": 5174,
+              "class": "java.lang.Character"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "toChars",
+            "line": 5174,
+            "class": "java.lang.Character"
+          },
+          "text": "l1[l2] = $stack6",
+          "stackTrace": [
+            {
+              "method": "<init>",
+              "line": 31,
+              "class": "fitnesse.testsystems.slim.tables.SlimTableFactory"
+            },
+            {
+              "method": "addTableType",
+              "line": 46,
+              "class": "fitnesse.testsystems.slim.tables.SlimTableFactory"
+            },
+            {
+              "method": "toLowerCase",
+              "line": 2670,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "toLowerCase",
+              "line": 2626,
+              "class": "java.lang.String"
+            },
+            {
+              "method": "toChars",
+              "line": 5174,
+              "class": "java.lang.Character"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/spring-boot/ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c/original-without-dependencies/merge/spring-boot-1.3.1.BUILD-SNAPSHOT.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "$u0 - dir#8",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "createDeploymentManager",
+            "line": 362,
+            "class": "org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory"
+          },
+          "text": "$u0 = new org.springframework.boot.context.embedded.undertow.FileSessionPersistence",
+          "stackTrace": [{
+            "method": "createDeploymentManager",
+            "line": 362,
+            "class": "org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory"
+          }],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "createDeploymentManager",
+            "line": 364,
+            "class": "org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory"
+          },
+          "text": "dir#8 = $stack32",
+          "stackTrace": [{
+            "method": "createDeploymentManager",
+            "line": 364,
+            "class": "org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory"
+          }],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]},
+  {"conflicts": [{
+    "ScenarioJAR": "/home/oav2/miningframework/output/files/spring-boot/074771ec125dd407af0282b92960e9e9e3377e84/original-without-dependencies/merge/spring-boot-1.3.0.RELEASE.jar",
+    "label": "OA conflict",
+    "type": "OAINTER",
+    "body": {
+      "description": "SpringApplication.<org.springframework.boot.SpringApplication: java.lang.Class mainApplicationClass> - this.<org.springframework.boot.SpringApplication: java.lang.Class mainApplicationClass>",
+      "interference": [
+        {
+          "location": {
+            "file": "",
+            "method": "<init>",
+            "line": -1,
+            "class": "org.springframework.boot.SpringApplication"
+          },
+          "text": "SpringApplication.<org.springframework.boot.SpringApplication: java.lang.Class mainApplicationClass> = null",
+          "stackTrace": [
+            {
+              "method": "createRootApplicationContext",
+              "line": 87,
+              "class": "org.springframework.boot.context.web.SpringBootServletInitializer"
+            },
+            {
+              "method": "createSpringApplicationBuilder",
+              "line": 121,
+              "class": "org.springframework.boot.context.web.SpringBootServletInitializer"
+            },
+            {
+              "method": "<init>",
+              "line": 84,
+              "class": "org.springframework.boot.builder.SpringApplicationBuilder"
+            },
+            {
+              "method": "createSpringApplication",
+              "line": 96,
+              "class": "org.springframework.boot.builder.SpringApplicationBuilder"
+            }
+          ],
+          "type": "declaration",
+          "branch": "L"
+        },
+        {
+          "location": {
+            "file": "",
+            "method": "setMainApplicationClass",
+            "line": 691,
+            "class": "org.springframework.boot.SpringApplication"
+          },
+          "text": "this.<org.springframework.boot.SpringApplication: java.lang.Class mainApplicationClass> = mainApplicationClass",
+          "stackTrace": [
+            {
+              "method": "createRootApplicationContext",
+              "line": 88,
+              "class": "org.springframework.boot.context.web.SpringBootServletInitializer"
+            },
+            {
+              "method": "main",
+              "line": 348,
+              "class": "org.springframework.boot.builder.SpringApplicationBuilder"
+            },
+            {
+              "method": "setMainApplicationClass",
+              "line": 691,
+              "class": "org.springframework.boot.SpringApplication"
+            }
+          ],
+          "type": "override",
+          "branch": "R"
+        }
+      ]
+    }
+  }]}
+]

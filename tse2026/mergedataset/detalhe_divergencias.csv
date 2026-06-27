@@ -1,0 +1,1189 @@
+project;class;method;merge commit;ANALISE;TOOL;VALOR_TOOL;VALOR_SPARK
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;icf;CHA;TRUE;TRUE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;icf;CHA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;icf;CHA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;icf;CHA;TRUE;TRUE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;icf;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;icf;CHA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;icf;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;icf;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;icf;CHA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;icf;CHA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;icf;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;icf;CHA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;icf;CHA;FALSE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;icf;CHA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;icf;CHA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;icf;CHA;TRUE;TRUE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;icf;CHA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;icf;CHA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;icf;CHA;TRUE;TRUE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;icf;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;icf;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;icf;CHA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;icf;CHA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;icf;CHA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;icf;CHA;TRUE;TRUE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;icf;CHA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;icf;CHA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;icf;CHA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;icf;CHA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;icf;CHA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;icf;CHA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;icf;CHA;TRUE;TRUE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;icf;CHA;TRUE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;icf;CHA;FALSE_TIMEOUT;FALSE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;icf;CHA;FALSE;FALSE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;icf;CHA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;icf;CHA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;icf;CHA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;icf;CHA;FALSE_TIMEOUT;FALSE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;icf;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;icf;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;icf;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;CHA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;icf;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;icf;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;icf;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;icf;CHA;TRUE;TRUE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;icf;CHA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;icf;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;icf;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;icf;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;icf;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;icf;CHA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;icf;CHA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;icf;CHA;FALSE;FALSE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;icf;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;icf;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;icf;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;icf;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;icf;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;icf;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;icf;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;icf;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;icf;CHA;TRUE;TRUE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;icf;CHA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;icf;RTA;TRUE;TRUE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;icf;RTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;icf;RTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;icf;RTA;TRUE;TRUE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;icf;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;icf;RTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;icf;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;icf;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;icf;RTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;icf;RTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;icf;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;icf;RTA;TRUE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;icf;RTA;FALSE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;icf;RTA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;icf;RTA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;icf;RTA;TRUE;TRUE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;icf;RTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;icf;RTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;icf;RTA;TRUE;TRUE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;icf;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;icf;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;icf;RTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;icf;RTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;icf;RTA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;icf;RTA;TRUE;TRUE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;icf;RTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;icf;RTA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;icf;RTA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;icf;RTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;icf;RTA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;icf;RTA;FALSE_TIMEOUT;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;icf;RTA;TRUE;TRUE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;icf;RTA;TRUE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;icf;RTA;FALSE_TIMEOUT;FALSE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;icf;RTA;FALSE;FALSE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;icf;RTA;FALSE_TIMEOUT;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;icf;RTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;icf;RTA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;icf;RTA;TRUE;FALSE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;icf;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;icf;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;icf;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;RTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;icf;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;icf;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;icf;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;icf;RTA;TRUE;TRUE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;icf;RTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;icf;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;icf;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;icf;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;icf;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;icf;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;icf;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;icf;RTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;icf;RTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;icf;RTA;FALSE;FALSE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;icf;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;icf;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;icf;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;icf;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;icf;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;icf;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;icf;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;icf;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;icf;RTA;TRUE;TRUE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;icf;RTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;icf;VTA;TRUE;TRUE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;icf;VTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;icf;VTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;icf;VTA;TRUE;TRUE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;icf;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;icf;VTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;icf;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;icf;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;icf;VTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;icf;VTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;icf;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;icf;VTA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;icf;VTA;FALSE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;icf;VTA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;icf;VTA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;icf;VTA;TRUE;TRUE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;icf;VTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;icf;VTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;icf;VTA;TRUE;TRUE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;icf;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;icf;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;icf;VTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;icf;VTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;icf;VTA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;icf;VTA;TRUE;TRUE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;icf;VTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;icf;VTA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;icf;VTA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;icf;VTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;icf;VTA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;icf;VTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;icf;VTA;TRUE;TRUE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;icf;VTA;FALSE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;icf;VTA;FALSE_TIMEOUT;FALSE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;icf;VTA;FALSE;FALSE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;icf;VTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;icf;VTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;icf;VTA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;icf;VTA;FALSE;FALSE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;icf;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;icf;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;icf;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;VTA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;icf;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;icf;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;icf;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;icf;VTA;TRUE;TRUE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;icf;VTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;icf;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;icf;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;icf;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;icf;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;icf;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;icf;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;icf;VTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;icf;VTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;icf;VTA;FALSE;FALSE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;icf;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;icf;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;icf;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;icf;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;icf;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;icf;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;icf;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;icf;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;icf;VTA;TRUE;TRUE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;icf;VTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;ioa;CHA;FALSE;FALSE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;ioa;CHA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;ioa;CHA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;ioa;CHA;FALSE;FALSE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;ioa;CHA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;ioa;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;ioa;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;ioa;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;ioa;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;ioa;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;ioa;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;ioa;CHA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;ioa;CHA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;CHA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;CHA;TRUE;FALSE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;ioa;CHA;FALSE;FALSE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;ioa;CHA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;ioa;CHA;TRUE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;ioa;CHA;TRUE;FALSE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;ioa;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;ioa;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;ioa;CHA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;ioa;CHA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;ioa;CHA;TRUE;FALSE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;ioa;CHA;TRUE;FALSE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;ioa;CHA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;ioa;CHA;FALSE;FALSE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;ioa;CHA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;ioa;CHA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;ioa;CHA;TRUE;FALSE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;ioa;CHA;FALSE_TIMEOUT;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;ioa;CHA;TRUE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;ioa;CHA;TRUE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;ioa;CHA;FALSE_TIMEOUT;TRUE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;ioa;CHA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;ioa;CHA;TRUE;TRUE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;ioa;CHA;TRUE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;ioa;CHA;TRUE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;ioa;CHA;FALSE_TIMEOUT;TRUE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;ioa;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;CHA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;CHA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;CHA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;CHA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;CHA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;CHA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;ioa;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;ioa;CHA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;ioa;CHA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;ioa;CHA;TRUE;FALSE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;ioa;CHA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;ioa;CHA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;CHA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;CHA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;ioa;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;ioa;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;CHA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;CHA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;ioa;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;ioa;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;ioa;CHA;FALSE;FALSE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;CHA;TRUE;FALSE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;CHA;TRUE;TRUE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;ioa;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;ioa;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;ioa;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;ioa;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;ioa;CHA;TRUE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;ioa;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;ioa;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;ioa;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;ioa;CHA;FALSE;FALSE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;ioa;CHA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;ioa;RTA;FALSE;FALSE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;ioa;RTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;ioa;RTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;ioa;RTA;FALSE;FALSE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;ioa;RTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;ioa;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;ioa;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;ioa;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;ioa;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;ioa;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;ioa;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;ioa;RTA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;ioa;RTA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;RTA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;RTA;TRUE;FALSE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;ioa;RTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;ioa;RTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;ioa;RTA;TRUE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;ioa;RTA;TRUE;FALSE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;ioa;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;ioa;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;ioa;RTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;ioa;RTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;ioa;RTA;TRUE;FALSE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;ioa;RTA;TRUE;FALSE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;ioa;RTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;ioa;RTA;FALSE;FALSE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;ioa;RTA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;ioa;RTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;ioa;RTA;TRUE;FALSE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;ioa;RTA;FALSE_TIMEOUT;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;ioa;RTA;TRUE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;ioa;RTA;TRUE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;ioa;RTA;FALSE_TIMEOUT;TRUE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;ioa;RTA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;ioa;RTA;TRUE;TRUE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;ioa;RTA;TRUE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;ioa;RTA;TRUE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;ioa;RTA;FALSE_TIMEOUT;TRUE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;ioa;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;RTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;ioa;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;ioa;RTA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;ioa;RTA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;ioa;RTA;TRUE;FALSE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;ioa;RTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;ioa;RTA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;RTA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;RTA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;ioa;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;ioa;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;ioa;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;ioa;RTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;ioa;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;ioa;RTA;FALSE;FALSE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;RTA;TRUE;FALSE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;RTA;TRUE;TRUE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;ioa;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;ioa;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;ioa;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;ioa;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;ioa;RTA;TRUE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;ioa;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;ioa;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;ioa;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;ioa;RTA;FALSE;FALSE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;ioa;RTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;ioa;VTA;FALSE;FALSE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;ioa;VTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;ioa;VTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;ioa;VTA;FALSE;FALSE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;ioa;VTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;ioa;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;ioa;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;ioa;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;ioa;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;ioa;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;ioa;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;ioa;VTA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;ioa;VTA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;VTA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;VTA;TRUE;FALSE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;ioa;VTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;ioa;VTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;ioa;VTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;ioa;VTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;ioa;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;ioa;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;ioa;VTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;ioa;VTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;ioa;VTA;FALSE;FALSE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;ioa;VTA;FALSE;FALSE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;ioa;VTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;ioa;VTA;FALSE;FALSE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;ioa;VTA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;ioa;VTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;ioa;VTA;FALSE;FALSE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;ioa;VTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;ioa;VTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;ioa;VTA;FALSE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;ioa;VTA;FALSE_TIMEOUT;TRUE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;ioa;VTA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;ioa;VTA;TRUE;TRUE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;ioa;VTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;ioa;VTA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;ioa;VTA;FALSE_TIMEOUT;TRUE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;ioa;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;VTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;VTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;ioa;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;ioa;VTA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;ioa;VTA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;ioa;VTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;ioa;VTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;ioa;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;ioa;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;ioa;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;ioa;VTA;FALSE;FALSE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;VTA;TRUE;FALSE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;VTA;TRUE;TRUE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;ioa;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;ioa;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;ioa;VTA;FALSE;FALSE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;ioa;VTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;idfp;CHA;FALSE;FALSE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;idfp;CHA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;idfp;CHA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;idfp;CHA;FALSE;FALSE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;idfp;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;idfp;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;idfp;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;idfp;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;idfp;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;idfp;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;idfp;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;idfp;CHA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;idfp;CHA;FALSE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;idfp;CHA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;idfp;CHA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;idfp;CHA;FALSE;FALSE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;idfp;CHA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;idfp;CHA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;idfp;CHA;FALSE;FALSE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;idfp;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;idfp;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;idfp;CHA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;idfp;CHA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;idfp;CHA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;idfp;CHA;FALSE;FALSE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;idfp;CHA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;idfp;CHA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;idfp;CHA;FALSE_TIMEOUT;FALSE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;idfp;CHA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;idfp;CHA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;idfp;CHA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;idfp;CHA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;idfp;CHA;FALSE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;idfp;CHA;FALSE_TIMEOUT;FALSE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;idfp;CHA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;idfp;CHA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;idfp;CHA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;idfp;CHA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;idfp;CHA;FALSE_TIMEOUT;FALSE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;idfp;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;idfp;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;idfp;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;CHA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;idfp;CHA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;idfp;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;idfp;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;idfp;CHA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;idfp;CHA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;idfp;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;idfp;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;idfp;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;idfp;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;idfp;CHA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;idfp;CHA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;idfp;CHA;FALSE;FALSE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;idfp;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;idfp;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;idfp;CHA;FALSE;FALSE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;idfp;CHA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;idfp;RTA;FALSE;FALSE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;idfp;RTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;idfp;RTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;idfp;RTA;FALSE;FALSE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;idfp;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;idfp;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;idfp;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;idfp;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;idfp;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;idfp;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;idfp;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;idfp;RTA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;idfp;RTA;FALSE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;idfp;RTA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;idfp;RTA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;idfp;RTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;idfp;RTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;idfp;RTA;TRUE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;idfp;RTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;idfp;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;idfp;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;idfp;RTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;idfp;RTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;idfp;RTA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;idfp;RTA;TRUE;FALSE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;idfp;RTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;idfp;RTA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;idfp;RTA;FALSE_TIMEOUT;FALSE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;idfp;RTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;idfp;RTA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;idfp;RTA;FALSE_TIMEOUT;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;idfp;RTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;idfp;RTA;FALSE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;idfp;RTA;FALSE_TIMEOUT;FALSE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;idfp;RTA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;idfp;RTA;FALSE_TIMEOUT;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;idfp;RTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;idfp;RTA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;idfp;RTA;FALSE;FALSE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;idfp;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;idfp;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;idfp;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;RTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;idfp;RTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;idfp;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;idfp;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;idfp;RTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;idfp;RTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;idfp;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;RTA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;idfp;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;idfp;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;idfp;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;idfp;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;idfp;RTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;idfp;RTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;idfp;RTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;idfp;RTA;FALSE;FALSE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;idfp;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;idfp;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;idfp;RTA;FALSE;FALSE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;idfp;RTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;idfp;VTA;FALSE;FALSE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;idfp;VTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;idfp;VTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;idfp;VTA;FALSE;FALSE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;idfp;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;idfp;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;idfp;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;idfp;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;idfp;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;idfp;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;idfp;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;idfp;VTA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;idfp;VTA;FALSE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;idfp;VTA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;idfp;VTA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;idfp;VTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;idfp;VTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;idfp;VTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;idfp;VTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;idfp;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;idfp;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;idfp;VTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;idfp;VTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;idfp;VTA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;idfp;VTA;FALSE;FALSE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;idfp;VTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;idfp;VTA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;idfp;VTA;FALSE_TIMEOUT;FALSE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;idfp;VTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;idfp;VTA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;idfp;VTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;idfp;VTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;idfp;VTA;FALSE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;idfp;VTA;FALSE_TIMEOUT;FALSE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;idfp;VTA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;idfp;VTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;idfp;VTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;idfp;VTA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;idfp;VTA;FALSE;FALSE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;idfp;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;idfp;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;idfp;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;VTA;FALSE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;idfp;VTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;idfp;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;idfp;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;idfp;VTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;idfp;VTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;idfp;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;idfp;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;idfp;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;idfp;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;idfp;VTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;idfp;VTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;idfp;VTA;FALSE;FALSE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;idfp;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;idfp;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;idfp;VTA;FALSE;FALSE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;idfp;VTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;or all;CHA;TRUE;TRUE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;or all;CHA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;or all;CHA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;or all;CHA;TRUE;TRUE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;or all;CHA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;or all;CHA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;or all;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;or all;CHA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;or all;CHA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;or all;CHA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;or all;CHA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;or all;CHA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;or all;CHA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;or all;CHA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;or all;CHA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;or all;CHA;TRUE;TRUE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;or all;CHA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;or all;CHA;TRUE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;or all;CHA;TRUE;TRUE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;or all;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;or all;CHA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;or all;CHA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;or all;CHA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;or all;CHA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;or all;CHA;TRUE;TRUE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;or all;CHA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;or all;CHA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;or all;CHA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;or all;CHA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;or all;CHA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;or all;CHA;FALSE_TIMEOUT;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;or all;CHA;TRUE;TRUE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;or all;CHA;TRUE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;or all;CHA;FALSE_TIMEOUT;TRUE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;or all;CHA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;or all;CHA;TRUE;TRUE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;or all;CHA;TRUE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;or all;CHA;TRUE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;or all;CHA;FALSE_TIMEOUT;TRUE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;or all;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;or all;CHA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;or all;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;CHA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;CHA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;CHA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;or all;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;or all;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;or all;CHA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;or all;CHA;TRUE;TRUE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;or all;CHA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;or all;CHA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;CHA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;CHA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;or all;CHA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;CHA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;CHA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;or all;CHA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;CHA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;or all;CHA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;or all;CHA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;or all;CHA;TRUE;TRUE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;or all;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;or all;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;or all;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;or all;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;or all;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;or all;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;or all;CHA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;or all;CHA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;or all;CHA;TRUE;TRUE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;or all;CHA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;or all;RTA;TRUE;TRUE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;or all;RTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;or all;RTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;or all;RTA;TRUE;TRUE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;or all;RTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;or all;RTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;or all;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;or all;RTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;or all;RTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;or all;RTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;or all;RTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;or all;RTA;TRUE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;or all;RTA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;or all;RTA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;or all;RTA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;or all;RTA;TRUE;TRUE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;or all;RTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;or all;RTA;TRUE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;or all;RTA;TRUE;TRUE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;or all;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;or all;RTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;or all;RTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;or all;RTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;or all;RTA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;or all;RTA;TRUE;TRUE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;or all;RTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;or all;RTA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;or all;RTA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;or all;RTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;or all;RTA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;or all;RTA;FALSE_TIMEOUT;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;or all;RTA;TRUE;TRUE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;or all;RTA;TRUE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;or all;RTA;FALSE_TIMEOUT;TRUE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;or all;RTA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;or all;RTA;TRUE;TRUE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;or all;RTA;TRUE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;or all;RTA;TRUE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;or all;RTA;TRUE;TRUE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;or all;RTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;or all;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;or all;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;RTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;RTA;TRUE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;RTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;or all;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;or all;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;or all;RTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;or all;RTA;TRUE;TRUE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;or all;RTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;or all;RTA;TRUE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;RTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;RTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;or all;RTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;TRUE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;or all;RTA;FALSE_TIMEOUT;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;RTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;or all;RTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;or all;RTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;or all;RTA;TRUE;TRUE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;or all;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;or all;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;or all;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;or all;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;or all;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;or all;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;or all;RTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;or all;RTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;or all;RTA;TRUE;TRUE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;or all;RTA;FALSE;FALSE
+druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5;or all;VTA;TRUE;TRUE
+netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b;or all;VTA;FALSE;FALSE
+OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a;or all;VTA;FALSE;FALSE
+webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f;or all;VTA;TRUE;TRUE
+resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866;or all;VTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac;or all;VTA;TRUE;TRUE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac;or all;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac;or all;VTA;FALSE;FALSE
+storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3;or all;VTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941;or all;VTA;TRUE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80;or all;VTA;FALSE;FALSE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;or all;VTA;FALSE;FALSE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;or all;VTA;TRUE;FALSE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;or all;VTA;TRUE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;or all;VTA;TRUE;TRUE
+retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a;or all;VTA;TRUE;TRUE
+activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a;or all;VTA;FALSE;FALSE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;or all;VTA;FALSE;FALSE
+okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6;or all;VTA;TRUE;TRUE
+okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9;or all;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;or all;VTA;FALSE;FALSE
+HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6;or all;VTA;TRUE;TRUE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0;or all;VTA;FALSE;FALSE
+pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0;or all;VTA;TRUE;TRUE
+java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561;or all;VTA;TRUE;TRUE
+swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2;or all;VTA;FALSE;FALSE
+cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9;or all;VTA;TRUE;TRUE
+dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88;or all;VTA;FALSE_TIMEOUT;TRUE
+jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6;or all;VTA;FALSE;FALSE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;or all;VTA;TRUE;TRUE
+orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8;or all;VTA;FALSE;FALSE
+SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d;or all;VTA;TRUE;TRUE
+SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d;or all;VTA;FALSE;FALSE
+alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c;or all;VTA;FALSE_TIMEOUT;TRUE
+voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997;or all;VTA;TRUE;TRUE
+voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880;or all;VTA;TRUE;TRUE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;or all;VTA;FALSE;FALSE
+libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063;or all;VTA;FALSE;FALSE
+RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2;or all;VTA;FALSE_TIMEOUT;TRUE
+RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125;or all;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8;or all;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;or all;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;VTA;TRUE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;VTA;FALSE;FALSE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;VTA;TRUE;FALSE
+hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c;or all;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;or all;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145;or all;VTA;TRUE;TRUE
+hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38;or all;VTA;TRUE;TRUE
+titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4;or all;VTA;FALSE;FALSE
+titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19;or all;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3;or all;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;VTA;TRUE;TRUE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;VTA;FALSE;FALSE
+MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0;or all;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;or all;VTA;FALSE;FALSE
+MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;FALSE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29;or all;VTA;FALSE;FALSE
+elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d;or all;VTA;TRUE;TRUE
+elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67;or all;VTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;or all;VTA;TRUE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec;or all;VTA;TRUE;TRUE
+cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76;or all;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56;or all;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;or all;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744;or all;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c;or all;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428;or all;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84;or all;VTA;TRUE;TRUE
+spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673;or all;VTA;FALSE;FALSE
+spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1;or all;VTA;TRUE;TRUE
+quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693;or all;VTA;FALSE;FALSE

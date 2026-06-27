@@ -1,0 +1,3598 @@
+Configure Soot OA Inter;1.06900
+Successfully applied package: cg;2.42200
+Successfully applied package: wjtp;0.20100
+Time to perform OA Inter;3.70000
+Configure Soot OA Inter;2.10000
+Successfully applied package: cg;45.24700
+Configure Soot OA Inter;0.95700
+Successfully applied package: cg;0.81800
+Successfully applied package: wjtp;3.06000
+Time to perform OA Inter;4.84400
+Configure Soot OA Inter;0.94300
+Successfully applied package: cg;0.78400
+Successfully applied package: wjtp;0.03000
+Time to perform OA Inter;1.76800
+Configure Soot OA Inter;0.64000
+Successfully applied package: cg;0.80900
+Successfully applied package: wjtp;0.11400
+Time to perform OA Inter;1.57100
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;0.99800
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;1.95800
+Configure Soot OA Inter;0.93400
+Successfully applied package: cg;0.98400
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;1.98000
+Configure Soot OA Inter;0.94400
+Successfully applied package: cg;1.18900
+Successfully applied package: wjtp;0.33900
+Time to perform OA Inter;2.51600
+Configure Soot OA Inter;0.95600
+Successfully applied package: cg;1.12600
+Successfully applied package: wjtp;0.21100
+Time to perform OA Inter;2.30400
+Configure Soot OA Inter;2.74100
+Successfully applied package: cg;81.51900
+Successfully applied package: wjtp;2.42600
+Time to perform OA Inter;86.73400
+Configure Soot OA Inter;2.57700
+Successfully applied package: cg;75.88100
+Successfully applied package: wjtp;9.76200
+Time to perform OA Inter;88.34200
+Configure Soot OA Inter;2.84700
+Successfully applied package: cg;76.15100
+Successfully applied package: wjtp;1.55200
+Time to perform OA Inter;80.74700
+Configure Soot OA Inter;2.94900
+Successfully applied package: cg;77.08600
+Successfully applied package: wjtp;1.51800
+Time to perform OA Inter;81.79100
+Configure Soot OA Inter;2.84900
+Successfully applied package: cg;75.70500
+Successfully applied package: wjtp;1.01500
+Time to perform OA Inter;79.73900
+Configure Soot OA Inter;2.90000
+Successfully applied package: cg;81.01200
+Successfully applied package: wjtp;1.38500
+Time to perform OA Inter;85.45700
+Configure Soot OA Inter;2.82600
+Successfully applied package: cg;85.75600
+Successfully applied package: wjtp;0.13700
+Time to perform OA Inter;88.72400
+Configure Soot OA Inter;2.88100
+Successfully applied package: cg;80.14200
+Successfully applied package: wjtp;1.11900
+Time to perform OA Inter;84.23800
+Configure Soot OA Inter;0.91500
+Successfully applied package: cg;0.91300
+Successfully applied package: wjtp;0.03500
+Time to perform OA Inter;1.86900
+Configure Soot OA Inter;0.92500
+Successfully applied package: cg;0.73100
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;1.71400
+Configure Soot OA Inter;0.93200
+Successfully applied package: cg;0.75900
+Successfully applied package: wjtp;0.07000
+Time to perform OA Inter;1.77600
+Configure Soot OA Inter;0.93700
+Successfully applied package: cg;0.75000
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;1.71900
+Configure Soot OA Inter;0.66200
+Successfully applied package: cg;1.20900
+Successfully applied package: wjtp;0.08100
+Time to perform OA Inter;1.95700
+Configure Soot OA Inter;0.64800
+Successfully applied package: cg;0.91700
+Successfully applied package: wjtp;0.05700
+Time to perform OA Inter;1.62600
+Configure Soot OA Inter;0.69300
+Successfully applied package: cg;2.64200
+Successfully applied package: wjtp;0.06000
+Time to perform OA Inter;3.40800
+Configure Soot OA Inter;0.93900
+Successfully applied package: cg;1.12500
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;2.11600
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;1.09300
+Successfully applied package: wjtp;0.08000
+Time to perform OA Inter;2.11200
+Configure Soot OA Inter;1.01500
+Successfully applied package: cg;2.99000
+Successfully applied package: wjtp;0.02000
+Time to perform OA Inter;4.03100
+Configure Soot OA Inter;1.03800
+Successfully applied package: cg;2.94400
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;4.00700
+Configure Soot OA Inter;0.75800
+Successfully applied package: cg;1.00000
+Successfully applied package: wjtp;0.11200
+Time to perform OA Inter;1.87500
+Configure Soot OA Inter;1.00900
+Successfully applied package: cg;2.87200
+Successfully applied package: wjtp;0.03600
+Time to perform OA Inter;3.92200
+Configure Soot OA Inter;0.87400
+Successfully applied package: cg;1.19100
+Successfully applied package: wjtp;0.04700
+Time to perform OA Inter;2.12000
+Configure Soot OA Inter;0.64900
+Successfully applied package: cg;0.96900
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;1.65000
+Configure Soot OA Inter;0.66800
+Successfully applied package: cg;1.00500
+Successfully applied package: wjtp;0.41000
+Time to perform OA Inter;2.08700
+Configure Soot OA Inter;0.64900
+Successfully applied package: cg;0.93000
+Successfully applied package: wjtp;0.19600
+Time to perform OA Inter;1.78500
+Configure Soot OA Inter;0.66100
+Successfully applied package: cg;0.64400
+Successfully applied package: wjtp;0.12600
+Time to perform OA Inter;1.43600
+Configure Soot OA Inter;1.01500
+Successfully applied package: cg;0.89200
+Successfully applied package: wjtp;0.13000
+Time to perform OA Inter;2.04700
+Configure Soot OA Inter;1.07900
+Successfully applied package: cg;0.91200
+Successfully applied package: wjtp;0.19900
+Time to perform OA Inter;2.20000
+Configure Soot OA Inter;1.04700
+Successfully applied package: cg;0.93100
+Successfully applied package: wjtp;0.59700
+Time to perform OA Inter;2.58600
+Configure Soot OA Inter;1.18100
+Successfully applied package: cg;2.38600
+Successfully applied package: wjtp;0.97600
+Time to perform OA Inter;4.55300
+Configure Soot OA Inter;0.67100
+Successfully applied package: cg;0.52500
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;1.26400
+Configure Soot OA Inter;1.13700
+Successfully applied package: cg;2.21000
+Successfully applied package: wjtp;0.18600
+Time to perform OA Inter;3.54000
+Configure Soot OA Inter;0.95400
+Successfully applied package: cg;1.83600
+Successfully applied package: wjtp;0.03400
+Time to perform OA Inter;2.82900
+Configure Soot OA Inter;0.99800
+Successfully applied package: cg;1.85000
+Successfully applied package: wjtp;0.03500
+Time to perform OA Inter;2.88800
+Configure Soot OA Inter;0.95000
+Successfully applied package: cg;1.86500
+Successfully applied package: wjtp;0.06600
+Time to perform OA Inter;2.88800
+Configure Soot OA Inter;1.15300
+Successfully applied package: cg;1.99300
+Successfully applied package: wjtp;10.11200
+Time to perform OA Inter;13.26400
+Configure Soot OA Inter;1.15700
+Successfully applied package: cg;1.88600
+Successfully applied package: wjtp;24.92400
+Time to perform OA Inter;27.97700
+Configure Soot OA Inter;1.19600
+Successfully applied package: cg;3.87900
+Successfully applied package: wjtp;0.51600
+Time to perform OA Inter;5.59700
+Configure Soot OA Inter;0.64900
+Successfully applied package: cg;1.11400
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;1.79800
+Configure Soot OA Inter;0.91800
+Successfully applied package: cg;1.62300
+Successfully applied package: wjtp;0.07600
+Time to perform OA Inter;2.62500
+Configure Soot OA Inter;0.92600
+Successfully applied package: cg;1.64300
+Successfully applied package: wjtp;0.12600
+Time to perform OA Inter;2.70400
+Configure Soot OA Inter;0.66200
+Successfully applied package: cg;1.15200
+Successfully applied package: wjtp;0.20500
+Time to perform OA Inter;2.02400
+Configure Soot OA Inter;1.26600
+Successfully applied package: cg;3.00700
+Successfully applied package: wjtp;1.01700
+Time to perform OA Inter;5.29800
+Configure Soot OA Inter;0.85000
+Successfully applied package: cg;2.98000
+Successfully applied package: wjtp;1.36400
+Time to perform OA Inter;5.20000
+Configure Soot OA Inter;0.84200
+Successfully applied package: cg;3.21400
+Successfully applied package: wjtp;1.40500
+Time to perform OA Inter;5.46800
+Configure Soot OA Inter;1.25200
+Successfully applied package: cg;3.57800
+Successfully applied package: wjtp;0.93500
+Time to perform OA Inter;5.77200
+Configure Soot OA Inter;0.60400
+Successfully applied package: cg;0.71900
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;1.37200
+Configure Soot OA Inter;0.68700
+Successfully applied package: cg;1.33200
+Successfully applied package: wjtp;0.79900
+Time to perform OA Inter;2.82200
+Configure Soot OA Inter;0.66300
+Successfully applied package: cg;1.06200
+Successfully applied package: wjtp;0.02200
+Time to perform OA Inter;1.75100
+Configure Soot OA Inter;0.66400
+Successfully applied package: cg;1.28100
+Successfully applied package: wjtp;0.87900
+Time to perform OA Inter;2.82900
+Configure Soot OA Inter;0.66500
+Successfully applied package: cg;1.78000
+Successfully applied package: wjtp;0.05200
+Time to perform OA Inter;2.50200
+Configure Soot OA Inter;0.95000
+Successfully applied package: cg;1.59500
+Successfully applied package: wjtp;0.20400
+Time to perform OA Inter;2.75700
+Configure Soot OA Inter;0.95200
+Successfully applied package: cg;1.53200
+Successfully applied package: wjtp;0.19500
+Time to perform OA Inter;2.68600
+Configure Soot OA Inter;0.91800
+Successfully applied package: cg;1.20800
+Successfully applied package: wjtp;0.12300
+Time to perform OA Inter;2.26200
+Configure Soot OA Inter;0.62600
+Successfully applied package: cg;0.65900
+Successfully applied package: wjtp;0.77700
+Time to perform OA Inter;2.06700
+Configure Soot OA Inter;0.97000
+Successfully applied package: cg;1.58700
+Successfully applied package: wjtp;0.10000
+Time to perform OA Inter;2.66300
+Configure Soot OA Inter;1.00600
+Successfully applied package: cg;1.55200
+Successfully applied package: wjtp;0.12000
+Time to perform OA Inter;2.68500
+Configure Soot OA Inter;0.97700
+Successfully applied package: cg;1.57400
+Successfully applied package: wjtp;0.03800
+Time to perform OA Inter;2.60100
+Configure Soot OA Inter;0.99200
+Successfully applied package: cg;1.56900
+Successfully applied package: wjtp;0.08700
+Time to perform OA Inter;2.65300
+Configure Soot OA Inter;0.97600
+Successfully applied package: cg;1.53300
+Successfully applied package: wjtp;0.13500
+Time to perform OA Inter;2.65600
+Configure Soot OA Inter;0.99200
+Successfully applied package: cg;1.50000
+Successfully applied package: wjtp;0.29400
+Time to perform OA Inter;2.79200
+Configure Soot OA Inter;0.98200
+Successfully applied package: cg;1.60600
+Successfully applied package: wjtp;0.23500
+Time to perform OA Inter;2.83700
+Configure Soot OA Inter;0.91600
+Successfully applied package: cg;0.40400
+Successfully applied package: wjtp;0.22900
+Time to perform OA Inter;1.55600
+Configure Soot OA Inter;0.90800
+Successfully applied package: cg;0.38800
+Successfully applied package: wjtp;0.11000
+Time to perform OA Inter;1.41400
+Configure Soot OA Inter;0.90300
+Successfully applied package: cg;0.48000
+Successfully applied package: wjtp;0.13400
+Time to perform OA Inter;1.52800
+Configure Soot OA Inter;0.99200
+Successfully applied package: cg;1.49600
+Successfully applied package: wjtp;0.34000
+Time to perform OA Inter;2.83400
+Configure Soot OA Inter;1.01600
+Successfully applied package: cg;1.53600
+Successfully applied package: wjtp;0.45600
+Time to perform OA Inter;3.01300
+Configure Soot OA Inter;0.99700
+Successfully applied package: cg;1.54900
+Successfully applied package: wjtp;0.10500
+Time to perform OA Inter;2.66100
+Configure Soot OA Inter;0.97600
+Successfully applied package: cg;1.54300
+Successfully applied package: wjtp;0.23300
+Time to perform OA Inter;2.77300
+Configure Soot OA Inter;0.89000
+Successfully applied package: cg;0.32600
+Successfully applied package: wjtp;0.11500
+Time to perform OA Inter;1.34100
+Configure Soot OA Inter;0.97400
+Successfully applied package: cg;1.54400
+Successfully applied package: wjtp;0.15600
+Time to perform OA Inter;2.68300
+Configure Soot OA Inter;1.01000
+Successfully applied package: cg;1.54200
+Successfully applied package: wjtp;0.14300
+Time to perform OA Inter;2.70200
+Configure Soot OA Inter;0.93400
+Successfully applied package: cg;1.07500
+Successfully applied package: wjtp;0.06500
+Time to perform OA Inter;2.08600
+Configure Soot OA Inter;1.35200
+Successfully applied package: cg;0.18000
+Successfully applied package: wjtp;0.46900
+Time to perform OA Inter;2.00700
+Configure Soot OA Inter;1.30300
+Successfully applied package: cg;0.18100
+Successfully applied package: wjtp;0.05800
+Time to perform OA Inter;1.54800
+Configure Soot OA Inter;1.33600
+Successfully applied package: cg;0.18000
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;1.58500
+Configure Soot OA Inter;1.94200
+Successfully applied package: cg;5.84800
+Successfully applied package: wjtp;0.03900
+Time to perform OA Inter;7.83400
+Configure Soot OA Inter;1.29200
+Successfully applied package: cg;4.26100
+Successfully applied package: wjtp;0.07700
+Time to perform OA Inter;5.63400
+Configure Soot OA Inter;1.29000
+Successfully applied package: cg;4.10300
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;5.42600
+Configure Soot OA Inter;1.83200
+Successfully applied package: cg;4.67700
+Successfully applied package: wjtp;0.05900
+Time to perform OA Inter;6.57300
+Configure Soot OA Inter;1.83900
+Successfully applied package: cg;5.24300
+Successfully applied package: wjtp;0.76700
+Time to perform OA Inter;7.86100
+Configure Soot OA Inter;1.30800
+Successfully applied package: cg;5.65700
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;7.01700
+Configure Soot OA Inter;1.28900
+Successfully applied package: cg;4.22200
+Successfully applied package: wjtp;0.02100
+Time to perform OA Inter;5.53600
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;0.94100
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;1.92600
+Configure Soot OA Inter;0.65100
+Successfully applied package: cg;0.77200
+Successfully applied package: wjtp;0.31300
+Time to perform OA Inter;1.74400
+Configure Soot OA Inter;0.63700
+Successfully applied package: cg;0.79700
+Successfully applied package: wjtp;0.41200
+Time to perform OA Inter;1.85100
+Configure Soot OA Inter;0.80300
+Successfully applied package: cg;0.40400
+Successfully applied package: wjtp;0.08900
+Time to perform OA Inter;1.30100
+Configure Soot OA Inter;0.76300
+Successfully applied package: cg;0.41000
+Successfully applied package: wjtp;0.33600
+Time to perform OA Inter;1.51300
+Configure Soot OA Inter;0.81900
+Successfully applied package: cg;2.34800
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;3.22500
+Configure Soot OA Inter;0.72700
+Successfully applied package: cg;1.27600
+Successfully applied package: wjtp;0.03300
+Time to perform OA Inter;2.04000
+Configure Soot OA Inter;0.62700
+Successfully applied package: cg;0.21400
+Successfully applied package: wjtp;0.03200
+Time to perform OA Inter;0.87800
+Configure Soot OA Inter;0.63400
+Successfully applied package: cg;0.53900
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;1.22100
+Configure Soot OA Inter;0.87300
+Successfully applied package: cg;0.29800
+Successfully applied package: wjtp;0.03800
+Time to perform OA Inter;1.21800
+Configure Soot OA Inter;0.87900
+Successfully applied package: cg;0.60600
+Successfully applied package: wjtp;0.03300
+Time to perform OA Inter;1.52700
+Configure Soot OA Inter;1.12000
+Successfully applied package: cg;1.57300
+Successfully applied package: wjtp;0.08400
+Time to perform OA Inter;2.78600
+Configure Soot OA Inter;1.10000
+Successfully applied package: cg;1.33500
+Successfully applied package: wjtp;0.17100
+Time to perform OA Inter;2.61700
+Configure Soot OA Inter;0.92400
+Successfully applied package: cg;1.59300
+Successfully applied package: wjtp;0.13400
+Time to perform OA Inter;2.67400
+Configure Soot OA Inter;0.92200
+Successfully applied package: cg;1.19000
+Successfully applied package: wjtp;0.07100
+Time to perform OA Inter;2.19000
+Configure Soot OA Inter;1.73500
+Successfully applied package: cg;19.16300
+Successfully applied package: wjtp;147.89300
+Time to perform OA Inter;168.82000
+Configure Soot OA Inter;1.65900
+Successfully applied package: cg;17.11500
+Successfully applied package: wjtp;118.24800
+Time to perform OA Inter;137.05200
+Configure Soot OA Inter;1.73800
+Successfully applied package: cg;17.82400
+Successfully applied package: wjtp;82.08800
+Time to perform OA Inter;101.69700
+Configure Soot OA Inter;0.90900
+Successfully applied package: cg;0.70900
+Successfully applied package: wjtp;0.24600
+Time to perform OA Inter;1.87900
+Configure Soot OA Inter;0.88900
+Successfully applied package: cg;0.65700
+Successfully applied package: wjtp;0.18600
+Time to perform OA Inter;1.73800
+Configure Soot OA Inter;0.92200
+Successfully applied package: cg;0.93300
+Successfully applied package: wjtp;0.03900
+Time to perform OA Inter;1.90000
+Configure Soot OA Inter;1.86900
+Successfully applied package: cg;20.50600
+Successfully applied package: wjtp;27.73500
+Time to perform OA Inter;50.13800
+Configure Soot OA Inter;0.90500
+Successfully applied package: cg;0.67900
+Successfully applied package: wjtp;0.21800
+Time to perform OA Inter;1.81300
+Configure Soot OA Inter;0.93500
+Successfully applied package: cg;0.94900
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;1.93300
+Configure Soot OA Inter;0.90200
+Successfully applied package: cg;0.63500
+Successfully applied package: wjtp;0.16100
+Time to perform OA Inter;1.70600
+Configure Soot OA Inter;1.71500
+Successfully applied package: cg;19.74100
+Successfully applied package: wjtp;25.87500
+Time to perform OA Inter;47.35500
+Configure Soot OA Inter;0.74700
+Successfully applied package: cg;0.55700
+Successfully applied package: wjtp;0.17400
+Time to perform OA Inter;1.49000
+Configure Soot OA Inter;1.66500
+Successfully applied package: cg;19.96300
+Successfully applied package: wjtp;0.02200
+Time to perform OA Inter;21.65600
+Configure Soot OA Inter;1.17900
+Successfully applied package: cg;19.16400
+Successfully applied package: wjtp;112.57100
+Time to perform OA Inter;132.94400
+Configure Soot OA Inter;1.65300
+Successfully applied package: cg;18.67000
+Successfully applied package: wjtp;62.28400
+Time to perform OA Inter;82.63700
+Configure Soot OA Inter;0.99100
+Successfully applied package: cg;2.10600
+Successfully applied package: wjtp;5.22500
+Time to perform OA Inter;8.33100
+Configure Soot OA Inter;0.96500
+Successfully applied package: cg;2.38200
+Successfully applied package: wjtp;1.93100
+Time to perform OA Inter;5.28600
+Configure Soot OA Inter;1.08100
+Successfully applied package: cg;3.07800
+Successfully applied package: wjtp;6.27800
+Time to perform OA Inter;10.44700
+Configure Soot OA Inter;0.72600
+Successfully applied package: cg;2.03700
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;2.79500
+Configure Soot OA Inter;1.04000
+Successfully applied package: cg;2.96500
+Successfully applied package: wjtp;1.25500
+Time to perform OA Inter;5.26700
+Configure Soot OA Inter;0.69200
+Successfully applied package: cg;2.64000
+Successfully applied package: wjtp;6.00900
+Time to perform OA Inter;9.35500
+Configure Soot OA Inter;0.63500
+Successfully applied package: cg;0.98400
+Successfully applied package: wjtp;0.36600
+Time to perform OA Inter;1.99000
+Configure Soot OA Inter;0.65000
+Successfully applied package: cg;1.25900
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;1.93900
+Configure Soot OA Inter;0.92700
+Successfully applied package: cg;1.69900
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;2.66200
+Configure Soot OA Inter;0.96300
+Successfully applied package: cg;1.29600
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;2.27000
+Configure Soot OA Inter;0.92900
+Successfully applied package: cg;1.69600
+Successfully applied package: wjtp;0.05800
+Time to perform OA Inter;2.68900
+Configure Soot OA Inter;0.95000
+Successfully applied package: cg;1.75800
+Successfully applied package: wjtp;0.27100
+Time to perform OA Inter;2.98900
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;1.24500
+Successfully applied package: wjtp;0.02800
+Time to perform OA Inter;2.21900
+Configure Soot OA Inter;0.96000
+Successfully applied package: cg;1.70900
+Successfully applied package: wjtp;0.17100
+Time to perform OA Inter;2.84600
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;1.69900
+Successfully applied package: wjtp;0.96900
+Time to perform OA Inter;3.61800
+Configure Soot OA Inter;0.95600
+Successfully applied package: cg;1.59700
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;2.59900
+Configure Soot OA Inter;0.94600
+Successfully applied package: cg;1.71500
+Successfully applied package: wjtp;0.18900
+Time to perform OA Inter;2.86200
+Configure Soot OA Inter;0.94500
+Successfully applied package: cg;1.62700
+Successfully applied package: wjtp;0.31600
+Time to perform OA Inter;2.89500
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;1.22800
+Successfully applied package: wjtp;0.13100
+Time to perform OA Inter;2.28700
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;0.68900
+Successfully applied package: wjtp;0.05400
+Time to perform OA Inter;1.67800
+Configure Soot OA Inter;0.64200
+Successfully applied package: cg;0.63500
+Successfully applied package: wjtp;0.07200
+Time to perform OA Inter;1.35400
+Configure Soot OA Inter;0.93600
+Successfully applied package: cg;0.62000
+Successfully applied package: wjtp;0.26600
+Time to perform OA Inter;1.82800
+Configure Soot OA Inter;0.91200
+Successfully applied package: cg;0.70500
+Successfully applied package: wjtp;0.43300
+Time to perform OA Inter;2.05600
+Configure Soot OA Inter;0.88600
+Successfully applied package: cg;1.13900
+Successfully applied package: wjtp;0.71000
+Time to perform OA Inter;2.74500
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;1.12500
+Successfully applied package: wjtp;0.09700
+Time to perform OA Inter;2.15800
+Configure Soot OA Inter;0.91100
+Successfully applied package: cg;1.15900
+Successfully applied package: wjtp;0.59200
+Time to perform OA Inter;2.66800
+Configure Soot OA Inter;0.89300
+Successfully applied package: cg;1.07100
+Successfully applied package: wjtp;0.18900
+Time to perform OA Inter;2.16000
+Configure Soot OA Inter;0.95200
+Successfully applied package: cg;1.56000
+Successfully applied package: wjtp;0.01600
+Time to perform OA Inter;2.53500
+Configure Soot OA Inter;0.99700
+Successfully applied package: cg;2.23500
+Successfully applied package: wjtp;0.05600
+Time to perform OA Inter;3.29400
+Configure Soot OA Inter;0.88800
+Successfully applied package: cg;0.77500
+Successfully applied package: wjtp;0.08900
+Time to perform OA Inter;1.76100
+Configure Soot OA Inter;0.78400
+Successfully applied package: cg;0.56600
+Successfully applied package: wjtp;0.13700
+Time to perform OA Inter;1.49200
+Configure Soot OA Inter;1.15200
+Successfully applied package: cg;0.85700
+Successfully applied package: wjtp;0.13600
+Time to perform OA Inter;2.15200
+Configure Soot OA Inter;0.98900
+Successfully applied package: cg;2.59200
+Successfully applied package: wjtp;3.17200
+Time to perform OA Inter;6.75800
+Configure Soot OA Inter;0.92100
+Successfully applied package: cg;1.02500
+Successfully applied package: wjtp;0.27400
+Time to perform OA Inter;2.23200
+Configure Soot OA Inter;0.62400
+Successfully applied package: cg;0.46900
+Successfully applied package: wjtp;0.32400
+Time to perform OA Inter;1.42500
+Configure Soot OA Inter;0.89200
+Successfully applied package: cg;0.66500
+Successfully applied package: wjtp;0.10700
+Time to perform OA Inter;1.68200
+Configure Soot OA Inter;0.93800
+Successfully applied package: cg;0.81600
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;1.80600
+Configure Soot OA Inter;0.87000
+Successfully applied package: cg;0.20900
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;1.10800
+Configure Soot OA Inter;0.77900
+Successfully applied package: cg;0.48600
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;1.32400
+Configure Soot OA Inter;0.87100
+Successfully applied package: cg;0.63900
+Successfully applied package: wjtp;0.02000
+Time to perform OA Inter;1.53900
+Configure Soot OA Inter;4.41500
+Configure Soot OA Inter;5.03300
+Configure Soot OA Inter;4.72300
+Configure Soot OA Inter;1.37400
+Successfully applied package: cg;2.68200
+Successfully applied package: wjtp;3.13500
+Time to perform OA Inter;7.20000
+Configure Soot OA Inter;5.31300
+Configure Soot OA Inter;4.88800
+Configure Soot OA Inter;4.81700
+Configure Soot OA Inter;4.56500
+Configure Soot OA Inter;4.40500
+Configure Soot OA Inter;1.01900
+Successfully applied package: cg;12.80100
+Successfully applied package: wjtp;0.29300
+Time to perform OA Inter;14.11800
+Configure Soot OA Inter;0.76000
+Successfully applied package: cg;12.55600
+Successfully applied package: wjtp;0.03500
+Time to perform OA Inter;13.35800
+Configure Soot OA Inter;0.90500
+Successfully applied package: cg;1.79200
+Successfully applied package: wjtp;0.96800
+Time to perform OA Inter;3.74100
+Configure Soot OA Inter;0.75900
+Successfully applied package: cg;0.31000
+Successfully applied package: wjtp;0.85700
+Time to perform OA Inter;1.93100
+Configure Soot OA Inter;0.75300
+Successfully applied package: cg;11.22700
+Successfully applied package: wjtp;0.10600
+Time to perform OA Inter;12.09000
+Configure Soot OA Inter;0.90800
+Successfully applied package: cg;0.77600
+Successfully applied package: wjtp;0.08400
+Time to perform OA Inter;1.77500
+Configure Soot OA Inter;0.73300
+Successfully applied package: cg;4.52900
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;5.28500
+Configure Soot OA Inter;0.66900
+Successfully applied package: cg;4.48900
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;5.17300
+Configure Soot OA Inter;0.73000
+Successfully applied package: cg;4.69100
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;5.44500
+Configure Soot OA Inter;1.03700
+Successfully applied package: cg;5.58700
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.64700
+Configure Soot OA Inter;0.98300
+Successfully applied package: cg;6.44000
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;7.45400
+Configure Soot OA Inter;1.02000
+Successfully applied package: cg;4.97100
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.01400
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;4.66700
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;5.63000
+Configure Soot OA Inter;0.71300
+Successfully applied package: cg;4.55100
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;5.28600
+Configure Soot OA Inter;0.70900
+Successfully applied package: cg;5.24300
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;5.96700
+Configure Soot OA Inter;0.68400
+Successfully applied package: cg;5.81200
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.51800
+Configure Soot OA Inter;0.80300
+Successfully applied package: cg;4.43800
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;5.26400
+Configure Soot OA Inter;0.67500
+Successfully applied package: cg;4.46500
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;5.15400
+Configure Soot OA Inter;1.00800
+Successfully applied package: cg;5.43500
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.46600
+Configure Soot OA Inter;0.93700
+Successfully applied package: cg;5.84300
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.80100
+Configure Soot OA Inter;0.67400
+Successfully applied package: cg;5.57800
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.27600
+Configure Soot OA Inter;1.04600
+Successfully applied package: cg;3.04600
+Successfully applied package: wjtp;0.04600
+Time to perform OA Inter;4.14700
+Configure Soot OA Inter;0.89000
+Successfully applied package: cg;0.91400
+Successfully applied package: wjtp;0.16900
+Time to perform OA Inter;1.98100
+Configure Soot OA Inter;0.61200
+Successfully applied package: cg;0.76700
+Successfully applied package: wjtp;0.14200
+Time to perform OA Inter;1.52600
+Configure Soot OA Inter;0.62800
+Successfully applied package: cg;0.78300
+Successfully applied package: wjtp;0.00700
+Time to perform OA Inter;1.42200
+Configure Soot OA Inter;0.63300
+Successfully applied package: cg;0.81700
+Successfully applied package: wjtp;0.29000
+Time to perform OA Inter;1.74600
+Configure Soot OA Inter;0.64600
+Successfully applied package: cg;0.65100
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;1.33000
+Configure Soot OA Inter;0.62900
+Successfully applied package: cg;0.64800
+Successfully applied package: wjtp;0.16500
+Time to perform OA Inter;1.44700
+Configure Soot OA Inter;1.67600
+Successfully applied package: cg;14.30600
+Successfully applied package: wjtp;0.59800
+Time to perform OA Inter;16.60400
+Configure Soot OA Inter;0.63200
+Successfully applied package: cg;0.48500
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;1.16900
+Configure Soot OA Inter;0.62200
+Successfully applied package: cg;0.49400
+Successfully applied package: wjtp;0.03100
+Time to perform OA Inter;1.18200
+Configure Soot OA Inter;0.61400
+Successfully applied package: cg;0.67600
+Successfully applied package: wjtp;0.01500
+Time to perform OA Inter;1.31000
+Configure Soot OA Inter;0.64300
+Successfully applied package: cg;0.66600
+Successfully applied package: wjtp;0.01400
+Time to perform OA Inter;1.32900
+Configure Soot OA Inter;0.61600
+Successfully applied package: cg;0.55500
+Successfully applied package: wjtp;0.03400
+Time to perform OA Inter;1.21400
+Configure Soot OA Inter;0.89100
+Successfully applied package: cg;0.81000
+Successfully applied package: wjtp;0.02400
+Time to perform OA Inter;1.73600
+Configure Soot OA Inter;0.90500
+Successfully applied package: cg;0.80700
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;1.76900
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;0.66100
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;1.62200
+Configure Soot OA Inter;0.91100
+Successfully applied package: cg;0.75100
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;1.69300
+Configure Soot OA Inter;0.90700
+Successfully applied package: cg;0.55500
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;1.50100
+Configure Soot OA Inter;0.91800
+Successfully applied package: cg;0.36600
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;1.34300
+Configure Soot OA Inter;0.96500
+Successfully applied package: cg;0.63800
+Successfully applied package: wjtp;0.16800
+Time to perform OA Inter;1.77700
+Configure Soot OA Inter;0.92100
+Successfully applied package: cg;0.61700
+Successfully applied package: wjtp;0.16000
+Time to perform OA Inter;1.70400
+Configure Soot OA Inter;0.93800
+Successfully applied package: cg;0.47800
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.43200
+Configure Soot OA Inter;0.95000
+Successfully applied package: cg;1.16900
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;2.15100
+Configure Soot OA Inter;0.94600
+Successfully applied package: cg;1.14100
+Successfully applied package: wjtp;0.02100
+Time to perform OA Inter;2.11300
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;0.51900
+Successfully applied package: wjtp;0.93400
+Time to perform OA Inter;2.39900
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;0.72200
+Successfully applied package: wjtp;0.17400
+Time to perform OA Inter;1.80700
+Configure Soot OA Inter;1.00100
+Successfully applied package: cg;2.40700
+Successfully applied package: wjtp;0.86300
+Time to perform OA Inter;4.27700
+Configure Soot OA Inter;1.00200
+Successfully applied package: cg;2.38400
+Successfully applied package: wjtp;0.74300
+Time to perform OA Inter;4.13600
+Configure Soot OA Inter;0.82500
+Successfully applied package: cg;3.17000
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;4.05200
+Configure Soot OA Inter;1.09400
+Successfully applied package: cg;3.90100
+Successfully applied package: wjtp;0.03000
+Time to perform OA Inter;5.03200
+Configure Soot OA Inter;1.16600
+Successfully applied package: cg;3.34900
+Successfully applied package: wjtp;3.80500
+Time to perform OA Inter;8.34400
+Configure Soot OA Inter;0.81900
+Successfully applied package: cg;5.74900
+Successfully applied package: wjtp;16.64600
+Time to perform OA Inter;23.22100
+Configure Soot OA Inter;1.17900
+Successfully applied package: cg;4.17600
+Successfully applied package: wjtp;0.88800
+Time to perform OA Inter;6.24900
+Configure Soot OA Inter;0.81500
+Successfully applied package: cg;3.49800
+Successfully applied package: wjtp;4.49700
+Time to perform OA Inter;8.85700
+Configure Soot OA Inter;1.21400
+Successfully applied package: cg;3.72300
+Successfully applied package: wjtp;0.09400
+Time to perform OA Inter;5.04200
+Configure Soot OA Inter;1.18500
+Successfully applied package: cg;3.23600
+Successfully applied package: wjtp;0.28500
+Time to perform OA Inter;4.71300
+Configure Soot OA Inter;0.80800
+Successfully applied package: cg;4.02100
+Successfully applied package: wjtp;0.56300
+Time to perform OA Inter;5.43100
+Configure Soot OA Inter;0.80300
+Successfully applied package: cg;2.97400
+Successfully applied package: wjtp;0.91200
+Time to perform OA Inter;4.70700
+Configure Soot OA Inter;0.64300
+Successfully applied package: cg;0.72100
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;1.38700
+Configure Soot OA Inter;0.69900
+Successfully applied package: cg;2.93100
+Successfully applied package: wjtp;0.09800
+Time to perform OA Inter;3.73600
+Configure Soot OA Inter;0.86300
+Successfully applied package: cg;0.32000
+Successfully applied package: wjtp;0.27300
+Time to perform OA Inter;1.46500
+Configure Soot OA Inter;5.45600
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;0.63600
+Successfully applied package: wjtp;0.13000
+Time to perform OA Inter;1.70500
+Configure Soot OA Inter;0.91700
+Successfully applied package: cg;0.62600
+Successfully applied package: wjtp;0.16600
+Time to perform OA Inter;1.71500
+Configure Soot OA Inter;1.05900
+Successfully applied package: cg;3.15500
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;4.23800
+Configure Soot OA Inter;0.73900
+Successfully applied package: cg;1.91300
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;2.71000
+Configure Soot OA Inter;1.07200
+Successfully applied package: cg;5.42700
+Successfully applied package: wjtp;16.81200
+Time to perform OA Inter;23.31800
+Configure Soot OA Inter;0.62200
+Successfully applied package: cg;0.76500
+Successfully applied package: wjtp;0.01300
+Time to perform OA Inter;1.40700
+Configure Soot OA Inter;1.06500
+Successfully applied package: cg;0.45600
+Successfully applied package: wjtp;0.03900
+Time to perform OA Inter;1.56600
+Configure Soot OA Inter;1.91700
+Successfully applied package: cg;121.13500
+Configure Soot OA Inter;2.85800
+Successfully applied package: cg;122.33700
+Configure Soot OA Inter;0.84000
+Successfully applied package: cg;0.18200
+Successfully applied package: wjtp;0.14900
+Time to perform OA Inter;1.17800
+Configure Soot OA Inter;0.95300
+Successfully applied package: cg;0.28300
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;1.28600
+Configure Soot OA Inter;0.91000
+Successfully applied package: cg;0.85200
+Successfully applied package: wjtp;0.22500
+Time to perform OA Inter;1.99500
+Configure Soot OA Inter;0.88900
+Successfully applied package: cg;0.90900
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;1.83200
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;0.80600
+Successfully applied package: wjtp;0.34600
+Time to perform OA Inter;2.08100
+Configure Soot OA Inter;0.93900
+Successfully applied package: cg;1.22000
+Successfully applied package: wjtp;0.03500
+Time to perform OA Inter;2.20400
+Configure Soot OA Inter;4.00000
+Configure Soot OA Inter;1.19600
+Successfully applied package: cg;0.89600
+Successfully applied package: wjtp;0.20400
+Time to perform OA Inter;2.30200
+Configure Soot OA Inter;1.17400
+Successfully applied package: cg;0.82700
+Successfully applied package: wjtp;0.20500
+Time to perform OA Inter;2.21200
+Configure Soot OA Inter;0.98700
+Successfully applied package: cg;1.03400
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;2.06700
+Configure Soot OA Inter;1.17200
+Successfully applied package: cg;3.33300
+Successfully applied package: wjtp;0.61600
+Time to perform OA Inter;5.13000
+Configure Soot OA Inter;1.07800
+Successfully applied package: cg;1.02000
+Successfully applied package: wjtp;0.07600
+Time to perform OA Inter;2.18100
+Configure Soot OA Inter;0.90200
+Successfully applied package: cg;0.68100
+Successfully applied package: wjtp;0.07000
+Time to perform OA Inter;1.66900
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;0.95100
+Successfully applied package: wjtp;2.59900
+Time to perform OA Inter;4.46400
+Configure Soot OA Inter;0.88800
+Successfully applied package: cg;0.89600
+Successfully applied package: wjtp;1.65400
+Time to perform OA Inter;3.45300
+Configure Soot OA Inter;0.79800
+Successfully applied package: cg;0.95200
+Successfully applied package: wjtp;2.32500
+Time to perform OA Inter;4.08900
+Configure Soot OA Inter;0.63700
+Successfully applied package: cg;0.50700
+Successfully applied package: wjtp;0.13900
+Time to perform OA Inter;1.28700
+Configure Soot OA Inter;1.04400
+Successfully applied package: cg;2.17900
+Successfully applied package: wjtp;1.38600
+Time to perform OA Inter;4.61800
+Configure Soot OA Inter;0.61600
+Successfully applied package: cg;1.43600
+Successfully applied package: wjtp;0.14300
+Time to perform OA Inter;2.21000
+Configure Soot OA Inter;1.11800
+Successfully applied package: cg;4.15700
+Successfully applied package: wjtp;0.01300
+Time to perform OA Inter;5.29300
+Configure Soot OA Inter;0.97300
+Successfully applied package: cg;2.25300
+Successfully applied package: wjtp;0.10600
+Time to perform OA Inter;3.33700
+Configure Soot OA Inter;1.24600
+Successfully applied package: cg;1.67500
+Successfully applied package: wjtp;0.05500
+Time to perform OA Inter;2.98100
+Configure Soot OA Inter;1.55000
+Successfully applied package: cg;2.15300
+Successfully applied package: wjtp;0.05900
+Time to perform OA Inter;3.76800
+Configure Soot OA Inter;1.40000
+Successfully applied package: cg;1.75500
+Successfully applied package: wjtp;0.03200
+Time to perform OA Inter;3.19100
+Configure Soot OA Inter;0.94900
+Successfully applied package: cg;1.67000
+Successfully applied package: wjtp;0.03200
+Time to perform OA Inter;2.66400
+Configure Soot OA Inter;1.45800
+Successfully applied package: cg;1.77600
+Successfully applied package: wjtp;0.02400
+Time to perform OA Inter;3.26500
+Configure Soot OA Inter;0.98500
+Successfully applied package: cg;2.65500
+Successfully applied package: wjtp;1.33000
+Time to perform OA Inter;4.97600
+Configure Soot OA Inter;0.68600
+Successfully applied package: cg;1.04100
+Successfully applied package: wjtp;0.01600
+Time to perform OA Inter;1.74800
+Configure Soot OA Inter;0.94100
+Successfully applied package: cg;1.13300
+Successfully applied package: wjtp;0.25600
+Time to perform OA Inter;2.33600
+Configure Soot OA Inter;1.25700
+Successfully applied package: cg;1.55400
+Successfully applied package: wjtp;0.25200
+Time to perform OA Inter;3.07000
+Configure Soot OA Inter;0.75900
+Successfully applied package: cg;1.71200
+Successfully applied package: wjtp;0.09400
+Time to perform OA Inter;2.56900
+Configure Soot OA Inter;1.24300
+Successfully applied package: cg;1.65100
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;2.94000
+Configure Soot OA Inter;1.01900
+Successfully applied package: cg;3.24900
+Successfully applied package: wjtp;0.07400
+Time to perform OA Inter;4.34900
+Configure Soot OA Inter;1.05900
+Successfully applied package: cg;2.70000
+Successfully applied package: wjtp;4.30300
+Time to perform OA Inter;8.08100
+Configure Soot OA Inter;0.90400
+Successfully applied package: cg;1.45200
+Successfully applied package: wjtp;0.22200
+Time to perform OA Inter;2.59900
+Configure Soot OA Inter;1.18700
+Successfully applied package: cg;5.85300
+Successfully applied package: wjtp;232.39700
+Time to perform OA Inter;239.45300
+Configure Soot OA Inter;1.60000
+Successfully applied package: cg;9.64400
+Configure Soot OA Inter;1.19800
+Successfully applied package: cg;6.54400
+Successfully applied package: wjtp;1.82600
+Time to perform OA Inter;9.57300
+Configure Soot OA Inter;0.65600
+Successfully applied package: cg;0.17000
+Successfully applied package: wjtp;0.85000
+Time to perform OA Inter;1.68100
+Configure Soot OA Inter;0.84000
+Successfully applied package: cg;0.24700
+Successfully applied package: wjtp;0.93800
+Time to perform OA Inter;2.03300
+Configure Soot OA Inter;0.67200
+Successfully applied package: cg;0.16700
+Successfully applied package: wjtp;0.91100
+Time to perform OA Inter;1.75500
+Configure Soot OA Inter;0.61100
+Successfully applied package: cg;0.11400
+Successfully applied package: wjtp;0.17400
+Time to perform OA Inter;0.90300
+Configure Soot OA Inter;0.64500
+Successfully applied package: cg;0.81500
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;1.50700
+Configure Soot OA Inter;0.88000
+Successfully applied package: cg;0.26100
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.19600
+Configure Soot OA Inter;0.61100
+Successfully applied package: cg;0.18000
+Successfully applied package: wjtp;0.03800
+Time to perform OA Inter;0.83400
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.61200
+Successfully applied package: wjtp;0.37000
+Time to perform OA Inter;1.61100
+Configure Soot OA Inter;0.99500
+Successfully applied package: cg;2.17600
+Successfully applied package: wjtp;0.22100
+Time to perform OA Inter;3.46600
+Configure Soot OA Inter;0.88600
+Successfully applied package: cg;2.23100
+Successfully applied package: wjtp;0.28600
+Time to perform OA Inter;3.45900
+Configure Soot OA Inter;1.02900
+Successfully applied package: cg;2.24300
+Successfully applied package: wjtp;0.16400
+Time to perform OA Inter;3.44300
+Configure Soot OA Inter;0.61600
+Successfully applied package: cg;0.40500
+Successfully applied package: wjtp;0.02000
+Time to perform OA Inter;1.04600
+Configure Soot OA Inter;1.24300
+Successfully applied package: cg;1.46600
+Successfully applied package: wjtp;0.01100
+Time to perform OA Inter;2.72600
+Configure Soot OA Inter;1.16000
+Successfully applied package: cg;1.46000
+Successfully applied package: wjtp;0.10400
+Time to perform OA Inter;2.72900
+Configure Soot OA Inter;1.31400
+Successfully applied package: cg;1.45200
+Successfully applied package: wjtp;0.10000
+Time to perform OA Inter;2.87500
+Configure Soot OA Inter;1.16100
+Successfully applied package: cg;0.82000
+Successfully applied package: wjtp;0.09700
+Time to perform OA Inter;2.08300
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;0.72700
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.64100
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;0.77000
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.68600
+Configure Soot OA Inter;0.93900
+Successfully applied package: cg;0.76700
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.72100
+Configure Soot OA Inter;0.93600
+Successfully applied package: cg;0.76800
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.71900
+Configure Soot OA Inter;1.07200
+Successfully applied package: cg;0.51600
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;1.60400
+Configure Soot OA Inter;0.90200
+Successfully applied package: cg;0.61500
+Successfully applied package: wjtp;0.11600
+Time to perform OA Inter;1.64300
+Configure Soot OA Inter;0.88600
+Successfully applied package: cg;0.60800
+Successfully applied package: wjtp;0.11500
+Time to perform OA Inter;1.61800
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;0.59800
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;1.56400
+Configure Soot OA Inter;0.90100
+Successfully applied package: cg;0.59200
+Successfully applied package: wjtp;0.03500
+Time to perform OA Inter;1.53400
+Configure Soot OA Inter;0.90800
+Successfully applied package: cg;0.44000
+Successfully applied package: wjtp;0.00800
+Time to perform OA Inter;1.36200
+Configure Soot OA Inter;0.88400
+Successfully applied package: cg;0.44100
+Successfully applied package: wjtp;0.00800
+Time to perform OA Inter;1.33900
+Configure Soot OA Inter;0.89300
+Successfully applied package: cg;0.43500
+Successfully applied package: wjtp;0.00800
+Time to perform OA Inter;1.34200
+Configure Soot OA Inter;0.91100
+Successfully applied package: cg;0.69300
+Successfully applied package: wjtp;0.03800
+Time to perform OA Inter;1.65200
+Configure Soot OA Inter;0.92700
+Successfully applied package: cg;1.42400
+Successfully applied package: wjtp;0.68300
+Time to perform OA Inter;3.04000
+Configure Soot OA Inter;0.91000
+Successfully applied package: cg;0.65300
+Successfully applied package: wjtp;0.02800
+Time to perform OA Inter;1.59700
+Configure Soot OA Inter;0.62800
+Successfully applied package: cg;0.36200
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;1.00000
+Configure Soot OA Inter;0.94400
+Successfully applied package: cg;1.25300
+Successfully applied package: wjtp;1.61600
+Time to perform OA Inter;3.81900
+Configure Soot OA Inter;0.88400
+Successfully applied package: cg;0.65400
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;1.58700
+Configure Soot OA Inter;0.74800
+Successfully applied package: cg;0.35700
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;1.11500
+Configure Soot OA Inter;0.87700
+Successfully applied package: cg;0.56400
+Successfully applied package: wjtp;0.03600
+Time to perform OA Inter;1.48400
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.47200
+Successfully applied package: wjtp;0.07600
+Time to perform OA Inter;1.17300
+Configure Soot OA Inter;0.65700
+Successfully applied package: cg;1.32200
+Successfully applied package: wjtp;0.21200
+Time to perform OA Inter;2.19600
+Configure Soot OA Inter;0.88400
+Successfully applied package: cg;0.68400
+Successfully applied package: wjtp;0.06700
+Time to perform OA Inter;1.64100
+Configure Soot OA Inter;0.95600
+Successfully applied package: cg;1.86400
+Successfully applied package: wjtp;0.67000
+Time to perform OA Inter;3.49600
+Configure Soot OA Inter;0.90500
+Successfully applied package: cg;1.48500
+Successfully applied package: wjtp;0.40900
+Time to perform OA Inter;2.80500
+Configure Soot OA Inter;0.66100
+Successfully applied package: cg;0.75600
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;1.44400
+Configure Soot OA Inter;0.65000
+Successfully applied package: cg;0.75000
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;1.45100
+Configure Soot OA Inter;10.83700
+Configure Soot OA Inter;11.81600
+Configure Soot OA Inter;0.68200
+Successfully applied package: cg;0.40300
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.14100
+Configure Soot OA Inter;1.79600
+Successfully applied package: cg;5.94400
+Successfully applied package: wjtp;7.26100
+Time to perform OA Inter;15.00900
+Configure Soot OA Inter;1.08200
+Successfully applied package: cg;4.67600
+Successfully applied package: wjtp;0.11500
+Time to perform OA Inter;5.88000
+Configure Soot OA Inter;1.08100
+Successfully applied package: cg;4.80700
+Successfully applied package: wjtp;0.32700
+Time to perform OA Inter;6.22000
+Configure Soot OA Inter;1.61800
+Successfully applied package: cg;5.53000
+Successfully applied package: wjtp;6.07300
+Time to perform OA Inter;13.22700
+Configure Soot OA Inter;1.58300
+Successfully applied package: cg;4.79200
+Successfully applied package: wjtp;5.77500
+Time to perform OA Inter;12.15500
+Configure Soot OA Inter;1.07900
+Successfully applied package: cg;4.71100
+Successfully applied package: wjtp;3.84400
+Time to perform OA Inter;9.63800
+Configure Soot OA Inter;1.07400
+Successfully applied package: cg;5.02000
+Successfully applied package: wjtp;0.05400
+Time to perform OA Inter;6.15200
+Configure Soot OA Inter;1.03300
+Successfully applied package: cg;4.44900
+Successfully applied package: wjtp;4.42200
+Time to perform OA Inter;9.91000
+Configure Soot OA Inter;1.04900
+Successfully applied package: cg;5.18100
+Successfully applied package: wjtp;37.86100
+Time to perform OA Inter;44.13600
+Configure Soot OA Inter;1.07000
+Successfully applied package: cg;0.70600
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;1.82700
+Configure Soot OA Inter;0.94300
+Successfully applied package: cg;8.55600
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;9.52900
+Configure Soot OA Inter;0.96100
+Successfully applied package: cg;7.39700
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;8.42700
+Configure Soot OA Inter;1.06500
+Successfully applied package: cg;4.65600
+Successfully applied package: wjtp;0.44100
+Time to perform OA Inter;6.16900
+Configure Soot OA Inter;1.17300
+Successfully applied package: cg;6.09100
+Successfully applied package: wjtp;0.07100
+Time to perform OA Inter;7.34200
+Configure Soot OA Inter;1.44400
+Successfully applied package: cg;6.60900
+Successfully applied package: wjtp;6.30600
+Time to perform OA Inter;14.36600
+Configure Soot OA Inter;1.24100
+Successfully applied package: cg;4.31000
+Successfully applied package: wjtp;21.18100
+Time to perform OA Inter;26.75800
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;0.90500
+Successfully applied package: wjtp;0.09900
+Time to perform OA Inter;1.94400
+Configure Soot OA Inter;0.63500
+Successfully applied package: cg;0.67500
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;1.34000
+Configure Soot OA Inter;1.11500
+Successfully applied package: cg;0.18400
+Successfully applied package: wjtp;0.34400
+Time to perform OA Inter;1.64900
+Configure Soot OA Inter;1.12100
+Successfully applied package: cg;0.18500
+Successfully applied package: wjtp;0.41700
+Time to perform OA Inter;1.72800
+Configure Soot OA Inter;1.24600
+Successfully applied package: cg;9.39500
+Successfully applied package: wjtp;0.13500
+Time to perform OA Inter;10.79200
+Configure Soot OA Inter;0.95100
+Successfully applied package: cg;8.71700
+Successfully applied package: wjtp;0.10900
+Time to perform OA Inter;9.79300
+Configure Soot OA Inter;1.37000
+Successfully applied package: cg;8.24300
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;9.65200
+Configure Soot OA Inter;0.87700
+Successfully applied package: cg;2.01500
+Successfully applied package: wjtp;0.03400
+Time to perform OA Inter;2.93100
+Configure Soot OA Inter;0.91000
+Successfully applied package: cg;1.30800
+Successfully applied package: wjtp;0.44300
+Time to perform OA Inter;2.66900
+Configure Soot OA Inter;1.27300
+Successfully applied package: cg;9.00900
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;10.33700
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.92100
+Successfully applied package: wjtp;0.25000
+Time to perform OA Inter;1.79600
+Configure Soot OA Inter;0.63100
+Successfully applied package: cg;0.90200
+Successfully applied package: wjtp;0.64100
+Time to perform OA Inter;2.17900
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.90400
+Successfully applied package: wjtp;1.52700
+Time to perform OA Inter;3.05500
+Configure Soot OA Inter;0.64700
+Successfully applied package: cg;0.94900
+Successfully applied package: wjtp;0.50900
+Time to perform OA Inter;2.11000
+Configure Soot OA Inter;0.61800
+Successfully applied package: cg;0.91100
+Successfully applied package: wjtp;0.23700
+Time to perform OA Inter;1.77100
+Configure Soot OA Inter;1.31200
+Successfully applied package: cg;6.02900
+Successfully applied package: wjtp;0.06500
+Time to perform OA Inter;7.41500
+Configure Soot OA Inter;0.63000
+Successfully applied package: cg;0.76600
+Successfully applied package: wjtp;0.23800
+Time to perform OA Inter;1.64000
+Configure Soot OA Inter;1.21700
+Successfully applied package: cg;1.37300
+Successfully applied package: wjtp;0.21200
+Time to perform OA Inter;2.80700
+Configure Soot OA Inter;0.71100
+Successfully applied package: cg;0.58000
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;1.32700
+Configure Soot OA Inter;0.72000
+Successfully applied package: cg;0.77400
+Successfully applied package: wjtp;0.04600
+Time to perform OA Inter;1.55200
+Configure Soot OA Inter;0.60300
+Successfully applied package: cg;0.72500
+Successfully applied package: wjtp;1.32700
+Time to perform OA Inter;2.66000
+Configure Soot OA Inter;0.99100
+Successfully applied package: cg;0.18400
+Successfully applied package: wjtp;0.14900
+Time to perform OA Inter;1.33600
+Configure Soot OA Inter;0.64600
+Successfully applied package: cg;0.13000
+Successfully applied package: wjtp;0.41500
+Time to perform OA Inter;1.19600
+Configure Soot OA Inter;0.99400
+Successfully applied package: cg;4.60100
+Successfully applied package: wjtp;0.28900
+Time to perform OA Inter;5.89300
+Configure Soot OA Inter;0.98100
+Successfully applied package: cg;2.17400
+Successfully applied package: wjtp;0.70400
+Time to perform OA Inter;3.88800
+Configure Soot OA Inter;0.97100
+Successfully applied package: cg;1.95800
+Successfully applied package: wjtp;0.47900
+Time to perform OA Inter;3.41300
+Configure Soot OA Inter;5.59600
+Configure Soot OA Inter;0.97700
+Successfully applied package: cg;2.10700
+Successfully applied package: wjtp;0.14700
+Time to perform OA Inter;3.23900
+Configure Soot OA Inter;0.96700
+Successfully applied package: cg;2.49000
+Successfully applied package: wjtp;0.31100
+Time to perform OA Inter;3.77700
+Configure Soot OA Inter;6.32600
+Configure Soot OA Inter;0.97000
+Successfully applied package: cg;2.02900
+Successfully applied package: wjtp;0.39200
+Time to perform OA Inter;3.40000
+Configure Soot OA Inter;0.66800
+Successfully applied package: cg;2.40700
+Successfully applied package: wjtp;0.73900
+Time to perform OA Inter;3.82300
+Configure Soot OA Inter;0.65200
+Successfully applied package: cg;1.72600
+Successfully applied package: wjtp;0.48000
+Time to perform OA Inter;2.86500
+Configure Soot OA Inter;0.65400
+Successfully applied package: cg;2.42000
+Successfully applied package: wjtp;0.57800
+Time to perform OA Inter;3.66000
+Configure Soot OA Inter;0.67900
+Successfully applied package: cg;2.26200
+Successfully applied package: wjtp;0.32400
+Time to perform OA Inter;3.27300
+Configure Soot OA Inter;0.97100
+Successfully applied package: cg;2.46500
+Successfully applied package: wjtp;0.56700
+Time to perform OA Inter;4.01200
+Configure Soot OA Inter;0.76000
+Successfully applied package: cg;1.72300
+Successfully applied package: wjtp;0.25300
+Time to perform OA Inter;2.74400
+Configure Soot OA Inter;0.98800
+Successfully applied package: cg;2.47500
+Successfully applied package: wjtp;0.14900
+Time to perform OA Inter;3.61800
+Configure Soot OA Inter;0.92900
+Successfully applied package: cg;1.73800
+Successfully applied package: wjtp;0.30600
+Time to perform OA Inter;2.98100
+Configure Soot OA Inter;0.65900
+Successfully applied package: cg;1.67500
+Successfully applied package: wjtp;0.92000
+Time to perform OA Inter;3.26300
+Configure Soot OA Inter;0.65300
+Successfully applied package: cg;2.43300
+Successfully applied package: wjtp;0.82500
+Time to perform OA Inter;3.91900
+Configure Soot OA Inter;0.95400
+Successfully applied package: cg;2.48800
+Successfully applied package: wjtp;0.18200
+Time to perform OA Inter;3.63300
+Configure Soot OA Inter;0.66000
+Successfully applied package: cg;2.10400
+Successfully applied package: wjtp;0.13800
+Time to perform OA Inter;2.91000
+Configure Soot OA Inter;0.69400
+Successfully applied package: cg;2.48400
+Successfully applied package: wjtp;1.13600
+Time to perform OA Inter;4.32600
+Configure Soot OA Inter;0.69300
+Successfully applied package: cg;1.95000
+Successfully applied package: wjtp;0.85100
+Time to perform OA Inter;3.50200
+Configure Soot OA Inter;0.96100
+Successfully applied package: cg;2.49300
+Successfully applied package: wjtp;0.43900
+Time to perform OA Inter;3.90200
+Configure Soot OA Inter;0.86700
+Successfully applied package: cg;2.47800
+Successfully applied package: wjtp;0.11000
+Time to perform OA Inter;3.46300
+Configure Soot OA Inter;0.97500
+Successfully applied package: cg;2.30700
+Successfully applied package: wjtp;0.27500
+Time to perform OA Inter;3.56300
+Configure Soot OA Inter;0.63400
+Successfully applied package: cg;0.96400
+Successfully applied package: wjtp;0.15600
+Time to perform OA Inter;1.76100
+Configure Soot OA Inter;0.64100
+Successfully applied package: cg;1.72400
+Successfully applied package: wjtp;0.35900
+Time to perform OA Inter;2.73100
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;1.44000
+Successfully applied package: wjtp;0.14700
+Time to perform OA Inter;2.52600
+Configure Soot OA Inter;0.92400
+Successfully applied package: cg;1.08600
+Successfully applied package: wjtp;1.79000
+Time to perform OA Inter;3.84000
+Configure Soot OA Inter;1.10900
+Successfully applied package: cg;5.66500
+Successfully applied package: wjtp;0.08100
+Time to perform OA Inter;6.86300
+Configure Soot OA Inter;0.80500
+Successfully applied package: cg;1.25000
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;2.12300
+Configure Soot OA Inter;0.89000
+Successfully applied package: cg;0.94400
+Successfully applied package: wjtp;0.07000
+Time to perform OA Inter;1.91400
+Configure Soot OA Inter;0.89300
+Successfully applied package: cg;1.03600
+Successfully applied package: wjtp;0.05500
+Time to perform OA Inter;1.99500
+Configure Soot OA Inter;0.86400
+Successfully applied package: cg;0.93200
+Successfully applied package: wjtp;0.09600
+Time to perform OA Inter;1.90200
+Configure Soot OA Inter;0.62300
+Successfully applied package: cg;0.75900
+Successfully applied package: wjtp;0.08000
+Time to perform OA Inter;1.46600
+Configure Soot OA Inter;0.88300
+Successfully applied package: cg;0.74800
+Successfully applied package: wjtp;0.05500
+Time to perform OA Inter;1.69200
+Configure Soot OA Inter;0.90600
+Successfully applied package: cg;0.85000
+Successfully applied package: wjtp;3.26100
+Time to perform OA Inter;5.07800
+Configure Soot OA Inter;0.89600
+Successfully applied package: cg;0.84700
+Successfully applied package: wjtp;2.02100
+Time to perform OA Inter;3.77700
+Configure Soot OA Inter;0.90100
+Successfully applied package: cg;0.83800
+Successfully applied package: wjtp;0.10500
+Time to perform OA Inter;1.85900
+Configure Soot OA Inter;0.61400
+Successfully applied package: cg;0.58600
+Successfully applied package: wjtp;0.21900
+Time to perform OA Inter;1.42400
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;1.12000
+Successfully applied package: wjtp;0.22300
+Time to perform OA Inter;2.24900
+Configure Soot OA Inter;0.89300
+Successfully applied package: cg;0.72300
+Successfully applied package: wjtp;0.11700
+Time to perform OA Inter;1.74200
+Configure Soot OA Inter;0.62200
+Successfully applied package: cg;0.94800
+Successfully applied package: wjtp;0.25500
+Time to perform OA Inter;1.83400
+Configure Soot OA Inter;1.10200
+Successfully applied package: cg;0.87200
+Successfully applied package: wjtp;0.08600
+Time to perform OA Inter;2.07000
+Configure Soot OA Inter;1.04600
+Successfully applied package: cg;2.42800
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;3.50400
+Configure Soot OA Inter;0.79200
+Successfully applied package: cg;2.48300
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;3.29800
+Configure Soot OA Inter;0.85600
+Successfully applied package: cg;3.74800
+Successfully applied package: wjtp;5.28100
+Time to perform OA Inter;9.89000
+Configure Soot OA Inter;0.74800
+Successfully applied package: cg;0.43600
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;1.23700
+Configure Soot OA Inter;1.26400
+Successfully applied package: cg;3.92700
+Successfully applied package: wjtp;1.02800
+Time to perform OA Inter;6.22700
+Configure Soot OA Inter;1.02100
+Successfully applied package: cg;1.87100
+Successfully applied package: wjtp;0.03100
+Time to perform OA Inter;2.92800
+Configure Soot OA Inter;0.88800
+Successfully applied package: cg;0.86000
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;1.77300
+Configure Soot OA Inter;0.83400
+Successfully applied package: cg;2.30200
+Successfully applied package: wjtp;0.62100
+Time to perform OA Inter;3.76500
+Configure Soot OA Inter;1.21900
+Successfully applied package: cg;2.66500
+Successfully applied package: wjtp;2.38300
+Time to perform OA Inter;6.27300
+Configure Soot OA Inter;0.83200
+Successfully applied package: cg;2.40100
+Successfully applied package: wjtp;2.88000
+Time to perform OA Inter;6.11800
+Configure Soot OA Inter;1.20800
+Successfully applied package: cg;2.58100
+Successfully applied package: wjtp;0.15000
+Time to perform OA Inter;3.94500
+Configure Soot OA Inter;1.20800
+Successfully applied package: cg;1.98600
+Successfully applied package: wjtp;0.93200
+Time to perform OA Inter;4.13100
+Configure Soot OA Inter;0.85000
+Successfully applied package: cg;2.39100
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;3.29400
+Configure Soot OA Inter;1.21200
+Successfully applied package: cg;2.50000
+Successfully applied package: wjtp;0.41900
+Time to perform OA Inter;4.13800
+Configure Soot OA Inter;1.10500
+Successfully applied package: cg;2.17000
+Successfully applied package: wjtp;0.05700
+Time to perform OA Inter;3.33800
+Configure Soot OA Inter;0.65500
+Successfully applied package: cg;0.64800
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;1.36200
+Configure Soot OA Inter;0.83600
+Successfully applied package: cg;2.52200
+Successfully applied package: wjtp;1.88900
+Time to perform OA Inter;5.25500
+Configure Soot OA Inter;0.89900
+Successfully applied package: cg;2.42300
+Successfully applied package: wjtp;0.88000
+Time to perform OA Inter;4.21100
+Configure Soot OA Inter;0.82400
+Successfully applied package: cg;2.52200
+Successfully applied package: wjtp;16.75500
+Time to perform OA Inter;20.11800
+Configure Soot OA Inter;0.74000
+Successfully applied package: cg;1.35900
+Successfully applied package: wjtp;0.20300
+Time to perform OA Inter;2.30700
+Configure Soot OA Inter;1.21300
+Successfully applied package: cg;2.51100
+Successfully applied package: wjtp;0.55000
+Time to perform OA Inter;4.28400
+Configure Soot OA Inter;0.75500
+Successfully applied package: cg;1.38400
+Successfully applied package: wjtp;0.07200
+Time to perform OA Inter;2.22000
+Configure Soot OA Inter;1.08100
+Successfully applied package: cg;1.50000
+Successfully applied package: wjtp;0.27800
+Time to perform OA Inter;2.86500
+Configure Soot OA Inter;1.06600
+Successfully applied package: cg;1.26800
+Successfully applied package: wjtp;0.53700
+Time to perform OA Inter;2.87700
+Configure Soot OA Inter;0.96000
+Successfully applied package: cg;1.56500
+Successfully applied package: wjtp;0.98800
+Time to perform OA Inter;3.52200
+Configure Soot OA Inter;1.07300
+Successfully applied package: cg;1.43900
+Successfully applied package: wjtp;0.41600
+Time to perform OA Inter;2.93400
+Configure Soot OA Inter;1.11000
+Successfully applied package: cg;4.18000
+Successfully applied package: wjtp;1.53600
+Time to perform OA Inter;6.84100
+Configure Soot OA Inter;0.71500
+Successfully applied package: cg;2.90900
+Successfully applied package: wjtp;0.84000
+Time to perform OA Inter;4.47000
+Configure Soot OA Inter;0.65500
+Successfully applied package: cg;0.71700
+Successfully applied package: wjtp;0.03100
+Time to perform OA Inter;1.40700
+Configure Soot OA Inter;0.86900
+Successfully applied package: cg;0.65800
+Successfully applied package: wjtp;0.08800
+Time to perform OA Inter;1.64900
+Configure Soot OA Inter;0.73800
+Successfully applied package: cg;0.99300
+Successfully applied package: wjtp;0.23700
+Time to perform OA Inter;1.97300
+Configure Soot OA Inter;0.69900
+Successfully applied package: cg;1.07300
+Successfully applied package: wjtp;0.16600
+Time to perform OA Inter;1.94300
+Configure Soot OA Inter;0.88300
+Successfully applied package: cg;0.63200
+Successfully applied package: wjtp;0.13800
+Time to perform OA Inter;1.65800
+Configure Soot OA Inter;0.71200
+Successfully applied package: cg;0.99700
+Successfully applied package: wjtp;0.31400
+Time to perform OA Inter;2.02900
+Configure Soot OA Inter;0.70800
+Successfully applied package: cg;1.11600
+Successfully applied package: wjtp;0.66100
+Time to perform OA Inter;2.49500
+Configure Soot OA Inter;1.01000
+Successfully applied package: cg;1.37100
+Successfully applied package: wjtp;0.20100
+Time to perform OA Inter;2.59300
+Configure Soot OA Inter;1.06000
+Successfully applied package: cg;1.33800
+Successfully applied package: wjtp;0.13200
+Time to perform OA Inter;2.53600
+Configure Soot OA Inter;0.73900
+Successfully applied package: cg;1.26600
+Successfully applied package: wjtp;0.05000
+Time to perform OA Inter;2.06300
+Configure Soot OA Inter;1.06200
+Successfully applied package: cg;1.24800
+Successfully applied package: wjtp;0.02200
+Time to perform OA Inter;2.33800
+Configure Soot OA Inter;0.90400
+Successfully applied package: cg;1.24800
+Successfully applied package: wjtp;0.54300
+Time to perform OA Inter;2.70400
+Configure Soot OA Inter;0.95000
+Successfully applied package: cg;1.19900
+Successfully applied package: wjtp;0.62400
+Time to perform OA Inter;2.78400
+Configure Soot OA Inter;0.92400
+Successfully applied package: cg;0.82000
+Successfully applied package: wjtp;0.16300
+Time to perform OA Inter;1.91700
+Configure Soot OA Inter;0.91400
+Successfully applied package: cg;0.88900
+Successfully applied package: wjtp;0.11600
+Time to perform OA Inter;1.92600
+Configure Soot OA Inter;1.05600
+Successfully applied package: cg;2.10700
+Successfully applied package: wjtp;0.13800
+Time to perform OA Inter;3.30700
+Configure Soot OA Inter;0.93100
+Successfully applied package: cg;2.92200
+Successfully applied package: wjtp;0.11800
+Time to perform OA Inter;3.97600
+Configure Soot OA Inter;0.62300
+Successfully applied package: cg;0.80100
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;1.45400
+Configure Soot OA Inter;0.84400
+Successfully applied package: cg;0.89600
+Successfully applied package: wjtp;0.04600
+Time to perform OA Inter;1.79100
+Configure Soot OA Inter;0.91700
+Successfully applied package: cg;0.62000
+Successfully applied package: wjtp;0.06600
+Time to perform OA Inter;1.60700
+Configure Soot OA Inter;0.89300
+Successfully applied package: cg;0.84700
+Successfully applied package: wjtp;0.07800
+Time to perform OA Inter;1.83200
+Configure Soot OA Inter;0.63400
+Successfully applied package: cg;1.25700
+Successfully applied package: wjtp;0.11500
+Time to perform OA Inter;2.01200
+Configure Soot OA Inter;0.90300
+Successfully applied package: cg;0.43100
+Successfully applied package: wjtp;0.03000
+Time to perform OA Inter;1.37000
+Configure Soot OA Inter;0.91500
+Successfully applied package: cg;0.43300
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;1.40400
+Configure Soot OA Inter;1.02800
+Successfully applied package: cg;2.75800
+Successfully applied package: wjtp;0.03700
+Time to perform OA Inter;3.82800
+Configure Soot OA Inter;1.04100
+Successfully applied package: cg;2.74600
+Successfully applied package: wjtp;0.03600
+Time to perform OA Inter;3.82800
+Configure Soot OA Inter;1.01300
+Successfully applied package: cg;2.28800
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;3.34800
+Configure Soot OA Inter;0.62800
+Successfully applied package: cg;0.51900
+Successfully applied package: wjtp;0.07500
+Time to perform OA Inter;1.22800
+Configure Soot OA Inter;0.68400
+Successfully applied package: cg;1.74700
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;2.46500
+Configure Soot OA Inter;0.87200
+Successfully applied package: cg;0.55800
+Successfully applied package: wjtp;0.27000
+Time to perform OA Inter;1.70600
+Configure Soot OA Inter;0.88800
+Successfully applied package: cg;0.48100
+Successfully applied package: wjtp;0.02100
+Time to perform OA Inter;1.39800
+Configure Soot OA Inter;1.59200
+Successfully applied package: cg;14.44800
+Successfully applied package: wjtp;135.24100
+Time to perform OA Inter;151.29000
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;0.89500
+Successfully applied package: wjtp;0.11600
+Time to perform OA Inter;1.91800
+Configure Soot OA Inter;0.63200
+Successfully applied package: cg;0.63300
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.32100
+Configure Soot OA Inter;1.01500
+Successfully applied package: cg;1.75100
+Successfully applied package: wjtp;0.13800
+Time to perform OA Inter;2.90900
+Configure Soot OA Inter;1.02700
+Successfully applied package: cg;2.12400
+Successfully applied package: wjtp;0.14100
+Time to perform OA Inter;3.29700
+Configure Soot OA Inter;0.66900
+Successfully applied package: cg;1.56900
+Successfully applied package: wjtp;0.17500
+Time to perform OA Inter;2.41700
+Configure Soot OA Inter;0.96600
+Successfully applied package: cg;2.19500
+Successfully applied package: wjtp;0.97500
+Time to perform OA Inter;4.14400
+Configure Soot OA Inter;0.96900
+Successfully applied package: cg;2.16900
+Successfully applied package: wjtp;0.13400
+Time to perform OA Inter;3.28100
+Configure Soot OA Inter;0.93700
+Successfully applied package: cg;1.60200
+Successfully applied package: wjtp;1.88400
+Time to perform OA Inter;4.43800
+Configure Soot OA Inter;0.65800
+Successfully applied package: cg;1.47400
+Successfully applied package: wjtp;0.55100
+Time to perform OA Inter;2.69700
+Configure Soot OA Inter;0.98700
+Successfully applied package: cg;1.78400
+Successfully applied package: wjtp;0.15400
+Time to perform OA Inter;2.93300
+Configure Soot OA Inter;1.24200
+Successfully applied package: cg;0.88000
+Successfully applied package: wjtp;0.09300
+Time to perform OA Inter;2.22100
+Configure Soot OA Inter;1.53200
+Successfully applied package: cg;4.64800
+Successfully applied package: wjtp;1.25300
+Time to perform OA Inter;7.43900
+Configure Soot OA Inter;1.37000
+Successfully applied package: cg;5.33000
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;6.72400
+Configure Soot OA Inter;0.93200
+Successfully applied package: cg;3.76100
+Successfully applied package: wjtp;2.10000
+Time to perform OA Inter;6.79800
+Configure Soot OA Inter;0.95900
+Successfully applied package: cg;3.93800
+Successfully applied package: wjtp;1.30900
+Time to perform OA Inter;6.21700
+Configure Soot OA Inter;0.89000
+Successfully applied package: cg;0.84200
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;1.76500
+Configure Soot OA Inter;0.64400
+Successfully applied package: cg;0.58600
+Successfully applied package: wjtp;0.05100
+Time to perform OA Inter;1.28700
+Configure Soot OA Inter;0.62900
+Successfully applied package: cg;0.67100
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.35700
+Configure Soot OA Inter;0.62700
+Successfully applied package: cg;0.62200
+Successfully applied package: wjtp;0.02000
+Time to perform OA Inter;1.27600
+Configure Soot OA Inter;0.61800
+Successfully applied package: cg;0.64900
+Successfully applied package: wjtp;0.35800
+Time to perform OA Inter;1.63100
+Configure Soot OA Inter;0.88700
+Successfully applied package: cg;0.86600
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;1.81100
+Configure Soot OA Inter;0.90900
+Successfully applied package: cg;0.86300
+Successfully applied package: wjtp;0.03300
+Time to perform OA Inter;1.81100
+Configure Soot OA Inter;0.61300
+Successfully applied package: cg;0.71100
+Successfully applied package: wjtp;0.29600
+Time to perform OA Inter;1.62900
+Configure Soot OA Inter;0.71200
+Successfully applied package: cg;2.67800
+Successfully applied package: wjtp;0.43500
+Time to perform OA Inter;3.83600
+Configure Soot OA Inter;1.44500
+Successfully applied package: cg;5.16200
+Successfully applied package: wjtp;9.64200
+Time to perform OA Inter;16.26000
+Configure Soot OA Inter;1.14200
+Successfully applied package: cg;1.24100
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;2.40900
+Configure Soot OA Inter;1.15100
+Successfully applied package: cg;1.26900
+Successfully applied package: wjtp;0.03600
+Time to perform OA Inter;2.46300
+Configure Soot OA Inter;0.90700
+Successfully applied package: cg;0.30300
+Successfully applied package: wjtp;0.07100
+Time to perform OA Inter;1.28700
+Configure Soot OA Inter;3.27500
+Successfully applied package: cg;268.49200
+Successfully applied package: wjtp;0.64000
+Time to perform OA Inter;272.41300
+Configure Soot OA Inter;1.22900
+Successfully applied package: cg;4.29200
+Successfully applied package: wjtp;9.69800
+Time to perform OA Inter;15.22600
+Configure Soot OA Inter;1.44500
+Successfully applied package: cg;6.92600
+Successfully applied package: wjtp;6.03400
+Time to perform OA Inter;14.41200
+Configure Soot OA Inter;1.21700
+Successfully applied package: cg;6.66500
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;7.91300
+Configure Soot OA Inter;0.65400
+Successfully applied package: cg;1.44700
+Successfully applied package: wjtp;0.09400
+Time to perform OA Inter;2.20500
+Configure Soot OA Inter;0.65500
+Successfully applied package: cg;1.17400
+Successfully applied package: wjtp;0.13500
+Time to perform OA Inter;1.97300
+Configure Soot OA Inter;0.96500
+Successfully applied package: cg;6.71400
+Successfully applied package: wjtp;2.49200
+Time to perform OA Inter;10.17900
+Configure Soot OA Inter;0.98100
+Successfully applied package: cg;6.50800
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;7.51800
+Configure Soot OA Inter;0.96300
+Successfully applied package: cg;6.65500
+Successfully applied package: wjtp;0.01600
+Time to perform OA Inter;7.63700
+Configure Soot OA Inter;0.62400
+Successfully applied package: cg;1.12800
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;1.79700
+Configure Soot OA Inter;0.95700
+Successfully applied package: cg;6.86900
+Successfully applied package: wjtp;0.07300
+Time to perform OA Inter;7.90500
+Configure Soot OA Inter;0.94700
+Successfully applied package: cg;7.43100
+Configure Soot OA Inter;1.10800
+Successfully applied package: cg;3.02800
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;4.18700
+Configure Soot OA Inter;0.62100
+Successfully applied package: cg;0.10900
+Successfully applied package: wjtp;0.13200
+Time to perform OA Inter;0.87000
+Configure Soot OA Inter;0.61600
+Successfully applied package: cg;0.31900
+Successfully applied package: wjtp;0.06300
+Time to perform OA Inter;1.00400
+Configure Soot OA Inter;0.94400
+Successfully applied package: cg;0.48200
+Successfully applied package: wjtp;0.09400
+Time to perform OA Inter;1.53000
+Configure Soot OA Inter;0.91300
+Successfully applied package: cg;0.50000
+Successfully applied package: wjtp;0.38000
+Time to perform OA Inter;1.79900
+Configure Soot OA Inter;0.94500
+Successfully applied package: cg;0.48100
+Successfully applied package: wjtp;0.41000
+Time to perform OA Inter;1.84300
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;0.47600
+Successfully applied package: wjtp;0.28500
+Time to perform OA Inter;1.69000
+Configure Soot OA Inter;0.94100
+Successfully applied package: cg;0.48400
+Successfully applied package: wjtp;0.47800
+Time to perform OA Inter;1.90800
+Configure Soot OA Inter;0.94700
+Successfully applied package: cg;0.48500
+Successfully applied package: wjtp;0.29800
+Time to perform OA Inter;1.73600
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;0.48000
+Successfully applied package: wjtp;0.30500
+Time to perform OA Inter;1.72500
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;0.48300
+Successfully applied package: wjtp;0.22800
+Time to perform OA Inter;1.65200
+Configure Soot OA Inter;0.92900
+Successfully applied package: cg;0.48100
+Successfully applied package: wjtp;0.18400
+Time to perform OA Inter;1.59900
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;0.99000
+Successfully applied package: wjtp;0.45000
+Time to perform OA Inter;2.39000
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;0.79800
+Successfully applied package: wjtp;0.17400
+Time to perform OA Inter;1.90100
+Configure Soot OA Inter;0.80100
+Successfully applied package: cg;0.48400
+Successfully applied package: wjtp;0.38800
+Time to perform OA Inter;1.67900
+Configure Soot OA Inter;0.90800
+Successfully applied package: cg;0.97500
+Successfully applied package: wjtp;0.27900
+Time to perform OA Inter;2.25900
+Configure Soot OA Inter;0.93200
+Successfully applied package: cg;0.98200
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;1.95500
+Configure Soot OA Inter;0.90500
+Successfully applied package: cg;0.83600
+Successfully applied package: wjtp;0.11300
+Time to perform OA Inter;1.86000
+Configure Soot OA Inter;0.65500
+Successfully applied package: cg;0.46400
+Successfully applied package: wjtp;0.40200
+Time to perform OA Inter;1.52700
+Configure Soot OA Inter;0.94200
+Successfully applied package: cg;0.98700
+Successfully applied package: wjtp;0.28200
+Time to perform OA Inter;2.21700
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;1.50000
+Successfully applied package: wjtp;0.07400
+Time to perform OA Inter;2.52300
+Configure Soot OA Inter;0.90100
+Successfully applied package: cg;0.79000
+Successfully applied package: wjtp;0.13800
+Time to perform OA Inter;1.84000
+Configure Soot OA Inter;0.80000
+Successfully applied package: cg;0.77300
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;1.58300
+Configure Soot OA Inter;0.89100
+Successfully applied package: cg;0.61100
+Successfully applied package: wjtp;0.10200
+Time to perform OA Inter;1.61900
+Configure Soot OA Inter;0.94500
+Successfully applied package: cg;1.45700
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;2.41800
+Configure Soot OA Inter;0.65100
+Successfully applied package: cg;1.01400
+Successfully applied package: wjtp;0.42600
+Time to perform OA Inter;2.10000
+Configure Soot OA Inter;0.91300
+Successfully applied package: cg;0.73800
+Successfully applied package: wjtp;0.16600
+Time to perform OA Inter;1.82800
+Configure Soot OA Inter;0.88500
+Successfully applied package: cg;0.91000
+Successfully applied package: wjtp;0.04700
+Time to perform OA Inter;1.84800
+Configure Soot OA Inter;0.62500
+Successfully applied package: cg;0.84600
+Successfully applied package: wjtp;0.07800
+Time to perform OA Inter;1.55400
+Configure Soot OA Inter;0.91800
+Successfully applied package: cg;1.45100
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;2.42000
+Configure Soot OA Inter;0.88100
+Successfully applied package: cg;0.41400
+Successfully applied package: wjtp;0.01300
+Time to perform OA Inter;1.31400
+Configure Soot OA Inter;0.88000
+Successfully applied package: cg;0.19400
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;1.09800
+Configure Soot OA Inter;0.64000
+Successfully applied package: cg;1.32200
+Successfully applied package: wjtp;0.05000
+Time to perform OA Inter;2.01800
+Configure Soot OA Inter;0.93300
+Successfully applied package: cg;1.99000
+Successfully applied package: wjtp;0.17500
+Time to perform OA Inter;3.12500
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;1.20700
+Successfully applied package: wjtp;0.25000
+Time to perform OA Inter;2.38800
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;1.47100
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;2.44500
+Configure Soot OA Inter;0.64200
+Successfully applied package: cg;0.83400
+Successfully applied package: wjtp;0.10000
+Time to perform OA Inter;1.58300
+Configure Soot OA Inter;1.00000
+Successfully applied package: cg;1.61600
+Successfully applied package: wjtp;0.17500
+Time to perform OA Inter;2.79800
+Configure Soot OA Inter;0.99800
+Successfully applied package: cg;1.83300
+Successfully applied package: wjtp;0.10900
+Time to perform OA Inter;2.94900
+Configure Soot OA Inter;1.05500
+Successfully applied package: cg;2.43000
+Successfully applied package: wjtp;0.09000
+Time to perform OA Inter;3.58500
+Configure Soot OA Inter;0.72300
+Successfully applied package: cg;0.66600
+Successfully applied package: wjtp;0.22100
+Time to perform OA Inter;1.61700
+Configure Soot OA Inter;0.74500
+Successfully applied package: cg;1.01700
+Successfully applied package: wjtp;0.39000
+Time to perform OA Inter;2.15800
+Configure Soot OA Inter;0.97900
+Successfully applied package: cg;0.38400
+Successfully applied package: wjtp;0.81300
+Time to perform OA Inter;2.18300
+Configure Soot OA Inter;0.66900
+Successfully applied package: cg;0.26300
+Successfully applied package: wjtp;0.36200
+Time to perform OA Inter;1.30100
+Configure Soot OA Inter;0.97400
+Successfully applied package: cg;0.38400
+Successfully applied package: wjtp;0.47600
+Time to perform OA Inter;1.83900
+Configure Soot OA Inter;1.00500
+Successfully applied package: cg;0.37800
+Successfully applied package: wjtp;0.34500
+Time to perform OA Inter;1.73700
+Configure Soot OA Inter;0.63600
+Successfully applied package: cg;0.63600
+Successfully applied package: wjtp;0.00700
+Time to perform OA Inter;1.28400
+Configure Soot OA Inter;0.89700
+Successfully applied package: cg;0.75800
+Successfully applied package: wjtp;0.03400
+Time to perform OA Inter;1.69600
+Configure Soot OA Inter;0.90100
+Successfully applied package: cg;0.82200
+Successfully applied package: wjtp;0.16300
+Time to perform OA Inter;1.89200
+Configure Soot OA Inter;0.61200
+Successfully applied package: cg;0.70200
+Successfully applied package: wjtp;0.16800
+Time to perform OA Inter;1.48800
+Configure Soot OA Inter;0.91100
+Successfully applied package: cg;0.77900
+Successfully applied package: wjtp;0.16600
+Time to perform OA Inter;1.86300
+Configure Soot OA Inter;0.90600
+Successfully applied package: cg;0.80000
+Successfully applied package: wjtp;0.14200
+Time to perform OA Inter;1.85400
+Configure Soot OA Inter;0.92900
+Successfully applied package: cg;1.25000
+Successfully applied package: wjtp;0.20600
+Time to perform OA Inter;2.39500
+Configure Soot OA Inter;0.99900
+Successfully applied package: cg;0.32300
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;1.38000
+Configure Soot OA Inter;0.94300
+Successfully applied package: cg;0.47800
+Successfully applied package: wjtp;0.05500
+Time to perform OA Inter;1.48200
+Configure Soot OA Inter;1.01300
+Successfully applied package: cg;0.32000
+Successfully applied package: wjtp;0.04700
+Time to perform OA Inter;1.38600
+Configure Soot OA Inter;1.14100
+Successfully applied package: cg;0.28000
+Successfully applied package: wjtp;0.65000
+Time to perform OA Inter;2.07700
+Configure Soot OA Inter;1.16200
+Successfully applied package: cg;0.27400
+Successfully applied package: wjtp;0.61500
+Time to perform OA Inter;2.05600
+Configure Soot OA Inter;1.13800
+Successfully applied package: cg;0.28300
+Successfully applied package: wjtp;0.55200
+Time to perform OA Inter;1.97800
+Configure Soot OA Inter;1.01100
+Successfully applied package: cg;0.27600
+Successfully applied package: wjtp;0.59200
+Time to perform OA Inter;1.88600
+Configure Soot OA Inter;2.83200
+Successfully applied package: cg;162.07800
+Successfully applied package: wjtp;28.01700
+Time to perform OA Inter;192.93200
+Configure Soot OA Inter;0.73000
+Successfully applied package: cg;0.97600
+Successfully applied package: wjtp;2.65500
+Time to perform OA Inter;4.36500
+Configure Soot OA Inter;1.06200
+Successfully applied package: cg;0.94800
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;2.02600
+Configure Soot OA Inter;1.03600
+Successfully applied package: cg;0.93000
+Successfully applied package: wjtp;0.04600
+Time to perform OA Inter;2.02400
+Configure Soot OA Inter;0.63000
+Successfully applied package: cg;0.60000
+Successfully applied package: wjtp;0.14500
+Time to perform OA Inter;1.38100
+Configure Soot OA Inter;0.63400
+Successfully applied package: cg;0.52400
+Successfully applied package: wjtp;0.05000
+Time to perform OA Inter;1.21600
+Configure Soot OA Inter;0.88900
+Successfully applied package: cg;0.56300
+Successfully applied package: wjtp;0.05800
+Time to perform OA Inter;1.53400
+Configure Soot OA Inter;0.96800
+Successfully applied package: cg;2.46600
+Successfully applied package: wjtp;0.23100
+Time to perform OA Inter;3.67000
+Configure Soot OA Inter;0.97600
+Successfully applied package: cg;1.84000
+Successfully applied package: wjtp;0.97800
+Time to perform OA Inter;3.81300
+Configure Soot OA Inter;0.95900
+Successfully applied package: cg;1.96400
+Successfully applied package: wjtp;0.63300
+Time to perform OA Inter;3.56100
+Configure Soot OA Inter;0.97100
+Successfully applied package: cg;1.18800
+Successfully applied package: wjtp;6.59700
+Time to perform OA Inter;8.76300
+Configure Soot OA Inter;0.99800
+Successfully applied package: cg;0.98400
+Successfully applied package: wjtp;0.04700
+Time to perform OA Inter;2.03400
+Configure Soot OA Inter;0.98100
+Successfully applied package: cg;1.46400
+Successfully applied package: wjtp;0.03000
+Time to perform OA Inter;2.48100
+Configure Soot OA Inter;5.46500
+Configure Soot OA Inter;4.93300
+Configure Soot OA Inter;1.09600
+Successfully applied package: cg;2.21500
+Successfully applied package: wjtp;0.09800
+Time to perform OA Inter;3.41700
+Configure Soot OA Inter;1.05600
+Successfully applied package: cg;2.28800
+Successfully applied package: wjtp;3.17500
+Time to perform OA Inter;6.52700
+Configure Soot OA Inter;1.10700
+Successfully applied package: cg;2.10800
+Successfully applied package: wjtp;2.78900
+Time to perform OA Inter;6.01800
+Configure Soot OA Inter;0.90800
+Successfully applied package: cg;1.01700
+Successfully applied package: wjtp;0.01100
+Time to perform OA Inter;1.94100
+Configure Soot OA Inter;1.33800
+Successfully applied package: cg;152.12100
+Configure Soot OA Inter;0.70700
+Successfully applied package: cg;0.25400
+Successfully applied package: wjtp;0.10000
+Time to perform OA Inter;1.06700
+Configure Soot OA Inter;0.88700
+Successfully applied package: cg;0.23500
+Successfully applied package: wjtp;0.03400
+Time to perform OA Inter;1.16400
+Configure Soot OA Inter;1.00100
+Successfully applied package: cg;1.66800
+Successfully applied package: wjtp;2.45300
+Time to perform OA Inter;5.12700
+Configure Soot OA Inter;0.90900
+Successfully applied package: cg;1.14700
+Successfully applied package: wjtp;0.30000
+Time to perform OA Inter;2.36300
+Configure Soot OA Inter;0.88700
+Successfully applied package: cg;0.60100
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.54100
+Configure Soot OA Inter;0.94000
+Successfully applied package: cg;1.06600
+Successfully applied package: wjtp;0.17700
+Time to perform OA Inter;2.19000
+Configure Soot OA Inter;0.92200
+Successfully applied package: cg;0.83500
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;1.80800
+Configure Soot OA Inter;1.16300
+Successfully applied package: cg;6.01800
+Successfully applied package: wjtp;32.52300
+Time to perform OA Inter;39.73900
+Configure Soot OA Inter;0.90900
+Successfully applied package: cg;1.05400
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;1.99600
+Configure Soot OA Inter;1.20100
+Successfully applied package: cg;6.04900
+Successfully applied package: wjtp;0.22000
+Time to perform OA Inter;7.47700
+Configure Soot OA Inter;1.19700
+Successfully applied package: cg;4.68600
+Successfully applied package: wjtp;0.50500
+Time to perform OA Inter;6.39700
+Configure Soot OA Inter;0.63700
+Successfully applied package: cg;0.73400
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;1.42500
+Configure Soot OA Inter;0.89800
+Successfully applied package: cg;0.99000
+Successfully applied package: wjtp;0.05900
+Time to perform OA Inter;1.95300
+Configure Soot OA Inter;0.61500
+Successfully applied package: cg;0.69800
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.36500
+Configure Soot OA Inter;0.79000
+Successfully applied package: cg;4.86000
+Successfully applied package: wjtp;2.31500
+Time to perform OA Inter;7.97200
+Configure Soot OA Inter;0.88900
+Successfully applied package: cg;0.85800
+Successfully applied package: wjtp;0.01700
+Time to perform OA Inter;1.77300
+Configure Soot OA Inter;0.78800
+Successfully applied package: cg;5.06900
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;5.89200
+Configure Soot OA Inter;1.13900
+Successfully applied package: cg;4.71600
+Successfully applied package: wjtp;0.01400
+Time to perform OA Inter;5.87300
+Configure Soot OA Inter;0.80400
+Successfully applied package: cg;4.39000
+Successfully applied package: wjtp;17.69000
+Time to perform OA Inter;22.93200
+Configure Soot OA Inter;1.20100
+Successfully applied package: cg;5.26200
+Successfully applied package: wjtp;0.01300
+Time to perform OA Inter;6.48200
+Configure Soot OA Inter;1.20700
+Successfully applied package: cg;5.48100
+Successfully applied package: wjtp;22.39700
+Time to perform OA Inter;29.16700
+Configure Soot OA Inter;0.93500
+Successfully applied package: cg;1.61400
+Successfully applied package: wjtp;0.26500
+Time to perform OA Inter;2.82000
+Configure Soot OA Inter;0.96100
+Successfully applied package: cg;1.53400
+Successfully applied package: wjtp;0.74000
+Time to perform OA Inter;3.24400
+Configure Soot OA Inter;0.95600
+Successfully applied package: cg;1.80900
+Successfully applied package: wjtp;0.02800
+Time to perform OA Inter;2.80100
+Configure Soot OA Inter;0.96100
+Successfully applied package: cg;1.77000
+Successfully applied package: wjtp;0.02100
+Time to perform OA Inter;2.75700
+Configure Soot OA Inter;0.95200
+Successfully applied package: cg;1.39000
+Successfully applied package: wjtp;0.18500
+Time to perform OA Inter;2.53300
+Configure Soot OA Inter;0.62200
+Successfully applied package: cg;0.41400
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;1.09200
+Configure Soot OA Inter;0.68900
+Successfully applied package: cg;0.82900
+Successfully applied package: wjtp;0.03300
+Time to perform OA Inter;1.55700
+Configure Soot OA Inter;4.78300
+Configure Soot OA Inter;5.28400
+Configure Soot OA Inter;0.97900
+Successfully applied package: cg;2.17700
+Successfully applied package: wjtp;2.09800
+Time to perform OA Inter;5.26000
+Configure Soot OA Inter;0.91500
+Successfully applied package: cg;0.73800
+Successfully applied package: wjtp;0.08300
+Time to perform OA Inter;1.74200
+Configure Soot OA Inter;0.94700
+Successfully applied package: cg;1.07200
+Successfully applied package: wjtp;0.17800
+Time to perform OA Inter;2.20500
+Configure Soot OA Inter;1.20900
+Successfully applied package: cg;5.17000
+Successfully applied package: wjtp;32.93100
+Time to perform OA Inter;39.34100
+Configure Soot OA Inter;1.15900
+Successfully applied package: cg;4.83100
+Successfully applied package: wjtp;0.22000
+Time to perform OA Inter;6.21600
+Configure Soot OA Inter;1.10200
+Successfully applied package: cg;4.94900
+Successfully applied package: wjtp;0.73100
+Time to perform OA Inter;6.79500
+Configure Soot OA Inter;1.14400
+Successfully applied package: cg;4.76100
+Successfully applied package: wjtp;2.33100
+Time to perform OA Inter;8.24300
+Configure Soot OA Inter;0.86600
+Successfully applied package: cg;1.02000
+Successfully applied package: wjtp;0.02400
+Time to perform OA Inter;1.91800
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.56400
+Successfully applied package: wjtp;0.03100
+Time to perform OA Inter;1.21900
+Configure Soot OA Inter;0.61300
+Successfully applied package: cg;0.69100
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;1.35600
+Configure Soot OA Inter;0.61400
+Successfully applied package: cg;0.72000
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;1.38000
+Configure Soot OA Inter;0.89800
+Successfully applied package: cg;0.99500
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;1.96000
+Configure Soot OA Inter;0.90600
+Successfully applied package: cg;0.91700
+Successfully applied package: wjtp;0.01700
+Time to perform OA Inter;1.84800
+Configure Soot OA Inter;0.79500
+Successfully applied package: cg;6.25600
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;7.08700
+Configure Soot OA Inter;0.80300
+Successfully applied package: cg;4.61600
+Successfully applied package: wjtp;0.01300
+Time to perform OA Inter;5.43700
+Configure Soot OA Inter;0.77600
+Successfully applied package: cg;4.72300
+Successfully applied package: wjtp;17.73500
+Time to perform OA Inter;23.25800
+Configure Soot OA Inter;0.81400
+Successfully applied package: cg;5.93500
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;6.77800
+Configure Soot OA Inter;0.78000
+Successfully applied package: cg;4.74800
+Successfully applied package: wjtp;32.39300
+Time to perform OA Inter;38.00900
+Configure Soot OA Inter;0.96600
+Successfully applied package: cg;1.87100
+Successfully applied package: wjtp;0.26500
+Time to perform OA Inter;3.11000
+Configure Soot OA Inter;0.95600
+Successfully applied package: cg;1.31200
+Successfully applied package: wjtp;0.76800
+Time to perform OA Inter;3.04700
+Configure Soot OA Inter;0.98100
+Successfully applied package: cg;1.93400
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;2.96600
+Configure Soot OA Inter;0.96300
+Successfully applied package: cg;1.78600
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;2.77800
+Configure Soot OA Inter;0.98000
+Successfully applied package: cg;1.78500
+Successfully applied package: wjtp;0.21400
+Time to perform OA Inter;2.98400
+Configure Soot OA Inter;0.67700
+Successfully applied package: cg;2.97000
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;3.70000
+Configure Soot OA Inter;0.93600
+Successfully applied package: cg;0.60800
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;1.62900
+Configure Soot OA Inter;0.97100
+Successfully applied package: cg;0.98200
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;2.00700
+Configure Soot OA Inter;5.63600
+Configure Soot OA Inter;5.17400
+Configure Soot OA Inter;1.98500
+Successfully applied package: cg;147.79200
+Configure Soot OA Inter;1.02400
+Successfully applied package: cg;1.78900
+Successfully applied package: wjtp;0.09600
+Time to perform OA Inter;2.91700
+Configure Soot OA Inter;0.80200
+Successfully applied package: cg;0.76800
+Successfully applied package: wjtp;0.09000
+Time to perform OA Inter;1.66600
+Configure Soot OA Inter;0.63600
+Successfully applied package: cg;0.97900
+Successfully applied package: wjtp;0.17700
+Time to perform OA Inter;1.79800
+Configure Soot OA Inter;0.76300
+Successfully applied package: cg;4.45200
+Successfully applied package: wjtp;32.94600
+Time to perform OA Inter;38.18900
+Configure Soot OA Inter;1.15400
+Successfully applied package: cg;4.37400
+Successfully applied package: wjtp;0.20800
+Time to perform OA Inter;5.74200
+Configure Soot OA Inter;0.74700
+Successfully applied package: cg;4.27500
+Successfully applied package: wjtp;0.49200
+Time to perform OA Inter;5.52400
+Configure Soot OA Inter;1.13100
+Successfully applied package: cg;5.41500
+Successfully applied package: wjtp;2.00600
+Time to perform OA Inter;8.55900
+Configure Soot OA Inter;0.89200
+Successfully applied package: cg;1.02400
+Successfully applied package: wjtp;0.02300
+Time to perform OA Inter;1.94600
+Configure Soot OA Inter;0.60200
+Successfully applied package: cg;0.70400
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;1.35500
+Configure Soot OA Inter;0.61600
+Successfully applied package: cg;0.94300
+Successfully applied package: wjtp;0.06600
+Time to perform OA Inter;1.62900
+Configure Soot OA Inter;0.63200
+Successfully applied package: cg;0.72800
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;1.40700
+Configure Soot OA Inter;0.61500
+Successfully applied package: cg;0.67100
+Successfully applied package: wjtp;0.03900
+Time to perform OA Inter;1.33000
+Configure Soot OA Inter;0.90000
+Successfully applied package: cg;0.90500
+Successfully applied package: wjtp;0.01600
+Time to perform OA Inter;1.83000
+Configure Soot OA Inter;0.79400
+Successfully applied package: cg;5.14000
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;5.98100
+Configure Soot OA Inter;0.80600
+Successfully applied package: cg;4.90800
+Successfully applied package: wjtp;0.01400
+Time to perform OA Inter;5.73100
+Configure Soot OA Inter;1.20100
+Successfully applied package: cg;5.01600
+Successfully applied package: wjtp;17.98800
+Time to perform OA Inter;24.23700
+Configure Soot OA Inter;1.18000
+Successfully applied package: cg;5.24300
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;6.44600
+Configure Soot OA Inter;0.85700
+Successfully applied package: cg;5.45600
+Successfully applied package: wjtp;32.90100
+Time to perform OA Inter;39.28300
+Configure Soot OA Inter;0.98800
+Successfully applied package: cg;1.89000
+Successfully applied package: wjtp;0.32200
+Time to perform OA Inter;3.20700
+Configure Soot OA Inter;0.65200
+Successfully applied package: cg;1.46800
+Successfully applied package: wjtp;0.74000
+Time to perform OA Inter;2.86800
+Configure Soot OA Inter;0.93900
+Successfully applied package: cg;0.44400
+Successfully applied package: wjtp;0.79100
+Time to perform OA Inter;2.18000
+Configure Soot OA Inter;0.91800
+Successfully applied package: cg;0.44300
+Successfully applied package: wjtp;0.59500
+Time to perform OA Inter;1.96200
+Configure Soot OA Inter;0.89600
+Successfully applied package: cg;0.44100
+Successfully applied package: wjtp;0.80200
+Time to perform OA Inter;2.14500
+Configure Soot OA Inter;0.97100
+Successfully applied package: cg;1.89900
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;2.92200
+Configure Soot OA Inter;0.85400
+Successfully applied package: cg;1.78800
+Successfully applied package: wjtp;0.02200
+Time to perform OA Inter;2.66800
+Configure Soot OA Inter;1.00200
+Successfully applied package: cg;1.77500
+Successfully applied package: wjtp;0.26000
+Time to perform OA Inter;3.04300
+Configure Soot OA Inter;1.20900
+Successfully applied package: cg;1.44100
+Successfully applied package: wjtp;0.27800
+Time to perform OA Inter;2.93400
+Configure Soot OA Inter;0.91400
+Successfully applied package: cg;1.40500
+Successfully applied package: wjtp;0.07800
+Time to perform OA Inter;2.44000
+Configure Soot OA Inter;2.74800
+Successfully applied package: cg;56.83500
+Successfully applied package: wjtp;1.04300
+Time to perform OA Inter;60.63100
+Configure Soot OA Inter;0.85100
+Successfully applied package: cg;0.78900
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.65600
+Configure Soot OA Inter;0.83300
+Successfully applied package: cg;0.78900
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.63700
+Configure Soot OA Inter;0.64100
+Successfully applied package: cg;0.68600
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;1.34200
+Configure Soot OA Inter;0.63800
+Successfully applied package: cg;0.56000
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;1.21000
+Configure Soot OA Inter;0.97700
+Successfully applied package: cg;0.17500
+Successfully applied package: wjtp;0.38500
+Time to perform OA Inter;1.56400
+Configure Soot OA Inter;0.90300
+Successfully applied package: cg;0.60900
+Successfully applied package: wjtp;0.11600
+Time to perform OA Inter;1.63800
+Configure Soot OA Inter;0.90500
+Successfully applied package: cg;0.63300
+Successfully applied package: wjtp;0.11600
+Time to perform OA Inter;1.66500
+Configure Soot OA Inter;0.98000
+Successfully applied package: cg;0.17200
+Successfully applied package: wjtp;0.19400
+Time to perform OA Inter;1.35200
+Configure Soot OA Inter;0.99700
+Successfully applied package: cg;0.17300
+Successfully applied package: wjtp;0.14000
+Time to perform OA Inter;1.31800
+Configure Soot OA Inter;1.76800
+Successfully applied package: cg;14.56200
+Successfully applied package: wjtp;14.63800
+Time to perform OA Inter;30.98300
+Configure Soot OA Inter;1.70300
+Successfully applied package: cg;15.04900
+Successfully applied package: wjtp;5.56300
+Time to perform OA Inter;22.32000
+Configure Soot OA Inter;1.28600
+Successfully applied package: cg;14.91100
+Successfully applied package: wjtp;2.79100
+Time to perform OA Inter;18.99300
+Configure Soot OA Inter;1.17700
+Successfully applied package: cg;13.94900
+Successfully applied package: wjtp;0.27300
+Time to perform OA Inter;15.40300
+Configure Soot OA Inter;1.62300
+Successfully applied package: cg;12.93700
+Successfully applied package: wjtp;0.18000
+Time to perform OA Inter;14.75100
+Configure Soot OA Inter;1.18000
+Successfully applied package: cg;13.00400
+Successfully applied package: wjtp;0.27600
+Time to perform OA Inter;14.46700
+Configure Soot OA Inter;1.14600
+Successfully applied package: cg;12.44100
+Successfully applied package: wjtp;0.16100
+Time to perform OA Inter;13.75900
+Configure Soot OA Inter;1.11200
+Successfully applied package: cg;4.70100
+Successfully applied package: wjtp;0.08700
+Time to perform OA Inter;5.90400
+Configure Soot OA Inter;1.03700
+Successfully applied package: cg;5.55100
+Successfully applied package: wjtp;0.49700
+Time to perform OA Inter;7.17200
+Configure Soot OA Inter;1.03200
+Successfully applied package: cg;4.64300
+Successfully applied package: wjtp;1.30200
+Time to perform OA Inter;7.01800
+Configure Soot OA Inter;1.02000
+Successfully applied package: cg;4.30600
+Successfully applied package: wjtp;6.14400
+Time to perform OA Inter;11.47400
+Configure Soot OA Inter;1.55300
+Successfully applied package: cg;5.76200
+Successfully applied package: wjtp;7.51300
+Time to perform OA Inter;14.83500
+Configure Soot OA Inter;1.02300
+Successfully applied package: cg;3.67700
+Successfully applied package: wjtp;71.19600
+Time to perform OA Inter;75.90000
+Configure Soot OA Inter;1.45000
+Successfully applied package: cg;4.09000
+Successfully applied package: wjtp;0.07400
+Time to perform OA Inter;5.62000
+Configure Soot OA Inter;1.01300
+Successfully applied package: cg;4.03400
+Successfully applied package: wjtp;0.61800
+Time to perform OA Inter;5.67100
+Configure Soot OA Inter;1.35400
+Successfully applied package: cg;0.75000
+Successfully applied package: wjtp;0.38800
+Time to perform OA Inter;2.51500
+Configure Soot OA Inter;1.33600
+Successfully applied package: cg;0.42700
+Successfully applied package: wjtp;0.48700
+Time to perform OA Inter;2.26200
+Configure Soot OA Inter;1.45300
+Successfully applied package: cg;9.37800
+Successfully applied package: wjtp;0.28200
+Time to perform OA Inter;11.12100
+Configure Soot OA Inter;1.41500
+Successfully applied package: cg;10.36500
+Successfully applied package: wjtp;0.29200
+Time to perform OA Inter;12.07900
+Configure Soot OA Inter;0.65400
+Successfully applied package: cg;1.49400
+Successfully applied package: wjtp;0.20200
+Time to perform OA Inter;2.35500
+Configure Soot OA Inter;0.75700
+Successfully applied package: cg;1.65700
+Successfully applied package: wjtp;0.15200
+Time to perform OA Inter;2.57100
+Configure Soot OA Inter;0.92800
+Successfully applied package: cg;7.71300
+Successfully applied package: wjtp;0.73300
+Time to perform OA Inter;9.37900
+Configure Soot OA Inter;0.89600
+Successfully applied package: cg;7.74900
+Successfully applied package: wjtp;3.95100
+Time to perform OA Inter;12.60200
+Configure Soot OA Inter;0.75600
+Successfully applied package: cg;5.04900
+Successfully applied package: wjtp;4.44000
+Time to perform OA Inter;10.25100
+Configure Soot OA Inter;1.15600
+Successfully applied package: cg;5.43800
+Successfully applied package: wjtp;1.25100
+Time to perform OA Inter;7.85700
+Configure Soot OA Inter;0.64600
+Successfully applied package: cg;2.16700
+Successfully applied package: wjtp;0.31100
+Time to perform OA Inter;3.13000
+Configure Soot OA Inter;1.48400
+Successfully applied package: cg;27.38300
+Successfully applied package: wjtp;1.27300
+Time to perform OA Inter;30.14800
+Configure Soot OA Inter;0.98500
+Successfully applied package: cg;2.64400
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;3.66200
+Configure Soot OA Inter;0.92500
+Successfully applied package: cg;0.69100
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;1.66800
+Configure Soot OA Inter;0.64100
+Successfully applied package: cg;0.88400
+Successfully applied package: wjtp;0.23300
+Time to perform OA Inter;1.76300
+Configure Soot OA Inter;0.92300
+Successfully applied package: cg;0.80100
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;1.77100
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;0.80100
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;1.79900
+Configure Soot OA Inter;0.65400
+Successfully applied package: cg;0.60400
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;1.29100
+Configure Soot OA Inter;0.64800
+Successfully applied package: cg;0.73000
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;1.42500
+Configure Soot OA Inter;0.65000
+Successfully applied package: cg;0.61300
+Successfully applied package: wjtp;0.05900
+Time to perform OA Inter;1.32700
+Configure Soot OA Inter;0.64000
+Successfully applied package: cg;0.53200
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;1.20300
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.71800
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;1.34900
+Configure Soot OA Inter;0.87400
+Successfully applied package: cg;0.34000
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;1.25000
+Configure Soot OA Inter;0.65600
+Successfully applied package: cg;1.16500
+Successfully applied package: wjtp;0.04700
+Time to perform OA Inter;1.87100
+Configure Soot OA Inter;0.65100
+Successfully applied package: cg;1.32300
+Successfully applied package: wjtp;0.05700
+Time to perform OA Inter;2.03700
+Configure Soot OA Inter;0.95800
+Successfully applied package: cg;1.47900
+Successfully applied package: wjtp;0.07600
+Time to perform OA Inter;2.52300
+Configure Soot OA Inter;0.89900
+Successfully applied package: cg;0.51400
+Successfully applied package: wjtp;0.04600
+Time to perform OA Inter;1.46800
+Configure Soot OA Inter;0.94800
+Successfully applied package: cg;1.11400
+Successfully applied package: wjtp;0.09800
+Time to perform OA Inter;2.16600
+Configure Soot OA Inter;0.91100
+Successfully applied package: cg;0.44000
+Successfully applied package: wjtp;0.02900
+Time to perform OA Inter;1.38600
+Configure Soot OA Inter;1.19800
+Successfully applied package: cg;6.12900
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;7.39000
+Configure Soot OA Inter;1.09000
+Successfully applied package: cg;0.73100
+Successfully applied package: wjtp;0.08800
+Time to perform OA Inter;1.91700
+Configure Soot OA Inter;0.89600
+Successfully applied package: cg;1.33000
+Successfully applied package: wjtp;1.17900
+Time to perform OA Inter;3.41100
+Configure Soot OA Inter;0.60100
+Successfully applied package: cg;0.16500
+Successfully applied package: wjtp;0.20000
+Time to perform OA Inter;0.97400
+Configure Soot OA Inter;0.64100
+Successfully applied package: cg;0.16500
+Successfully applied package: wjtp;0.71200
+Time to perform OA Inter;1.54600
+Configure Soot OA Inter;0.60300
+Successfully applied package: cg;0.59800
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;1.25900
+Configure Soot OA Inter;0.63500
+Successfully applied package: cg;0.64600
+Successfully applied package: wjtp;0.00800
+Time to perform OA Inter;1.29300
+Configure Soot OA Inter;0.68100
+Successfully applied package: cg;2.82300
+Successfully applied package: wjtp;13.02900
+Time to perform OA Inter;16.53800
+Configure Soot OA Inter;0.83700
+Successfully applied package: cg;4.12800
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;4.99700
+Configure Soot OA Inter;0.94700
+Successfully applied package: cg;2.84100
+Successfully applied package: wjtp;19.36100
+Time to perform OA Inter;23.15500
+Configure Soot OA Inter;0.67400
+Successfully applied package: cg;0.81200
+Successfully applied package: wjtp;0.21700
+Time to perform OA Inter;1.70800
+Configure Soot OA Inter;0.73300
+Successfully applied package: cg;0.61500
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;1.35900
+Configure Soot OA Inter;0.72200
+Successfully applied package: cg;0.60200
+Successfully applied package: wjtp;1.30800
+Time to perform OA Inter;2.63900
+Configure Soot OA Inter;0.73900
+Successfully applied package: cg;3.94900
+Successfully applied package: wjtp;0.04000
+Time to perform OA Inter;4.73700
+Configure Soot OA Inter;1.03600
+Successfully applied package: cg;1.83600
+Successfully applied package: wjtp;0.13500
+Time to perform OA Inter;3.01200
+Configure Soot OA Inter;1.03500
+Successfully applied package: cg;0.72800
+Successfully applied package: wjtp;0.43600
+Time to perform OA Inter;2.20500
+Configure Soot OA Inter;0.91400
+Successfully applied package: cg;1.11200
+Successfully applied package: wjtp;0.13000
+Time to perform OA Inter;2.16200
+Configure Soot OA Inter;0.93600
+Successfully applied package: cg;1.10200
+Successfully applied package: wjtp;0.08800
+Time to perform OA Inter;2.14800
+Configure Soot OA Inter;1.13900
+Successfully applied package: cg;1.99000
+Successfully applied package: wjtp;0.39700
+Time to perform OA Inter;3.53500
+Configure Soot OA Inter;1.16400
+Successfully applied package: cg;2.05000
+Successfully applied package: wjtp;0.41200
+Time to perform OA Inter;3.63500
+Configure Soot OA Inter;1.22400
+Successfully applied package: cg;2.31000
+Successfully applied package: wjtp;0.01400
+Time to perform OA Inter;3.55400
+Configure Soot OA Inter;0.97000
+Successfully applied package: cg;1.52300
+Successfully applied package: wjtp;0.82900
+Time to perform OA Inter;3.32800
+Configure Soot OA Inter;0.73600
+Successfully applied package: cg;0.53300
+Successfully applied package: wjtp;0.43800
+Time to perform OA Inter;1.71200
+Configure Soot OA Inter;0.82800
+Successfully applied package: cg;1.67900
+Successfully applied package: wjtp;0.01100
+Time to perform OA Inter;2.52200
+Configure Soot OA Inter;0.78100
+Successfully applied package: cg;1.66000
+Successfully applied package: wjtp;0.00700
+Time to perform OA Inter;2.45300
+Configure Soot OA Inter;0.61700
+Successfully applied package: cg;0.51400
+Successfully applied package: wjtp;0.07200
+Time to perform OA Inter;1.20800
+Configure Soot OA Inter;0.86600
+Successfully applied package: cg;0.67200
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;1.60900
+Configure Soot OA Inter;0.95200
+Successfully applied package: cg;1.65700
+Successfully applied package: wjtp;0.55700
+Time to perform OA Inter;3.26600
+Configure Soot OA Inter;0.78500
+Successfully applied package: cg;0.62600
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;1.47300
+Configure Soot OA Inter;0.69200
+Successfully applied package: cg;0.64000
+Successfully applied package: wjtp;0.05200
+Time to perform OA Inter;1.39200
+Configure Soot OA Inter;0.63000
+Successfully applied package: cg;0.47800
+Successfully applied package: wjtp;0.07900
+Time to perform OA Inter;1.19400
+Configure Soot OA Inter;0.63700
+Successfully applied package: cg;0.11800
+Successfully applied package: wjtp;0.12300
+Time to perform OA Inter;0.88300
+Configure Soot OA Inter;0.77200
+Successfully applied package: cg;1.49600
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;2.29200
+Configure Soot OA Inter;0.62500
+Successfully applied package: cg;0.69200
+Successfully applied package: wjtp;0.04100
+Time to perform OA Inter;1.36700
+Configure Soot OA Inter;0.62000
+Successfully applied package: cg;0.73300
+Successfully applied package: wjtp;0.02600
+Time to perform OA Inter;1.38400
+Configure Soot OA Inter;0.93400
+Successfully applied package: cg;0.84700
+Successfully applied package: wjtp;0.30200
+Time to perform OA Inter;2.09000
+Configure Soot OA Inter;5.71700
+Successfully applied package: cg;8.53700
+Successfully applied package: wjtp;1.01300
+Time to perform OA Inter;15.27600
+Configure Soot OA Inter;1.01000
+Successfully applied package: cg;0.82400
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;1.88800
+Configure Soot OA Inter;0.91000
+Successfully applied package: cg;1.31000
+Successfully applied package: wjtp;0.05500
+Time to perform OA Inter;2.28600
+Configure Soot OA Inter;0.65000
+Successfully applied package: cg;0.93100
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;1.60500
+Configure Soot OA Inter;0.93900
+Successfully applied package: cg;2.01900
+Successfully applied package: wjtp;0.58700
+Time to perform OA Inter;3.55300
+Configure Soot OA Inter;1.25700
+Successfully applied package: cg;1.63500
+Successfully applied package: wjtp;0.06000
+Time to perform OA Inter;2.95800
+Configure Soot OA Inter;0.77800
+Successfully applied package: cg;0.12900
+Successfully applied package: wjtp;0.14700
+Time to perform OA Inter;1.05900
+Configure Soot OA Inter;0.94100
+Successfully applied package: cg;0.47700
+Successfully applied package: wjtp;0.10300
+Time to perform OA Inter;1.54200
+Configure Soot OA Inter;1.02000
+Successfully applied package: cg;1.95100
+Successfully applied package: wjtp;1.22100
+Time to perform OA Inter;4.19900
+Configure Soot OA Inter;0.90300
+Successfully applied package: cg;0.91700
+Successfully applied package: wjtp;0.23100
+Time to perform OA Inter;2.12600
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;0.93900
+Successfully applied package: wjtp;0.22700
+Time to perform OA Inter;2.17200
+Configure Soot OA Inter;0.69200
+Successfully applied package: cg;0.28500
+Successfully applied package: wjtp;0.02000
+Time to perform OA Inter;1.00400
+Configure Soot OA Inter;1.73700
+Successfully applied package: cg;16.11000
+Successfully applied package: wjtp;22.46700
+Time to perform OA Inter;40.35800
+Configure Soot OA Inter;1.67100
+Successfully applied package: cg;16.61000
+Successfully applied package: wjtp;0.99000
+Time to perform OA Inter;19.28700
+Configure Soot OA Inter;1.59700
+Successfully applied package: cg;17.10600
+Successfully applied package: wjtp;0.16500
+Time to perform OA Inter;18.87700
+Configure Soot OA Inter;0.61800
+Successfully applied package: cg;0.05200
+Successfully applied package: wjtp;0.00600
+Time to perform OA Inter;0.68100
+Configure Soot OA Inter;1.00000
+Successfully applied package: cg;0.98500
+Successfully applied package: wjtp;0.22700
+Time to perform OA Inter;2.21900
+Configure Soot OA Inter;0.89300
+Successfully applied package: cg;0.07500
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;0.98400
+Configure Soot OA Inter;0.94100
+Successfully applied package: cg;1.91900
+Successfully applied package: wjtp;11.11100
+Time to perform OA Inter;14.03400
+Configure Soot OA Inter;0.92000
+Successfully applied package: cg;1.88200
+Successfully applied package: wjtp;31.90300
+Time to perform OA Inter;34.74100
+Configure Soot OA Inter;0.91000
+Successfully applied package: cg;1.67000
+Successfully applied package: wjtp;61.71000
+Time to perform OA Inter;64.34000
+Configure Soot OA Inter;0.64400
+Successfully applied package: cg;1.08700
+Successfully applied package: wjtp;0.57100
+Time to perform OA Inter;2.30700
+Configure Soot OA Inter;0.93000
+Successfully applied package: cg;1.45100
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;2.41200
+Configure Soot OA Inter;0.93700
+Successfully applied package: cg;1.46700
+Successfully applied package: wjtp;1.91200
+Time to perform OA Inter;4.32400
+Configure Soot OA Inter;0.73100
+Successfully applied package: cg;1.05600
+Successfully applied package: wjtp;0.04300
+Time to perform OA Inter;1.84700
+Configure Soot OA Inter;0.62600
+Successfully applied package: cg;1.35800
+Successfully applied package: wjtp;5.31700
+Time to perform OA Inter;7.32400
+Configure Soot OA Inter;0.62800
+Successfully applied package: cg;0.98700
+Successfully applied package: wjtp;0.26600
+Time to perform OA Inter;1.89000
+Configure Soot OA Inter;0.90200
+Successfully applied package: cg;1.49200
+Successfully applied package: wjtp;0.07500
+Time to perform OA Inter;2.47500
+Configure Soot OA Inter;0.91100
+Successfully applied package: cg;1.41800
+Successfully applied package: wjtp;6.05800
+Time to perform OA Inter;8.39500
+Configure Soot OA Inter;0.88600
+Successfully applied package: cg;1.39900
+Successfully applied package: wjtp;0.13500
+Time to perform OA Inter;2.42700
+Configure Soot OA Inter;0.60600
+Successfully applied package: cg;0.94700
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;1.59900
+Configure Soot OA Inter;0.64500
+Successfully applied package: cg;1.25000
+Successfully applied package: wjtp;0.43000
+Time to perform OA Inter;2.32900
+Configure Soot OA Inter;0.62400
+Successfully applied package: cg;0.61200
+Successfully applied package: wjtp;0.18300
+Time to perform OA Inter;1.42400
+Configure Soot OA Inter;0.92000
+Successfully applied package: cg;0.81300
+Successfully applied package: wjtp;0.24900
+Time to perform OA Inter;1.98800
+Configure Soot OA Inter;1.01700
+Successfully applied package: cg;3.01300
+Successfully applied package: wjtp;1.72100
+Time to perform OA Inter;5.75700
+Configure Soot OA Inter;0.68000
+Successfully applied package: cg;2.02500
+Successfully applied package: wjtp;0.13700
+Time to perform OA Inter;2.84900
+Configure Soot OA Inter;0.99300
+Successfully applied package: cg;2.35000
+Successfully applied package: wjtp;0.17200
+Time to perform OA Inter;3.52100
+Configure Soot OA Inter;0.88200
+Successfully applied package: cg;2.93900
+Successfully applied package: wjtp;0.17000
+Time to perform OA Inter;4.00100
+Configure Soot OA Inter;0.65900
+Successfully applied package: cg;2.04500
+Successfully applied package: wjtp;0.09900
+Time to perform OA Inter;2.80700
+Configure Soot OA Inter;0.99100
+Successfully applied package: cg;3.00600
+Successfully applied package: wjtp;0.17200
+Time to perform OA Inter;4.17500
+Configure Soot OA Inter;0.99600
+Successfully applied package: cg;1.98600
+Successfully applied package: wjtp;0.89100
+Time to perform OA Inter;3.87900
+Configure Soot OA Inter;0.96600
+Successfully applied package: cg;2.20500
+Successfully applied package: wjtp;0.46800
+Time to perform OA Inter;3.64800
+Configure Soot OA Inter;0.98700
+Successfully applied package: cg;1.93900
+Successfully applied package: wjtp;0.60800
+Time to perform OA Inter;3.56700
+Configure Soot OA Inter;0.61700
+Successfully applied package: cg;0.56800
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;1.20900
+Configure Soot OA Inter;0.74000
+Successfully applied package: cg;1.79500
+Successfully applied package: wjtp;0.04900
+Time to perform OA Inter;2.59700
+Configure Soot OA Inter;0.71600
+Successfully applied package: cg;0.61500
+Successfully applied package: wjtp;1.30500
+Time to perform OA Inter;2.64100
+Configure Soot OA Inter;0.91400
+Successfully applied package: cg;0.80200
+Successfully applied package: wjtp;0.08400
+Time to perform OA Inter;1.80600
+Configure Soot OA Inter;0.84400
+Successfully applied package: cg;1.21900
+Successfully applied package: wjtp;0.39200
+Time to perform OA Inter;2.46800
+Configure Soot OA Inter;0.92600
+Successfully applied package: cg;0.34200
+Successfully applied package: wjtp;0.55300
+Time to perform OA Inter;1.82700
+Configure Soot OA Inter;0.91200
+Successfully applied package: cg;0.34700
+Successfully applied package: wjtp;0.37500
+Time to perform OA Inter;1.64000
+Configure Soot OA Inter;0.90900
+Successfully applied package: cg;0.70700
+Successfully applied package: wjtp;0.11600
+Time to perform OA Inter;1.73800
+Configure Soot OA Inter;1.64800
+Successfully applied package: cg;12.71500
+Configure Soot OA Inter;1.37900
+Successfully applied package: cg;5.88200
+Successfully applied package: wjtp;0.07000
+Time to perform OA Inter;7.34000
+Configure Soot OA Inter;0.84100
+Successfully applied package: cg;4.29300
+Successfully applied package: wjtp;0.09400
+Time to perform OA Inter;5.23600
+Configure Soot OA Inter;0.95900
+Successfully applied package: cg;4.66000
+Successfully applied package: wjtp;0.07700
+Time to perform OA Inter;5.70700
+Configure Soot OA Inter;1.25900
+Successfully applied package: cg;5.18400
+Successfully applied package: wjtp;0.09000
+Time to perform OA Inter;6.54400
+Configure Soot OA Inter;0.61800
+Successfully applied package: cg;0.31200
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;0.95300
+Configure Soot OA Inter;0.62400
+Successfully applied package: cg;1.27000
+Successfully applied package: wjtp;8.64000
+Time to perform OA Inter;10.54100
+Configure Soot OA Inter;0.63900
+Successfully applied package: cg;0.63100
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;1.32000
+Configure Soot OA Inter;0.87700
+Successfully applied package: cg;5.05100
+Successfully applied package: wjtp;0.33800
+Time to perform OA Inter;6.27000
+Configure Soot OA Inter;0.88000
+Successfully applied package: cg;0.40200
+Successfully applied package: wjtp;0.07700
+Time to perform OA Inter;1.36500
+Configure Soot OA Inter;0.85900
+Successfully applied package: cg;3.46900
+Successfully applied package: wjtp;0.08500
+Time to perform OA Inter;4.41700
+Configure Soot OA Inter;1.22100
+Successfully applied package: cg;4.35500
+Successfully applied package: wjtp;0.88800
+Time to perform OA Inter;6.47200
+Configure Soot OA Inter;0.85500
+Successfully applied package: cg;0.46900
+Successfully applied package: wjtp;0.04600
+Time to perform OA Inter;1.37700
+Configure Soot OA Inter;0.74700
+Successfully applied package: cg;0.96000
+Successfully applied package: wjtp;0.32000
+Time to perform OA Inter;2.03200
+Configure Soot OA Inter;0.69400
+Successfully applied package: cg;2.12000
+Successfully applied package: wjtp;0.29500
+Time to perform OA Inter;3.14500
+Configure Soot OA Inter;0.94600
+Successfully applied package: cg;2.23800
+Successfully applied package: wjtp;0.03000
+Time to perform OA Inter;3.22000
+Configure Soot OA Inter;0.97400
+Successfully applied package: cg;2.37000
+Successfully applied package: wjtp;1.04300
+Time to perform OA Inter;4.39300
+Configure Soot OA Inter;1.15100
+Successfully applied package: cg;6.91400
+Successfully applied package: wjtp;3.95300
+Time to perform OA Inter;12.02700
+Configure Soot OA Inter;0.88200
+Successfully applied package: cg;5.37200
+Successfully applied package: wjtp;0.11200
+Time to perform OA Inter;6.37100
+Configure Soot OA Inter;0.89800
+Successfully applied package: cg;1.01900
+Successfully applied package: wjtp;0.11200
+Time to perform OA Inter;2.03700
+Configure Soot OA Inter;1.86800
+Successfully applied package: cg;14.26000
+Successfully applied package: wjtp;22.82900
+Time to perform OA Inter;38.97100
+Configure Soot OA Inter;1.76100
+Successfully applied package: cg;13.45000
+Successfully applied package: wjtp;0.04700
+Time to perform OA Inter;15.26600
+Configure Soot OA Inter;0.63300
+Successfully applied package: cg;0.85500
+Successfully applied package: wjtp;0.02800
+Time to perform OA Inter;1.52300
+Configure Soot OA Inter;1.57900
+Successfully applied package: cg;69.68000
+Configure Soot OA Inter;2.39300
+Successfully applied package: cg;72.67800
+Configure Soot OA Inter;1.02300
+Successfully applied package: cg;3.80500
+Successfully applied package: wjtp;0.09800
+Time to perform OA Inter;4.93100
+Configure Soot OA Inter;0.98900
+Successfully applied package: cg;3.84000
+Successfully applied package: wjtp;0.09300
+Time to perform OA Inter;4.92800
+Configure Soot OA Inter;0.73900
+Successfully applied package: cg;0.84600
+Successfully applied package: wjtp;0.28200
+Time to perform OA Inter;1.87300
+Configure Soot OA Inter;0.63500
+Successfully applied package: cg;0.96100
+Successfully applied package: wjtp;0.33800
+Time to perform OA Inter;1.93900
+Configure Soot OA Inter;0.64100
+Successfully applied package: cg;1.23200
+Successfully applied package: wjtp;0.45100
+Time to perform OA Inter;2.33000
+Configure Soot OA Inter;0.64200
+Successfully applied package: cg;1.26100
+Successfully applied package: wjtp;0.03500
+Time to perform OA Inter;1.94300
+Configure Soot OA Inter;0.68800
+Successfully applied package: cg;2.44500
+Successfully applied package: wjtp;0.01800
+Time to perform OA Inter;3.15400
+Configure Soot OA Inter;0.72200
+Successfully applied package: cg;3.24300
+Successfully applied package: wjtp;4.41500
+Time to perform OA Inter;8.38600
+Configure Soot OA Inter;1.03400
+Successfully applied package: cg;3.16100
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;4.22000
+Configure Soot OA Inter;1.02800
+Successfully applied package: cg;2.73600
+Successfully applied package: wjtp;2.37700
+Time to perform OA Inter;6.14800
+Configure Soot OA Inter;0.71700
+Successfully applied package: cg;3.17600
+Successfully applied package: wjtp;0.02400
+Time to perform OA Inter;3.92200
+Configure Soot OA Inter;1.03900
+Successfully applied package: cg;2.62900
+Successfully applied package: wjtp;3.13000
+Time to perform OA Inter;6.80500
+Configure Soot OA Inter;0.74600
+Successfully applied package: cg;2.66600
+Successfully applied package: wjtp;0.07300
+Time to perform OA Inter;3.48900
+Configure Soot OA Inter;0.70700
+Successfully applied package: cg;2.43300
+Successfully applied package: wjtp;0.02700
+Time to perform OA Inter;3.17200
+Configure Soot OA Inter;1.02900
+Successfully applied package: cg;2.90700
+Successfully applied package: wjtp;1.37400
+Time to perform OA Inter;5.31600
+Configure Soot OA Inter;0.95900
+Successfully applied package: cg;1.49000
+Successfully applied package: wjtp;0.02200
+Time to perform OA Inter;2.47800
+Configure Soot OA Inter;0.95700
+Successfully applied package: cg;1.87700
+Successfully applied package: wjtp;0.04500
+Time to perform OA Inter;2.88800
+Configure Soot OA Inter;1.03200
+Successfully applied package: cg;2.77500
+Successfully applied package: wjtp;0.03100
+Time to perform OA Inter;3.84600
+Configure Soot OA Inter;0.99300
+Successfully applied package: cg;2.75100
+Successfully applied package: wjtp;4.29000
+Time to perform OA Inter;8.04900
+Configure Soot OA Inter;1.02700
+Successfully applied package: cg;3.06600
+Successfully applied package: wjtp;3.30700
+Time to perform OA Inter;7.40900
+Configure Soot OA Inter;0.88500
+Successfully applied package: cg;3.48400
+Successfully applied package: wjtp;0.17800
+Time to perform OA Inter;4.55400
+Configure Soot OA Inter;1.00000
+Successfully applied package: cg;3.43800
+Successfully applied package: wjtp;1.96800
+Time to perform OA Inter;6.41900
+Configure Soot OA Inter;1.02800
+Successfully applied package: cg;3.35000
+Successfully applied package: wjtp;0.01000
+Time to perform OA Inter;4.39300
+Configure Soot OA Inter;0.72600
+Successfully applied package: cg;3.22800
+Successfully applied package: wjtp;1.60100
+Time to perform OA Inter;5.56100
+Configure Soot OA Inter;1.05500
+Successfully applied package: cg;2.53200
+Successfully applied package: wjtp;0.02100
+Time to perform OA Inter;3.61300
+Configure Soot OA Inter;1.07400
+Successfully applied package: cg;2.61000
+Successfully applied package: wjtp;4.23300
+Time to perform OA Inter;7.93100
+Configure Soot OA Inter;0.71100
+Successfully applied package: cg;2.43300
+Successfully applied package: wjtp;3.57600
+Time to perform OA Inter;6.72700
+Configure Soot OA Inter;0.70300
+Successfully applied package: cg;2.26100
+Successfully applied package: wjtp;3.84400
+Time to perform OA Inter;6.92400
+Configure Soot OA Inter;0.73900
+Successfully applied package: cg;2.42900
+Successfully applied package: wjtp;5.20300
+Time to perform OA Inter;8.37600
+Configure Soot OA Inter;1.03300
+Successfully applied package: cg;3.12600
+Successfully applied package: wjtp;0.02500
+Time to perform OA Inter;4.19000
+Configure Soot OA Inter;0.93700
+Successfully applied package: cg;2.97000
+Successfully applied package: wjtp;0.03400
+Time to perform OA Inter;3.94700
+Configure Soot OA Inter;0.69200
+Successfully applied package: cg;2.45000
+Successfully applied package: wjtp;0.04200
+Time to perform OA Inter;3.19200
+Configure Soot OA Inter;0.89900
+Successfully applied package: cg;0.54800
+Successfully applied package: wjtp;0.03600
+Time to perform OA Inter;1.49300
+Configure Soot OA Inter;0.94300
+Successfully applied package: cg;0.93400
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;1.90200
+Configure Soot OA Inter;0.84500
+Successfully applied package: cg;2.40000
+Successfully applied package: wjtp;0.07100
+Time to perform OA Inter;3.32100
+Configure Soot OA Inter;1.27000
+Successfully applied package: cg;3.51600
+Successfully applied package: wjtp;0.05300
+Time to perform OA Inter;4.84400
+Configure Soot OA Inter;1.23800
+Successfully applied package: cg;3.28700
+Successfully applied package: wjtp;0.09600
+Time to perform OA Inter;4.62700
+Configure Soot OA Inter;1.23500
+Successfully applied package: cg;3.12900
+Successfully applied package: wjtp;0.22200
+Time to perform OA Inter;4.59300
+Configure Soot OA Inter;0.83400
+Successfully applied package: cg;2.47000
+Successfully applied package: wjtp;0.47900
+Time to perform OA Inter;3.78700
+Configure Soot OA Inter;1.25500
+Successfully applied package: cg;2.68200
+Successfully applied package: wjtp;0.05200
+Time to perform OA Inter;3.99400
+Configure Soot OA Inter;1.24600
+Successfully applied package: cg;2.71900
+Successfully applied package: wjtp;0.29400
+Time to perform OA Inter;4.26500
+Configure Soot OA Inter;1.13200
+Successfully applied package: cg;7.13200
+Successfully applied package: wjtp;0.13000
+Time to perform OA Inter;8.40200
+Configure Soot OA Inter;0.69200
+Successfully applied package: cg;2.63100
+Successfully applied package: wjtp;0.81200
+Time to perform OA Inter;4.13900
+Configure Soot OA Inter;1.64100
+Successfully applied package: cg;7.02900
+Configure Soot OA Inter;0.97200
+Successfully applied package: cg;1.55700
+Successfully applied package: wjtp;0.04800
+Time to perform OA Inter;2.58700
+Configure Soot OA Inter;0.97600
+Successfully applied package: cg;1.54500
+Successfully applied package: wjtp;0.04400
+Time to perform OA Inter;2.57200
+Configure Soot OA Inter;0.98600
+Successfully applied package: cg;1.53000
+Successfully applied package: wjtp;0.22600
+Time to perform OA Inter;2.74800
+Configure Soot OA Inter;1.12400
+Successfully applied package: cg;1.36400
+Successfully applied package: wjtp;0.06100
+Time to perform OA Inter;2.55500
+Configure Soot OA Inter;1.06400
+Successfully applied package: cg;1.49400
+Successfully applied package: wjtp;0.06200
+Time to perform OA Inter;2.62600
+Configure Soot OA Inter;0.63500
+Successfully applied package: cg;0.55200
+Successfully applied package: wjtp;0.05500
+Time to perform OA Inter;1.25100
+Configure Soot OA Inter;0.69300
+Successfully applied package: cg;2.02900
+Successfully applied package: wjtp;1.10800
+Time to perform OA Inter;3.84200
+Configure Soot OA Inter;0.97900
+Successfully applied package: cg;1.93300
+Successfully applied package: wjtp;2.06100
+Time to perform OA Inter;4.98700
+Configure Soot OA Inter;0.92900
+Successfully applied package: cg;1.10300
+Successfully applied package: wjtp;0.26400
+Time to perform OA Inter;2.30700
+Configure Soot OA Inter;0.91600
+Successfully applied package: cg;1.10200
+Successfully applied package: wjtp;0.50100
+Time to perform OA Inter;2.52600
+Configure Soot OA Inter;0.96000
+Successfully applied package: cg;1.17500
+Successfully applied package: wjtp;0.07700
+Time to perform OA Inter;2.22200
+Configure Soot OA Inter;0.98200
+Successfully applied package: cg;1.18600
+Successfully applied package: wjtp;0.07800
+Time to perform OA Inter;2.25600
+Configure Soot OA Inter;0.96100
+Successfully applied package: cg;1.18800
+Successfully applied package: wjtp;0.05900
+Time to perform OA Inter;2.21900
+Configure Soot OA Inter;0.96500
+Successfully applied package: cg;1.18300
+Successfully applied package: wjtp;0.90900
+Time to perform OA Inter;3.06700
+Configure Soot OA Inter;0.96700
+Successfully applied package: cg;1.17300
+Successfully applied package: wjtp;0.00900
+Time to perform OA Inter;2.15500
+Configure Soot OA Inter;0.90900
+Successfully applied package: cg;1.21700
+Successfully applied package: wjtp;0.48100
+Time to perform OA Inter;2.61400
+Configure Soot OA Inter;0.95900
+Successfully applied package: cg;1.18000
+Successfully applied package: wjtp;0.07400
+Time to perform OA Inter;2.21900
+Configure Soot OA Inter;0.94300
+Successfully applied package: cg;1.16000
+Successfully applied package: wjtp;0.75500
+Time to perform OA Inter;2.86500
+Configure Soot OA Inter;1.34300
+Successfully applied package: cg;7.00500
+Successfully applied package: wjtp;0.30000
+Time to perform OA Inter;8.65200
+Configure Soot OA Inter;1.25400
+Successfully applied package: cg;9.67400
+Successfully applied package: wjtp;1.41600
+Time to perform OA Inter;12.42500
+Configure Soot OA Inter;0.68900
+Successfully applied package: cg;3.11200
+Successfully applied package: wjtp;6.01500
+Time to perform OA Inter;9.82100
+Configure Soot OA Inter;1.04400
+Successfully applied package: cg;3.65700
+Successfully applied package: wjtp;0.26200
+Time to perform OA Inter;4.97000
+Configure Soot OA Inter;0.66900
+Successfully applied package: cg;3.05400
+Successfully applied package: wjtp;0.75900
+Time to perform OA Inter;4.48900
+Configure Soot OA Inter;0.66200
+Successfully applied package: cg;2.93500
+Successfully applied package: wjtp;3.53000
+Time to perform OA Inter;7.13300
+Configure Soot OA Inter;0.63400
+Successfully applied package: cg;0.78400
+Successfully applied package: wjtp;0.11300
+Time to perform OA Inter;1.53800
+Configure Soot OA Inter;0.63500
+Successfully applied package: cg;0.57400
+Successfully applied package: wjtp;0.11700
+Time to perform OA Inter;1.33500
+Configure Soot OA Inter;0.63200
+Successfully applied package: cg;0.39600
+Successfully applied package: wjtp;0.02800
+Time to perform OA Inter;1.06000
+Configure Soot OA Inter;0.65700
+Successfully applied package: cg;0.71500
+Successfully applied package: wjtp;0.01900
+Time to perform OA Inter;1.39800
+Configure Soot OA Inter;0.89400
+Successfully applied package: cg;0.64100
+Successfully applied package: wjtp;0.18400
+Time to perform OA Inter;1.72500
+Configure Soot OA Inter;0.87200
+Successfully applied package: cg;0.63800
+Successfully applied package: wjtp;0.10400
+Time to perform OA Inter;1.62000
+Configure Soot OA Inter;0.60900
+Successfully applied package: cg;0.54100
+Successfully applied package: wjtp;0.05700
+Time to perform OA Inter;1.21900
+Configure Soot OA Inter;0.91000
+Successfully applied package: cg;0.68000
+Successfully applied package: wjtp;0.21400
+Time to perform OA Inter;1.84600
+Configure Soot OA Inter;0.91500
+Successfully applied package: cg;0.68400
+Successfully applied package: wjtp;0.11200
+Time to perform OA Inter;1.71800

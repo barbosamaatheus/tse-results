@@ -1,0 +1,10 @@
+{
+    "mode": "idfp",
+    "callgraph": "SPARK",
+    "run_number": 1,
+    "status": "SUCCESS",
+    "duration_seconds": 23396.77,
+    "peak_memory_gb": 13.9904,
+    "peak_cpu_percent": 100.24,
+    "timestamp": "2026-05-29T09:54:08.031510"
+}

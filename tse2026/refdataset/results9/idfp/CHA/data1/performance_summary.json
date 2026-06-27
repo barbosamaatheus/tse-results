@@ -1,0 +1,10 @@
+{
+    "mode": "idfp",
+    "callgraph": "CHA",
+    "run_number": 1,
+    "status": "SUCCESS",
+    "duration_seconds": 36566.6,
+    "peak_memory_gb": 13.8255,
+    "peak_cpu_percent": 100.21,
+    "timestamp": "2026-05-27T19:35:54.880458"
+}

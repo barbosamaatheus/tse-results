@@ -1,0 +1,336 @@
+Configure Soot Confluence 1 Inter;1.53900
+Time to perform Confluence 1 Inter;21.22300
+Configure Soot Confluence 2 Inter;0.55000
+Time to perform Confluence 2 Inter;16.63400
+Configure Soot Confluence 1 Inter;1.07100
+Time to perform Confluence 1 Inter;20.75300
+Configure Soot Confluence 2 Inter;0.49800
+Time to perform Confluence 2 Inter;16.80600
+Configure Soot Confluence 1 Inter;1.03000
+Time to perform Confluence 1 Inter;3.96500
+Configure Soot Confluence 2 Inter;0.33000
+Time to perform Confluence 2 Inter;2.85300
+Configure Soot Confluence 1 Inter;1.12600
+Time to perform Confluence 1 Inter;5.42600
+Configure Soot Confluence 2 Inter;0.40600
+Time to perform Confluence 2 Inter;3.47900
+Configure Soot Confluence 1 Inter;1.28400
+Time to perform Confluence 1 Inter;10.63400
+Configure Soot Confluence 2 Inter;0.65700
+Time to perform Confluence 2 Inter;7.72700
+Configure Soot Confluence 1 Inter;0.67300
+Time to perform Confluence 1 Inter;2.55800
+Configure Soot Confluence 2 Inter;0.41600
+Time to perform Confluence 2 Inter;1.41000
+Configure Soot Confluence 1 Inter;0.86300
+Time to perform Confluence 1 Inter;3.81500
+Configure Soot Confluence 2 Inter;0.42100
+Time to perform Confluence 2 Inter;2.28800
+Configure Soot Confluence 1 Inter;0.96600
+Time to perform Confluence 1 Inter;2.31000
+Configure Soot Confluence 2 Inter;0.43100
+Time to perform Confluence 2 Inter;1.53500
+Configure Soot Confluence 1 Inter;0.62900
+Time to perform Confluence 1 Inter;1.20800
+Configure Soot Confluence 2 Inter;0.24300
+Time to perform Confluence 2 Inter;0.50700
+Configure Soot Confluence 1 Inter;0.84100
+Time to perform Confluence 1 Inter;1.34400
+Configure Soot Confluence 2 Inter;0.53100
+Time to perform Confluence 2 Inter;0.66700
+Configure Soot Confluence 1 Inter;0.98700
+Time to perform Confluence 1 Inter;1.90600
+Configure Soot Confluence 2 Inter;0.46600
+Time to perform Confluence 2 Inter;1.26900
+Configure Soot Confluence 1 Inter;1.17200
+Time to perform Confluence 1 Inter;1.82100
+Configure Soot Confluence 2 Inter;0.65500
+Time to perform Confluence 2 Inter;1.10000
+Configure Soot Confluence 1 Inter;1.30500
+Time to perform Confluence 1 Inter;11.52700
+Configure Soot Confluence 2 Inter;0.51200
+Time to perform Confluence 2 Inter;7.76400
+Configure Soot Confluence 1 Inter;1.21700
+Time to perform Confluence 1 Inter;4.34100
+Configure Soot Confluence 2 Inter;0.38800
+Time to perform Confluence 2 Inter;1.93000
+Configure Soot Confluence 1 Inter;1.13900
+Time to perform Confluence 1 Inter;14.34800
+Configure Soot Confluence 2 Inter;0.46600
+Time to perform Confluence 2 Inter;11.10300
+Configure Soot Confluence 1 Inter;0.72900
+Time to perform Confluence 1 Inter;3.27700
+Configure Soot Confluence 2 Inter;0.29300
+Time to perform Confluence 2 Inter;1.38800
+Configure Soot Confluence 1 Inter;0.75600
+Time to perform Confluence 1 Inter;3.39400
+Configure Soot Confluence 2 Inter;0.34500
+Time to perform Confluence 2 Inter;1.66300
+Configure Soot Confluence 1 Inter;0.91900
+Time to perform Confluence 1 Inter;3.61400
+Configure Soot Confluence 2 Inter;0.47300
+Time to perform Confluence 2 Inter;2.38900
+Configure Soot Confluence 1 Inter;0.89600
+Time to perform Confluence 1 Inter;2.79200
+Configure Soot Confluence 2 Inter;0.49600
+Time to perform Confluence 2 Inter;1.44800
+Configure Soot Confluence 1 Inter;0.93700
+Time to perform Confluence 1 Inter;16.53400
+Configure Soot Confluence 2 Inter;0.54600
+Time to perform Confluence 2 Inter;11.71300
+Configure Soot Confluence 1 Inter;1.42500
+Time to perform Confluence 1 Inter;19.57100
+Configure Soot Confluence 2 Inter;1.00700
+Time to perform Confluence 2 Inter;15.14200
+Configure Soot Confluence 1 Inter;1.41200
+Time to perform Confluence 1 Inter;13.84200
+Configure Soot Confluence 2 Inter;0.93800
+Time to perform Confluence 2 Inter;12.25000
+Configure Soot Confluence 1 Inter;0.64600
+Time to perform Confluence 1 Inter;2.29100
+Configure Soot Confluence 2 Inter;0.27300
+Time to perform Confluence 2 Inter;1.52400
+Configure Soot Confluence 1 Inter;0.73000
+Time to perform Confluence 1 Inter;1.02300
+Configure Soot Confluence 2 Inter;0.34200
+Time to perform Confluence 2 Inter;0.50000
+Configure Soot Confluence 1 Inter;1.09300
+Time to perform Confluence 1 Inter;1.98800
+Configure Soot Confluence 2 Inter;0.39900
+Time to perform Confluence 2 Inter;0.98700
+Configure Soot Confluence 1 Inter;0.84800
+Time to perform Confluence 1 Inter;1.00700
+Configure Soot Confluence 2 Inter;0.26500
+Time to perform Confluence 2 Inter;0.41700
+Configure Soot Confluence 1 Inter;0.93300
+Time to perform Confluence 1 Inter;1.43500
+Configure Soot Confluence 2 Inter;0.55000
+Time to perform Confluence 2 Inter;0.60300
+Configure Soot Confluence 1 Inter;0.86200
+Time to perform Confluence 1 Inter;1.71200
+Configure Soot Confluence 2 Inter;0.38700
+Time to perform Confluence 2 Inter;0.75200
+Configure Soot Confluence 1 Inter;1.05700
+Time to perform Confluence 1 Inter;1.89900
+Configure Soot Confluence 2 Inter;0.33400
+Time to perform Confluence 2 Inter;0.61300
+Configure Soot Confluence 1 Inter;0.84200
+Time to perform Confluence 1 Inter;1.25500
+Configure Soot Confluence 2 Inter;0.48600
+Time to perform Confluence 2 Inter;0.51900
+Configure Soot Confluence 1 Inter;4.98400
+Configure Soot Confluence 1 Inter;1.66600
+Time to perform Confluence 1 Inter;75.68800
+Configure Soot Confluence 2 Inter;1.08700
+Time to perform Confluence 2 Inter;63.72800
+Configure Soot Confluence 1 Inter;0.86400
+Time to perform Confluence 1 Inter;6.00100
+Configure Soot Confluence 2 Inter;0.42800
+Time to perform Confluence 2 Inter;2.82600
+Configure Soot Confluence 1 Inter;1.19000
+Configure Soot Confluence 1 Inter;1.06000
+Time to perform Confluence 1 Inter;1.01400
+Configure Soot Confluence 2 Inter;0.44600
+Time to perform Confluence 2 Inter;0.22200
+Configure Soot Confluence 1 Inter;1.10000
+Time to perform Confluence 1 Inter;1.41200
+Configure Soot Confluence 2 Inter;0.58500
+Time to perform Confluence 2 Inter;0.53300
+Configure Soot Confluence 1 Inter;5.13500
+Configure Soot Confluence 1 Inter;1.91400
+Time to perform Confluence 1 Inter;42.98400
+Configure Soot Confluence 2 Inter;0.68300
+Time to perform Confluence 2 Inter;37.20800
+Configure Soot Confluence 1 Inter;1.90200
+Configure Soot Confluence 1 Inter;1.00900
+Time to perform Confluence 1 Inter;2.24800
+Configure Soot Confluence 2 Inter;0.58200
+Time to perform Confluence 2 Inter;1.55500
+Configure Soot Confluence 1 Inter;0.91000
+Time to perform Confluence 1 Inter;2.51200
+Configure Soot Confluence 2 Inter;0.50900
+Time to perform Confluence 2 Inter;1.58700
+Configure Soot Confluence 1 Inter;1.49500
+Time to perform Confluence 1 Inter;22.68000
+Configure Soot Confluence 2 Inter;1.31000
+Time to perform Confluence 2 Inter;17.80500
+Configure Soot Confluence 1 Inter;0.93500
+Time to perform Confluence 1 Inter;7.03800
+Configure Soot Confluence 2 Inter;0.39300
+Time to perform Confluence 2 Inter;5.46600
+Configure Soot Confluence 1 Inter;0.84000
+Time to perform Confluence 1 Inter;82.64600
+Configure Soot Confluence 2 Inter;0.44700
+Time to perform Confluence 2 Inter;81.67300
+Configure Soot Confluence 1 Inter;0.97900
+Time to perform Confluence 1 Inter;18.57800
+Configure Soot Confluence 2 Inter;0.52000
+Time to perform Confluence 2 Inter;16.29600
+Configure Soot Confluence 1 Inter;0.81900
+Time to perform Confluence 1 Inter;93.20700
+Configure Soot Confluence 2 Inter;0.30700
+Time to perform Confluence 2 Inter;79.26600
+Configure Soot Confluence 1 Inter;1.11800
+Time to perform Confluence 1 Inter;5.84800
+Configure Soot Confluence 2 Inter;0.51400
+Time to perform Confluence 2 Inter;4.92900
+Configure Soot Confluence 1 Inter;1.15300
+Time to perform Confluence 1 Inter;11.33700
+Configure Soot Confluence 2 Inter;0.49200
+Time to perform Confluence 2 Inter;9.86800
+Configure Soot Confluence 1 Inter;1.26400
+Time to perform Confluence 1 Inter;65.43800
+Configure Soot Confluence 2 Inter;0.49900
+Time to perform Confluence 2 Inter;59.29100
+Configure Soot Confluence 1 Inter;1.23600
+Time to perform Confluence 1 Inter;13.85800
+Configure Soot Confluence 2 Inter;0.43900
+Time to perform Confluence 2 Inter;9.61200
+Configure Soot Confluence 1 Inter;1.09600
+Time to perform Confluence 1 Inter;6.66500
+Configure Soot Confluence 2 Inter;0.38200
+Time to perform Confluence 2 Inter;4.26500
+Configure Soot Confluence 1 Inter;1.02400
+Time to perform Confluence 1 Inter;5.13800
+Configure Soot Confluence 2 Inter;0.49700
+Time to perform Confluence 2 Inter;4.33500
+Configure Soot Confluence 1 Inter;0.98800
+Time to perform Confluence 1 Inter;5.00200
+Configure Soot Confluence 2 Inter;0.37200
+Time to perform Confluence 2 Inter;3.37900
+Configure Soot Confluence 1 Inter;0.76100
+Time to perform Confluence 1 Inter;11.01200
+Configure Soot Confluence 2 Inter;0.55400
+Time to perform Confluence 2 Inter;7.57100
+Configure Soot Confluence 1 Inter;1.01100
+Time to perform Confluence 1 Inter;4.57100
+Configure Soot Confluence 2 Inter;0.39600
+Time to perform Confluence 2 Inter;2.97800
+Configure Soot Confluence 1 Inter;1.24900
+Time to perform Confluence 1 Inter;9.53400
+Configure Soot Confluence 2 Inter;0.48200
+Time to perform Confluence 2 Inter;8.86700
+Configure Soot Confluence 1 Inter;0.96400
+Time to perform Confluence 1 Inter;3.79500
+Configure Soot Confluence 2 Inter;0.30400
+Time to perform Confluence 2 Inter;2.50800
+Configure Soot Confluence 1 Inter;0.90500
+Time to perform Confluence 1 Inter;30.57100
+Configure Soot Confluence 2 Inter;0.49500
+Time to perform Confluence 2 Inter;21.01200
+Configure Soot Confluence 1 Inter;0.98400
+Time to perform Confluence 1 Inter;5.82700
+Configure Soot Confluence 2 Inter;0.31100
+Time to perform Confluence 2 Inter;3.14100
+Configure Soot Confluence 1 Inter;0.91800
+Time to perform Confluence 1 Inter;7.91800
+Configure Soot Confluence 2 Inter;0.46900
+Time to perform Confluence 2 Inter;6.65500
+Configure Soot Confluence 1 Inter;0.93600
+Time to perform Confluence 1 Inter;9.58100
+Configure Soot Confluence 2 Inter;0.43200
+Time to perform Confluence 2 Inter;8.33200
+Configure Soot Confluence 1 Inter;0.63900
+Time to perform Confluence 1 Inter;1.86600
+Configure Soot Confluence 2 Inter;0.26200
+Time to perform Confluence 2 Inter;1.32700
+Configure Soot Confluence 1 Inter;0.76300
+Time to perform Confluence 1 Inter;2.49300
+Configure Soot Confluence 2 Inter;0.41500
+Time to perform Confluence 2 Inter;1.90400
+Configure Soot Confluence 1 Inter;0.93600
+Time to perform Confluence 1 Inter;5.60200
+Configure Soot Confluence 2 Inter;0.31700
+Time to perform Confluence 2 Inter;2.86800
+Configure Soot Confluence 1 Inter;1.69400
+Configure Soot Confluence 1 Inter;2.51100
+Configure Soot Confluence 1 Inter;2.14500
+Configure Soot Confluence 1 Inter;2.25100
+Configure Soot Confluence 1 Inter;2.66900
+Configure Soot Confluence 1 Inter;2.76200
+Configure Soot Confluence 1 Inter;2.20100
+Configure Soot Confluence 1 Inter;2.97200
+Configure Soot Confluence 1 Inter;3.13000
+Configure Soot Confluence 1 Inter;2.61400
+Configure Soot Confluence 1 Inter;1.91400
+Configure Soot Confluence 1 Inter;2.28500
+Configure Soot Confluence 1 Inter;2.57300
+Configure Soot Confluence 1 Inter;2.66700
+Configure Soot Confluence 1 Inter;2.03200
+Configure Soot Confluence 1 Inter;2.62700
+Configure Soot Confluence 1 Inter;2.88100
+Configure Soot Confluence 1 Inter;1.95200
+Configure Soot Confluence 1 Inter;1.88100
+Time to perform Confluence 1 Inter;286.69300
+Configure Soot Confluence 2 Inter;2.01600
+Configure Soot Confluence 1 Inter;1.01800
+Configure Soot Confluence 1 Inter;2.52900
+Time to perform Confluence 1 Inter;164.56600
+Configure Soot Confluence 2 Inter;1.78400
+Configure Soot Confluence 1 Inter;2.03800
+Time to perform Confluence 1 Inter;174.98500
+Configure Soot Confluence 2 Inter;1.99600
+Configure Soot Confluence 1 Inter;1.89400
+Time to perform Confluence 1 Inter;8.86800
+Configure Soot Confluence 2 Inter;0.97000
+Time to perform Confluence 2 Inter;6.98600
+Configure Soot Confluence 1 Inter;1.85000
+Time to perform Confluence 1 Inter;7.24300
+Configure Soot Confluence 2 Inter;1.26500
+Time to perform Confluence 2 Inter;4.25000
+Configure Soot Confluence 1 Inter;1.42100
+Time to perform Confluence 1 Inter;7.34100
+Configure Soot Confluence 2 Inter;1.31600
+Time to perform Confluence 2 Inter;4.01300
+Configure Soot Confluence 1 Inter;0.83100
+Time to perform Confluence 1 Inter;0.89300
+Configure Soot Confluence 2 Inter;0.40400
+Time to perform Confluence 2 Inter;0.33000
+Configure Soot Confluence 1 Inter;1.64500
+Time to perform Confluence 1 Inter;5.64100
+Configure Soot Confluence 2 Inter;1.57300
+Time to perform Confluence 2 Inter;4.81800
+Configure Soot Confluence 1 Inter;0.72300
+Time to perform Confluence 1 Inter;11.83300
+Configure Soot Confluence 2 Inter;0.55800
+Time to perform Confluence 2 Inter;11.15300
+Configure Soot Confluence 1 Inter;1.32700
+Time to perform Confluence 1 Inter;9.92500
+Configure Soot Confluence 2 Inter;0.74700
+Time to perform Confluence 2 Inter;7.54000
+Configure Soot Confluence 1 Inter;0.82000
+Time to perform Confluence 1 Inter;0.68400
+Configure Soot Confluence 2 Inter;0.34600
+Time to perform Confluence 2 Inter;0.11900
+Configure Soot Confluence 1 Inter;0.86600
+Time to perform Confluence 1 Inter;0.42800
+Configure Soot Confluence 2 Inter;0.42700
+Time to perform Confluence 2 Inter;0.08900
+Configure Soot Confluence 1 Inter;1.19600
+Time to perform Confluence 1 Inter;6.96100
+Configure Soot Confluence 2 Inter;0.57400
+Time to perform Confluence 2 Inter;4.52600
+Configure Soot Confluence 1 Inter;0.83800
+Time to perform Confluence 1 Inter;1.86200
+Configure Soot Confluence 2 Inter;0.65600
+Time to perform Confluence 2 Inter;1.15900
+Configure Soot Confluence 1 Inter;1.08100
+Time to perform Confluence 1 Inter;2.40400
+Configure Soot Confluence 2 Inter;0.65700
+Time to perform Confluence 2 Inter;1.04900
+Configure Soot Confluence 1 Inter;1.11800
+Time to perform Confluence 1 Inter;1.68500
+Configure Soot Confluence 2 Inter;0.37700
+Time to perform Confluence 2 Inter;0.76200
+Configure Soot Confluence 1 Inter;1.02600
+Time to perform Confluence 1 Inter;4.30400
+Configure Soot Confluence 2 Inter;0.30400
+Time to perform Confluence 2 Inter;1.99600
+Configure Soot Confluence 1 Inter;1.19000
+Time to perform Confluence 1 Inter;1.17100
+Configure Soot Confluence 2 Inter;0.40400
+Time to perform Confluence 2 Inter;0.49900
+Configure Soot Confluence 1 Inter;0.57300
+Time to perform Confluence 1 Inter;1.14300
+Configure Soot Confluence 2 Inter;0.22400
+Time to perform Confluence 2 Inter;0.53000

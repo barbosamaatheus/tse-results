@@ -1,0 +1,3875 @@
+Setting partial results on timeout
+Running soot scenario antlr4;org.antlr.v4.codegen.target.Python2Target;python2Keywords;69ff2669eec265e25721dbc27cb00f6c381d0b41
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/antlr4/69ff2669eec265e25721dbc27cb00f6c381d0b41/original-without-dependencies/merge/antlr4-4.5.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.56300
+Applying package: cg
+Successfully applied package: cg 18.72300
+Applying package: wjtp
+countEdges: 35488
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02700
+Time to perform OA Inter 20.31800
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario antlr4;org.antlr.v4.codegen.target.Python3Target;python3Keywords;69ff2669eec265e25721dbc27cb00f6c381d0b41
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/antlr4/69ff2669eec265e25721dbc27cb00f6c381d0b41/original-without-dependencies/merge/antlr4-4.5.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.38700
+Applying package: cg
+Successfully applied package: cg 18.01400
+Applying package: wjtp
+countEdges: 35488
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02100
+Time to perform OA Inter 19.42700
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario druid;com.metamx.druid.loading.S3SegmentPusher;push(File, DataSegment);05168808c278c080c59c19e858d9471b316cd1f5
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/druid/05168808c278c080c59c19e858d9471b316cd1f5/original-without-dependencies/merge/druid-server-0.2.8-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.01400
+Applying package: cg
+Successfully applied package: cg 1.03700
+Applying package: wjtp
+countEdges: 752
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.09600
+Time to perform OA Inter 2.15300
+OA Inter Visited methods: 18
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario netty;org.jboss.netty.handler.codec.frame.LengthFieldBasedFrameDecoder;decode(ChannelHandlerContext, Channel, ChannelBuffer);193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/netty/193acdb36cd3da9bfc62dd69c4208dff3f0a2b1b/original-without-dependencies/merge/netty-4.0.0.Alpha1-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.14400
+Applying package: cg
+Successfully applied package: cg 5.51600
+Applying package: wjtp
+countEdges: 4103
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 29
+assignments:
+Successfully applied package: wjtp 0.07000
+Time to perform OA Inter 6.73500
+OA Inter Visited methods: 82
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario OpenTripPlanner;org.opentripplanner.routing.spt.MultiShortestPathTree;dominates(State, State);4c506dce43775704919d084f0acfba86d251bf4a
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/OpenTripPlanner/4c506dce43775704919d084f0acfba86d251bf4a/original-without-dependencies/merge/otp-1.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.49500
+Applying package: cg
+Successfully applied package: cg 10.79100
+Applying package: wjtp
+countEdges: 23756
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.06300
+Time to perform OA Inter 12.35500
+OA Inter Visited methods: 27
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario webbit;org.webbitserver.netty.WebSocketClient;adjustPipelineToWebSocket(ChannelHandlerContext, MessageEvent, ChannelHandler, ChannelHandler);74d2d2b87704d003acacb34e4ca8fb5f897b938f
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/webbit/74d2d2b87704d003acacb34e4ca8fb5f897b938f/original-without-dependencies/merge/webbit-0.3.7-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.65700
+Applying package: cg
+Successfully applied package: cg 1.41500
+Applying package: wjtp
+countEdges: 3356
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 10435
+assignments:
+Successfully applied package: wjtp 1.71300
+Time to perform OA Inter 3.79000
+OA Inter Visited methods: 3764
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario resty-gwt;org.fusesource.restygwt.rebind.DirectRestServiceInterfaceClassCreator;getMethodCallback(JMethod);867b917c43c32acbdcac55767e7f04334006c866
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/resty-gwt/867b917c43c32acbdcac55767e7f04334006c866/original-without-dependencies/merge/restygwt-2.2.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.93200
+Applying package: cg
+Successfully applied package: cg 3.14000
+Applying package: wjtp
+countEdges: 7649
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.03700
+[CONFLICT_FOUND]
+Time to perform OA Inter 4.11500
+OA Inter Visited methods: 2
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+Error getting the previous content of the JSON file out.json
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario storm;org.apache.storm.kafka.spout.KafkaSpout;open(Map, TopologyContext, SpoutOutputCollector);ad2be678831b3b060229fd936e3908110162b7ac
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/storm/ad2be678831b3b060229fd936e3908110162b7ac/original-without-dependencies/merge/storm-kafka-client-2.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94100
+Applying package: cg
+Successfully applied package: cg 1.36200
+Applying package: wjtp
+countEdges: 1861
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 88
+assignments:
+Successfully applied package: wjtp 0.03600
+Time to perform OA Inter 2.34500
+OA Inter Visited methods: 32
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;KafkaSpoutConfig(Builder<K,V>);ad2be678831b3b060229fd936e3908110162b7ac
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/storm/ad2be678831b3b060229fd936e3908110162b7ac/original-without-dependencies/merge/storm-kafka-client-2.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.62600
+Applying package: cg
+Successfully applied package: cg 1.09500
+Applying package: wjtp
+countEdges: 1861
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 6
+assignments:
+Successfully applied package: wjtp 0.03300
+Time to perform OA Inter 1.76400
+OA Inter Visited methods: 41
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario storm;org.apache.storm.kafka.spout.KafkaSpoutConfig;toString();ad2be678831b3b060229fd936e3908110162b7ac
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/storm/ad2be678831b3b060229fd936e3908110162b7ac/original-without-dependencies/merge/storm-kafka-client-2.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.62100
+Applying package: cg
+Successfully applied package: cg 1.24900
+Applying package: wjtp
+countEdges: 1861
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01400
+Time to perform OA Inter 1.89000
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario storm;org.apache.storm.kafka.spout.KafkaSpout;emitTupleIfNotEmitted(ConsumerRecord<K,V>);bd1f5c54752f67b484a83c26667331234234d3a3
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/storm/bd1f5c54752f67b484a83c26667331234234d3a3/original-without-dependencies/merge/storm-kafka-client-2.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94100
+Applying package: cg
+Successfully applied package: cg 1.15100
+Applying package: wjtp
+countEdges: 1445
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.03700
+Time to perform OA Inter 2.13500
+OA Inter Visited methods: 21
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario swagger-maven-plugin;com.github.kongchen.swagger.docgen.reader.AbstractReader;hasValidAnnotations(List<Annotation>);e825a7fdc6ef688f1253b93d2cb236e710acfc56
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/swagger-maven-plugin/e825a7fdc6ef688f1253b93d2cb236e710acfc56/original-without-dependencies/merge/swagger-maven-plugin-3.1.1-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.12900
+Applying package: cg
+Successfully applied package: cg 1.36300
+Applying package: wjtp
+countEdges: 2115
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01500
+Time to perform OA Inter 2.51300
+OA Inter Visited methods: 1
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);a8b6982de98ff76ef254031d7152fff57f6bf941
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/jsoup/a8b6982de98ff76ef254031d7152fff57f6bf941/original-without-dependencies/merge/jsoup-1.8.4-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.05900
+Applying package: cg
+Successfully applied package: cg 3.26900
+Applying package: wjtp
+countEdges: 7107
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 20
+assignments:
+Successfully applied package: wjtp 0.38000
+Time to perform OA Inter 4.71500
+OA Inter Visited methods: 587
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario jsoup;org.jsoup.helper.HttpConnection;createConnection(Connection.Request);fee4762322f85a1109edd75ccb67f38cf5008c80
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/jsoup/fee4762322f85a1109edd75ccb67f38cf5008c80/original-without-dependencies/merge/jsoup-1.8.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.02200
+Applying package: cg
+Successfully applied package: cg 3.21200
+Applying package: wjtp
+countEdges: 6924
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 336
+assignments:
+Successfully applied package: wjtp 0.17100
+Time to perform OA Inter 4.41100
+OA Inter Visited methods: 106
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/jsoup/3f7d2c71dbbbb289c684f339874eed8ac2747fa0/original-without-dependencies/merge/jsoup-1.7.4-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94900
+Applying package: cg
+Successfully applied package: cg 3.47800
+Applying package: wjtp
+countEdges: 6800
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.25800
+Time to perform OA Inter 4.69100
+OA Inter Visited methods: 484
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/jsoup/a44e18aa3c1fcd25a68a5965f9490d8f7d026509/original-without-dependencies/merge/jsoup-1.7.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.82600
+Applying package: cg
+Successfully applied package: cg 2.24700
+Applying package: wjtp
+countEdges: 6507
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 4
+assignments:
+Successfully applied package: wjtp 0.06400
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 3.14300
+OA Inter Visited methods: 90
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 2
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/retrofit/2b6c719c6645f8e48dca6d0047c752069d321bc4/original-without-dependencies/merge/retrofit-1.2.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.95600
+Applying package: cg
+Successfully applied package: cg 1.27100
+Applying package: wjtp
+countEdges: 2906
+OA interference in class RestAdapter, method retrofit.client.Response logAndReplaceResponse(java.lang.String,retrofit.client.Response,long), execution of line 415 overrides 438, assigning to variable i, 
+Caused by line 415 flow:
+at retrofit.RestAdapter.logAndReplaceResponse(RestAdapter.java:415)
+at retrofit.android.AndroidLog.log(AndroidLog.java:17)
+And line 438 flow:
+at retrofit.RestAdapter.logAndReplaceResponse(RestAdapter.java:438)
+at retrofit.android.AndroidLog.log(AndroidLog.java:18)
+ 
+OA interference in class RestAdapter, method retrofit.client.Response logAndReplaceResponse(java.lang.String,retrofit.client.Response,long), execution of line 415 overrides 438, assigning to variable l0.<java.lang.String: char[] value>, 
+Caused by line 415 flow:
+at retrofit.RestAdapter.logAndReplaceResponse(RestAdapter.java:415)
+at retrofit.android.AndroidLog.log(AndroidLog.java:19)
+at java.lang.String.substring(String.java:1969)
+at java.lang.String.<init>(String.java:207)
+And line 438 flow:
+at retrofit.RestAdapter.logAndReplaceResponse(RestAdapter.java:438)
+at java.lang.String.<init>(String.java:491)
+at java.lang.String.<init>(String.java:426)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 90
+assignments:
+Successfully applied package: wjtp 0.06300
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.30200
+OA Inter Visited methods: 117
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 26
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/retrofit/2b6c719c6645f8e48dca6d0047c752069d321bc4/original-without-dependencies/merge/retrofit-1.2.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.90900
+Applying package: cg
+Successfully applied package: cg 1.46200
+Applying package: wjtp
+countEdges: 2906
+OA interference in class RestAdapter, method retrofit.client.Request logAndReplaceRequest(retrofit.client.Request), execution of line 369 overrides 398, assigning to variable i, 
+Caused by line 369 flow:
+at retrofit.RestAdapter.logAndReplaceRequest(RestAdapter.java:369)
+at retrofit.android.AndroidLog.log(AndroidLog.java:17)
+And line 398 flow:
+at retrofit.RestAdapter.logAndReplaceRequest(RestAdapter.java:398)
+at retrofit.android.AndroidLog.log(AndroidLog.java:18)
+ 
+OA interference in class RestAdapter, method retrofit.client.Request logAndReplaceRequest(retrofit.client.Request), execution of line 369 overrides 398, assigning to variable l0.<java.lang.String: char[] value>, 
+Caused by line 369 flow:
+at retrofit.RestAdapter.logAndReplaceRequest(RestAdapter.java:369)
+at retrofit.android.AndroidLog.log(AndroidLog.java:19)
+at java.lang.String.substring(String.java:1969)
+at java.lang.String.<init>(String.java:207)
+And line 398 flow:
+at retrofit.RestAdapter.logAndReplaceRequest(RestAdapter.java:398)
+at java.lang.String.<init>(String.java:491)
+at java.lang.String.<init>(String.java:426)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 84
+assignments:
+Successfully applied package: wjtp 0.07000
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.45400
+OA Inter Visited methods: 127
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 26
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario retrofit;retrofit.RequestBuilder;build();71f622ce51031b152a0be6ad5facfb27a654bf5a
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/retrofit/71f622ce51031b152a0be6ad5facfb27a654bf5a/original-without-dependencies/merge/retrofit-1.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.64300
+Applying package: cg
+Successfully applied package: cg 1.06600
+Applying package: wjtp
+countEdges: 2253
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.07700
+Time to perform OA Inter 1.79000
+OA Inter Visited methods: 91
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario activiti;org.activiti.engine.impl.persistence.entity.DeploymentEntityManager;deleteDeployment(String, boolean);50d8e43eb5917c63abfbcdec1e68e510943f325a
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/activiti/50d8e43eb5917c63abfbcdec1e68e510943f325a/original-without-dependencies/merge/activiti-engine-5.16-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.34800
+Applying package: cg
+Successfully applied package: cg 10.64600
+Applying package: wjtp
+countEdges: 28631
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 2027
+assignments:
+Successfully applied package: wjtp 1.11200
+Time to perform OA Inter 13.11100
+OA Inter Visited methods: 1435
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/activiti/bf46684ba62f5883673ea8fb0a14aecfe0aedea2/original-without-dependencies/merge/activiti-engine-5.16-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.93300
+Applying package: cg
+Successfully applied package: cg 10.10000
+Applying package: wjtp
+countEdges: 29022
+OA interference in class UserTaskActivityBehavior, method void execute(org.activiti.engine.impl.pvm.delegate.ActivityExecution), execution of line 111 overrides 127, assigning to variable name, 
+Caused by line 111 flow:
+at org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior.execute(UserTaskActivityBehavior.java:111)
+And line 127 flow:
+at org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior.execute(UserTaskActivityBehavior.java:127)
+ 
+OA interference in class UserTaskActivityBehavior, method void execute(org.activiti.engine.impl.pvm.delegate.ActivityExecution), execution of line 114 overrides 126, assigning to variable scriptResolver, 
+Caused by line 114 flow:
+at org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior.execute(UserTaskActivityBehavior.java:114)
+at org.activiti.engine.impl.persistence.entity.TaskEntity.setFormKey(TaskEntity.java:701)
+at org.activiti.engine.impl.interceptor.CommandContext.getHistoryManager(CommandContext.java:325)
+at org.activiti.engine.impl.interceptor.CommandContext.getSession(CommandContext.java:203)
+at org.activiti.engine.impl.scripting.ScriptBindings.get(ScriptBindings.java:70)
+And line 126 flow:
+at org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior.execute(UserTaskActivityBehavior.java:126)
+at org.activiti.engine.delegate.event.impl.ActivitiEventDispatcherImpl.dispatchEvent(ActivitiEventDispatcherImpl.java:65)
+at org.activiti.engine.delegate.event.impl.ActivitiEventSupport.dispatchEvent(ActivitiEventSupport.java:94)
+at org.activiti.engine.impl.scripting.ScriptBindings.get(ScriptBindings.java:75)
+ 
+OA interference in class UserTaskActivityBehavior, method void execute(org.activiti.engine.impl.pvm.delegate.ActivityExecution), execution of line 111 overrides 125, assigning to variable stack, 
+Caused by line 111 flow:
+at org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior.execute(UserTaskActivityBehavior.java:111)
+at org.activiti.engine.impl.el.JuelExpression.getValue(JuelExpression.java:45)
+at org.activiti.engine.impl.context.Context.getProcessEngineConfiguration(Context.java:52)
+at org.activiti.engine.impl.context.Context.getStack(Context.java:85)
+And line 125 flow:
+at org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior.execute(UserTaskActivityBehavior.java:125)
+at org.activiti.engine.impl.context.Context.getProcessEngineConfiguration(Context.java:52)
+at org.activiti.engine.impl.context.Context.getStack(Context.java:87)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 7663
+assignments:
+Successfully applied package: wjtp 3.36100
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 14.40700
+OA Inter Visited methods: 1974
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 19
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario okhttp;com.squareup.okhttp.internal.bytes.GzipSource;consumeHeader(Deadline);1151c9853ccc3c9c3211c613b9b845b925f8c6a6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/okhttp/1151c9853ccc3c9c3211c613b9b845b925f8c6a6/original-without-dependencies/merge/static-server-2.0.0-SNAPSHOT-shaded.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.43400
+Applying package: cg
+Successfully applied package: cg 13.69000
+Applying package: wjtp
+countEdges: 29801
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.08100
+[CONFLICT_FOUND]
+Time to perform OA Inter 15.21100
+OA Inter Visited methods: 88
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario okhttp;com.squareup.okhttp.OkHttpClient;copyWithDefaults();35166168529bd27281685e56a0a122eff44460e9
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/okhttp/35166168529bd27281685e56a0a122eff44460e9/original-without-dependencies/merge/okhttp-1.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.67200
+Applying package: cg
+Successfully applied package: cg 2.45500
+Applying package: wjtp
+countEdges: 5941
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01100
+Time to perform OA Inter 3.14300
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario HikariCP;com.zaxxer.hikari.HikariConfig;validate();1bca94af9ec625f21d1b58ff10efb5be71ab87a6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/HikariCP/1bca94af9ec625f21d1b58ff10efb5be71ab87a6/original-without-dependencies/merge/HikariCP-1.3.4-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.72200
+Applying package: cg
+Successfully applied package: cg 0.96900
+Applying package: wjtp
+countEdges: 1944
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.00600
+Time to perform OA Inter 1.70200
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario HikariCP;com.zaxxer.hikari.HikariPool;addConnection();1bca94af9ec625f21d1b58ff10efb5be71ab87a6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/HikariCP/1bca94af9ec625f21d1b58ff10efb5be71ab87a6/original-without-dependencies/merge/HikariCP-1.3.4-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.71400
+Applying package: cg
+Successfully applied package: cg 0.90900
+Applying package: wjtp
+countEdges: 1944
+OA interference in class HikariPool, method void addConnection(), execution of line 344 overrides 356, assigning to variable loginTimeout, 
+Caused by line 344 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:344)
+And line 356 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:356)
+ 
+OA interference in class HikariPool, method void addConnection(), execution of line 348 overrides 356, assigning to variable loginTimeout, 
+Caused by line 348 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:348)
+And line 356 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:356)
+ 
+OA interference in class HikariPool, method void addConnection(), execution of line 341 overrides 356, assigning to variable loginTimeout, 
+Caused by line 341 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:341)
+And line 356 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:356)
+ 
+OA interference in class HikariPool, method void addConnection(), execution of line 339 overrides 356, assigning to variable acquisitionTimeout, 
+Caused by line 339 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:339)
+And line 356 flow:
+at com.zaxxer.hikari.HikariPool.addConnection(HikariPool.java:356)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 125
+assignments:
+Successfully applied package: wjtp 0.14000
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 1.77200
+OA Inter Visited methods: 177
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 12
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario pushy;com.relayrides.pushy.apns.PushManager;handleConnectionFailure(ApnsConnection<T>, Throwable);58901c846e4f0874977c5aabbc34bcb4de3670e0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/pushy/58901c846e4f0874977c5aabbc34bcb4de3670e0/original-without-dependencies/merge/pushy-0.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.80000
+Applying package: cg
+Successfully applied package: cg 0.95100
+Applying package: wjtp
+countEdges: 1333
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 148
+assignments:
+Successfully applied package: wjtp 0.05600
+Time to perform OA Inter 1.81100
+OA Inter Visited methods: 33
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario pushy;com.relayrides.pushy.apns.PushManager;handleConnectionClosure(ApnsConnection<T>);58901c846e4f0874977c5aabbc34bcb4de3670e0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/pushy/58901c846e4f0874977c5aabbc34bcb4de3670e0/original-without-dependencies/merge/pushy-0.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.93800
+Applying package: cg
+Successfully applied package: cg 1.12800
+Applying package: wjtp
+countEdges: 1333
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 73
+assignments:
+Successfully applied package: wjtp 0.11100
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.18500
+OA Inter Visited methods: 72
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario java-faker;com.github.javafaker.Faker;Faker(Locale, Random);ca42fcfaf45cae1754c58e02e1d5d2a58ec03561
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/java-faker/ca42fcfaf45cae1754c58e02e1d5d2a58ec03561/original-without-dependencies/merge/javafaker-0.9-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.60200
+Applying package: cg
+Successfully applied package: cg 0.92200
+Applying package: wjtp
+countEdges: 1108
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 160
+assignments:
+Successfully applied package: wjtp 0.08300
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 1.61300
+OA Inter Visited methods: 85
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 2
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario swagger-core;io.swagger.jaxrs2.OperationParser;getSchemaFromAnnotation(io.swagger.oas.annotations.media.Schema);e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/swagger-core/e7fea7c4889dbdd6a4e0b2d059c8aa0f126ab1c2/original-without-dependencies/merge/swagger-jaxrs2-2.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.89400
+Applying package: cg
+Successfully applied package: cg 1.51700
+Applying package: wjtp
+countEdges: 1956
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 32
+assignments:
+Successfully applied package: wjtp 0.05000
+Time to perform OA Inter 2.46700
+OA Inter Visited methods: 78
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario cucumber-jvm;cuke4duke.internal.java.JavaLanguage;load(String);4505c156b6267c1b760deec570ddbfe047b42aa9
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/cucumber-jvm/4505c156b6267c1b760deec570ddbfe047b42aa9/original-without-dependencies/merge/cuke4duke-0.1.2.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.58400
+Applying package: cg
+Successfully applied package: cg 0.62300
+Applying package: wjtp
+countEdges: 1011
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 190
+assignments:
+Successfully applied package: wjtp 0.09900
+Time to perform OA Inter 1.31000
+OA Inter Visited methods: 86
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario dropwizard;io.dropwizard.setup.Bootstrap;Bootstrap(Application<T>);ddd15a681bf42360337844412cae4aba1556eb88
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/dropwizard/ddd15a681bf42360337844412cae4aba1556eb88/original-without-dependencies/merge/dropwizard-example-0.7.1-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 4.38200
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario jenkins;jenkins.slaves.DefaultJnlpSlaveReceiver;handle(String, JnlpSlaveHandshake);48b2b951dfb3438999ceda330093cac82b857ce6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/jenkins/48b2b951dfb3438999ceda330093cac82b857ce6/original-without-dependencies/merge/jenkins-core-1.609.4-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.69200
+Applying package: cg
+Successfully applied package: cg 13.88500
+Applying package: wjtp
+countEdges: 28358
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 470
+assignments:
+Successfully applied package: wjtp 0.29500
+Time to perform OA Inter 15.87800
+OA Inter Visited methods: 172
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/logback/542843fd04a793fb9e0eea0c84d199e66d7c15af/original-without-dependencies/merge/logback-core-1.1.3.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.23000
+Applying package: cg
+Successfully applied package: cg 3.82600
+Applying package: wjtp
+countEdges: 10506
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 388
+assignments:
+Successfully applied package: wjtp 0.20600
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 5.26900
+OA Inter Visited methods: 120
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 2
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario orientdb;com.orientechnologies.orient.core.Orient;startup();a5ce3bcc0a1d196745c575ad6602019f7a6b86f8
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/orientdb/a5ce3bcc0a1d196745c575ad6602019f7a6b86f8/original-without-dependencies/merge/orientdb-core-2.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.99400
+Applying package: cg
+Successfully applied package: cg 48.72700
+Applying package: wjtp
+countEdges: 250388
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario SimianArmy;com.netflix.simianarmy.basic.janitor.BasicJanitorMonkeyContext;getInstanceJanitor();345ad9513aafff397050d613fa87ad06ddffe99d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/SimianArmy/345ad9513aafff397050d613fa87ad06ddffe99d/original-without-dependencies/merge/simianarmy-2.5.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.96800
+Applying package: cg
+Successfully applied package: cg 0.45700
+Applying package: wjtp
+countEdges: 163
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 240
+assignments:
+Successfully applied package: wjtp 0.24300
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 1.67700
+OA Inter Visited methods: 77
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 3
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario SimianArmy;com.netflix.simianarmy.basic.BasicSimianArmyContext;BasicSimianArmyContext(String);c39c19bc6b9231601f6bc7358e638a99adf37e0d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/SimianArmy/c39c19bc6b9231601f6bc7358e638a99adf37e0d/original-without-dependencies/merge/simianarmy-2.5.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.63700
+Applying package: cg
+Successfully applied package: cg 0.31000
+Applying package: wjtp
+countEdges: 163
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 594
+assignments:
+Successfully applied package: wjtp 0.30600
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 1.25900
+OA Inter Visited methods: 113
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 4
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario alluxio;tachyon.hadoop.HdfsFileInputStream;HdfsFileInputStream(TachyonFS, int, Path, Configuration, int);dafe76c90024a915224264b4862b33f40cb8478c
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/alluxio/dafe76c90024a915224264b4862b33f40cb8478c/original-without-dependencies/merge/tachyon-0.6.0-SNAPSHOT-jar-with-dependencies.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 3.18600
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario voldemort;voldemort.VoldemortClientShell;VoldemortClientShell(ClientConfig, String, BufferedReader, PrintStream, PrintStream);b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/voldemort/b30fdfebe30c9b6e37b9fbc3fec0ff74cd19f997/original-without-dependencies/merge/voldemort-1.10.4.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.23100
+Applying package: cg
+Successfully applied package: cg 39.64900
+Applying package: wjtp
+countEdges: 112255
+OA interference in class VoldemortClientShell, method void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream), execution of line 123 overrides 128, assigning to variable ArrayList.<java.util.ArrayList: java.lang.Object[] elementData>, 
+Caused by line 123 flow:
+at voldemort.VoldemortClientShell.<init>(VoldemortClientShell.java:123)
+at voldemort.client.protocol.admin.AdminClient.<init>(AdminClient.java:226)
+at voldemort.client.protocol.admin.AdminClient.<init>(AdminClient.java:195)
+at voldemort.store.ErrorCodeMapper.<init>(ErrorCodeMapper.java:69)
+at voldemort.store.memory.InMemoryStorageEngine$InMemoryIterator.next(InMemoryStorageEngine$InMemoryIterator.java:267)
+And line 128 flow:
+at voldemort.VoldemortClientShell.<init>(VoldemortClientShell.java:128)
+at voldemort.routing.RoutingStrategyFactory.updateRoutingStrategy(RoutingStrategyFactory.java:22)
+at voldemort.routing.RouteToAllStrategy.<init>(RouteToAllStrategy.java:44)
+ 
+OA interference in class VoldemortClientShell, method void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream), execution of line 123 overrides 128, assigning to variable <java.lang.Integer: java.lang.Class TYPE>, 
+Caused by line 123 flow:
+at voldemort.VoldemortClientShell.<init>(VoldemortClientShell.java:123)
+at voldemort.client.protocol.admin.AdminClientConfig.<init>(AdminClientConfig.java:37)
+at voldemort.client.protocol.admin.AdminClientConfig.<init>(AdminClientConfig.java:44)
+at voldemort.utils.Props.getInt(Props.java:230)
+at java.lang.Integer.<clinit>(Integer.java:72)
+And line 128 flow:
+at voldemort.VoldemortClientShell.<init>(VoldemortClientShell.java:128)
+at voldemort.routing.RoutingStrategyFactory.updateRoutingStrategy(RoutingStrategyFactory.java:22)
+at voldemort.routing.RouteToAllStrategy.<init>(RouteToAllStrategy.java:45)
+at java.lang.Integer.<clinit>(Integer.java:72)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 542878
+assignments:
+Successfully applied package: wjtp 61.26000
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 102.14800
+OA Inter Visited methods: 3199
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 14
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario voldemort;voldemort.server.VoldemortConfig;VoldemortConfig(Props);4cc1c145819030c8e2baffe4c92383de14b8d880
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/voldemort/4cc1c145819030c8e2baffe4c92383de14b8d880/original-without-dependencies/merge/voldemort-1.9.21.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.09400
+Applying package: cg
+Successfully applied package: cg 37.55200
+Applying package: wjtp
+countEdges: 111587
+OA interference in class VoldemortConfig, method void <init>(voldemort.utils.Props), execution of line 359 overrides 448, assigning to variable <java.lang.Character: java.lang.Class TYPE>, 
+Caused by line 359 flow:
+at voldemort.server.VoldemortConfig.<init>(VoldemortConfig.java:359)
+at voldemort.utils.Props.getLong(Props.java:204)
+at java.lang.Long.parseLong(Long.java:631)
+at java.lang.Long.parseLong(Long.java:587)
+at java.lang.Character.<clinit>(Character.java:195)
+And line 448 flow:
+at voldemort.server.VoldemortConfig.<init>(VoldemortConfig.java:448)
+at voldemort.utils.Props.getBoolean(Props.java:190)
+at java.lang.String.equalsIgnoreCase(String.java:1109)
+at java.lang.String.regionMatches(String.java:1367)
+at java.lang.Character.<clinit>(Character.java:195)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 10505
+assignments:
+Successfully applied package: wjtp 4.10000
+[CONFLICT_FOUND]
+Time to perform OA Inter 42.75200
+OA Inter Visited methods: 4869
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;newWindow(ApplicationListener, Lwjgl3WindowConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/libgdx/da27e2dae56be0a159e82231e5c3a5b83b099063/original-without-dependencies/merge/gdx-backend-lwjgl3-1.9.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.79200
+Applying package: cg
+Successfully applied package: cg 1.98100
+Applying package: wjtp
+countEdges: 2666
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 523
+assignments:
+Successfully applied package: wjtp 0.07200
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.85300
+OA Inter Visited methods: 52
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 4
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario libgdx;com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;copy(Lwjgl3ApplicationConfiguration);da27e2dae56be0a159e82231e5c3a5b83b099063
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/libgdx/da27e2dae56be0a159e82231e5c3a5b83b099063/original-without-dependencies/merge/gdx-backend-lwjgl3-1.9.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94200
+Applying package: cg
+Successfully applied package: cg 2.00400
+Applying package: wjtp
+countEdges: 2666
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 31
+assignments:
+Successfully applied package: wjtp 0.02900
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.98400
+OA Inter Visited methods: 2
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 4
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario RxJava;rx.internal.operators.OperatorMulticast;connect(Action1<?superSubscription>);a40a4130edcdadc2340da5787ca30353018173f2
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/RxJava/a40a4130edcdadc2340da5787ca30353018173f2/original-without-dependencies/merge/rxjava-1.0.13-SNAPSHOT-benchmarks.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.66500
+Applying package: cg
+Successfully applied package: cg 15.35700
+Applying package: wjtp
+countEdges: 89455
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario RxJava;rx.concurrency.TestScheduler;triggerActions(long);1c47b0cb26e6d971eefa42ebb3479099236b0125
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/RxJava/1c47b0cb26e6d971eefa42ebb3479099236b0125/original-without-dependencies/merge/rxjava-core-0.12.3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.99400
+Applying package: cg
+Successfully applied package: cg 7.68400
+Applying package: wjtp
+countEdges: 109621
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 1414
+assignments:
+Successfully applied package: wjtp 152.09200
+Time to perform OA Inter 160.77600
+OA Inter Visited methods: 6948
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);3d4f99516ba3177f7d88a1f600923138a8b77cc8
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.97300
+Applying package: cg
+Successfully applied package: cg 1.81400
+Applying package: wjtp
+countEdges: 3832
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 582 overrides 683, assigning to variable $u9, 
+Caused by line 582 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:582)
+And line 683 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:683)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 617 overrides 683, assigning to variable $u13, 
+Caused by line 617 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:617)
+And line 683 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:683)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 635 overrides 683, assigning to variable $u16, 
+Caused by line 635 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:635)
+And line 683 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:683)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 576 overrides 683, assigning to variable $u8, 
+Caused by line 576 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:576)
+And line 683 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:683)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 515 overrides 683, assigning to variable $u3, 
+Caused by line 515 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:515)
+And line 683 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:683)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 208
+assignments:
+Successfully applied package: wjtp 0.16700
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.96400
+OA Inter Visited methods: 258
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 17
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/3d4f99516ba3177f7d88a1f600923138a8b77cc8/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.64300
+Applying package: cg
+Successfully applied package: cg 1.40000
+Applying package: wjtp
+countEdges: 3832
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 3
+assignments:
+Successfully applied package: wjtp 0.03100
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.08300
+OA Inter Visited methods: 36
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 18
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.MongoDBRiverDefinition;parseSettings(String, String, RiverSettings, ScriptService);6b6ce8e851c6613213c4508c3f277a80649e0c7b
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.91400
+Applying package: cg
+Successfully applied package: cg 2.04000
+Applying package: wjtp
+countEdges: 3726
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 500 overrides 646, assigning to variable $u3, 
+Caused by line 500 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:500)
+And line 646 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:646)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 602 overrides 646, assigning to variable $u13, 
+Caused by line 602 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:602)
+And line 646 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:646)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 561 overrides 646, assigning to variable $u8, 
+Caused by line 561 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:561)
+And line 646 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:646)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 620 overrides 646, assigning to variable $u16, 
+Caused by line 620 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:620)
+And line 646 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:646)
+ 
+OA interference in class MongoDBRiverDefinition, method org.elasticsearch.river.mongodb.MongoDBRiverDefinition parseSettings(java.lang.String,java.lang.String,org.elasticsearch.river.RiverSettings,org.elasticsearch.script.ScriptService), execution of line 567 overrides 646, assigning to variable $u9, 
+Caused by line 567 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:567)
+And line 646 flow:
+at org.elasticsearch.river.mongodb.MongoDBRiverDefinition.parseSettings(MongoDBRiverDefinition.java:646)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 614
+assignments:
+Successfully applied package: wjtp 0.24100
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 3.20400
+OA Inter Visited methods: 254
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 16
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;applyAdvancedTransformation(QueueEntry, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.97100
+Applying package: cg
+Successfully applied package: cg 1.85600
+Applying package: wjtp
+countEdges: 3726
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.12700
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.96400
+OA Inter Visited methods: 146
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 3
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Indexer;processBlockingQueue(QueueEntry);6b6ce8e851c6613213c4508c3f277a80649e0c7b
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.83200
+Applying package: cg
+Successfully applied package: cg 1.51200
+Applying package: wjtp
+countEdges: 3726
+OA interference in class Indexer, method org.elasticsearch.river.mongodb.Timestamp processBlockingQueue(org.elasticsearch.river.mongodb.MongoDBRiver$QueueEntry), execution of line 161 overrides 176, assigning to variable $u0, 
+Caused by line 161 flow:
+at org.elasticsearch.river.mongodb.Indexer.processBlockingQueue(Indexer.java:161)
+And line 176 flow:
+at org.elasticsearch.river.mongodb.Indexer.processBlockingQueue(Indexer.java:176)
+ 
+OA interference in class Indexer, method org.elasticsearch.river.mongodb.Timestamp processBlockingQueue(org.elasticsearch.river.mongodb.MongoDBRiver$QueueEntry), execution of line 161 overrides 176, assigning to variable ioEx_2, 
+Caused by line 161 flow:
+at org.elasticsearch.river.mongodb.Indexer.processBlockingQueue(Indexer.java:161)
+And line 176 flow:
+at org.elasticsearch.river.mongodb.Indexer.processBlockingQueue(Indexer.java:176)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 955
+assignments:
+Successfully applied package: wjtp 0.25600
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.61300
+OA Inter Visited methods: 403
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 4
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;run();6b6ce8e851c6613213c4508c3f277a80649e0c7b
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.95000
+Applying package: cg
+Successfully applied package: cg 2.21100
+Applying package: wjtp
+countEdges: 3726
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 484
+assignments:
+Successfully applied package: wjtp 0.81300
+Time to perform OA Inter 3.98200
+OA Inter Visited methods: 724
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch-river-mongodb/6b6ce8e851c6613213c4508c3f277a80649e0c7b/original-without-dependencies/merge/elasticsearch-river-mongodb-2.0.2-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.29900
+Applying package: cg
+Successfully applied package: cg 1.92700
+Applying package: wjtp
+countEdges: 3726
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 12
+assignments:
+Successfully applied package: wjtp 0.04500
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 3.28000
+OA Inter Visited methods: 18
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 9
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario hector;me.prettyprint.cassandra.connection.client.HSaslThriftClient;open();0588608e7a2bdf974c985ff546207104f672bf6c
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/hector/0588608e7a2bdf974c985ff546207104f672bf6c/original-without-dependencies/merge/hector-core-1.1-3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.70900
+Applying package: cg
+Successfully applied package: cg 1.94500
+Applying package: wjtp
+countEdges: 3728
+OA interference in class HSaslThriftClient, method me.prettyprint.cassandra.connection.client.HSaslThriftClient open(), execution of line 95 overrides 122, assigning to variable $u1, 
+Caused by line 95 flow:
+at me.prettyprint.cassandra.connection.client.HSaslThriftClient.open(HSaslThriftClient.java:95)
+And line 122 flow:
+at me.prettyprint.cassandra.connection.client.HSaslThriftClient.open(HSaslThriftClient.java:122)
+ 
+OA interference in class HSaslThriftClient, method me.prettyprint.cassandra.connection.client.HSaslThriftClient open(), execution of line 95 overrides 122, assigning to variable socket, 
+Caused by line 95 flow:
+at me.prettyprint.cassandra.connection.client.HSaslThriftClient.open(HSaslThriftClient.java:95)
+And line 122 flow:
+at me.prettyprint.cassandra.connection.client.HSaslThriftClient.open(HSaslThriftClient.java:122)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 189
+assignments:
+Successfully applied package: wjtp 0.11500
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.77600
+OA Inter Visited methods: 71
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 11
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario hector;me.prettyprint.cassandra.connection.client.HKerberosThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/hector/a33a46506656a39d1b0f7780973905665d3b6145/original-without-dependencies/merge/hector-core-1.1-3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.72200
+Applying package: cg
+Successfully applied package: cg 1.86400
+Applying package: wjtp
+countEdges: 3708
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 4
+assignments:
+Successfully applied package: wjtp 0.04000
+Time to perform OA Inter 2.63100
+OA Inter Visited methods: 34
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario hector;me.prettyprint.cassandra.connection.client.HThriftClient;open();a33a46506656a39d1b0f7780973905665d3b6145
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/hector/a33a46506656a39d1b0f7780973905665d3b6145/original-without-dependencies/merge/hector-core-1.1-3-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.70600
+Applying package: cg
+Successfully applied package: cg 1.97400
+Applying package: wjtp
+countEdges: 3708
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.03000
+Time to perform OA Inter 2.71500
+OA Inter Visited methods: 22
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario hector;me.prettyprint.cassandra.connection.HConnectionManager;operateWithFailover(Operation<?>);213f7887ea70eabdf0705cf8454de29af89e8c38
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/hector/213f7887ea70eabdf0705cf8454de29af89e8c38/original-without-dependencies/merge/hector-core-0.8.0-1-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.70700
+Applying package: cg
+Successfully applied package: cg 1.44800
+Applying package: wjtp
+countEdges: 2307
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.48000
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.64200
+OA Inter Visited methods: 867
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario titan;com.thinkaurelius.titan.graphdb.database.serialize.SerializerInitialization;initialize(Serializer);387c16ea05ef9fa312f37139228d2bbf61455ff4
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/titan/387c16ea05ef9fa312f37139228d2bbf61455ff4/original-without-dependencies/merge/titan-core-0.4.1-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.04900
+Applying package: cg
+Successfully applied package: cg 4.84200
+Applying package: wjtp
+countEdges: 14259
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.04000
+Time to perform OA Inter 5.93600
+OA Inter Visited methods: 49
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario titan;com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx;StandardTitanTx(StandardTitanGraph, TransactionConfiguration, BackendTransaction);04edd7f0e7eab2e8255a497922e34dc707d84c19
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/titan/04edd7f0e7eab2e8255a497922e34dc707d84c19/original-without-dependencies/merge/titan-core-0.4.1-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.04500
+Applying package: cg
+Successfully applied package: cg 4.38300
+Applying package: wjtp
+countEdges: 12939
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 28
+assignments:
+Successfully applied package: wjtp 0.11400
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 5.55000
+OA Inter Visited methods: 38
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 2
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.fragments.SimpleFragment;generateScatterData(int, float, int);af114d180da6ec5633d32c701ff5467f7629fcf3
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/af114d180da6ec5633d32c701ff5467f7629fcf3/original-without-dependencies/merge/MPChartExample-classes.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.66700
+Applying package: cg
+Successfully applied package: cg 2.01900
+Applying package: wjtp
+countEdges: 3079
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01800
+Time to perform OA Inter 2.70900
+OA Inter Visited methods: 2
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onProgressChanged(SeekBar, int, boolean);af114d180da6ec5633d32c701ff5467f7629fcf3
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/af114d180da6ec5633d32c701ff5467f7629fcf3/original-without-dependencies/merge/MPChartExample-classes.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.64700
+Applying package: cg
+Successfully applied package: cg 1.87900
+Applying package: wjtp
+countEdges: 3079
+OA interference in class ScatterChartActivity, method void onProgressChanged(android.widget.SeekBar,int,boolean), execution of line 168 overrides 183, assigning to variable $u5, 
+Caused by line 168 flow:
+at com.xxmassdeveloper.mpchartexample.ScatterChartActivity.onProgressChanged(ScatterChartActivity.java:168)
+And line 183 flow:
+at com.xxmassdeveloper.mpchartexample.ScatterChartActivity.onProgressChanged(ScatterChartActivity.java:183)
+ 
+OA interference in class ScatterChartActivity, method void onProgressChanged(android.widget.SeekBar,int,boolean), execution of line 178 overrides 183, assigning to variable $u7, 
+Caused by line 178 flow:
+at com.xxmassdeveloper.mpchartexample.ScatterChartActivity.onProgressChanged(ScatterChartActivity.java:178)
+And line 183 flow:
+at com.xxmassdeveloper.mpchartexample.ScatterChartActivity.onProgressChanged(ScatterChartActivity.java:183)
+ 
+OA interference in class ScatterChartActivity, method void onProgressChanged(android.widget.SeekBar,int,boolean), execution of line 173 overrides 183, assigning to variable $u6, 
+Caused by line 173 flow:
+at com.xxmassdeveloper.mpchartexample.ScatterChartActivity.onProgressChanged(ScatterChartActivity.java:173)
+And line 183 flow:
+at com.xxmassdeveloper.mpchartexample.ScatterChartActivity.onProgressChanged(ScatterChartActivity.java:183)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02800
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.56200
+OA Inter Visited methods: 1
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 10
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.ScatterChartActivity;onCreate(Bundle);af114d180da6ec5633d32c701ff5467f7629fcf3
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/af114d180da6ec5633d32c701ff5467f7629fcf3/original-without-dependencies/merge/MPChartExample-classes.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.87500
+Applying package: cg
+Successfully applied package: cg 2.20500
+Applying package: wjtp
+countEdges: 3079
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02000
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 3.10900
+OA Inter Visited methods: 2
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 2
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity2;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/9297923f09460d0484cd713b0abbeaea9b888ec0/original-without-dependencies/merge/MPChartExample.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.63300
+Applying package: cg
+Successfully applied package: cg 1.68900
+Applying package: wjtp
+countEdges: 2932
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02300
+Time to perform OA Inter 2.34800
+OA Inter Visited methods: 2
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.RadarChartActivitry;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/9297923f09460d0484cd713b0abbeaea9b888ec0/original-without-dependencies/merge/MPChartExample.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94500
+Applying package: cg
+Successfully applied package: cg 2.19100
+Applying package: wjtp
+countEdges: 2932
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02200
+Time to perform OA Inter 3.16300
+OA Inter Visited methods: 3
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/9297923f09460d0484cd713b0abbeaea9b888ec0/original-without-dependencies/merge/MPChartExample.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94900
+Applying package: cg
+Successfully applied package: cg 2.54400
+Applying package: wjtp
+countEdges: 2932
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01200
+Time to perform OA Inter 3.51100
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario MPAndroidChart;com.xxmassdeveloper.mpchartexample.LineChartActivity1;onCreate(Bundle);9297923f09460d0484cd713b0abbeaea9b888ec0
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/9297923f09460d0484cd713b0abbeaea9b888ec0/original-without-dependencies/merge/MPChartExample.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.94200
+Applying package: cg
+Successfully applied package: cg 2.08700
+Applying package: wjtp
+countEdges: 2932
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.00700
+Time to perform OA Inter 3.04100
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario MPAndroidChart;com.github.mikephil.charting.renderer.LineChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/9531ba69895cd64fce48038ffd8df2543eeea1d2/original-without-dependencies/merge/MPChartLib.jar
+This scenario has no changes
+Running soot scenario MPAndroidChart;com.github.mikephil.charting.renderer.PieChartRenderer;drawData(Canvas);9531ba69895cd64fce48038ffd8df2543eeea1d2
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/MPAndroidChart/9531ba69895cd64fce48038ffd8df2543eeea1d2/original-without-dependencies/merge/MPChartLib.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.98300
+Applying package: cg
+Successfully applied package: cg 3.70800
+Applying package: wjtp
+countEdges: 6406
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.03100
+Time to perform OA Inter 4.72800
+OA Inter Visited methods: 30
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.common.settings.IndexScopedSettings;BUILT_IN_INDEX_SETTINGS;d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.82200
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.index.TransportIndexAction;executeIndexRequestOnPrimary(IndexRequest, IndexShard, MappingUpdatedAction);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.01300
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperationTests;testReplication();d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.23800
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.index.IndexSettings;IndexSettings(IndexMetaData, Settings, Predicate<String>, IndexScopedSettings);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.05600
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.bulk.TransportShardBulkAction;update(IndexMetaData, BulkShardRequest, IndexShard, long[], VersionType[], Translog.Location, int, BulkItemRequest);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.04000
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.60600
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.support.replication.ReplicationOperation;execute();d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 3.03400
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.index.engine.InternalEngineTests;testRecoverFromForeignTranslog();d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.30700
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.index.engine.InternalEngine;InternalEngine(EngineConfig);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.70900
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.40200
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.DocWriteResponse;readFrom(StreamInput);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 7.68400
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.58300
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.cluster.metadata.MetaDataCreateIndexService;createIndex(CreateIndexClusterStateUpdateRequest, ActionListener<ClusterStateUpdateResponse>);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.01100
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.update.TransportUpdateAction;shardOperation(UpdateRequest, ActionListener<UpdateResponse>, int);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.78300
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.action.delete.TransportDeleteAction;executeDeleteRequestOnPrimary(DeleteRequest, IndexShard);d896886973660785aac45275ddb110c1a6babc57
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/d896886973660785aac45275ddb110c1a6babc57/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.93300
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.rest.action.cat.RestNodesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/3764b3ff800c94293aba0bb0fa18c7df80a764f7/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 6.86800
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.rest.action.cat.RestIndicesAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/3764b3ff800c94293aba0bb0fa18c7df80a764f7/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.83400
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.rest.action.cat.RestShardsAction;getTableWithHeader(RestRequest);3764b3ff800c94293aba0bb0fa18c7df80a764f7
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/3764b3ff800c94293aba0bb0fa18c7df80a764f7/original-without-dependencies/merge/elasticsearch-5.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.70700
+Applying package: cg
+Execution exceeded the timeout of 300 seconds
+Result at timeout: false
+Running soot scenario elasticsearch;org.elasticsearch.common.settings.ClusterSettings;BUILT_IN_CLUSTER_SETTINGS;0404db65e3497452886173957729c8e82cfd4a03
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/0404db65e3497452886173957729c8e82cfd4a03/original-without-dependencies/merge/elasticsearch-3.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.18800
+Applying package: cg
+Successfully applied package: cg 265.83500
+Applying package: wjtp
+countEdges: 259559
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02300
+Time to perform OA Inter 268.05000
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.test.ESSingleNodeTestCase;newNode();0404db65e3497452886173957729c8e82cfd4a03
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/0404db65e3497452886173957729c8e82cfd4a03/original-without-dependencies/merge/framework-3.0.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.90400
+Applying package: cg
+Error applying package: cg
+java.lang.RuntimeException: This operation requires resolving level HIERARCHY but org.elasticsearch.common.inject.Module is at resolving level DANGLING
+If you are extending Soot, try to add the following call before calling soot.Main.main(..):
+Scene.v().addBasicClass(org.elasticsearch.common.inject.Module,HIERARCHY);
+Otherwise, try whole-program mode (-w).
+	at soot.SootClass.checkLevelIgnoreResolving(SootClass.java:210)
+	at soot.SootClass.checkLevel(SootClass.java:192)
+	at soot.SootClass.isInterface(SootClass.java:989)
+	at soot.SootClass.isConcrete(SootClass.java:1013)
+	at soot.jimple.spark.builder.ContextInsensitiveBuilder.handleClass(ContextInsensitiveBuilder.java:131)
+	at soot.jimple.spark.builder.ContextInsensitiveBuilder.build(ContextInsensitiveBuilder.java:103)
+	at soot.jimple.spark.SparkTransformer.internalTransform(SparkTransformer.java:101)
+	at soot.SceneTransformer.transform(SceneTransformer.java:36)
+	at soot.Transform.apply(Transform.java:105)
+	at soot.RadioScenePack.internalApply(RadioScenePack.java:64)
+	at soot.jimple.toolkits.callgraph.CallGraphPack.internalApply(CallGraphPack.java:61)
+	at soot.Pack.apply(Pack.java:118)
+	at br.unb.cic.analysis.SootWrapper.applyPackage(SootWrapper.java:200)
+	at br.unb.cic.analysis.SootWrapper.applyPackages(SootWrapper.java:192)
+	at br.unb.cic.analysis.Main.runOverrideAssignmentAnalysis(Main.java:408)
+	at br.unb.cic.analysis.Main.runAnalysis(Main.java:290)
+	at br.unb.cic.analysis.Main.main(Main.java:108)
+Successfully applied package: cg 3.27800
+Applying package: wjtp
+countEdges: 19695
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.22100
+[CONFLICT_FOUND]
+Time to perform OA Inter 4.40900
+OA Inter Visited methods: 478
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.query.support.NestedInnerQueryParseSupport;setPathLevel();59cb67c7bd0ab6311115b20954e013412b676b29
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/59cb67c7bd0ab6311115b20954e013412b676b29/original-without-dependencies/merge/elasticsearch-2.1.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.66800
+Applying package: cg
+Successfully applied package: cg 164.32000
+Applying package: wjtp
+countEdges: 163352
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 3
+assignments:
+Successfully applied package: wjtp 0.06400
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 166.05800
+OA Inter Visited methods: 18
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 4
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.query.MultiMatchQueryBuilder;doXContent(XContentBuilder, Params);59cb67c7bd0ab6311115b20954e013412b676b29
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/59cb67c7bd0ab6311115b20954e013412b676b29/original-without-dependencies/merge/elasticsearch-2.1.0-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 2.36100
+Applying package: cg
+Successfully applied package: cg 163.07400
+Applying package: wjtp
+countEdges: 163352
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.08400
+Time to perform OA Inter 165.52500
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest;testSynonymsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-2.0.0-SNAPSHOT-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.90500
+Applying package: cg
+Successfully applied package: cg 6.67900
+Applying package: wjtp
+countEdges: 9652
+OA interference in class SynonymsAnalysisTest, method void testSynonymsAnalysis(), execution of line 65 overrides 75, assigning to variable l4, 
+Caused by line 65 flow:
+at org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest.testSynonymsAnalysis(SynonymsAnalysisTest.java:65)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2397)
+at java.lang.String.lastIndexOf(String.java:1611)
+at java.lang.String.lastIndexOf(String.java:1654)
+And line 75 flow:
+at org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest.testSynonymsAnalysis(SynonymsAnalysisTest.java:75)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2397)
+at java.lang.String.lastIndexOf(String.java:1611)
+at java.lang.String.lastIndexOf(String.java:1652)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 37
+assignments:
+Successfully applied package: wjtp 0.18500
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 8.79500
+OA Inter Visited methods: 72
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 77
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testQueryModeCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-2.0.0-SNAPSHOT-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.40300
+Applying package: cg
+Successfully applied package: cg 5.55600
+Applying package: wjtp
+countEdges: 9652
+OA interference in class CommonGramsTokenFilterFactoryTests, method void testQueryModeCommonGramsAnalysis(), execution of line 228 overrides 229, assigning to variable l6, 
+Caused by line 228 flow:
+at org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests.testQueryModeCommonGramsAnalysis(CommonGramsTokenFilterFactoryTests.java:228)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2399)
+at java.lang.String.replace(String.java:2078)
+And line 229 flow:
+at org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests.testQueryModeCommonGramsAnalysis(CommonGramsTokenFilterFactoryTests.java:229)
+at org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests.createHome(CommonGramsTokenFilterFactoryTests.java:248)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2399)
+at java.lang.String.replace(String.java:-1)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 12
+assignments:
+Successfully applied package: wjtp 0.11800
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 7.08900
+OA Inter Visited methods: 32
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 40
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests;testCommonGramsAnalysis();f3d63095dbcc985e24162fbac4ee0d6914dc757d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-2.0.0-SNAPSHOT-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.32500
+Applying package: cg
+Successfully applied package: cg 5.44400
+Applying package: wjtp
+countEdges: 9652
+OA interference in class CommonGramsTokenFilterFactoryTests, method void testCommonGramsAnalysis(), execution of line 143 overrides 144, assigning to variable l6, 
+Caused by line 143 flow:
+at org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests.testCommonGramsAnalysis(CommonGramsTokenFilterFactoryTests.java:143)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2399)
+at java.lang.String.replace(String.java:2078)
+And line 144 flow:
+at org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests.testCommonGramsAnalysis(CommonGramsTokenFilterFactoryTests.java:144)
+at org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests.createHome(CommonGramsTokenFilterFactoryTests.java:248)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2399)
+at java.lang.String.replace(String.java:-1)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 12
+assignments:
+Successfully applied package: wjtp 0.11200
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 6.89500
+OA Inter Visited methods: 32
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 40
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.analysis.KuromojiAnalysisTests;createAnalysisService();f3d63095dbcc985e24162fbac4ee0d6914dc757d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original-without-dependencies/merge/elasticsearch-analysis-kuromoji-2.0.0-SNAPSHOT-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.58800
+Applying package: cg
+Successfully applied package: cg 0.34200
+Applying package: wjtp
+countEdges: 247
+OA interference in class KuromojiAnalysisTests, method org.elasticsearch.index.analysis.AnalysisService createAnalysisService(), execution of line 196 overrides 207, assigning to variable l4, 
+Caused by line 196 flow:
+at org.elasticsearch.index.analysis.KuromojiAnalysisTests.createAnalysisService(KuromojiAnalysisTests.java:196)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2397)
+at java.lang.String.lastIndexOf(String.java:1611)
+at java.lang.String.lastIndexOf(String.java:1654)
+And line 207 flow:
+at org.elasticsearch.index.analysis.KuromojiAnalysisTests.createAnalysisService(KuromojiAnalysisTests.java:207)
+at java.lang.Class.getResourceAsStream(Class.java:2217)
+at java.lang.Class.resolveName(Class.java:2397)
+at java.lang.String.lastIndexOf(String.java:1611)
+at java.lang.String.lastIndexOf(String.java:1652)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 7
+assignments:
+Successfully applied package: wjtp 0.06700
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 1.01500
+OA Inter Visited methods: 58
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 77
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario elasticsearch;org.elasticsearch.index.query.SimpleIndexQueryParserTests;setup();36884807b3cc9d660db4da062275c7fdbec8ba67
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/elasticsearch/36884807b3cc9d660db4da062275c7fdbec8ba67/original-without-dependencies/merge/elasticsearch-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.32900
+Applying package: cg
+Successfully applied package: cg 6.37100
+Applying package: wjtp
+countEdges: 8775
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.29400
+Time to perform OA Inter 7.99900
+OA Inter Visited methods: 11
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/fitnesse/4d9ba9d221d879507440feb084fa7521b95111ec/original-without-dependencies/merge/fitnesse-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.75600
+Applying package: cg
+Successfully applied package: cg 8.79600
+Applying package: wjtp
+countEdges: 22357
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.02400
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 9.58300
+OA Inter Visited methods: 1
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 2
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactory;SlimTableFactory();4d9ba9d221d879507440feb084fa7521b95111ec
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/fitnesse/4d9ba9d221d879507440feb084fa7521b95111ec/original-without-dependencies/merge/fitnesse.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.16300
+Applying package: cg
+Successfully applied package: cg 8.79900
+Applying package: wjtp
+countEdges: 16066
+OA interference in class SlimTableFactory, method void <init>(), execution of line 24 overrides 31, assigning to variable l1[l2], 
+Caused by line 24 flow:
+at fitnesse.testsystems.slim.tables.SlimTableFactory.<init>(SlimTableFactory.java:24)
+at fitnesse.testsystems.slim.tables.SlimTableFactory.addTableType(SlimTableFactory.java:46)
+at java.lang.String.toLowerCase(String.java:2670)
+at java.lang.String.toLowerCase(String.java:2626)
+at java.lang.Character.toChars(Character.java:5174)
+And line 31 flow:
+at fitnesse.testsystems.slim.tables.SlimTableFactory.<init>(SlimTableFactory.java:31)
+at fitnesse.testsystems.slim.tables.SlimTableFactory.addTableType(SlimTableFactory.java:46)
+at java.lang.String.toLowerCase(String.java:2670)
+at java.lang.String.toLowerCase(String.java:2626)
+at java.lang.Character.toChars(Character.java:5174)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 6
+assignments:
+Successfully applied package: wjtp 0.24700
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+[CONFLICT_FOUND]
+Time to perform OA Inter 10.21800
+OA Inter Visited methods: 300
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 7
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario cloud-slang;io.cloudslang.lang.api.SlangImpl;getAllEventTypes();20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/cloud-slang/20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76/original-without-dependencies/merge/cloudslang-all-0.7.50-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.60900
+Applying package: cg
+Successfully applied package: cg 0.24300
+Applying package: wjtp
+countEdges: 110
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01300
+Time to perform OA Inter 0.87000
+OA Inter Visited methods: 1
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario cloud-slang;io.cloudslang.lang.api.SlangImplTest;ALL_EVENTS_SIZE;20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/cloud-slang/20bac30d9bd76569aa6a4fa1e8261c1a9b5e6f76/original-without-dependencies/merge/cloudslang-all-0.7.50-SNAPSHOT-tests.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.60300
+Applying package: cg
+Successfully applied package: cg 0.28300
+Applying package: wjtp
+countEdges: 175
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.00500
+Time to perform OA Inter 0.89600
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario spring-boot;org.springframework.boot.jta.atomikos.AtomikosProperties;asProperties();6664ce19d6f2388ebd6cf54763f54fdddd226b9a
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario spring-boot;org.springframework.boot.jta.atomikos.AtomikosPropertiesTests;testProperties();6664ce19d6f2388ebd6cf54763f54fdddd226b9a
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario spring-boot;org.springframework.boot.jta.atomikos.AtomikosPropertiesTests;testDefaultProperties();6664ce19d6f2388ebd6cf54763f54fdddd226b9a
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario spring-boot;org.springframework.boot.autoconfigure.mongo.MongoProperties;builder(MongoClientOptions);958a0a45f164601d01cb706c19f22ed3e25eff56
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/958a0a45f164601d01cb706c19f22ed3e25eff56/original-without-dependencies/merge/spring-boot-autoconfigure-1.4.0.BUILD-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.11300
+Applying package: cg
+Successfully applied package: cg 6.06600
+Applying package: wjtp
+countEdges: 8535
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01600
+Time to perform OA Inter 7.20000
+OA Inter Visited methods: 1
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario spring-boot;org.springframework.boot.loader.archive.ExplodedArchiveTests;getUrl();af20dc6cc45c032573413c401f9f73aa75371744
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/af20dc6cc45c032573413c401f9f73aa75371744/original-without-dependencies/merge/spring-boot-loader-1.3.1.BUILD-SNAPSHOT-tests.jar
+This scenario has no changes
+Running soot scenario spring-boot;org.springframework.boot.loader.archive.ExplodedArchive;getUrl();af20dc6cc45c032573413c401f9f73aa75371744
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/af20dc6cc45c032573413c401f9f73aa75371744/original-without-dependencies/merge/spring-boot-loader-1.3.1.BUILD-SNAPSHOT.jar
+This scenario has no changes
+Running soot scenario spring-boot;org.springframework.boot.autoconfigure.cache.RedisCacheConfiguration;cacheManager(RedisTemplate<Object,Object>);c93ea54ea3e08eaa2a17640d5d2b3e60264c1a9c
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario spring-boot;org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory;createDeploymentManager(ServletContextInitializer);ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/ea8107b6a53fa60b5f23b33e1b6d2e88bb60133c/original-without-dependencies/merge/spring-boot-1.3.1.BUILD-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.14700
+Applying package: cg
+Successfully applied package: cg 1.43300
+Applying package: wjtp
+countEdges: 1374
+OA interference in class UndertowEmbeddedServletContainerFactory, method io.undertow.servlet.api.DeploymentManager createDeploymentManager(org.springframework.boot.context.embedded.ServletContextInitializer[]), execution of line 362 overrides 364, assigning to variable $u0, 
+Caused by line 362 flow:
+at org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory.createDeploymentManager(UndertowEmbeddedServletContainerFactory.java:362)
+And line 364 flow:
+at org.springframework.boot.context.embedded.undertow.UndertowEmbeddedServletContainerFactory.createDeploymentManager(UndertowEmbeddedServletContainerFactory.java:364)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.18200
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.77200
+OA Inter Visited methods: 66
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);3444ebbc05b99a164474c14d6a6784f749514428
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/3444ebbc05b99a164474c14d6a6784f749514428/original-without-dependencies/merge/spring-boot-1.3.0.BUILD-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.14500
+Applying package: cg
+Successfully applied package: cg 0.92200
+Applying package: wjtp
+countEdges: 1297
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 272
+assignments:
+Successfully applied package: wjtp 0.07600
+Time to perform OA Inter 2.14900
+OA Inter Visited methods: 66
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario spring-boot;org.springframework.boot.context.web.SpringBootServletInitializer;createRootApplicationContext(ServletContext);074771ec125dd407af0282b92960e9e9e3377e84
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/074771ec125dd407af0282b92960e9e9e3377e84/original-without-dependencies/merge/spring-boot-1.3.0.RELEASE.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.03200
+Applying package: cg
+Successfully applied package: cg 1.04700
+Applying package: wjtp
+countEdges: 1194
+OA interference in class SpringBootServletInitializer, method org.springframework.web.context.WebApplicationContext createRootApplicationContext(javax.servlet.ServletContext), execution of line 87 overrides 88, assigning to variable SpringApplication.<org.springframework.boot.SpringApplication: java.lang.Class mainApplicationClass>, 
+Caused by line 87 flow:
+at org.springframework.boot.context.web.SpringBootServletInitializer.createRootApplicationContext(SpringBootServletInitializer.java:87)
+at org.springframework.boot.context.web.SpringBootServletInitializer.createSpringApplicationBuilder(SpringBootServletInitializer.java:121)
+at org.springframework.boot.builder.SpringApplicationBuilder.<init>(SpringApplicationBuilder.java:84)
+at org.springframework.boot.builder.SpringApplicationBuilder.createSpringApplication(SpringApplicationBuilder.java:96)
+And line 88 flow:
+at org.springframework.boot.context.web.SpringBootServletInitializer.createRootApplicationContext(SpringBootServletInitializer.java:88)
+at org.springframework.boot.builder.SpringApplicationBuilder.main(SpringApplicationBuilder.java:348)
+at org.springframework.boot.SpringApplication.setMainApplicationClass(SpringApplication.java:691)
+ 
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 262
+assignments:
+Successfully applied package: wjtp 0.07000
+[CONFLICT_FOUND]
+Time to perform OA Inter 2.15600
+OA Inter Visited methods: 60
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ Number of conflicts: 1
+ Results exported to out.txt
+ JSON Results exported to out.json
+----------------------------
+Running soot scenario spring-boot;org.springframework.boot.autoconfigure.logging.AutoConfigurationReportLoggingInitializer;logAutoConfigurationReport(boolean);fdd3f12ee0f92ac18844c08bf71df39feebb6673
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/fdd3f12ee0f92ac18844c08bf71df39feebb6673/original-without-dependencies/merge/spring-boot-autoconfigure-1.3.0.BUILD-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.71300
+Applying package: cg
+Successfully applied package: cg 3.22400
+Applying package: wjtp
+countEdges: 5453
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01100
+Time to perform OA Inter 3.95300
+OA Inter Visited methods: 0
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario spring-boot;org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainerFactory;customizeConnector(Connector);2d4e68a9777601bfb8309c94d8b74bc21be80ad1
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/spring-boot/2d4e68a9777601bfb8309c94d8b74bc21be80ad1/original-without-dependencies/merge/spring-boot-1.2.0.BUILD-SNAPSHOT.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 1.14900
+Applying package: cg
+Successfully applied package: cg 1.02100
+Applying package: wjtp
+countEdges: 1140
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.07200
+Time to perform OA Inter 2.24800
+OA Inter Visited methods: 29
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario quickml;quickdt.experiments.OutOfTimeCrossValidatorRunner;getRandomForestBuilder(int, int);bae968d9a85c0501ba8842a6f88e7fc2c6b78693
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/quickml/bae968d9a85c0501ba8842a6f88e7fc2c6b78693/original-without-dependencies/merge/quickdt-0.1.8.7.jar
+Picked up _JAVA_OPTIONS: -Xmx20g -Xms20g -XX:-UseGCOverheadLimit
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/oav2/miningframework/dependencies/soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+CG configuration init
+Enable RTA CG
+CG configuration completed.
+Depth limit: 5
+Configure Soot OA Inter 0.62700
+Applying package: cg
+Successfully applied package: cg 0.96200
+Applying package: wjtp
+countEdges: 1383
+fallbacks due to missing points-to information. 0
+assignments: []
+comparisons made using points-to information: 0
+assignments: []
+Successfully applied package: wjtp 0.01600
+Time to perform OA Inter 1.61000
+OA Inter Visited methods: 12
+PA Not Resolve CSV file generated successfully!
+CSV export successful!
+ Analysis results
+----------------------------
+ No conflicts detected
+----------------------------
+Running soot scenario vavr;javaslang.collection.HashSet;of(T);204635d9156b498079c2f34b821dca7ca1711ef6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario vavr;javaslang.collection.LinkedHashSet;of(T);204635d9156b498079c2f34b821dca7ca1711ef6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario vavr;javaslang.collection.CharSeq;of(char);204635d9156b498079c2f34b821dca7ca1711ef6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario vavr;javaslang.collection.Iterator;of(T);204635d9156b498079c2f34b821dca7ca1711ef6
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Running soot scenario crawler4j;edu.uci.ics.crawler4j.parser.Parser;parse(Page, String);6fdb8f27b53c5d69b552341a459d0e1fa610f68d
+Running ConflictDetectionAlgorithm{name='OA Inter'}
+Using jar at /home/oav2/miningframework/output/files/crawler4j/6fdb8f27b53c5d69b552341a459d0e1fa610f68d/original-without-dependencies/merge/crawler4j-4.5.0-SNAPSHOT.jar
+This scenario has no changes

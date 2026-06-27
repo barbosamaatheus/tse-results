@@ -1,0 +1,10 @@
+{
+    "mode": "icf",
+    "callgraph": "CHA",
+    "run_number": 1,
+    "status": "SUCCESS",
+    "duration_seconds": 24530.58,
+    "peak_memory_gb": 13.9112,
+    "peak_cpu_percent": 100.19,
+    "timestamp": "2026-05-29T17:01:34.251819"
+}

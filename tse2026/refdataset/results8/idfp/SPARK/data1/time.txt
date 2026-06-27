@@ -1,0 +1,3653 @@
+Configure Soot DFP Inter;1.27600
+Time to perform DFP Inter;2.12500
+Configure Soot DFP Inter;1.30900
+Time to perform DFP Inter;2.10400
+Configure Soot DFP Inter;2.52500
+Time to perform DFP Inter;13.55800
+Configure Soot DFP Inter;2.00900
+Time to perform DFP Inter;13.36300
+Configure Soot DFP Inter;1.11300
+Time to perform DFP Inter;1.14700
+Configure Soot DFP Inter;1.11400
+Time to perform DFP Inter;1.15200
+Configure Soot DFP Inter;1.11600
+Time to perform DFP Inter;1.23500
+Configure Soot DFP Inter;1.16200
+Time to perform DFP Inter;1.20600
+Configure Soot DFP Inter;1.13600
+Time to perform DFP Inter;1.32300
+Configure Soot DFP Inter;1.13400
+Time to perform DFP Inter;1.16700
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;1.74200
+Configure Soot DFP Inter;0.84800
+Time to perform DFP Inter;1.64600
+Configure Soot DFP Inter;0.90000
+Time to perform DFP Inter;1.94400
+Configure Soot DFP Inter;0.89900
+Time to perform DFP Inter;1.72300
+Configure Soot DFP Inter;1.28000
+Time to perform DFP Inter;1.99500
+Configure Soot DFP Inter;1.28800
+Time to perform DFP Inter;1.78100
+Configure Soot DFP Inter;1.03800
+Time to perform DFP Inter;1.71800
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;1.93000
+Configure Soot DFP Inter;3.07900
+Time to perform DFP Inter;51.05700
+Configure Soot DFP Inter;2.83300
+Time to perform DFP Inter;48.32700
+Configure Soot DFP Inter;2.20500
+Time to perform DFP Inter;277.44500
+Configure Soot DFP Inter;2.67700
+Time to perform DFP Inter;274.52400
+Configure Soot DFP Inter;2.75100
+Time to perform DFP Inter;50.30400
+Configure Soot DFP Inter;2.76900
+Time to perform DFP Inter;49.41200
+Configure Soot DFP Inter;2.98100
+Time to perform DFP Inter;48.64200
+Configure Soot DFP Inter;2.38900
+Time to perform DFP Inter;49.20700
+Configure Soot DFP Inter;2.97200
+Time to perform DFP Inter;51.70700
+Configure Soot DFP Inter;2.66000
+Time to perform DFP Inter;48.91700
+Configure Soot DFP Inter;2.40700
+Time to perform DFP Inter;51.21400
+Configure Soot DFP Inter;2.32400
+Time to perform DFP Inter;49.56400
+Configure Soot DFP Inter;2.99700
+Time to perform DFP Inter;50.69400
+Configure Soot DFP Inter;2.94700
+Time to perform DFP Inter;49.98900
+Configure Soot DFP Inter;2.64000
+Time to perform DFP Inter;48.42800
+Configure Soot DFP Inter;2.41000
+Time to perform DFP Inter;51.02300
+Configure Soot DFP Inter;0.78000
+Time to perform DFP Inter;1.16000
+Configure Soot DFP Inter;0.81200
+Time to perform DFP Inter;1.00500
+Configure Soot DFP Inter;0.70900
+Time to perform DFP Inter;1.08100
+Configure Soot DFP Inter;0.69300
+Time to perform DFP Inter;1.20900
+Configure Soot DFP Inter;0.91900
+Time to perform DFP Inter;1.21200
+Configure Soot DFP Inter;0.92500
+Time to perform DFP Inter;1.13700
+Configure Soot DFP Inter;0.84600
+Time to perform DFP Inter;1.24100
+Configure Soot DFP Inter;0.83700
+Time to perform DFP Inter;1.26200
+Configure Soot DFP Inter;0.87300
+Time to perform DFP Inter;2.77100
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;2.80900
+Configure Soot DFP Inter;0.76300
+Time to perform DFP Inter;2.68300
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;2.65100
+Configure Soot DFP Inter;1.41900
+Time to perform DFP Inter;3.85800
+Configure Soot DFP Inter;1.36200
+Time to perform DFP Inter;2.98500
+Configure Soot DFP Inter;0.77200
+Time to perform DFP Inter;1.70400
+Configure Soot DFP Inter;0.68200
+Time to perform DFP Inter;1.75100
+Configure Soot DFP Inter;1.18500
+Time to perform DFP Inter;1.82300
+Configure Soot DFP Inter;1.02100
+Time to perform DFP Inter;1.84200
+Configure Soot DFP Inter;0.94400
+Time to perform DFP Inter;3.54100
+Configure Soot DFP Inter;0.95400
+Time to perform DFP Inter;3.33300
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;3.55500
+Configure Soot DFP Inter;0.75200
+Time to perform DFP Inter;3.39400
+Configure Soot DFP Inter;1.09600
+Time to perform DFP Inter;1.84300
+Configure Soot DFP Inter;1.10600
+Time to perform DFP Inter;1.52500
+Configure Soot DFP Inter;1.85400
+Time to perform DFP Inter;84.11200
+Configure Soot DFP Inter;2.36800
+Time to perform DFP Inter;1.73100
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;1.43900
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;1.78700
+Configure Soot DFP Inter;1.17400
+Time to perform DFP Inter;1.82100
+Configure Soot DFP Inter;1.35300
+Time to perform DFP Inter;1.78800
+Configure Soot DFP Inter;1.36700
+Time to perform DFP Inter;1.56200
+Configure Soot DFP Inter;1.35800
+Time to perform DFP Inter;7.28800
+Configure Soot DFP Inter;1.60100
+Time to perform DFP Inter;1.34200
+Configure Soot DFP Inter;1.56100
+Time to perform DFP Inter;1.13100
+Configure Soot DFP Inter;1.24500
+Time to perform DFP Inter;1.24500
+Configure Soot DFP Inter;1.25600
+Time to perform DFP Inter;1.29000
+Configure Soot DFP Inter;1.02600
+Time to perform DFP Inter;1.70300
+Configure Soot DFP Inter;1.01000
+Time to perform DFP Inter;1.65700
+Configure Soot DFP Inter;1.08300
+Time to perform DFP Inter;1.58500
+Configure Soot DFP Inter;1.09100
+Time to perform DFP Inter;1.25800
+Configure Soot DFP Inter;1.08600
+Time to perform DFP Inter;2.09900
+Configure Soot DFP Inter;1.08500
+Time to perform DFP Inter;2.13200
+Configure Soot DFP Inter;1.31300
+Time to perform DFP Inter;3.40600
+Configure Soot DFP Inter;1.32600
+Time to perform DFP Inter;3.58400
+Configure Soot DFP Inter;1.01800
+Time to perform DFP Inter;1.16600
+Configure Soot DFP Inter;1.05400
+Time to perform DFP Inter;1.15600
+Configure Soot DFP Inter;1.26300
+Time to perform DFP Inter;3.31300
+Configure Soot DFP Inter;1.27400
+Time to perform DFP Inter;3.66900
+Configure Soot DFP Inter;0.81100
+Time to perform DFP Inter;2.34800
+Configure Soot DFP Inter;0.93700
+Time to perform DFP Inter;2.46800
+Configure Soot DFP Inter;0.91400
+Time to perform DFP Inter;2.53100
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;2.49400
+Configure Soot DFP Inter;1.12700
+Time to perform DFP Inter;2.32700
+Configure Soot DFP Inter;1.16900
+Time to perform DFP Inter;2.36800
+Configure Soot DFP Inter;1.00000
+Time to perform DFP Inter;4.36000
+Configure Soot DFP Inter;1.27300
+Time to perform DFP Inter;4.38300
+Configure Soot DFP Inter;1.38700
+Time to perform DFP Inter;5.22800
+Configure Soot DFP Inter;1.48800
+Time to perform DFP Inter;5.14900
+Configure Soot DFP Inter;1.64000
+Time to perform DFP Inter;9.52700
+Configure Soot DFP Inter;1.89400
+Time to perform DFP Inter;7.74800
+Configure Soot DFP Inter;1.29600
+Time to perform DFP Inter;1.88800
+Configure Soot DFP Inter;1.32700
+Time to perform DFP Inter;1.93500
+Configure Soot DFP Inter;1.02100
+Time to perform DFP Inter;2.36100
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;2.48700
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;6.24400
+Configure Soot DFP Inter;1.26500
+Time to perform DFP Inter;6.45500
+Configure Soot DFP Inter;0.97400
+Time to perform DFP Inter;6.80400
+Configure Soot DFP Inter;1.20700
+Time to perform DFP Inter;6.55700
+Configure Soot DFP Inter;1.76700
+Time to perform DFP Inter;8.76700
+Configure Soot DFP Inter;1.79700
+Time to perform DFP Inter;7.81800
+Configure Soot DFP Inter;1.84500
+Time to perform DFP Inter;9.26700
+Configure Soot DFP Inter;1.74300
+Time to perform DFP Inter;8.46200
+Configure Soot DFP Inter;1.84800
+Time to perform DFP Inter;8.36600
+Configure Soot DFP Inter;2.50500
+Time to perform DFP Inter;8.81300
+Configure Soot DFP Inter;1.25100
+Time to perform DFP Inter;5.86000
+Configure Soot DFP Inter;1.25400
+Time to perform DFP Inter;6.03400
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;1.17600
+Configure Soot DFP Inter;0.99600
+Time to perform DFP Inter;1.25000
+Configure Soot DFP Inter;1.40800
+Time to perform DFP Inter;3.03800
+Configure Soot DFP Inter;1.36200
+Time to perform DFP Inter;3.78200
+Configure Soot DFP Inter;0.83900
+Time to perform DFP Inter;2.08500
+Configure Soot DFP Inter;0.78600
+Time to perform DFP Inter;1.92500
+Configure Soot DFP Inter;1.06800
+Time to perform DFP Inter;2.23400
+Configure Soot DFP Inter;1.10700
+Time to perform DFP Inter;2.33800
+Configure Soot DFP Inter;1.08500
+Time to perform DFP Inter;2.24400
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;2.38300
+Configure Soot DFP Inter;1.04500
+Time to perform DFP Inter;30.79600
+Configure Soot DFP Inter;1.05700
+Time to perform DFP Inter;28.40400
+Configure Soot DFP Inter;1.01800
+Time to perform DFP Inter;29.73600
+Configure Soot DFP Inter;0.99000
+Time to perform DFP Inter;28.38600
+Configure Soot DFP Inter;1.01000
+Time to perform DFP Inter;12.34600
+Configure Soot DFP Inter;0.97800
+Time to perform DFP Inter;13.11500
+Configure Soot DFP Inter;0.90200
+Time to perform DFP Inter;1.39900
+Configure Soot DFP Inter;0.89500
+Time to perform DFP Inter;1.35500
+Configure Soot DFP Inter;1.10900
+Time to perform DFP Inter;0.72600
+Configure Soot DFP Inter;1.11800
+Time to perform DFP Inter;0.81900
+Configure Soot DFP Inter;1.21600
+Time to perform DFP Inter;0.42800
+Configure Soot DFP Inter;1.19800
+Time to perform DFP Inter;0.76500
+Configure Soot DFP Inter;0.95100
+Time to perform DFP Inter;0.80600
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;0.78500
+Configure Soot DFP Inter;1.13500
+Time to perform DFP Inter;0.74500
+Configure Soot DFP Inter;1.11000
+Time to perform DFP Inter;0.75400
+Configure Soot DFP Inter;1.21000
+Time to perform DFP Inter;0.73100
+Configure Soot DFP Inter;1.20500
+Time to perform DFP Inter;0.61500
+Configure Soot DFP Inter;1.11200
+Time to perform DFP Inter;0.84600
+Configure Soot DFP Inter;1.12500
+Time to perform DFP Inter;0.81300
+Configure Soot DFP Inter;1.13900
+Time to perform DFP Inter;0.95400
+Configure Soot DFP Inter;1.13100
+Time to perform DFP Inter;0.71300
+Configure Soot DFP Inter;1.02000
+Time to perform DFP Inter;6.36200
+Configure Soot DFP Inter;0.97000
+Time to perform DFP Inter;5.61900
+Configure Soot DFP Inter;1.03300
+Time to perform DFP Inter;16.46100
+Configure Soot DFP Inter;1.03200
+Time to perform DFP Inter;16.78900
+Configure Soot DFP Inter;0.83500
+Time to perform DFP Inter;0.81000
+Configure Soot DFP Inter;0.90900
+Time to perform DFP Inter;0.91200
+Configure Soot DFP Inter;1.16800
+Time to perform DFP Inter;0.79600
+Configure Soot DFP Inter;1.17900
+Time to perform DFP Inter;0.78200
+Configure Soot DFP Inter;1.17900
+Time to perform DFP Inter;0.80300
+Configure Soot DFP Inter;1.19200
+Time to perform DFP Inter;0.79300
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;0.69900
+Configure Soot DFP Inter;0.96300
+Time to perform DFP Inter;0.70600
+Configure Soot DFP Inter;0.97100
+Time to perform DFP Inter;1.03100
+Configure Soot DFP Inter;0.98800
+Time to perform DFP Inter;1.03600
+Configure Soot DFP Inter;0.88000
+Time to perform DFP Inter;1.03000
+Configure Soot DFP Inter;0.87200
+Time to perform DFP Inter;1.06100
+Configure Soot DFP Inter;1.13300
+Time to perform DFP Inter;0.86900
+Configure Soot DFP Inter;1.15500
+Time to perform DFP Inter;0.87400
+Configure Soot DFP Inter;0.96800
+Time to perform DFP Inter;0.65400
+Configure Soot DFP Inter;0.97000
+Time to perform DFP Inter;0.65900
+Configure Soot DFP Inter;0.95000
+Time to perform DFP Inter;1.91700
+Configure Soot DFP Inter;0.96400
+Time to perform DFP Inter;1.96300
+Configure Soot DFP Inter;1.56800
+Time to perform DFP Inter;0.91000
+Configure Soot DFP Inter;1.58100
+Time to perform DFP Inter;0.93900
+Configure Soot DFP Inter;1.23200
+Time to perform DFP Inter;0.54200
+Configure Soot DFP Inter;1.26100
+Time to perform DFP Inter;0.52300
+Configure Soot DFP Inter;1.22900
+Time to perform DFP Inter;0.59200
+Configure Soot DFP Inter;1.25000
+Time to perform DFP Inter;0.57300
+Configure Soot DFP Inter;1.82100
+Time to perform DFP Inter;5.69300
+Configure Soot DFP Inter;1.45800
+Time to perform DFP Inter;4.25100
+Configure Soot DFP Inter;1.60500
+Time to perform DFP Inter;4.23200
+Configure Soot DFP Inter;1.58800
+Time to perform DFP Inter;24.40600
+Configure Soot DFP Inter;1.76500
+Time to perform DFP Inter;5.11900
+Configure Soot DFP Inter;1.58500
+Time to perform DFP Inter;5.15500
+Configure Soot DFP Inter;1.82000
+Time to perform DFP Inter;4.93500
+Configure Soot DFP Inter;1.84300
+Time to perform DFP Inter;4.87300
+Configure Soot DFP Inter;1.66500
+Time to perform DFP Inter;94.41900
+Configure Soot DFP Inter;1.86200
+Time to perform DFP Inter;89.88800
+Configure Soot DFP Inter;1.79100
+Time to perform DFP Inter;4.66200
+Configure Soot DFP Inter;1.90200
+Time to perform DFP Inter;5.49500
+Configure Soot DFP Inter;1.85500
+Time to perform DFP Inter;5.90400
+Configure Soot DFP Inter;1.51900
+Time to perform DFP Inter;4.32200
+Configure Soot DFP Inter;0.69100
+Time to perform DFP Inter;1.29000
+Configure Soot DFP Inter;0.70100
+Time to perform DFP Inter;1.16000
+Configure Soot DFP Inter;0.75600
+Time to perform DFP Inter;1.41200
+Configure Soot DFP Inter;0.78800
+Time to perform DFP Inter;1.58600
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;1.53000
+Configure Soot DFP Inter;1.00600
+Time to perform DFP Inter;1.62600
+Configure Soot DFP Inter;1.22000
+Time to perform DFP Inter;1.40900
+Configure Soot DFP Inter;1.18700
+Time to perform DFP Inter;1.41600
+Configure Soot DFP Inter;1.53400
+Time to perform DFP Inter;0.86600
+Configure Soot DFP Inter;1.56400
+Time to perform DFP Inter;0.84600
+Configure Soot DFP Inter;1.26100
+Time to perform DFP Inter;3.31500
+Configure Soot DFP Inter;0.99700
+Time to perform DFP Inter;3.13900
+Configure Soot DFP Inter;1.07500
+Time to perform DFP Inter;2.04200
+Configure Soot DFP Inter;1.04800
+Time to perform DFP Inter;1.83200
+Configure Soot DFP Inter;0.73700
+Time to perform DFP Inter;0.85300
+Configure Soot DFP Inter;0.81500
+Time to perform DFP Inter;0.92300
+Configure Soot DFP Inter;0.97200
+Time to perform DFP Inter;1.16500
+Configure Soot DFP Inter;0.98100
+Time to perform DFP Inter;1.17200
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;0.92300
+Configure Soot DFP Inter;0.85500
+Time to perform DFP Inter;0.91600
+Configure Soot DFP Inter;0.94000
+Time to perform DFP Inter;1.06000
+Configure Soot DFP Inter;0.92800
+Time to perform DFP Inter;1.05200
+Configure Soot DFP Inter;1.11600
+Time to perform DFP Inter;2.54600
+Configure Soot DFP Inter;1.11300
+Time to perform DFP Inter;2.80100
+Configure Soot DFP Inter;1.12500
+Time to perform DFP Inter;2.21700
+Configure Soot DFP Inter;1.16800
+Time to perform DFP Inter;2.16600
+Configure Soot DFP Inter;1.01000
+Time to perform DFP Inter;1.70200
+Configure Soot DFP Inter;1.03300
+Time to perform DFP Inter;1.98800
+Configure Soot DFP Inter;0.99100
+Time to perform DFP Inter;1.67100
+Configure Soot DFP Inter;0.76400
+Time to perform DFP Inter;2.03000
+Configure Soot DFP Inter;1.68800
+Time to perform DFP Inter;3.68900
+Configure Soot DFP Inter;1.36500
+Time to perform DFP Inter;3.91400
+Configure Soot DFP Inter;1.69800
+Time to perform DFP Inter;3.68200
+Configure Soot DFP Inter;1.66700
+Time to perform DFP Inter;3.94500
+Configure Soot DFP Inter;1.71500
+Time to perform DFP Inter;3.88800
+Configure Soot DFP Inter;1.64600
+Time to perform DFP Inter;3.90400
+Configure Soot DFP Inter;1.19400
+Time to perform DFP Inter;4.26400
+Configure Soot DFP Inter;0.95600
+Time to perform DFP Inter;5.11100
+Configure Soot DFP Inter;1.21800
+Time to perform DFP Inter;4.33700
+Configure Soot DFP Inter;1.18000
+Time to perform DFP Inter;3.53800
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;1.24100
+Configure Soot DFP Inter;0.87400
+Time to perform DFP Inter;1.27600
+Configure Soot DFP Inter;1.64600
+Time to perform DFP Inter;3.84100
+Configure Soot DFP Inter;1.63000
+Time to perform DFP Inter;3.61800
+Configure Soot DFP Inter;0.89300
+Time to perform DFP Inter;3.47400
+Configure Soot DFP Inter;1.20000
+Time to perform DFP Inter;4.75600
+Configure Soot DFP Inter;0.84100
+Time to perform DFP Inter;1.26400
+Configure Soot DFP Inter;0.85400
+Time to perform DFP Inter;1.29500
+Configure Soot DFP Inter;1.17100
+Time to perform DFP Inter;3.62200
+Configure Soot DFP Inter;1.14500
+Time to perform DFP Inter;3.26500
+Configure Soot DFP Inter;1.65600
+Time to perform DFP Inter;3.62000
+Configure Soot DFP Inter;1.25000
+Time to perform DFP Inter;3.26200
+Configure Soot DFP Inter;0.86000
+Time to perform DFP Inter;2.19800
+Configure Soot DFP Inter;1.09500
+Time to perform DFP Inter;2.54700
+Configure Soot DFP Inter;1.62800
+Time to perform DFP Inter;3.32100
+Configure Soot DFP Inter;1.78800
+Time to perform DFP Inter;3.41100
+Configure Soot DFP Inter;1.48200
+Time to perform DFP Inter;3.11200
+Configure Soot DFP Inter;1.63900
+Time to perform DFP Inter;3.55200
+Configure Soot DFP Inter;1.88300
+Time to perform DFP Inter;3.28200
+Configure Soot DFP Inter;1.67800
+Time to perform DFP Inter;2.77200
+Configure Soot DFP Inter;1.01600
+Time to perform DFP Inter;2.61400
+Configure Soot DFP Inter;1.25300
+Time to perform DFP Inter;3.18600
+Configure Soot DFP Inter;0.90400
+Time to perform DFP Inter;2.69700
+Configure Soot DFP Inter;0.90000
+Time to perform DFP Inter;2.63100
+Configure Soot DFP Inter;1.05400
+Time to perform DFP Inter;3.74400
+Configure Soot DFP Inter;1.28800
+Time to perform DFP Inter;3.60400
+Configure Soot DFP Inter;0.88500
+Time to perform DFP Inter;3.02200
+Configure Soot DFP Inter;1.17100
+Time to perform DFP Inter;2.80700
+Configure Soot DFP Inter;0.97600
+Time to perform DFP Inter;3.43300
+Configure Soot DFP Inter;0.96300
+Time to perform DFP Inter;3.17700
+Configure Soot DFP Inter;1.33700
+Time to perform DFP Inter;3.42400
+Configure Soot DFP Inter;1.16300
+Time to perform DFP Inter;2.96100
+Configure Soot DFP Inter;1.07100
+Time to perform DFP Inter;1.84600
+Configure Soot DFP Inter;1.06700
+Time to perform DFP Inter;1.93800
+Configure Soot DFP Inter;0.85500
+Time to perform DFP Inter;2.26400
+Configure Soot DFP Inter;0.89300
+Time to perform DFP Inter;2.31000
+Configure Soot DFP Inter;1.09500
+Time to perform DFP Inter;1.96100
+Configure Soot DFP Inter;1.10600
+Time to perform DFP Inter;1.84500
+Configure Soot DFP Inter;0.69700
+Time to perform DFP Inter;1.77400
+Configure Soot DFP Inter;0.86600
+Time to perform DFP Inter;2.08300
+Configure Soot DFP Inter;0.96500
+Time to perform DFP Inter;2.28400
+Configure Soot DFP Inter;0.95600
+Time to perform DFP Inter;2.30700
+Configure Soot DFP Inter;1.11900
+Time to perform DFP Inter;2.15600
+Configure Soot DFP Inter;1.10900
+Time to perform DFP Inter;2.18000
+Configure Soot DFP Inter;1.07200
+Time to perform DFP Inter;1.31900
+Configure Soot DFP Inter;0.83100
+Time to perform DFP Inter;1.12400
+Configure Soot DFP Inter;0.84900
+Time to perform DFP Inter;1.79100
+Configure Soot DFP Inter;0.84800
+Time to perform DFP Inter;2.11200
+Configure Soot DFP Inter;0.92900
+Time to perform DFP Inter;2.52300
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;2.37100
+Configure Soot DFP Inter;0.94700
+Time to perform DFP Inter;1.99800
+Configure Soot DFP Inter;0.92700
+Time to perform DFP Inter;2.10300
+Configure Soot DFP Inter;0.92200
+Time to perform DFP Inter;2.13400
+Configure Soot DFP Inter;0.91200
+Time to perform DFP Inter;2.13000
+Configure Soot DFP Inter;0.68900
+Time to perform DFP Inter;1.82700
+Configure Soot DFP Inter;0.73000
+Time to perform DFP Inter;2.31800
+Configure Soot DFP Inter;0.66400
+Time to perform DFP Inter;1.74200
+Configure Soot DFP Inter;0.69100
+Time to perform DFP Inter;2.09500
+Configure Soot DFP Inter;0.75400
+Time to perform DFP Inter;1.17600
+Configure Soot DFP Inter;0.95400
+Time to perform DFP Inter;1.17400
+Configure Soot DFP Inter;0.98800
+Time to perform DFP Inter;0.78500
+Configure Soot DFP Inter;1.00400
+Time to perform DFP Inter;1.21100
+Configure Soot DFP Inter;0.98700
+Time to perform DFP Inter;1.33400
+Configure Soot DFP Inter;0.98300
+Time to perform DFP Inter;1.35000
+Configure Soot DFP Inter;0.96900
+Time to perform DFP Inter;1.35600
+Configure Soot DFP Inter;0.97300
+Time to perform DFP Inter;1.32000
+Configure Soot DFP Inter;0.94300
+Time to perform DFP Inter;1.91600
+Configure Soot DFP Inter;0.94500
+Time to perform DFP Inter;2.04900
+Configure Soot DFP Inter;0.93700
+Time to perform DFP Inter;1.45000
+Configure Soot DFP Inter;0.95300
+Time to perform DFP Inter;1.53700
+Configure Soot DFP Inter;0.95000
+Time to perform DFP Inter;1.82600
+Configure Soot DFP Inter;0.73200
+Time to perform DFP Inter;1.57900
+Configure Soot DFP Inter;0.81200
+Time to perform DFP Inter;1.14800
+Configure Soot DFP Inter;0.80800
+Time to perform DFP Inter;1.28200
+Configure Soot DFP Inter;0.95400
+Time to perform DFP Inter;2.88600
+Configure Soot DFP Inter;0.94600
+Time to perform DFP Inter;2.75600
+Configure Soot DFP Inter;1.07200
+Time to perform DFP Inter;3.09700
+Configure Soot DFP Inter;1.05300
+Time to perform DFP Inter;3.26100
+Configure Soot DFP Inter;0.94200
+Time to perform DFP Inter;1.22300
+Configure Soot DFP Inter;0.97300
+Time to perform DFP Inter;1.22500
+Configure Soot DFP Inter;1.24200
+Time to perform DFP Inter;8.49100
+Configure Soot DFP Inter;1.23200
+Time to perform DFP Inter;7.78600
+Configure Soot DFP Inter;1.25200
+Time to perform DFP Inter;9.46000
+Configure Soot DFP Inter;1.24800
+Time to perform DFP Inter;7.90000
+Configure Soot DFP Inter;1.16400
+Time to perform DFP Inter;4.50100
+Configure Soot DFP Inter;0.90200
+Time to perform DFP Inter;4.31500
+Configure Soot DFP Inter;0.96800
+Time to perform DFP Inter;1.57100
+Configure Soot DFP Inter;1.00100
+Time to perform DFP Inter;1.57900
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;1.44900
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;1.35400
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;1.33000
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;1.28100
+Configure Soot DFP Inter;0.97500
+Time to perform DFP Inter;1.21200
+Configure Soot DFP Inter;0.95300
+Time to perform DFP Inter;1.07300
+Configure Soot DFP Inter;0.79400
+Time to perform DFP Inter;0.52900
+Configure Soot DFP Inter;0.79900
+Time to perform DFP Inter;0.51400
+Configure Soot DFP Inter;0.81700
+Time to perform DFP Inter;1.31200
+Configure Soot DFP Inter;0.82200
+Time to perform DFP Inter;1.25300
+Configure Soot DFP Inter;1.01800
+Time to perform DFP Inter;0.90500
+Configure Soot DFP Inter;1.01900
+Time to perform DFP Inter;0.86300
+Configure Soot DFP Inter;6.26700
+Configure Soot DFP Inter;5.90800
+Configure Soot DFP Inter;6.31400
+Time to perform DFP Inter;269.36100
+Configure Soot DFP Inter;6.93800
+Configure Soot DFP Inter;5.36700
+Configure Soot DFP Inter;6.11200
+Configure Soot DFP Inter;2.50300
+Time to perform DFP Inter;13.01600
+Configure Soot DFP Inter;2.83200
+Time to perform DFP Inter;13.89200
+Configure Soot DFP Inter;4.61200
+Configure Soot DFP Inter;5.04100
+Configure Soot DFP Inter;4.97700
+Time to perform DFP Inter;175.49000
+Configure Soot DFP Inter;4.71500
+Time to perform DFP Inter;183.99100
+Configure Soot DFP Inter;5.76600
+Time to perform DFP Inter;161.97100
+Configure Soot DFP Inter;5.34400
+Time to perform DFP Inter;165.00900
+Configure Soot DFP Inter;4.79300
+Time to perform DFP Inter;260.56300
+Configure Soot DFP Inter;4.48500
+Configure Soot DFP Inter;4.40300
+Time to perform DFP Inter;80.59500
+Configure Soot DFP Inter;5.15900
+Time to perform DFP Inter;85.24600
+Configure Soot DFP Inter;2.23300
+Time to perform DFP Inter;24.60200
+Configure Soot DFP Inter;1.82300
+Time to perform DFP Inter;25.18800
+Configure Soot DFP Inter;1.15900
+Time to perform DFP Inter;16.82100
+Configure Soot DFP Inter;1.10800
+Time to perform DFP Inter;17.15900
+Configure Soot DFP Inter;1.51600
+Time to perform DFP Inter;3.84400
+Configure Soot DFP Inter;1.36000
+Time to perform DFP Inter;4.00500
+Configure Soot DFP Inter;2.05300
+Time to perform DFP Inter;1.27700
+Configure Soot DFP Inter;2.16200
+Time to perform DFP Inter;1.35000
+Configure Soot DFP Inter;1.22800
+Time to perform DFP Inter;98.70000
+Configure Soot DFP Inter;1.22400
+Time to perform DFP Inter;84.41100
+Configure Soot DFP Inter;0.74000
+Time to perform DFP Inter;1.12800
+Configure Soot DFP Inter;0.91700
+Time to perform DFP Inter;1.38500
+Configure Soot DFP Inter;0.97500
+Time to perform DFP Inter;7.13800
+Configure Soot DFP Inter;0.76700
+Time to perform DFP Inter;6.07300
+Configure Soot DFP Inter;1.01200
+Time to perform DFP Inter;5.75900
+Configure Soot DFP Inter;1.31400
+Time to perform DFP Inter;5.94500
+Configure Soot DFP Inter;0.76300
+Time to perform DFP Inter;6.07400
+Configure Soot DFP Inter;0.76300
+Time to perform DFP Inter;6.01000
+Configure Soot DFP Inter;0.76500
+Time to perform DFP Inter;5.97900
+Configure Soot DFP Inter;0.79000
+Time to perform DFP Inter;6.05300
+Configure Soot DFP Inter;0.77800
+Time to perform DFP Inter;5.96700
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;6.53900
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;5.86400
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;6.20300
+Configure Soot DFP Inter;0.80300
+Time to perform DFP Inter;5.88400
+Configure Soot DFP Inter;0.78800
+Time to perform DFP Inter;6.82300
+Configure Soot DFP Inter;0.77800
+Time to perform DFP Inter;6.75700
+Configure Soot DFP Inter;1.02100
+Time to perform DFP Inter;5.99400
+Configure Soot DFP Inter;1.03200
+Time to perform DFP Inter;5.98800
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;6.16700
+Configure Soot DFP Inter;0.77000
+Time to perform DFP Inter;6.09200
+Configure Soot DFP Inter;0.76400
+Time to perform DFP Inter;6.16900
+Configure Soot DFP Inter;0.95200
+Time to perform DFP Inter;7.14900
+Configure Soot DFP Inter;0.78000
+Time to perform DFP Inter;5.79800
+Configure Soot DFP Inter;1.01100
+Time to perform DFP Inter;5.69200
+Configure Soot DFP Inter;1.07600
+Time to perform DFP Inter;6.65800
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;5.90500
+Configure Soot DFP Inter;0.79400
+Time to perform DFP Inter;5.85200
+Configure Soot DFP Inter;0.78600
+Time to perform DFP Inter;5.65900
+Configure Soot DFP Inter;0.78200
+Time to perform DFP Inter;5.89500
+Configure Soot DFP Inter;0.75900
+Time to perform DFP Inter;5.86300
+Configure Soot DFP Inter;0.80500
+Time to perform DFP Inter;6.56500
+Configure Soot DFP Inter;0.94500
+Time to perform DFP Inter;3.32300
+Configure Soot DFP Inter;1.13900
+Time to perform DFP Inter;3.36500
+Configure Soot DFP Inter;0.87400
+Time to perform DFP Inter;1.70900
+Configure Soot DFP Inter;0.88600
+Time to perform DFP Inter;1.87500
+Configure Soot DFP Inter;0.88500
+Time to perform DFP Inter;1.92200
+Configure Soot DFP Inter;0.87500
+Time to perform DFP Inter;1.73500
+Configure Soot DFP Inter;0.89200
+Time to perform DFP Inter;1.32800
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;1.31200
+Configure Soot DFP Inter;1.29500
+Time to perform DFP Inter;4.87600
+Configure Soot DFP Inter;1.27600
+Time to perform DFP Inter;5.36900
+Configure Soot DFP Inter;1.28100
+Time to perform DFP Inter;1.01700
+Configure Soot DFP Inter;1.28800
+Time to perform DFP Inter;1.03000
+Configure Soot DFP Inter;1.24100
+Time to perform DFP Inter;4.91200
+Configure Soot DFP Inter;0.99500
+Time to perform DFP Inter;4.90800
+Configure Soot DFP Inter;2.05600
+Time to perform DFP Inter;8.95000
+Configure Soot DFP Inter;1.73300
+Time to perform DFP Inter;8.57300
+Configure Soot DFP Inter;0.67000
+Time to perform DFP Inter;0.99900
+Configure Soot DFP Inter;0.65400
+Time to perform DFP Inter;1.13000
+Configure Soot DFP Inter;0.66700
+Time to perform DFP Inter;1.01100
+Configure Soot DFP Inter;0.82700
+Time to perform DFP Inter;1.15500
+Configure Soot DFP Inter;0.85000
+Time to perform DFP Inter;1.36000
+Configure Soot DFP Inter;0.87600
+Time to perform DFP Inter;1.37700
+Configure Soot DFP Inter;0.87800
+Time to perform DFP Inter;1.36600
+Configure Soot DFP Inter;0.84800
+Time to perform DFP Inter;1.40100
+Configure Soot DFP Inter;1.26800
+Time to perform DFP Inter;0.90700
+Configure Soot DFP Inter;1.29100
+Time to perform DFP Inter;0.92400
+Configure Soot DFP Inter;1.28400
+Time to perform DFP Inter;0.79000
+Configure Soot DFP Inter;1.28500
+Time to perform DFP Inter;0.76800
+Configure Soot DFP Inter;1.27100
+Time to perform DFP Inter;0.82800
+Configure Soot DFP Inter;1.27200
+Time to perform DFP Inter;0.80400
+Configure Soot DFP Inter;1.28700
+Time to perform DFP Inter;0.74900
+Configure Soot DFP Inter;1.29000
+Time to perform DFP Inter;0.76400
+Configure Soot DFP Inter;1.28700
+Time to perform DFP Inter;0.76000
+Configure Soot DFP Inter;1.30100
+Time to perform DFP Inter;0.76300
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;0.99900
+Configure Soot DFP Inter;0.85300
+Time to perform DFP Inter;1.00600
+Configure Soot DFP Inter;0.93300
+Time to perform DFP Inter;1.07000
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;0.96000
+Configure Soot DFP Inter;1.13900
+Time to perform DFP Inter;1.06500
+Configure Soot DFP Inter;1.12900
+Time to perform DFP Inter;1.05600
+Configure Soot DFP Inter;1.04600
+Time to perform DFP Inter;1.05900
+Configure Soot DFP Inter;1.04000
+Time to perform DFP Inter;1.07100
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;0.54300
+Configure Soot DFP Inter;0.89800
+Time to perform DFP Inter;0.54400
+Configure Soot DFP Inter;0.96700
+Time to perform DFP Inter;1.78700
+Configure Soot DFP Inter;0.96500
+Time to perform DFP Inter;1.76900
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;1.39100
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;1.47800
+Configure Soot DFP Inter;1.28900
+Time to perform DFP Inter;1.20600
+Configure Soot DFP Inter;1.28900
+Time to perform DFP Inter;1.19900
+Configure Soot DFP Inter;0.92800
+Time to perform DFP Inter;1.39100
+Configure Soot DFP Inter;0.94200
+Time to perform DFP Inter;1.44000
+Configure Soot DFP Inter;1.00100
+Time to perform DFP Inter;18.98600
+Configure Soot DFP Inter;1.01600
+Time to perform DFP Inter;17.09800
+Configure Soot DFP Inter;0.94200
+Time to perform DFP Inter;7.32500
+Configure Soot DFP Inter;0.75200
+Time to perform DFP Inter;7.45600
+Configure Soot DFP Inter;1.09600
+Time to perform DFP Inter;1.63400
+Configure Soot DFP Inter;1.08100
+Time to perform DFP Inter;1.31500
+Configure Soot DFP Inter;1.12800
+Time to perform DFP Inter;1.53500
+Configure Soot DFP Inter;1.11200
+Time to perform DFP Inter;1.46000
+Configure Soot DFP Inter;1.26500
+Time to perform DFP Inter;1.95400
+Configure Soot DFP Inter;1.21800
+Time to perform DFP Inter;1.73700
+Configure Soot DFP Inter;1.24100
+Time to perform DFP Inter;6.81000
+Configure Soot DFP Inter;1.00000
+Time to perform DFP Inter;6.46700
+Configure Soot DFP Inter;1.30400
+Time to perform DFP Inter;6.61000
+Configure Soot DFP Inter;1.00800
+Time to perform DFP Inter;6.21000
+Configure Soot DFP Inter;1.31200
+Time to perform DFP Inter;1.63700
+Configure Soot DFP Inter;1.04000
+Time to perform DFP Inter;1.82700
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;1.22000
+Configure Soot DFP Inter;1.11000
+Time to perform DFP Inter;1.55800
+Configure Soot DFP Inter;1.13300
+Time to perform DFP Inter;1.63300
+Configure Soot DFP Inter;1.16300
+Time to perform DFP Inter;1.92600
+Configure Soot DFP Inter;1.21500
+Time to perform DFP Inter;1.47000
+Configure Soot DFP Inter;1.23200
+Time to perform DFP Inter;1.76300
+Configure Soot DFP Inter;1.17900
+Time to perform DFP Inter;1.82900
+Configure Soot DFP Inter;1.22800
+Time to perform DFP Inter;1.81500
+Configure Soot DFP Inter;0.87500
+Time to perform DFP Inter;1.64300
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;1.65400
+Configure Soot DFP Inter;1.22400
+Time to perform DFP Inter;4.75800
+Configure Soot DFP Inter;1.16000
+Time to perform DFP Inter;4.33300
+Configure Soot DFP Inter;0.63200
+Time to perform DFP Inter;0.67100
+Configure Soot DFP Inter;0.63700
+Time to perform DFP Inter;0.70600
+Configure Soot DFP Inter;5.68100
+Time to perform DFP Inter;115.57800
+Configure Soot DFP Inter;7.04900
+Time to perform DFP Inter;118.78300
+Configure Soot DFP Inter;1.23500
+Time to perform DFP Inter;0.81400
+Configure Soot DFP Inter;1.24100
+Time to perform DFP Inter;0.65200
+Configure Soot DFP Inter;0.93700
+Time to perform DFP Inter;0.98000
+Configure Soot DFP Inter;1.06100
+Time to perform DFP Inter;1.04700
+Configure Soot DFP Inter;1.02500
+Time to perform DFP Inter;4.45500
+Configure Soot DFP Inter;1.04800
+Time to perform DFP Inter;3.98600
+Configure Soot DFP Inter;1.05400
+Time to perform DFP Inter;2.02800
+Configure Soot DFP Inter;0.85500
+Time to perform DFP Inter;1.54800
+Configure Soot DFP Inter;0.81900
+Time to perform DFP Inter;16.38200
+Configure Soot DFP Inter;0.86400
+Time to perform DFP Inter;19.32300
+Configure Soot DFP Inter;0.81200
+Time to perform DFP Inter;1.29600
+Configure Soot DFP Inter;0.98900
+Time to perform DFP Inter;1.28200
+Configure Soot DFP Inter;1.07700
+Time to perform DFP Inter;1.05400
+Configure Soot DFP Inter;1.03400
+Time to perform DFP Inter;0.99400
+Configure Soot DFP Inter;3.13600
+Time to perform DFP Inter;46.13300
+Configure Soot DFP Inter;2.84100
+Time to perform DFP Inter;47.80900
+Configure Soot DFP Inter;2.99100
+Time to perform DFP Inter;87.44900
+Configure Soot DFP Inter;2.92500
+Time to perform DFP Inter;103.08000
+Configure Soot DFP Inter;0.91700
+Time to perform DFP Inter;0.73900
+Configure Soot DFP Inter;0.92000
+Time to perform DFP Inter;0.69900
+Configure Soot DFP Inter;0.93500
+Time to perform DFP Inter;0.39300
+Configure Soot DFP Inter;0.90200
+Time to perform DFP Inter;0.65200
+Configure Soot DFP Inter;0.94500
+Time to perform DFP Inter;1.27600
+Configure Soot DFP Inter;0.95100
+Time to perform DFP Inter;1.27100
+Configure Soot DFP Inter;0.83600
+Time to perform DFP Inter;1.34700
+Configure Soot DFP Inter;0.84900
+Time to perform DFP Inter;1.56000
+Configure Soot DFP Inter;0.99300
+Time to perform DFP Inter;1.19400
+Configure Soot DFP Inter;1.02000
+Time to perform DFP Inter;1.23400
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.54900
+Configure Soot DFP Inter;0.88300
+Time to perform DFP Inter;1.58900
+Configure Soot DFP Inter;4.07100
+Time to perform DFP Inter;37.28100
+Configure Soot DFP Inter;3.99300
+Time to perform DFP Inter;40.06900
+Configure Soot DFP Inter;1.24500
+Time to perform DFP Inter;8.42500
+Configure Soot DFP Inter;1.24200
+Time to perform DFP Inter;9.70100
+Configure Soot DFP Inter;1.25400
+Time to perform DFP Inter;9.19900
+Configure Soot DFP Inter;1.24700
+Time to perform DFP Inter;8.56100
+Configure Soot DFP Inter;0.88300
+Time to perform DFP Inter;1.15200
+Configure Soot DFP Inter;0.93100
+Time to perform DFP Inter;1.40900
+Configure Soot DFP Inter;1.36600
+Time to perform DFP Inter;4.07500
+Configure Soot DFP Inter;1.38500
+Time to perform DFP Inter;3.56900
+Configure Soot DFP Inter;1.31100
+Time to perform DFP Inter;1.46300
+Configure Soot DFP Inter;1.32000
+Time to perform DFP Inter;1.53000
+Configure Soot DFP Inter;0.83600
+Time to perform DFP Inter;1.14600
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;1.16600
+Configure Soot DFP Inter;0.98600
+Time to perform DFP Inter;2.80700
+Configure Soot DFP Inter;0.96300
+Time to perform DFP Inter;2.93100
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;2.95000
+Configure Soot DFP Inter;0.96500
+Time to perform DFP Inter;2.96400
+Configure Soot DFP Inter;0.97300
+Time to perform DFP Inter;2.44300
+Configure Soot DFP Inter;0.97700
+Time to perform DFP Inter;2.54400
+Configure Soot DFP Inter;1.20500
+Time to perform DFP Inter;0.68000
+Configure Soot DFP Inter;1.21500
+Time to perform DFP Inter;0.92800
+Configure Soot DFP Inter;1.31200
+Time to perform DFP Inter;2.95300
+Configure Soot DFP Inter;1.28900
+Time to perform DFP Inter;2.95000
+Configure Soot DFP Inter;0.91600
+Time to perform DFP Inter;2.05400
+Configure Soot DFP Inter;0.92200
+Time to perform DFP Inter;2.03100
+Configure Soot DFP Inter;1.71500
+Time to perform DFP Inter;3.45900
+Configure Soot DFP Inter;1.32600
+Time to perform DFP Inter;4.08400
+Configure Soot DFP Inter;1.31900
+Time to perform DFP Inter;2.05400
+Configure Soot DFP Inter;1.46800
+Time to perform DFP Inter;2.18400
+Configure Soot DFP Inter;1.41200
+Time to perform DFP Inter;2.00500
+Configure Soot DFP Inter;1.43200
+Time to perform DFP Inter;2.01300
+Configure Soot DFP Inter;1.48100
+Time to perform DFP Inter;1.93000
+Configure Soot DFP Inter;1.43800
+Time to perform DFP Inter;2.17700
+Configure Soot DFP Inter;1.12500
+Time to perform DFP Inter;2.14300
+Configure Soot DFP Inter;1.50300
+Time to perform DFP Inter;2.04200
+Configure Soot DFP Inter;1.33100
+Time to perform DFP Inter;1.81600
+Configure Soot DFP Inter;1.32800
+Time to perform DFP Inter;1.97200
+Configure Soot DFP Inter;1.41000
+Time to perform DFP Inter;1.73900
+Configure Soot DFP Inter;1.30400
+Time to perform DFP Inter;2.02300
+Configure Soot DFP Inter;1.10300
+Time to perform DFP Inter;1.11700
+Configure Soot DFP Inter;1.08500
+Time to perform DFP Inter;1.17100
+Configure Soot DFP Inter;0.98700
+Time to perform DFP Inter;1.62500
+Configure Soot DFP Inter;0.85800
+Time to perform DFP Inter;1.49000
+Configure Soot DFP Inter;1.02300
+Time to perform DFP Inter;1.41300
+Configure Soot DFP Inter;1.01900
+Time to perform DFP Inter;1.37500
+Configure Soot DFP Inter;1.37900
+Time to perform DFP Inter;1.47300
+Configure Soot DFP Inter;1.40900
+Time to perform DFP Inter;1.37700
+Configure Soot DFP Inter;1.04600
+Time to perform DFP Inter;2.30300
+Configure Soot DFP Inter;1.04300
+Time to perform DFP Inter;2.60200
+Configure Soot DFP Inter;1.28200
+Time to perform DFP Inter;1.63900
+Configure Soot DFP Inter;1.15100
+Time to perform DFP Inter;1.63700
+Configure Soot DFP Inter;0.85400
+Time to perform DFP Inter;2.58400
+Configure Soot DFP Inter;0.99600
+Time to perform DFP Inter;3.12900
+Configure Soot DFP Inter;1.91000
+Time to perform DFP Inter;1.56900
+Configure Soot DFP Inter;2.38100
+Time to perform DFP Inter;2.45600
+Configure Soot DFP Inter;0.86400
+Time to perform DFP Inter;1.85000
+Configure Soot DFP Inter;0.85200
+Time to perform DFP Inter;1.45300
+Configure Soot DFP Inter;2.54700
+Time to perform DFP Inter;4.25100
+Configure Soot DFP Inter;2.06800
+Time to perform DFP Inter;4.16700
+Configure Soot DFP Inter;1.30300
+Time to perform DFP Inter;6.31300
+Configure Soot DFP Inter;1.61100
+Time to perform DFP Inter;5.79300
+Configure Soot DFP Inter;2.65700
+Time to perform DFP Inter;4.40400
+Configure Soot DFP Inter;2.71200
+Time to perform DFP Inter;4.52600
+Configure Soot DFP Inter;1.51300
+Time to perform DFP Inter;0.58900
+Configure Soot DFP Inter;1.50500
+Time to perform DFP Inter;0.57000
+Configure Soot DFP Inter;1.53000
+Time to perform DFP Inter;0.51800
+Configure Soot DFP Inter;1.76300
+Time to perform DFP Inter;0.61500
+Configure Soot DFP Inter;1.81900
+Time to perform DFP Inter;0.61100
+Configure Soot DFP Inter;1.91600
+Time to perform DFP Inter;0.66400
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;0.76300
+Configure Soot DFP Inter;0.79100
+Time to perform DFP Inter;0.77000
+Configure Soot DFP Inter;0.96900
+Time to perform DFP Inter;0.99100
+Configure Soot DFP Inter;0.98700
+Time to perform DFP Inter;1.09600
+Configure Soot DFP Inter;0.86300
+Time to perform DFP Inter;0.56300
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;0.58200
+Configure Soot DFP Inter;0.86600
+Time to perform DFP Inter;0.63200
+Configure Soot DFP Inter;0.86500
+Time to perform DFP Inter;0.54000
+Configure Soot DFP Inter;1.00700
+Time to perform DFP Inter;1.05500
+Configure Soot DFP Inter;1.01700
+Time to perform DFP Inter;0.95500
+Configure Soot DFP Inter;1.09400
+Time to perform DFP Inter;3.35500
+Configure Soot DFP Inter;1.07500
+Time to perform DFP Inter;2.42800
+Configure Soot DFP Inter;0.90400
+Time to perform DFP Inter;2.57800
+Configure Soot DFP Inter;1.03600
+Time to perform DFP Inter;2.93700
+Configure Soot DFP Inter;1.29600
+Time to perform DFP Inter;9.38800
+Configure Soot DFP Inter;1.37100
+Time to perform DFP Inter;8.66800
+Configure Soot DFP Inter;0.77800
+Time to perform DFP Inter;0.89200
+Configure Soot DFP Inter;0.67900
+Time to perform DFP Inter;0.77800
+Configure Soot DFP Inter;1.25700
+Time to perform DFP Inter;1.97300
+Configure Soot DFP Inter;1.16300
+Time to perform DFP Inter;2.23200
+Configure Soot DFP Inter;1.34200
+Time to perform DFP Inter;2.22400
+Configure Soot DFP Inter;1.35700
+Time to perform DFP Inter;2.20800
+Configure Soot DFP Inter;1.24200
+Time to perform DFP Inter;2.03800
+Configure Soot DFP Inter;1.35900
+Time to perform DFP Inter;1.87300
+Configure Soot DFP Inter;1.21700
+Time to perform DFP Inter;1.33300
+Configure Soot DFP Inter;1.24100
+Time to perform DFP Inter;1.43700
+Configure Soot DFP Inter;1.05100
+Time to perform DFP Inter;0.75400
+Configure Soot DFP Inter;1.05700
+Time to perform DFP Inter;1.04600
+Configure Soot DFP Inter;1.06700
+Time to perform DFP Inter;0.66300
+Configure Soot DFP Inter;1.04800
+Time to perform DFP Inter;1.05900
+Configure Soot DFP Inter;1.05500
+Time to perform DFP Inter;0.75300
+Configure Soot DFP Inter;1.05100
+Time to perform DFP Inter;1.33400
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;0.78100
+Configure Soot DFP Inter;1.07300
+Time to perform DFP Inter;1.34700
+Configure Soot DFP Inter;1.03300
+Time to perform DFP Inter;0.72200
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;1.04300
+Configure Soot DFP Inter;1.02700
+Time to perform DFP Inter;1.62200
+Configure Soot DFP Inter;1.04500
+Time to perform DFP Inter;1.61300
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;1.64800
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;1.70400
+Configure Soot DFP Inter;0.81300
+Time to perform DFP Inter;1.16400
+Configure Soot DFP Inter;0.82000
+Time to perform DFP Inter;1.21300
+Configure Soot DFP Inter;0.84000
+Time to perform DFP Inter;1.19400
+Configure Soot DFP Inter;0.84000
+Time to perform DFP Inter;1.16000
+Configure Soot DFP Inter;0.85000
+Time to perform DFP Inter;0.54400
+Configure Soot DFP Inter;0.86400
+Time to perform DFP Inter;0.54900
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;0.57200
+Configure Soot DFP Inter;0.85800
+Time to perform DFP Inter;0.55000
+Configure Soot DFP Inter;0.82500
+Time to perform DFP Inter;0.61100
+Configure Soot DFP Inter;0.82400
+Time to perform DFP Inter;0.57600
+Configure Soot DFP Inter;0.93200
+Time to perform DFP Inter;1.21900
+Configure Soot DFP Inter;0.95100
+Time to perform DFP Inter;1.22900
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;1.87500
+Configure Soot DFP Inter;1.05400
+Time to perform DFP Inter;1.82500
+Configure Soot DFP Inter;0.94800
+Time to perform DFP Inter;1.00000
+Configure Soot DFP Inter;0.94300
+Time to perform DFP Inter;0.91500
+Configure Soot DFP Inter;0.86400
+Time to perform DFP Inter;0.64400
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;0.83800
+Configure Soot DFP Inter;1.04300
+Time to perform DFP Inter;1.38700
+Configure Soot DFP Inter;1.02200
+Time to perform DFP Inter;1.43900
+Configure Soot DFP Inter;0.92900
+Time to perform DFP Inter;0.98700
+Configure Soot DFP Inter;0.91600
+Time to perform DFP Inter;0.91100
+Configure Soot DFP Inter;0.92600
+Time to perform DFP Inter;0.59800
+Configure Soot DFP Inter;0.90200
+Time to perform DFP Inter;0.84100
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;0.92400
+Configure Soot DFP Inter;0.89300
+Time to perform DFP Inter;0.91800
+Configure Soot DFP Inter;0.89800
+Time to perform DFP Inter;1.11800
+Configure Soot DFP Inter;0.90200
+Time to perform DFP Inter;1.14300
+Configure Soot DFP Inter;0.95900
+Time to perform DFP Inter;1.78000
+Configure Soot DFP Inter;0.94400
+Time to perform DFP Inter;1.82000
+Configure Soot DFP Inter;1.07500
+Time to perform DFP Inter;1.00600
+Configure Soot DFP Inter;1.09700
+Time to perform DFP Inter;1.02000
+Configure Soot DFP Inter;0.95700
+Time to perform DFP Inter;2.20700
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;2.18200
+Configure Soot DFP Inter;1.35800
+Time to perform DFP Inter;2.61500
+Configure Soot DFP Inter;1.35000
+Time to perform DFP Inter;2.53700
+Configure Soot DFP Inter;0.88000
+Time to perform DFP Inter;1.18000
+Configure Soot DFP Inter;0.69000
+Time to perform DFP Inter;1.41000
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;1.49300
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;1.65000
+Configure Soot DFP Inter;13.76900
+Configure Soot DFP Inter;13.45100
+Configure Soot DFP Inter;13.51300
+Configure Soot DFP Inter;13.47300
+Configure Soot DFP Inter;0.91300
+Time to perform DFP Inter;0.90800
+Configure Soot DFP Inter;0.90300
+Time to perform DFP Inter;0.90500
+Configure Soot DFP Inter;1.66400
+Time to perform DFP Inter;1.80500
+Configure Soot DFP Inter;1.66300
+Time to perform DFP Inter;1.82900
+Configure Soot DFP Inter;1.51200
+Time to perform DFP Inter;1.54400
+Configure Soot DFP Inter;1.26800
+Time to perform DFP Inter;1.67600
+Configure Soot DFP Inter;1.57000
+Time to perform DFP Inter;1.72900
+Configure Soot DFP Inter;1.56500
+Time to perform DFP Inter;1.79900
+Configure Soot DFP Inter;1.93800
+Time to perform DFP Inter;1.68600
+Configure Soot DFP Inter;1.87300
+Time to perform DFP Inter;1.72600
+Configure Soot DFP Inter;1.87500
+Time to perform DFP Inter;1.89100
+Configure Soot DFP Inter;1.92400
+Time to perform DFP Inter;1.96900
+Configure Soot DFP Inter;2.01900
+Time to perform DFP Inter;1.58400
+Configure Soot DFP Inter;1.90200
+Time to perform DFP Inter;1.75400
+Configure Soot DFP Inter;1.59400
+Time to perform DFP Inter;1.79300
+Configure Soot DFP Inter;1.22900
+Time to perform DFP Inter;1.58100
+Configure Soot DFP Inter;1.44400
+Time to perform DFP Inter;1.76100
+Configure Soot DFP Inter;1.69000
+Time to perform DFP Inter;1.88500
+Configure Soot DFP Inter;1.68100
+Time to perform DFP Inter;1.83200
+Configure Soot DFP Inter;1.59400
+Time to perform DFP Inter;1.47200
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;1.27900
+Configure Soot DFP Inter;1.02600
+Time to perform DFP Inter;1.25900
+Configure Soot DFP Inter;1.47600
+Time to perform DFP Inter;10.89200
+Configure Soot DFP Inter;1.16700
+Time to perform DFP Inter;10.71900
+Configure Soot DFP Inter;1.19800
+Time to perform DFP Inter;11.03000
+Configure Soot DFP Inter;1.21800
+Time to perform DFP Inter;10.83900
+Configure Soot DFP Inter;1.59500
+Time to perform DFP Inter;1.65600
+Configure Soot DFP Inter;1.74600
+Time to perform DFP Inter;1.67800
+Configure Soot DFP Inter;1.38600
+Time to perform DFP Inter;1.63800
+Configure Soot DFP Inter;1.78500
+Time to perform DFP Inter;1.87300
+Configure Soot DFP Inter;1.58500
+Time to perform DFP Inter;1.80700
+Configure Soot DFP Inter;1.56000
+Time to perform DFP Inter;1.89900
+Configure Soot DFP Inter;1.61600
+Time to perform DFP Inter;1.84800
+Configure Soot DFP Inter;1.60600
+Time to perform DFP Inter;1.84800
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;1.62400
+Configure Soot DFP Inter;0.91500
+Time to perform DFP Inter;1.69700
+Configure Soot DFP Inter;0.93100
+Time to perform DFP Inter;1.24200
+Configure Soot DFP Inter;0.95400
+Time to perform DFP Inter;1.35900
+Configure Soot DFP Inter;1.38900
+Time to perform DFP Inter;0.79700
+Configure Soot DFP Inter;1.34200
+Time to perform DFP Inter;0.80800
+Configure Soot DFP Inter;1.37600
+Time to perform DFP Inter;0.84200
+Configure Soot DFP Inter;1.35800
+Time to perform DFP Inter;1.05700
+Configure Soot DFP Inter;1.60000
+Time to perform DFP Inter;12.53800
+Configure Soot DFP Inter;1.24400
+Time to perform DFP Inter;10.40700
+Configure Soot DFP Inter;1.60800
+Time to perform DFP Inter;10.66100
+Configure Soot DFP Inter;1.53100
+Time to perform DFP Inter;12.48800
+Configure Soot DFP Inter;1.15000
+Time to perform DFP Inter;11.46700
+Configure Soot DFP Inter;1.37900
+Time to perform DFP Inter;11.56100
+Configure Soot DFP Inter;1.14700
+Time to perform DFP Inter;2.60600
+Configure Soot DFP Inter;1.15300
+Time to perform DFP Inter;2.55900
+Configure Soot DFP Inter;0.81400
+Time to perform DFP Inter;1.06600
+Configure Soot DFP Inter;0.99400
+Time to perform DFP Inter;1.11300
+Configure Soot DFP Inter;1.39500
+Time to perform DFP Inter;13.70000
+Configure Soot DFP Inter;1.16900
+Time to perform DFP Inter;13.22600
+Configure Soot DFP Inter;0.85800
+Time to perform DFP Inter;0.76700
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;0.89000
+Configure Soot DFP Inter;0.84700
+Time to perform DFP Inter;0.88800
+Configure Soot DFP Inter;1.09600
+Time to perform DFP Inter;0.83100
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;0.93000
+Configure Soot DFP Inter;1.11500
+Time to perform DFP Inter;0.95000
+Configure Soot DFP Inter;1.10600
+Time to perform DFP Inter;1.11300
+Configure Soot DFP Inter;1.10500
+Time to perform DFP Inter;1.12000
+Configure Soot DFP Inter;1.10700
+Time to perform DFP Inter;0.93200
+Configure Soot DFP Inter;1.05500
+Time to perform DFP Inter;0.79900
+Configure Soot DFP Inter;1.24300
+Time to perform DFP Inter;10.36800
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;9.44700
+Configure Soot DFP Inter;0.92600
+Time to perform DFP Inter;1.41400
+Configure Soot DFP Inter;0.95000
+Time to perform DFP Inter;1.74400
+Configure Soot DFP Inter;1.08200
+Time to perform DFP Inter;1.52900
+Configure Soot DFP Inter;1.32100
+Time to perform DFP Inter;1.61400
+Configure Soot DFP Inter;1.14700
+Time to perform DFP Inter;1.40500
+Configure Soot DFP Inter;1.12000
+Time to perform DFP Inter;1.54800
+Configure Soot DFP Inter;1.12600
+Time to perform DFP Inter;1.45900
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;1.45900
+Configure Soot DFP Inter;1.39400
+Time to perform DFP Inter;1.46000
+Configure Soot DFP Inter;1.38100
+Time to perform DFP Inter;1.41100
+Configure Soot DFP Inter;0.99300
+Time to perform DFP Inter;0.77100
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;0.79300
+Configure Soot DFP Inter;1.02900
+Time to perform DFP Inter;0.84500
+Configure Soot DFP Inter;1.07100
+Time to perform DFP Inter;0.83300
+Configure Soot DFP Inter;1.08100
+Time to perform DFP Inter;6.60600
+Configure Soot DFP Inter;1.00300
+Time to perform DFP Inter;5.77500
+Configure Soot DFP Inter;1.08600
+Time to perform DFP Inter;3.98200
+Configure Soot DFP Inter;1.07000
+Time to perform DFP Inter;3.84700
+Configure Soot DFP Inter;1.07000
+Time to perform DFP Inter;3.69100
+Configure Soot DFP Inter;1.06900
+Time to perform DFP Inter;3.62600
+Configure Soot DFP Inter;6.30400
+Time to perform DFP Inter;224.95000
+Configure Soot DFP Inter;6.09600
+Time to perform DFP Inter;215.50900
+Configure Soot DFP Inter;0.84600
+Time to perform DFP Inter;3.16900
+Configure Soot DFP Inter;1.02500
+Time to perform DFP Inter;3.28100
+Configure Soot DFP Inter;1.02700
+Time to perform DFP Inter;3.38700
+Configure Soot DFP Inter;0.91800
+Time to perform DFP Inter;3.62800
+Configure Soot DFP Inter;5.75500
+Time to perform DFP Inter;213.98300
+Configure Soot DFP Inter;5.83200
+Time to perform DFP Inter;224.64900
+Configure Soot DFP Inter;1.06000
+Time to perform DFP Inter;3.18500
+Configure Soot DFP Inter;0.87800
+Time to perform DFP Inter;3.06500
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;3.68700
+Configure Soot DFP Inter;1.05300
+Time to perform DFP Inter;3.52400
+Configure Soot DFP Inter;1.07400
+Time to perform DFP Inter;3.29600
+Configure Soot DFP Inter;0.96100
+Time to perform DFP Inter;2.82000
+Configure Soot DFP Inter;0.84700
+Time to perform DFP Inter;3.29000
+Configure Soot DFP Inter;1.07600
+Time to perform DFP Inter;3.60400
+Configure Soot DFP Inter;1.09100
+Time to perform DFP Inter;3.31500
+Configure Soot DFP Inter;1.06300
+Time to perform DFP Inter;3.22700
+Configure Soot DFP Inter;1.06300
+Time to perform DFP Inter;3.37500
+Configure Soot DFP Inter;1.01300
+Time to perform DFP Inter;2.70200
+Configure Soot DFP Inter;0.86900
+Time to perform DFP Inter;3.01300
+Configure Soot DFP Inter;0.85900
+Time to perform DFP Inter;2.75700
+Configure Soot DFP Inter;1.16400
+Time to perform DFP Inter;2.80600
+Configure Soot DFP Inter;0.92400
+Time to perform DFP Inter;2.67900
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;3.17700
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;3.06700
+Configure Soot DFP Inter;1.13600
+Time to perform DFP Inter;3.45100
+Configure Soot DFP Inter;1.13600
+Time to perform DFP Inter;3.72900
+Configure Soot DFP Inter;1.13400
+Time to perform DFP Inter;3.21200
+Configure Soot DFP Inter;1.14100
+Time to perform DFP Inter;2.90500
+Configure Soot DFP Inter;1.14700
+Time to perform DFP Inter;3.03200
+Configure Soot DFP Inter;1.16600
+Time to perform DFP Inter;3.16700
+Configure Soot DFP Inter;1.14900
+Time to perform DFP Inter;3.17500
+Configure Soot DFP Inter;1.16000
+Time to perform DFP Inter;3.16700
+Configure Soot DFP Inter;1.14400
+Time to perform DFP Inter;3.92600
+Configure Soot DFP Inter;0.94800
+Time to perform DFP Inter;3.59300
+Configure Soot DFP Inter;1.13700
+Time to perform DFP Inter;3.01800
+Configure Soot DFP Inter;1.13700
+Time to perform DFP Inter;3.34700
+Configure Soot DFP Inter;1.06300
+Time to perform DFP Inter;2.83300
+Configure Soot DFP Inter;0.95200
+Time to perform DFP Inter;3.18700
+Configure Soot DFP Inter;1.08900
+Time to perform DFP Inter;2.94100
+Configure Soot DFP Inter;1.12400
+Time to perform DFP Inter;3.17500
+Configure Soot DFP Inter;0.93200
+Time to perform DFP Inter;2.53000
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;3.06100
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;1.20200
+Configure Soot DFP Inter;1.09800
+Time to perform DFP Inter;1.55600
+Configure Soot DFP Inter;1.00200
+Time to perform DFP Inter;3.40200
+Configure Soot DFP Inter;0.93800
+Time to perform DFP Inter;2.99400
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;1.29900
+Configure Soot DFP Inter;1.02500
+Time to perform DFP Inter;1.22100
+Configure Soot DFP Inter;1.05100
+Time to perform DFP Inter;1.38400
+Configure Soot DFP Inter;1.00900
+Time to perform DFP Inter;1.50400
+Configure Soot DFP Inter;1.52900
+Time to perform DFP Inter;4.58500
+Configure Soot DFP Inter;1.49900
+Time to perform DFP Inter;3.88100
+Configure Soot DFP Inter;0.66500
+Time to perform DFP Inter;1.46600
+Configure Soot DFP Inter;0.75300
+Time to perform DFP Inter;1.40200
+Configure Soot DFP Inter;0.93200
+Time to perform DFP Inter;1.48200
+Configure Soot DFP Inter;1.10200
+Time to perform DFP Inter;1.77000
+Configure Soot DFP Inter;0.99900
+Time to perform DFP Inter;1.33300
+Configure Soot DFP Inter;0.90800
+Time to perform DFP Inter;1.15500
+Configure Soot DFP Inter;1.13600
+Time to perform DFP Inter;1.38300
+Configure Soot DFP Inter;1.17600
+Time to perform DFP Inter;1.44800
+Configure Soot DFP Inter;1.19700
+Time to perform DFP Inter;1.09500
+Configure Soot DFP Inter;1.17900
+Time to perform DFP Inter;1.27000
+Configure Soot DFP Inter;0.93400
+Time to perform DFP Inter;1.12600
+Configure Soot DFP Inter;0.94600
+Time to perform DFP Inter;1.11400
+Configure Soot DFP Inter;0.96700
+Time to perform DFP Inter;1.51500
+Configure Soot DFP Inter;1.01000
+Time to perform DFP Inter;1.29200
+Configure Soot DFP Inter;0.98800
+Time to perform DFP Inter;1.43400
+Configure Soot DFP Inter;1.02000
+Time to perform DFP Inter;1.56500
+Configure Soot DFP Inter;1.00400
+Time to perform DFP Inter;1.26800
+Configure Soot DFP Inter;0.99400
+Time to perform DFP Inter;1.30400
+Configure Soot DFP Inter;0.97400
+Time to perform DFP Inter;1.94100
+Configure Soot DFP Inter;0.96800
+Time to perform DFP Inter;1.78500
+Configure Soot DFP Inter;1.01300
+Time to perform DFP Inter;1.64800
+Configure Soot DFP Inter;1.03700
+Time to perform DFP Inter;1.67300
+Configure Soot DFP Inter;1.01100
+Time to perform DFP Inter;0.90600
+Configure Soot DFP Inter;1.01100
+Time to perform DFP Inter;1.05300
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;2.43400
+Configure Soot DFP Inter;1.12000
+Time to perform DFP Inter;2.00400
+Configure Soot DFP Inter;1.06700
+Time to perform DFP Inter;1.43100
+Configure Soot DFP Inter;0.91200
+Time to perform DFP Inter;1.45200
+Configure Soot DFP Inter;1.16200
+Time to perform DFP Inter;3.23800
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;2.94800
+Configure Soot DFP Inter;0.99300
+Time to perform DFP Inter;3.17000
+Configure Soot DFP Inter;0.99800
+Time to perform DFP Inter;3.29200
+Configure Soot DFP Inter;1.28200
+Time to perform DFP Inter;3.37100
+Configure Soot DFP Inter;1.18100
+Time to perform DFP Inter;3.08600
+Configure Soot DFP Inter;0.81400
+Time to perform DFP Inter;0.72300
+Configure Soot DFP Inter;0.75400
+Time to perform DFP Inter;0.70600
+Configure Soot DFP Inter;1.58200
+Time to perform DFP Inter;3.26500
+Configure Soot DFP Inter;1.68500
+Time to perform DFP Inter;2.70800
+Configure Soot DFP Inter;1.08300
+Time to perform DFP Inter;2.97700
+Configure Soot DFP Inter;1.13100
+Time to perform DFP Inter;2.88800
+Configure Soot DFP Inter;0.75700
+Time to perform DFP Inter;1.25000
+Configure Soot DFP Inter;0.96600
+Time to perform DFP Inter;1.25200
+Configure Soot DFP Inter;1.25800
+Time to perform DFP Inter;2.20800
+Configure Soot DFP Inter;1.27000
+Time to perform DFP Inter;2.60900
+Configure Soot DFP Inter;1.11000
+Time to perform DFP Inter;2.79000
+Configure Soot DFP Inter;1.00900
+Time to perform DFP Inter;2.90800
+Configure Soot DFP Inter;1.02900
+Time to perform DFP Inter;2.87300
+Configure Soot DFP Inter;1.25800
+Time to perform DFP Inter;3.14100
+Configure Soot DFP Inter;1.25200
+Time to perform DFP Inter;2.87200
+Configure Soot DFP Inter;1.35500
+Time to perform DFP Inter;2.39000
+Configure Soot DFP Inter;1.05000
+Time to perform DFP Inter;2.96100
+Configure Soot DFP Inter;1.27700
+Time to perform DFP Inter;2.76100
+Configure Soot DFP Inter;1.16500
+Time to perform DFP Inter;2.59200
+Configure Soot DFP Inter;1.15900
+Time to perform DFP Inter;2.46500
+Configure Soot DFP Inter;1.25600
+Time to perform DFP Inter;2.86100
+Configure Soot DFP Inter;1.22300
+Time to perform DFP Inter;2.99800
+Configure Soot DFP Inter;1.14300
+Time to perform DFP Inter;2.65300
+Configure Soot DFP Inter;1.13800
+Time to perform DFP Inter;2.58500
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.34800
+Configure Soot DFP Inter;0.74600
+Time to perform DFP Inter;1.57900
+Configure Soot DFP Inter;1.45700
+Time to perform DFP Inter;2.79800
+Configure Soot DFP Inter;1.53600
+Time to perform DFP Inter;2.28500
+Configure Soot DFP Inter;1.45200
+Time to perform DFP Inter;2.62800
+Configure Soot DFP Inter;1.39300
+Time to perform DFP Inter;2.13400
+Configure Soot DFP Inter;1.04200
+Time to perform DFP Inter;2.25500
+Configure Soot DFP Inter;1.01000
+Time to perform DFP Inter;2.37500
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;2.29500
+Configure Soot DFP Inter;1.22100
+Time to perform DFP Inter;2.37400
+Configure Soot DFP Inter;1.21200
+Time to perform DFP Inter;2.53200
+Configure Soot DFP Inter;1.20600
+Time to perform DFP Inter;2.58200
+Configure Soot DFP Inter;0.95900
+Time to perform DFP Inter;1.55400
+Configure Soot DFP Inter;1.01400
+Time to perform DFP Inter;1.53000
+Configure Soot DFP Inter;1.18900
+Time to perform DFP Inter;2.44000
+Configure Soot DFP Inter;0.98500
+Time to perform DFP Inter;2.30900
+Configure Soot DFP Inter;1.20900
+Time to perform DFP Inter;2.01200
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;2.12300
+Configure Soot DFP Inter;1.13200
+Time to perform DFP Inter;2.92500
+Configure Soot DFP Inter;1.10800
+Time to perform DFP Inter;2.73900
+Configure Soot DFP Inter;1.26600
+Time to perform DFP Inter;2.21700
+Configure Soot DFP Inter;1.05900
+Time to perform DFP Inter;1.69700
+Configure Soot DFP Inter;0.99700
+Time to perform DFP Inter;3.07700
+Configure Soot DFP Inter;0.99500
+Time to perform DFP Inter;2.84900
+Configure Soot DFP Inter;0.97300
+Time to perform DFP Inter;2.82900
+Configure Soot DFP Inter;0.97200
+Time to perform DFP Inter;3.24300
+Configure Soot DFP Inter;0.89900
+Time to perform DFP Inter;1.34100
+Configure Soot DFP Inter;0.77500
+Time to perform DFP Inter;1.12100
+Configure Soot DFP Inter;1.08800
+Time to perform DFP Inter;0.92100
+Configure Soot DFP Inter;0.86900
+Time to perform DFP Inter;0.90200
+Configure Soot DFP Inter;1.07700
+Time to perform DFP Inter;2.18500
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;2.16100
+Configure Soot DFP Inter;1.18800
+Time to perform DFP Inter;2.40100
+Configure Soot DFP Inter;1.20100
+Time to perform DFP Inter;2.45000
+Configure Soot DFP Inter;1.03700
+Time to perform DFP Inter;1.66400
+Configure Soot DFP Inter;1.03200
+Time to perform DFP Inter;1.49600
+Configure Soot DFP Inter;1.17900
+Time to perform DFP Inter;2.17600
+Configure Soot DFP Inter;1.18800
+Time to perform DFP Inter;2.06700
+Configure Soot DFP Inter;1.21300
+Time to perform DFP Inter;2.08800
+Configure Soot DFP Inter;1.22200
+Time to perform DFP Inter;2.09000
+Configure Soot DFP Inter;1.15700
+Time to perform DFP Inter;2.03800
+Configure Soot DFP Inter;1.20700
+Time to perform DFP Inter;2.61900
+Configure Soot DFP Inter;0.99900
+Time to perform DFP Inter;2.10200
+Configure Soot DFP Inter;1.23300
+Time to perform DFP Inter;2.06200
+Configure Soot DFP Inter;0.84300
+Time to perform DFP Inter;1.57900
+Configure Soot DFP Inter;1.04900
+Time to perform DFP Inter;1.95500
+Configure Soot DFP Inter;1.19400
+Time to perform DFP Inter;1.35600
+Configure Soot DFP Inter;1.14100
+Time to perform DFP Inter;1.50200
+Configure Soot DFP Inter;0.93900
+Time to perform DFP Inter;1.83700
+Configure Soot DFP Inter;0.92100
+Time to perform DFP Inter;1.87500
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;1.96600
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;1.86900
+Configure Soot DFP Inter;0.88700
+Time to perform DFP Inter;1.26400
+Configure Soot DFP Inter;0.87800
+Time to perform DFP Inter;1.23700
+Configure Soot DFP Inter;0.89300
+Time to perform DFP Inter;1.30000
+Configure Soot DFP Inter;0.87800
+Time to perform DFP Inter;1.34500
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;3.01600
+Configure Soot DFP Inter;1.09200
+Time to perform DFP Inter;2.88600
+Configure Soot DFP Inter;1.36500
+Time to perform DFP Inter;8.26600
+Configure Soot DFP Inter;1.39400
+Time to perform DFP Inter;8.55500
+Configure Soot DFP Inter;0.97000
+Time to perform DFP Inter;1.16100
+Configure Soot DFP Inter;0.95400
+Time to perform DFP Inter;1.18400
+Configure Soot DFP Inter;0.98600
+Time to perform DFP Inter;1.45600
+Configure Soot DFP Inter;0.98400
+Time to perform DFP Inter;1.48400
+Configure Soot DFP Inter;1.01400
+Time to perform DFP Inter;1.10600
+Configure Soot DFP Inter;0.96800
+Time to perform DFP Inter;1.10900
+Configure Soot DFP Inter;0.99800
+Time to perform DFP Inter;1.22900
+Configure Soot DFP Inter;1.00400
+Time to perform DFP Inter;1.18200
+Configure Soot DFP Inter;0.92700
+Time to perform DFP Inter;1.90700
+Configure Soot DFP Inter;0.94800
+Time to perform DFP Inter;2.03900
+Configure Soot DFP Inter;0.92900
+Time to perform DFP Inter;0.70200
+Configure Soot DFP Inter;0.93200
+Time to perform DFP Inter;0.48200
+Configure Soot DFP Inter;0.94500
+Time to perform DFP Inter;0.92000
+Configure Soot DFP Inter;0.94500
+Time to perform DFP Inter;0.88800
+Configure Soot DFP Inter;1.16400
+Time to perform DFP Inter;3.33900
+Configure Soot DFP Inter;1.14000
+Time to perform DFP Inter;3.30900
+Configure Soot DFP Inter;0.92900
+Time to perform DFP Inter;2.76600
+Configure Soot DFP Inter;1.19400
+Time to perform DFP Inter;3.02400
+Configure Soot DFP Inter;0.80200
+Time to perform DFP Inter;3.29000
+Configure Soot DFP Inter;0.77700
+Time to perform DFP Inter;3.36500
+Configure Soot DFP Inter;0.88500
+Time to perform DFP Inter;1.17800
+Configure Soot DFP Inter;0.92000
+Time to perform DFP Inter;1.26000
+Configure Soot DFP Inter;1.14700
+Time to perform DFP Inter;3.08500
+Configure Soot DFP Inter;1.12600
+Time to perform DFP Inter;3.10800
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;0.76300
+Configure Soot DFP Inter;1.00000
+Time to perform DFP Inter;0.46500
+Configure Soot DFP Inter;0.88500
+Time to perform DFP Inter;0.81700
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;0.85200
+Configure Soot DFP Inter;1.84700
+Time to perform DFP Inter;20.64500
+Configure Soot DFP Inter;1.51600
+Time to perform DFP Inter;19.31900
+Configure Soot DFP Inter;0.69300
+Time to perform DFP Inter;1.03800
+Configure Soot DFP Inter;0.87200
+Time to perform DFP Inter;1.17200
+Configure Soot DFP Inter;1.03900
+Time to perform DFP Inter;0.96200
+Configure Soot DFP Inter;1.11000
+Time to perform DFP Inter;1.02800
+Configure Soot DFP Inter;1.05800
+Time to perform DFP Inter;2.98200
+Configure Soot DFP Inter;1.10900
+Time to perform DFP Inter;2.98900
+Configure Soot DFP Inter;1.08600
+Time to perform DFP Inter;2.95100
+Configure Soot DFP Inter;1.09700
+Time to perform DFP Inter;2.95200
+Configure Soot DFP Inter;1.12200
+Time to perform DFP Inter;2.16700
+Configure Soot DFP Inter;1.15800
+Time to perform DFP Inter;2.19000
+Configure Soot DFP Inter;1.17400
+Time to perform DFP Inter;2.05500
+Configure Soot DFP Inter;1.21900
+Time to perform DFP Inter;2.09800
+Configure Soot DFP Inter;1.19400
+Time to perform DFP Inter;1.98300
+Configure Soot DFP Inter;1.22600
+Time to perform DFP Inter;1.94100
+Configure Soot DFP Inter;1.05300
+Time to perform DFP Inter;2.26800
+Configure Soot DFP Inter;1.03900
+Time to perform DFP Inter;2.23300
+Configure Soot DFP Inter;1.04000
+Time to perform DFP Inter;1.93000
+Configure Soot DFP Inter;1.04000
+Time to perform DFP Inter;2.00100
+Configure Soot DFP Inter;1.23300
+Time to perform DFP Inter;2.34400
+Configure Soot DFP Inter;1.21600
+Time to perform DFP Inter;2.25500
+Configure Soot DFP Inter;1.32200
+Time to perform DFP Inter;1.44400
+Configure Soot DFP Inter;1.44100
+Time to perform DFP Inter;1.47400
+Configure Soot DFP Inter;1.47100
+Time to perform DFP Inter;6.50200
+Configure Soot DFP Inter;1.23800
+Time to perform DFP Inter;5.42200
+Configure Soot DFP Inter;1.36800
+Time to perform DFP Inter;4.61600
+Configure Soot DFP Inter;1.08300
+Time to perform DFP Inter;3.78700
+Configure Soot DFP Inter;1.47600
+Time to perform DFP Inter;3.89200
+Configure Soot DFP Inter;1.45700
+Time to perform DFP Inter;4.89900
+Configure Soot DFP Inter;1.47600
+Time to perform DFP Inter;4.58300
+Configure Soot DFP Inter;1.18400
+Time to perform DFP Inter;3.78500
+Configure Soot DFP Inter;0.93900
+Time to perform DFP Inter;1.35200
+Configure Soot DFP Inter;0.95000
+Time to perform DFP Inter;1.50700
+Configure Soot DFP Inter;0.87300
+Time to perform DFP Inter;1.45500
+Configure Soot DFP Inter;0.90000
+Time to perform DFP Inter;1.46000
+Configure Soot DFP Inter;0.87600
+Time to perform DFP Inter;1.76600
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;1.66600
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;1.35100
+Configure Soot DFP Inter;0.85200
+Time to perform DFP Inter;1.40900
+Configure Soot DFP Inter;0.86500
+Time to perform DFP Inter;1.85800
+Configure Soot DFP Inter;0.86000
+Time to perform DFP Inter;1.79200
+Configure Soot DFP Inter;0.87800
+Time to perform DFP Inter;1.60700
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;1.57500
+Configure Soot DFP Inter;0.86500
+Time to perform DFP Inter;1.58300
+Configure Soot DFP Inter;0.87100
+Time to perform DFP Inter;1.57500
+Configure Soot DFP Inter;0.84900
+Time to perform DFP Inter;1.67400
+Configure Soot DFP Inter;0.86200
+Time to perform DFP Inter;1.70700
+Configure Soot DFP Inter;1.14600
+Time to perform DFP Inter;4.35100
+Configure Soot DFP Inter;1.15900
+Time to perform DFP Inter;3.98400
+Configure Soot DFP Inter;1.09700
+Time to perform DFP Inter;4.15900
+Configure Soot DFP Inter;1.37100
+Time to perform DFP Inter;4.35600
+Configure Soot DFP Inter;1.07700
+Time to perform DFP Inter;1.83700
+Configure Soot DFP Inter;1.04300
+Time to perform DFP Inter;1.81500
+Configure Soot DFP Inter;1.12100
+Time to perform DFP Inter;1.82100
+Configure Soot DFP Inter;1.12400
+Time to perform DFP Inter;1.86500
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;0.43100
+Configure Soot DFP Inter;0.94000
+Time to perform DFP Inter;0.67500
+Configure Soot DFP Inter;3.44700
+Time to perform DFP Inter;34.31300
+Configure Soot DFP Inter;3.12400
+Time to perform DFP Inter;35.95700
+Configure Soot DFP Inter;1.18600
+Time to perform DFP Inter;5.37400
+Configure Soot DFP Inter;1.18200
+Time to perform DFP Inter;4.86500
+Configure Soot DFP Inter;1.18300
+Configure Soot DFP Inter;1.28200
+Configure Soot DFP Inter;1.64900
+Time to perform DFP Inter;3.11700
+Configure Soot DFP Inter;1.56200
+Time to perform DFP Inter;3.36200
+Configure Soot DFP Inter;0.99800
+Time to perform DFP Inter;2.05400
+Configure Soot DFP Inter;0.78700
+Time to perform DFP Inter;1.79900
+Configure Soot DFP Inter;0.99700
+Time to perform DFP Inter;2.25800
+Configure Soot DFP Inter;1.00500
+Time to perform DFP Inter;2.21800
+Configure Soot DFP Inter;1.67400
+Time to perform DFP Inter;4.36500
+Configure Soot DFP Inter;1.51800
+Time to perform DFP Inter;4.74900
+Configure Soot DFP Inter;1.55000
+Time to perform DFP Inter;3.14400
+Configure Soot DFP Inter;1.60600
+Time to perform DFP Inter;3.91200
+Configure Soot DFP Inter;1.59100
+Time to perform DFP Inter;3.53800
+Configure Soot DFP Inter;1.24300
+Time to perform DFP Inter;3.44800
+Configure Soot DFP Inter;0.80400
+Time to perform DFP Inter;1.90200
+Configure Soot DFP Inter;1.02100
+Time to perform DFP Inter;1.88000
+Configure Soot DFP Inter;1.60400
+Time to perform DFP Inter;3.54900
+Configure Soot DFP Inter;1.60500
+Time to perform DFP Inter;3.30700
+Configure Soot DFP Inter;1.21500
+Time to perform DFP Inter;3.34300
+Configure Soot DFP Inter;1.19900
+Time to perform DFP Inter;3.01600
+Configure Soot DFP Inter;1.21500
+Time to perform DFP Inter;3.06400
+Configure Soot DFP Inter;1.22100
+Time to perform DFP Inter;3.80800
+Configure Soot DFP Inter;0.63200
+Time to perform DFP Inter;0.41400
+Configure Soot DFP Inter;0.65200
+Time to perform DFP Inter;0.50400
+Configure Soot DFP Inter;0.75300
+Time to perform DFP Inter;0.73100
+Configure Soot DFP Inter;0.99100
+Time to perform DFP Inter;0.83900
+Configure Soot DFP Inter;0.99600
+Time to perform DFP Inter;0.90400
+Configure Soot DFP Inter;0.98400
+Time to perform DFP Inter;0.89100
+Configure Soot DFP Inter;1.24200
+Time to perform DFP Inter;1.35200
+Configure Soot DFP Inter;1.24900
+Time to perform DFP Inter;1.32400
+Configure Soot DFP Inter;1.24100
+Time to perform DFP Inter;1.13300
+Configure Soot DFP Inter;1.27500
+Time to perform DFP Inter;1.08700
+Configure Soot DFP Inter;1.22600
+Time to perform DFP Inter;1.20200
+Configure Soot DFP Inter;1.46500
+Time to perform DFP Inter;0.99100
+Configure Soot DFP Inter;1.26100
+Time to perform DFP Inter;1.04000
+Configure Soot DFP Inter;0.96100
+Time to perform DFP Inter;0.92000
+Configure Soot DFP Inter;0.86500
+Time to perform DFP Inter;0.83600
+Configure Soot DFP Inter;0.84900
+Time to perform DFP Inter;0.82300
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;0.86000
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.01300
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;0.91200
+Configure Soot DFP Inter;0.89600
+Time to perform DFP Inter;1.04600
+Configure Soot DFP Inter;1.09100
+Time to perform DFP Inter;1.03700
+Configure Soot DFP Inter;1.11300
+Time to perform DFP Inter;0.99600
+Configure Soot DFP Inter;1.05800
+Time to perform DFP Inter;2.56500
+Configure Soot DFP Inter;1.05800
+Time to perform DFP Inter;2.83400
+Configure Soot DFP Inter;1.09300
+Time to perform DFP Inter;1.60600
+Configure Soot DFP Inter;1.10500
+Time to perform DFP Inter;1.22400
+Configure Soot DFP Inter;1.25200
+Time to perform DFP Inter;1.19700
+Configure Soot DFP Inter;1.24100
+Time to perform DFP Inter;1.27200
+Configure Soot DFP Inter;1.08700
+Time to perform DFP Inter;1.81600
+Configure Soot DFP Inter;1.07400
+Time to perform DFP Inter;1.95600
+Configure Soot DFP Inter;1.07600
+Time to perform DFP Inter;0.95200
+Configure Soot DFP Inter;1.07200
+Time to perform DFP Inter;1.12600
+Configure Soot DFP Inter;1.07400
+Time to perform DFP Inter;1.39300
+Configure Soot DFP Inter;1.04900
+Time to perform DFP Inter;1.45200
+Configure Soot DFP Inter;1.05300
+Time to perform DFP Inter;1.25200
+Configure Soot DFP Inter;1.04200
+Time to perform DFP Inter;1.20500
+Configure Soot DFP Inter;0.99000
+Time to perform DFP Inter;1.16800
+Configure Soot DFP Inter;0.99600
+Time to perform DFP Inter;1.22100
+Configure Soot DFP Inter;0.97600
+Time to perform DFP Inter;2.10000
+Configure Soot DFP Inter;0.92500
+Time to perform DFP Inter;2.20200
+Configure Soot DFP Inter;0.83800
+Time to perform DFP Inter;1.13800
+Configure Soot DFP Inter;0.71100
+Time to perform DFP Inter;1.24200
+Configure Soot DFP Inter;0.87000
+Time to perform DFP Inter;1.32000
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;1.58400
+Configure Soot DFP Inter;0.87000
+Time to perform DFP Inter;1.33900
+Configure Soot DFP Inter;0.79900
+Time to perform DFP Inter;1.37200
+Configure Soot DFP Inter;1.09600
+Time to perform DFP Inter;1.45400
+Configure Soot DFP Inter;1.09800
+Time to perform DFP Inter;1.64700
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;2.05500
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;1.96600
+Configure Soot DFP Inter;0.91000
+Time to perform DFP Inter;1.26600
+Configure Soot DFP Inter;0.86900
+Time to perform DFP Inter;1.22800
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;1.34700
+Configure Soot DFP Inter;0.86900
+Time to perform DFP Inter;1.27300
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;1.33800
+Configure Soot DFP Inter;0.87100
+Time to perform DFP Inter;1.27200
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;1.91600
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;1.82300
+Configure Soot DFP Inter;0.84400
+Time to perform DFP Inter;0.83000
+Configure Soot DFP Inter;0.85800
+Time to perform DFP Inter;0.83000
+Configure Soot DFP Inter;0.81700
+Time to perform DFP Inter;0.59300
+Configure Soot DFP Inter;0.82400
+Time to perform DFP Inter;0.60600
+Configure Soot DFP Inter;1.10500
+Time to perform DFP Inter;1.74300
+Configure Soot DFP Inter;1.09500
+Time to perform DFP Inter;1.73200
+Configure Soot DFP Inter;1.04300
+Time to perform DFP Inter;2.30000
+Configure Soot DFP Inter;1.03900
+Time to perform DFP Inter;2.32000
+Configure Soot DFP Inter;0.89600
+Time to perform DFP Inter;1.58500
+Configure Soot DFP Inter;1.11700
+Time to perform DFP Inter;1.96900
+Configure Soot DFP Inter;0.88400
+Time to perform DFP Inter;1.84200
+Configure Soot DFP Inter;0.89700
+Time to perform DFP Inter;1.73800
+Configure Soot DFP Inter;0.89200
+Time to perform DFP Inter;1.75600
+Configure Soot DFP Inter;0.92100
+Time to perform DFP Inter;1.65700
+Configure Soot DFP Inter;0.90400
+Configure Soot DFP Inter;0.91300
+Configure Soot DFP Inter;0.98300
+Time to perform DFP Inter;2.68500
+Configure Soot DFP Inter;0.99000
+Time to perform DFP Inter;3.02000
+Configure Soot DFP Inter;1.02800
+Time to perform DFP Inter;3.12400
+Configure Soot DFP Inter;1.03500
+Time to perform DFP Inter;3.18900
+Configure Soot DFP Inter;1.00800
+Time to perform DFP Inter;2.54700
+Configure Soot DFP Inter;1.01300
+Time to perform DFP Inter;2.71700
+Configure Soot DFP Inter;0.91200
+Time to perform DFP Inter;1.56100
+Configure Soot DFP Inter;0.90600
+Time to perform DFP Inter;1.60200
+Configure Soot DFP Inter;1.36500
+Time to perform DFP Inter;1.35400
+Configure Soot DFP Inter;1.42300
+Time to perform DFP Inter;1.38000
+Configure Soot DFP Inter;1.30600
+Time to perform DFP Inter;1.01500
+Configure Soot DFP Inter;1.30100
+Time to perform DFP Inter;0.94900
+Configure Soot DFP Inter;1.39800
+Time to perform DFP Inter;0.80900
+Configure Soot DFP Inter;1.44600
+Time to perform DFP Inter;1.20800
+Configure Soot DFP Inter;1.15900
+Time to perform DFP Inter;0.83300
+Configure Soot DFP Inter;1.20900
+Time to perform DFP Inter;0.82500
+Configure Soot DFP Inter;0.89600
+Time to perform DFP Inter;0.85100
+Configure Soot DFP Inter;0.90600
+Time to perform DFP Inter;1.14900
+Configure Soot DFP Inter;0.88800
+Time to perform DFP Inter;1.38100
+Configure Soot DFP Inter;0.91800
+Time to perform DFP Inter;1.39700
+Configure Soot DFP Inter;1.05600
+Time to perform DFP Inter;0.91100
+Configure Soot DFP Inter;1.03400
+Time to perform DFP Inter;0.76400
+Configure Soot DFP Inter;1.05900
+Time to perform DFP Inter;0.90900
+Configure Soot DFP Inter;1.03300
+Time to perform DFP Inter;0.72400
+Configure Soot DFP Inter;1.04800
+Time to perform DFP Inter;0.95000
+Configure Soot DFP Inter;1.06900
+Time to perform DFP Inter;0.72200
+Configure Soot DFP Inter;1.02000
+Time to perform DFP Inter;0.92100
+Configure Soot DFP Inter;1.03500
+Time to perform DFP Inter;0.74200
+Configure Soot DFP Inter;1.33800
+Time to perform DFP Inter;1.23300
+Configure Soot DFP Inter;1.31300
+Time to perform DFP Inter;1.36700
+Configure Soot DFP Inter;0.93400
+Time to perform DFP Inter;0.81200
+Configure Soot DFP Inter;0.93800
+Time to perform DFP Inter;0.91300
+Configure Soot DFP Inter;0.70600
+Time to perform DFP Inter;0.47700
+Configure Soot DFP Inter;0.84900
+Time to perform DFP Inter;0.83800
+Configure Soot DFP Inter;0.93000
+Time to perform DFP Inter;0.90100
+Configure Soot DFP Inter;0.70600
+Time to perform DFP Inter;0.85500
+Configure Soot DFP Inter;1.17400
+Time to perform DFP Inter;0.95400
+Configure Soot DFP Inter;1.53000
+Time to perform DFP Inter;1.02700
+Configure Soot DFP Inter;1.46800
+Time to perform DFP Inter;1.01100
+Configure Soot DFP Inter;1.48100
+Time to perform DFP Inter;1.09000
+Configure Soot DFP Inter;1.47500
+Time to perform DFP Inter;0.97900
+Configure Soot DFP Inter;1.45100
+Time to perform DFP Inter;1.01800
+Configure Soot DFP Inter;1.30700
+Time to perform DFP Inter;0.89500
+Configure Soot DFP Inter;1.23400
+Time to perform DFP Inter;0.86400
+Configure Soot DFP Inter;2.96700
+Time to perform DFP Inter;5.41600
+Configure Soot DFP Inter;2.55600
+Time to perform DFP Inter;5.40500
+Configure Soot DFP Inter;0.88800
+Time to perform DFP Inter;1.58700
+Configure Soot DFP Inter;0.87600
+Time to perform DFP Inter;1.49600
+Configure Soot DFP Inter;1.07300
+Time to perform DFP Inter;1.17000
+Configure Soot DFP Inter;1.09200
+Time to perform DFP Inter;1.46500
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;2.22400
+Configure Soot DFP Inter;1.08200
+Time to perform DFP Inter;2.30100
+Configure Soot DFP Inter;0.84000
+Time to perform DFP Inter;1.18500
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;0.99000
+Configure Soot DFP Inter;0.84500
+Time to perform DFP Inter;1.29600
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;1.30500
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;0.80400
+Configure Soot DFP Inter;0.86000
+Time to perform DFP Inter;0.96000
+Configure Soot DFP Inter;1.04700
+Time to perform DFP Inter;2.83700
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;2.95100
+Configure Soot DFP Inter;0.97200
+Time to perform DFP Inter;4.18100
+Configure Soot DFP Inter;0.96600
+Time to perform DFP Inter;3.74100
+Configure Soot DFP Inter;0.80600
+Time to perform DFP Inter;3.78600
+Configure Soot DFP Inter;0.97200
+Time to perform DFP Inter;4.27300
+Configure Soot DFP Inter;1.02200
+Time to perform DFP Inter;1.86800
+Configure Soot DFP Inter;1.01300
+Time to perform DFP Inter;1.61100
+Configure Soot DFP Inter;0.69000
+Time to perform DFP Inter;1.29100
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.16400
+Configure Soot DFP Inter;1.01500
+Time to perform DFP Inter;1.79000
+Configure Soot DFP Inter;1.03600
+Time to perform DFP Inter;1.84200
+Configure Soot DFP Inter;6.46800
+Time to perform DFP Inter;145.51400
+Configure Soot DFP Inter;5.77000
+Time to perform DFP Inter;145.56100
+Configure Soot DFP Inter;6.61200
+Time to perform DFP Inter;146.89400
+Configure Soot DFP Inter;6.28900
+Time to perform DFP Inter;164.75000
+Configure Soot DFP Inter;1.09600
+Time to perform DFP Inter;1.86900
+Configure Soot DFP Inter;0.94400
+Time to perform DFP Inter;1.78400
+Configure Soot DFP Inter;1.87000
+Configure Soot DFP Inter;2.03800
+Configure Soot DFP Inter;1.73100
+Time to perform DFP Inter;143.80000
+Configure Soot DFP Inter;1.58100
+Time to perform DFP Inter;156.58500
+Configure Soot DFP Inter;0.68300
+Time to perform DFP Inter;1.54700
+Configure Soot DFP Inter;0.87400
+Time to perform DFP Inter;1.79200
+Configure Soot DFP Inter;2.59200
+Time to perform DFP Inter;292.94400
+Configure Soot DFP Inter;2.60400
+Configure Soot DFP Inter;0.84900
+Time to perform DFP Inter;0.82700
+Configure Soot DFP Inter;0.86600
+Time to perform DFP Inter;0.88600
+Configure Soot DFP Inter;0.85300
+Time to perform DFP Inter;0.75100
+Configure Soot DFP Inter;0.84800
+Time to perform DFP Inter;0.70300
+Configure Soot DFP Inter;0.94600
+Time to perform DFP Inter;2.68500
+Configure Soot DFP Inter;0.94800
+Time to perform DFP Inter;2.47500
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.89600
+Configure Soot DFP Inter;0.69700
+Time to perform DFP Inter;1.69100
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;0.92600
+Configure Soot DFP Inter;0.86400
+Time to perform DFP Inter;0.88900
+Configure Soot DFP Inter;0.89000
+Time to perform DFP Inter;2.90200
+Configure Soot DFP Inter;0.67400
+Time to perform DFP Inter;2.96100
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;1.20900
+Configure Soot DFP Inter;1.02300
+Time to perform DFP Inter;1.14300
+Configure Soot DFP Inter;1.14000
+Time to perform DFP Inter;29.89000
+Configure Soot DFP Inter;1.10300
+Time to perform DFP Inter;26.68900
+Configure Soot DFP Inter;0.69300
+Time to perform DFP Inter;1.24900
+Configure Soot DFP Inter;0.71400
+Time to perform DFP Inter;1.24500
+Configure Soot DFP Inter;1.00100
+Time to perform DFP Inter;8.05000
+Configure Soot DFP Inter;1.01500
+Time to perform DFP Inter;7.13800
+Configure Soot DFP Inter;1.03300
+Time to perform DFP Inter;5.37000
+Configure Soot DFP Inter;1.33200
+Time to perform DFP Inter;6.69000
+Configure Soot DFP Inter;0.67100
+Time to perform DFP Inter;1.15100
+Configure Soot DFP Inter;0.84800
+Time to perform DFP Inter;1.29600
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;1.19600
+Configure Soot DFP Inter;0.66000
+Time to perform DFP Inter;1.07900
+Configure Soot DFP Inter;0.83300
+Time to perform DFP Inter;1.28300
+Configure Soot DFP Inter;0.69700
+Time to perform DFP Inter;1.11000
+Configure Soot DFP Inter;1.18700
+Time to perform DFP Inter;6.99000
+Configure Soot DFP Inter;1.15400
+Time to perform DFP Inter;6.76800
+Configure Soot DFP Inter;0.66300
+Time to perform DFP Inter;1.01000
+Configure Soot DFP Inter;0.80100
+Time to perform DFP Inter;0.95400
+Configure Soot DFP Inter;0.95000
+Time to perform DFP Inter;6.77400
+Configure Soot DFP Inter;1.19600
+Time to perform DFP Inter;6.78300
+Configure Soot DFP Inter;1.18000
+Time to perform DFP Inter;5.76700
+Configure Soot DFP Inter;0.92800
+Time to perform DFP Inter;5.89100
+Configure Soot DFP Inter;0.89900
+Time to perform DFP Inter;8.20400
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;9.16900
+Configure Soot DFP Inter;1.13400
+Time to perform DFP Inter;6.69000
+Configure Soot DFP Inter;0.92800
+Time to perform DFP Inter;6.41500
+Configure Soot DFP Inter;0.93200
+Time to perform DFP Inter;6.58200
+Configure Soot DFP Inter;0.89700
+Time to perform DFP Inter;7.06800
+Configure Soot DFP Inter;0.77000
+Time to perform DFP Inter;1.97700
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;2.30700
+Configure Soot DFP Inter;0.82800
+Time to perform DFP Inter;4.16800
+Configure Soot DFP Inter;1.06600
+Time to perform DFP Inter;4.82800
+Configure Soot DFP Inter;0.98700
+Time to perform DFP Inter;2.86400
+Configure Soot DFP Inter;0.99900
+Time to perform DFP Inter;2.76300
+Configure Soot DFP Inter;1.01200
+Time to perform DFP Inter;2.01800
+Configure Soot DFP Inter;0.99300
+Time to perform DFP Inter;2.14500
+Configure Soot DFP Inter;0.99400
+Time to perform DFP Inter;2.78900
+Configure Soot DFP Inter;1.01600
+Time to perform DFP Inter;2.78600
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;0.82000
+Configure Soot DFP Inter;0.87100
+Time to perform DFP Inter;0.97700
+Configure Soot DFP Inter;0.89700
+Time to perform DFP Inter;1.33600
+Configure Soot DFP Inter;0.90500
+Time to perform DFP Inter;1.14500
+Configure Soot DFP Inter;6.23100
+Time to perform DFP Inter;183.59600
+Configure Soot DFP Inter;6.09400
+Time to perform DFP Inter;166.38000
+Configure Soot DFP Inter;6.04500
+Time to perform DFP Inter;182.46900
+Configure Soot DFP Inter;5.98500
+Time to perform DFP Inter;166.86900
+Configure Soot DFP Inter;0.76600
+Time to perform DFP Inter;2.72200
+Configure Soot DFP Inter;0.94300
+Time to perform DFP Inter;2.00100
+Configure Soot DFP Inter;0.66800
+Time to perform DFP Inter;0.80000
+Configure Soot DFP Inter;0.88000
+Time to perform DFP Inter;0.89500
+Configure Soot DFP Inter;0.88300
+Time to perform DFP Inter;3.24700
+Configure Soot DFP Inter;0.86100
+Time to perform DFP Inter;3.01500
+Configure Soot DFP Inter;1.13800
+Time to perform DFP Inter;27.87700
+Configure Soot DFP Inter;0.86200
+Time to perform DFP Inter;30.87000
+Configure Soot DFP Inter;1.35800
+Time to perform DFP Inter;7.76300
+Configure Soot DFP Inter;1.27200
+Time to perform DFP Inter;8.23500
+Configure Soot DFP Inter;1.31600
+Time to perform DFP Inter;6.44500
+Configure Soot DFP Inter;1.33200
+Time to perform DFP Inter;6.14600
+Configure Soot DFP Inter;0.88600
+Time to perform DFP Inter;7.27600
+Configure Soot DFP Inter;0.90700
+Time to perform DFP Inter;6.03800
+Configure Soot DFP Inter;0.70000
+Time to perform DFP Inter;1.28200
+Configure Soot DFP Inter;0.74400
+Time to perform DFP Inter;1.17400
+Configure Soot DFP Inter;0.88600
+Time to perform DFP Inter;1.14700
+Configure Soot DFP Inter;0.73400
+Time to perform DFP Inter;1.13400
+Configure Soot DFP Inter;0.65500
+Time to perform DFP Inter;1.26300
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;1.32000
+Configure Soot DFP Inter;0.74500
+Time to perform DFP Inter;1.12100
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;1.33900
+Configure Soot DFP Inter;0.89600
+Time to perform DFP Inter;1.39800
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;1.36500
+Configure Soot DFP Inter;0.79700
+Time to perform DFP Inter;1.07100
+Configure Soot DFP Inter;0.80000
+Time to perform DFP Inter;1.00200
+Configure Soot DFP Inter;1.26800
+Time to perform DFP Inter;6.15900
+Configure Soot DFP Inter;0.93700
+Time to perform DFP Inter;5.66300
+Configure Soot DFP Inter;0.92700
+Time to perform DFP Inter;5.85800
+Configure Soot DFP Inter;0.91400
+Time to perform DFP Inter;5.77100
+Configure Soot DFP Inter;1.11300
+Time to perform DFP Inter;7.59200
+Configure Soot DFP Inter;0.92300
+Time to perform DFP Inter;8.96800
+Configure Soot DFP Inter;0.87300
+Time to perform DFP Inter;5.58000
+Configure Soot DFP Inter;0.86500
+Time to perform DFP Inter;6.57500
+Configure Soot DFP Inter;1.14100
+Time to perform DFP Inter;7.54000
+Configure Soot DFP Inter;1.09800
+Time to perform DFP Inter;7.85100
+Configure Soot DFP Inter;0.95300
+Time to perform DFP Inter;1.92500
+Configure Soot DFP Inter;0.85000
+Time to perform DFP Inter;2.24700
+Configure Soot DFP Inter;0.83500
+Time to perform DFP Inter;5.19600
+Configure Soot DFP Inter;1.05700
+Time to perform DFP Inter;5.28200
+Configure Soot DFP Inter;0.97000
+Time to perform DFP Inter;3.24000
+Configure Soot DFP Inter;0.81100
+Time to perform DFP Inter;2.16500
+Configure Soot DFP Inter;0.78700
+Time to perform DFP Inter;1.59600
+Configure Soot DFP Inter;0.77700
+Time to perform DFP Inter;1.64800
+Configure Soot DFP Inter;0.79500
+Time to perform DFP Inter;2.23300
+Configure Soot DFP Inter;0.76800
+Time to perform DFP Inter;2.25300
+Configure Soot DFP Inter;0.76200
+Time to perform DFP Inter;3.50600
+Configure Soot DFP Inter;0.76300
+Time to perform DFP Inter;3.77000
+Configure Soot DFP Inter;0.80700
+Time to perform DFP Inter;0.80500
+Configure Soot DFP Inter;0.71000
+Time to perform DFP Inter;0.79000
+Configure Soot DFP Inter;0.70600
+Time to perform DFP Inter;1.29500
+Configure Soot DFP Inter;0.71200
+Time to perform DFP Inter;1.11100
+Configure Soot DFP Inter;5.74200
+Time to perform DFP Inter;180.07500
+Configure Soot DFP Inter;6.43500
+Time to perform DFP Inter;161.48500
+Configure Soot DFP Inter;6.86100
+Time to perform DFP Inter;161.87100
+Configure Soot DFP Inter;5.98400
+Time to perform DFP Inter;166.21200
+Configure Soot DFP Inter;2.39500
+Time to perform DFP Inter;36.53100
+Configure Soot DFP Inter;2.02800
+Time to perform DFP Inter;36.08300
+Configure Soot DFP Inter;1.10500
+Time to perform DFP Inter;1.82100
+Configure Soot DFP Inter;1.09900
+Time to perform DFP Inter;1.90500
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;0.94900
+Configure Soot DFP Inter;0.86200
+Time to perform DFP Inter;0.93000
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;3.13900
+Configure Soot DFP Inter;0.89200
+Time to perform DFP Inter;2.78700
+Configure Soot DFP Inter;1.11200
+Time to perform DFP Inter;28.06300
+Configure Soot DFP Inter;1.10100
+Time to perform DFP Inter;26.90700
+Configure Soot DFP Inter;1.27600
+Time to perform DFP Inter;8.20200
+Configure Soot DFP Inter;0.94700
+Time to perform DFP Inter;6.62000
+Configure Soot DFP Inter;1.04400
+Time to perform DFP Inter;5.48900
+Configure Soot DFP Inter;1.19600
+Time to perform DFP Inter;6.53100
+Configure Soot DFP Inter;1.14100
+Time to perform DFP Inter;7.46800
+Configure Soot DFP Inter;0.96100
+Time to perform DFP Inter;6.09700
+Configure Soot DFP Inter;0.72100
+Time to perform DFP Inter;1.09500
+Configure Soot DFP Inter;0.89800
+Time to perform DFP Inter;1.25800
+Configure Soot DFP Inter;0.89100
+Time to perform DFP Inter;0.95600
+Configure Soot DFP Inter;0.89300
+Time to perform DFP Inter;1.04900
+Configure Soot DFP Inter;0.87600
+Time to perform DFP Inter;1.38700
+Configure Soot DFP Inter;0.89200
+Time to perform DFP Inter;1.30500
+Configure Soot DFP Inter;0.71500
+Time to perform DFP Inter;1.13600
+Configure Soot DFP Inter;0.86300
+Time to perform DFP Inter;1.25900
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;1.42600
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;1.33500
+Configure Soot DFP Inter;0.83200
+Time to perform DFP Inter;1.24900
+Configure Soot DFP Inter;0.82400
+Time to perform DFP Inter;1.11300
+Configure Soot DFP Inter;1.21700
+Time to perform DFP Inter;6.55200
+Configure Soot DFP Inter;1.18000
+Time to perform DFP Inter;7.58100
+Configure Soot DFP Inter;0.85200
+Time to perform DFP Inter;7.01000
+Configure Soot DFP Inter;1.09200
+Time to perform DFP Inter;6.76600
+Configure Soot DFP Inter;0.91600
+Time to perform DFP Inter;7.24900
+Configure Soot DFP Inter;0.90800
+Time to perform DFP Inter;7.63800
+Configure Soot DFP Inter;0.91300
+Time to perform DFP Inter;5.82700
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;5.63300
+Configure Soot DFP Inter;0.84100
+Time to perform DFP Inter;6.47500
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;7.34900
+Configure Soot DFP Inter;0.77900
+Time to perform DFP Inter;1.90400
+Configure Soot DFP Inter;0.76000
+Time to perform DFP Inter;1.99300
+Configure Soot DFP Inter;0.84200
+Time to perform DFP Inter;3.74900
+Configure Soot DFP Inter;1.03400
+Time to perform DFP Inter;5.16900
+Configure Soot DFP Inter;1.29900
+Time to perform DFP Inter;0.80300
+Configure Soot DFP Inter;1.28500
+Time to perform DFP Inter;0.81500
+Configure Soot DFP Inter;1.31000
+Time to perform DFP Inter;1.02000
+Configure Soot DFP Inter;1.30100
+Time to perform DFP Inter;0.98300
+Configure Soot DFP Inter;1.28500
+Time to perform DFP Inter;0.91600
+Configure Soot DFP Inter;1.29400
+Time to perform DFP Inter;0.90300
+Configure Soot DFP Inter;0.97200
+Time to perform DFP Inter;2.70600
+Configure Soot DFP Inter;0.96500
+Time to perform DFP Inter;2.63800
+Configure Soot DFP Inter;0.98800
+Time to perform DFP Inter;2.08000
+Configure Soot DFP Inter;0.99000
+Time to perform DFP Inter;2.02600
+Configure Soot DFP Inter;1.01300
+Time to perform DFP Inter;2.73200
+Configure Soot DFP Inter;0.79700
+Time to perform DFP Inter;2.57700
+Configure Soot DFP Inter;1.47300
+Time to perform DFP Inter;2.15300
+Configure Soot DFP Inter;1.56600
+Time to perform DFP Inter;2.37300
+Configure Soot DFP Inter;0.62500
+Time to perform DFP Inter;1.62900
+Configure Soot DFP Inter;0.62100
+Time to perform DFP Inter;1.41600
+Configure Soot DFP Inter;2.65700
+Time to perform DFP Inter;15.88700
+Configure Soot DFP Inter;2.62300
+Time to perform DFP Inter;16.20800
+Configure Soot DFP Inter;0.83300
+Time to perform DFP Inter;0.63100
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;0.83400
+Configure Soot DFP Inter;0.82100
+Time to perform DFP Inter;0.67300
+Configure Soot DFP Inter;1.04700
+Time to perform DFP Inter;1.08700
+Configure Soot DFP Inter;1.06500
+Time to perform DFP Inter;0.81400
+Configure Soot DFP Inter;1.05100
+Time to perform DFP Inter;1.36300
+Configure Soot DFP Inter;1.05600
+Time to perform DFP Inter;0.72600
+Configure Soot DFP Inter;1.04100
+Time to perform DFP Inter;1.37300
+Configure Soot DFP Inter;1.01200
+Time to perform DFP Inter;0.71700
+Configure Soot DFP Inter;1.14900
+Time to perform DFP Inter;0.55100
+Configure Soot DFP Inter;1.00900
+Time to perform DFP Inter;1.65500
+Configure Soot DFP Inter;1.04300
+Time to perform DFP Inter;1.68100
+Configure Soot DFP Inter;1.03400
+Time to perform DFP Inter;1.63600
+Configure Soot DFP Inter;1.02100
+Time to perform DFP Inter;1.67100
+Configure Soot DFP Inter;0.97800
+Time to perform DFP Inter;0.90600
+Configure Soot DFP Inter;0.97500
+Time to perform DFP Inter;0.87500
+Configure Soot DFP Inter;0.95800
+Time to perform DFP Inter;0.67600
+Configure Soot DFP Inter;0.96300
+Time to perform DFP Inter;0.66700
+Configure Soot DFP Inter;2.45800
+Time to perform DFP Inter;2.99100
+Configure Soot DFP Inter;2.46400
+Time to perform DFP Inter;2.83100
+Configure Soot DFP Inter;2.62000
+Time to perform DFP Inter;2.11900
+Configure Soot DFP Inter;2.43200
+Time to perform DFP Inter;2.31700
+Configure Soot DFP Inter;2.15000
+Time to perform DFP Inter;2.56300
+Configure Soot DFP Inter;2.15400
+Time to perform DFP Inter;2.52700
+Configure Soot DFP Inter;1.91900
+Time to perform DFP Inter;5.37800
+Configure Soot DFP Inter;1.81200
+Time to perform DFP Inter;5.94000
+Configure Soot DFP Inter;1.79300
+Time to perform DFP Inter;2.33800
+Configure Soot DFP Inter;1.80400
+Time to perform DFP Inter;2.02600
+Configure Soot DFP Inter;1.78100
+Time to perform DFP Inter;3.35600
+Configure Soot DFP Inter;1.47700
+Time to perform DFP Inter;2.91900
+Configure Soot DFP Inter;1.63400
+Time to perform DFP Inter;2.06900
+Configure Soot DFP Inter;1.96300
+Time to perform DFP Inter;2.23400
+Configure Soot DFP Inter;1.46800
+Time to perform DFP Inter;1.85700
+Configure Soot DFP Inter;1.43800
+Time to perform DFP Inter;2.02200
+Configure Soot DFP Inter;1.73700
+Time to perform DFP Inter;1.66400
+Configure Soot DFP Inter;1.72400
+Time to perform DFP Inter;1.93600
+Configure Soot DFP Inter;1.72500
+Time to perform DFP Inter;2.02600
+Configure Soot DFP Inter;1.53500
+Time to perform DFP Inter;1.87500
+Configure Soot DFP Inter;1.63800
+Time to perform DFP Inter;2.09600
+Configure Soot DFP Inter;1.63700
+Time to perform DFP Inter;1.75800
+Configure Soot DFP Inter;1.65400
+Time to perform DFP Inter;1.89800
+Configure Soot DFP Inter;1.34700
+Time to perform DFP Inter;2.18900
+Configure Soot DFP Inter;1.54200
+Time to perform DFP Inter;22.42200
+Configure Soot DFP Inter;1.35400
+Time to perform DFP Inter;17.66800
+Configure Soot DFP Inter;1.25900
+Time to perform DFP Inter;1.99700
+Configure Soot DFP Inter;1.21100
+Time to perform DFP Inter;2.00000
+Configure Soot DFP Inter;1.45600
+Time to perform DFP Inter;2.14500
+Configure Soot DFP Inter;1.49100
+Time to perform DFP Inter;2.09300
+Configure Soot DFP Inter;1.25200
+Time to perform DFP Inter;1.20100
+Configure Soot DFP Inter;1.57500
+Time to perform DFP Inter;1.20800
+Configure Soot DFP Inter;1.61700
+Time to perform DFP Inter;2.26100
+Configure Soot DFP Inter;1.62900
+Time to perform DFP Inter;1.71000
+Configure Soot DFP Inter;1.44900
+Time to perform DFP Inter;4.48000
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;4.26400
+Configure Soot DFP Inter;1.23300
+Time to perform DFP Inter;4.47600
+Configure Soot DFP Inter;1.23000
+Time to perform DFP Inter;4.61700
+Configure Soot DFP Inter;0.95100
+Time to perform DFP Inter;2.43200
+Configure Soot DFP Inter;0.88900
+Time to perform DFP Inter;2.38100
+Configure Soot DFP Inter;1.06400
+Time to perform DFP Inter;1.79800
+Configure Soot DFP Inter;0.83300
+Time to perform DFP Inter;1.51900
+Configure Soot DFP Inter;1.31200
+Configure Soot DFP Inter;1.32300
+Time to perform DFP Inter;10.14500
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;12.64200
+Configure Soot DFP Inter;1.11500
+Time to perform DFP Inter;11.82600
+Configure Soot DFP Inter;1.10600
+Time to perform DFP Inter;7.74300
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;6.79600
+Configure Soot DFP Inter;1.19200
+Time to perform DFP Inter;170.59900
+Configure Soot DFP Inter;1.22700
+Time to perform DFP Inter;162.93400
+Configure Soot DFP Inter;1.30100
+Time to perform DFP Inter;169.97300
+Configure Soot DFP Inter;1.35400
+Time to perform DFP Inter;195.93700
+Configure Soot DFP Inter;1.90800
+Time to perform DFP Inter;5.38200
+Configure Soot DFP Inter;1.98000
+Time to perform DFP Inter;5.21300
+Configure Soot DFP Inter;0.72700
+Time to perform DFP Inter;3.84900
+Configure Soot DFP Inter;0.71600
+Time to perform DFP Inter;3.03800
+Configure Soot DFP Inter;0.90400
+Time to perform DFP Inter;1.01500
+Configure Soot DFP Inter;0.78800
+Time to perform DFP Inter;1.01900
+Configure Soot DFP Inter;0.92400
+Time to perform DFP Inter;1.43700
+Configure Soot DFP Inter;0.95100
+Time to perform DFP Inter;1.45400
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;1.17700
+Configure Soot DFP Inter;0.97600
+Time to perform DFP Inter;1.09500
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;1.33000
+Configure Soot DFP Inter;0.75500
+Time to perform DFP Inter;1.03500
+Configure Soot DFP Inter;0.75100
+Time to perform DFP Inter;1.17000
+Configure Soot DFP Inter;0.74200
+Time to perform DFP Inter;0.96900
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;1.24000
+Configure Soot DFP Inter;0.97600
+Time to perform DFP Inter;1.11600
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.30700
+Configure Soot DFP Inter;0.85200
+Time to perform DFP Inter;1.26000
+Configure Soot DFP Inter;0.97600
+Time to perform DFP Inter;1.23200
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;1.12800
+Configure Soot DFP Inter;0.71500
+Time to perform DFP Inter;1.18600
+Configure Soot DFP Inter;0.69500
+Time to perform DFP Inter;1.27200
+Configure Soot DFP Inter;0.83200
+Time to perform DFP Inter;0.81500
+Configure Soot DFP Inter;0.83300
+Time to perform DFP Inter;0.81500
+Configure Soot DFP Inter;0.94300
+Time to perform DFP Inter;1.81300
+Configure Soot DFP Inter;0.93000
+Time to perform DFP Inter;1.80700
+Configure Soot DFP Inter;0.91500
+Time to perform DFP Inter;1.74600
+Configure Soot DFP Inter;0.92400
+Time to perform DFP Inter;1.45900
+Configure Soot DFP Inter;1.02300
+Time to perform DFP Inter;1.84700
+Configure Soot DFP Inter;1.01500
+Time to perform DFP Inter;1.76100
+Configure Soot DFP Inter;0.86700
+Time to perform DFP Inter;0.69100
+Configure Soot DFP Inter;0.87500
+Time to perform DFP Inter;0.76900
+Configure Soot DFP Inter;1.04700
+Time to perform DFP Inter;1.41800
+Configure Soot DFP Inter;1.02000
+Time to perform DFP Inter;1.38700
+Configure Soot DFP Inter;0.89400
+Time to perform DFP Inter;0.76600
+Configure Soot DFP Inter;0.91700
+Time to perform DFP Inter;0.57200
+Configure Soot DFP Inter;1.25700
+Time to perform DFP Inter;8.46400
+Configure Soot DFP Inter;0.94500
+Time to perform DFP Inter;6.97200
+Configure Soot DFP Inter;1.07200
+Time to perform DFP Inter;1.37400
+Configure Soot DFP Inter;1.10500
+Time to perform DFP Inter;1.34000
+Configure Soot DFP Inter;1.02300
+Time to perform DFP Inter;2.53900
+Configure Soot DFP Inter;1.20500
+Time to perform DFP Inter;2.49500
+Configure Soot DFP Inter;0.85100
+Time to perform DFP Inter;0.74300
+Configure Soot DFP Inter;0.87400
+Time to perform DFP Inter;0.64800
+Configure Soot DFP Inter;1.29900
+Time to perform DFP Inter;1.10200
+Configure Soot DFP Inter;1.28700
+Time to perform DFP Inter;1.04000
+Configure Soot DFP Inter;0.92600
+Time to perform DFP Inter;1.46200
+Configure Soot DFP Inter;0.92600
+Time to perform DFP Inter;1.45200
+Configure Soot DFP Inter;1.04600
+Time to perform DFP Inter;0.74800
+Configure Soot DFP Inter;1.04800
+Time to perform DFP Inter;1.07300
+Configure Soot DFP Inter;1.25500
+Time to perform DFP Inter;7.34700
+Configure Soot DFP Inter;1.26400
+Time to perform DFP Inter;7.08800
+Configure Soot DFP Inter;2.42000
+Time to perform DFP Inter;2.54900
+Configure Soot DFP Inter;2.84000
+Time to perform DFP Inter;126.68800
+Configure Soot DFP Inter;2.98600
+Configure Soot DFP Inter;2.36500
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;1.44400
+Configure Soot DFP Inter;1.14200
+Time to perform DFP Inter;1.39300
+Configure Soot DFP Inter;1.05800
+Time to perform DFP Inter;0.88100
+Configure Soot DFP Inter;1.05000
+Time to perform DFP Inter;0.93900
+Configure Soot DFP Inter;1.06900
+Time to perform DFP Inter;1.11300
+Configure Soot DFP Inter;0.99300
+Time to perform DFP Inter;1.13600
+Configure Soot DFP Inter;1.09700
+Time to perform DFP Inter;5.27000
+Configure Soot DFP Inter;0.88900
+Time to perform DFP Inter;3.90200
+Configure Soot DFP Inter;0.81600
+Time to perform DFP Inter;2.97000
+Configure Soot DFP Inter;0.81200
+Time to perform DFP Inter;3.00500
+Configure Soot DFP Inter;0.82800
+Time to perform DFP Inter;0.78200
+Configure Soot DFP Inter;0.83100
+Time to perform DFP Inter;0.96100
+Configure Soot DFP Inter;0.99900
+Time to perform DFP Inter;1.57100
+Configure Soot DFP Inter;1.01500
+Time to perform DFP Inter;1.59300
+Configure Soot DFP Inter;0.92900
+Time to perform DFP Inter;1.58100
+Configure Soot DFP Inter;0.95800
+Time to perform DFP Inter;1.40700
+Configure Soot DFP Inter;1.05400
+Time to perform DFP Inter;1.75500
+Configure Soot DFP Inter;1.04700
+Time to perform DFP Inter;1.60200
+Configure Soot DFP Inter;1.08900
+Time to perform DFP Inter;2.00800
+Configure Soot DFP Inter;1.10900
+Time to perform DFP Inter;1.97900
+Configure Soot DFP Inter;1.33200
+Time to perform DFP Inter;3.00000
+Configure Soot DFP Inter;1.03000
+Time to perform DFP Inter;2.88600
+Configure Soot DFP Inter;1.53800
+Time to perform DFP Inter;13.03500
+Configure Soot DFP Inter;1.27800
+Time to perform DFP Inter;13.78300
+Configure Soot DFP Inter;1.64400
+Time to perform DFP Inter;1.74800
+Configure Soot DFP Inter;1.17700
+Time to perform DFP Inter;1.68300
+Configure Soot DFP Inter;1.71600
+Time to perform DFP Inter;2.33100
+Configure Soot DFP Inter;1.68100
+Time to perform DFP Inter;2.35100
+Configure Soot DFP Inter;1.25500
+Time to perform DFP Inter;2.90600
+Configure Soot DFP Inter;1.28000
+Time to perform DFP Inter;2.54000
+Configure Soot DFP Inter;0.95100
+Time to perform DFP Inter;1.17700
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;1.17900
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;1.16900
+Configure Soot DFP Inter;0.96700
+Time to perform DFP Inter;0.98900
+Configure Soot DFP Inter;1.09600
+Time to perform DFP Inter;2.01100
+Configure Soot DFP Inter;1.08000
+Time to perform DFP Inter;2.00900
+Configure Soot DFP Inter;0.95200
+Time to perform DFP Inter;1.53000
+Configure Soot DFP Inter;0.96100
+Time to perform DFP Inter;1.39700
+Configure Soot DFP Inter;0.98600
+Time to perform DFP Inter;1.24200
+Configure Soot DFP Inter;0.98300
+Time to perform DFP Inter;1.19200
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;0.99500
+Configure Soot DFP Inter;0.93800
+Time to perform DFP Inter;1.02000
+Configure Soot DFP Inter;0.94700
+Time to perform DFP Inter;0.57400
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;0.69000
+Configure Soot DFP Inter;0.90100
+Time to perform DFP Inter;2.72300
+Configure Soot DFP Inter;0.90700
+Time to perform DFP Inter;2.77800
+Configure Soot DFP Inter;0.95900
+Time to perform DFP Inter;1.06600
+Configure Soot DFP Inter;0.74000
+Time to perform DFP Inter;0.90800
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;1.07900
+Configure Soot DFP Inter;0.89500
+Time to perform DFP Inter;1.04300
+Configure Soot DFP Inter;1.11800
+Time to perform DFP Inter;1.73800
+Configure Soot DFP Inter;1.12400
+Time to perform DFP Inter;1.73500
+Configure Soot DFP Inter;6.81800
+Time to perform DFP Inter;7.94900
+Configure Soot DFP Inter;6.07700
+Time to perform DFP Inter;7.37600
+Configure Soot DFP Inter;1.12400
+Time to perform DFP Inter;1.17800
+Configure Soot DFP Inter;1.46200
+Time to perform DFP Inter;1.30100
+Configure Soot DFP Inter;0.66900
+Time to perform DFP Inter;1.62800
+Configure Soot DFP Inter;0.67000
+Time to perform DFP Inter;1.77000
+Configure Soot DFP Inter;0.66900
+Time to perform DFP Inter;1.71300
+Configure Soot DFP Inter;0.82500
+Time to perform DFP Inter;1.81300
+Configure Soot DFP Inter;1.64400
+Time to perform DFP Inter;4.01000
+Configure Soot DFP Inter;1.37900
+Time to perform DFP Inter;4.58100
+Configure Soot DFP Inter;1.32700
+Time to perform DFP Inter;1.60200
+Configure Soot DFP Inter;1.46900
+Time to perform DFP Inter;2.45900
+Configure Soot DFP Inter;0.99100
+Time to perform DFP Inter;0.77300
+Configure Soot DFP Inter;1.03500
+Time to perform DFP Inter;0.79200
+Configure Soot DFP Inter;0.90000
+Time to perform DFP Inter;1.35800
+Configure Soot DFP Inter;0.86300
+Time to perform DFP Inter;1.06300
+Configure Soot DFP Inter;1.58200
+Time to perform DFP Inter;19.38700
+Configure Soot DFP Inter;1.24500
+Time to perform DFP Inter;23.96000
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;1.22000
+Configure Soot DFP Inter;0.96800
+Time to perform DFP Inter;1.51500
+Configure Soot DFP Inter;1.01900
+Time to perform DFP Inter;1.19900
+Configure Soot DFP Inter;1.00100
+Time to perform DFP Inter;1.35500
+Configure Soot DFP Inter;0.90600
+Time to perform DFP Inter;0.86500
+Configure Soot DFP Inter;0.91600
+Time to perform DFP Inter;0.94200
+Configure Soot DFP Inter;1.81300
+Time to perform DFP Inter;15.56100
+Configure Soot DFP Inter;1.79300
+Time to perform DFP Inter;14.29400
+Configure Soot DFP Inter;1.44300
+Time to perform DFP Inter;14.04400
+Configure Soot DFP Inter;1.78600
+Time to perform DFP Inter;15.07300
+Configure Soot DFP Inter;1.53600
+Time to perform DFP Inter;16.62300
+Configure Soot DFP Inter;1.50100
+Time to perform DFP Inter;16.40800
+Configure Soot DFP Inter;0.56600
+Configure Soot DFP Inter;0.69000
+Configure Soot DFP Inter;1.12600
+Time to perform DFP Inter;1.40700
+Configure Soot DFP Inter;1.14900
+Time to perform DFP Inter;1.35000
+Configure Soot DFP Inter;0.70400
+Configure Soot DFP Inter;0.70000
+Configure Soot DFP Inter;0.98600
+Time to perform DFP Inter;2.39400
+Configure Soot DFP Inter;0.97600
+Time to perform DFP Inter;2.27900
+Configure Soot DFP Inter;0.97400
+Time to perform DFP Inter;2.23700
+Configure Soot DFP Inter;0.98900
+Time to perform DFP Inter;2.52400
+Configure Soot DFP Inter;0.94700
+Time to perform DFP Inter;1.53300
+Configure Soot DFP Inter;0.97000
+Time to perform DFP Inter;2.18800
+Configure Soot DFP Inter;0.74200
+Time to perform DFP Inter;145.96400
+Configure Soot DFP Inter;0.94900
+Time to perform DFP Inter;131.15600
+Configure Soot DFP Inter;0.93200
+Time to perform DFP Inter;1.57900
+Configure Soot DFP Inter;0.92000
+Time to perform DFP Inter;1.45600
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;1.96700
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;1.86300
+Configure Soot DFP Inter;0.91200
+Time to perform DFP Inter;1.50100
+Configure Soot DFP Inter;0.91900
+Time to perform DFP Inter;1.66200
+Configure Soot DFP Inter;0.94000
+Time to perform DFP Inter;2.06300
+Configure Soot DFP Inter;0.93100
+Time to perform DFP Inter;2.18500
+Configure Soot DFP Inter;0.83200
+Time to perform DFP Inter;2.00200
+Configure Soot DFP Inter;0.83800
+Time to perform DFP Inter;1.90500
+Configure Soot DFP Inter;0.94200
+Time to perform DFP Inter;1.65500
+Configure Soot DFP Inter;0.92700
+Time to perform DFP Inter;1.70100
+Configure Soot DFP Inter;0.97500
+Time to perform DFP Inter;1.93300
+Configure Soot DFP Inter;1.00700
+Time to perform DFP Inter;1.94300
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;1.67900
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;1.74200
+Configure Soot DFP Inter;0.98300
+Time to perform DFP Inter;1.62600
+Configure Soot DFP Inter;1.02800
+Time to perform DFP Inter;1.50200
+Configure Soot DFP Inter;0.88800
+Time to perform DFP Inter;1.96100
+Configure Soot DFP Inter;0.87000
+Time to perform DFP Inter;1.94700
+Configure Soot DFP Inter;1.10800
+Time to perform DFP Inter;0.93700
+Configure Soot DFP Inter;1.08900
+Time to perform DFP Inter;1.09200
+Configure Soot DFP Inter;1.08000
+Time to perform DFP Inter;0.92000
+Configure Soot DFP Inter;1.08200
+Time to perform DFP Inter;0.90900
+Configure Soot DFP Inter;1.08100
+Time to perform DFP Inter;3.99200
+Configure Soot DFP Inter;1.30600
+Time to perform DFP Inter;3.89900
+Configure Soot DFP Inter;1.14500
+Time to perform DFP Inter;4.18700
+Configure Soot DFP Inter;1.13700
+Time to perform DFP Inter;4.32200
+Configure Soot DFP Inter;0.89800
+Time to perform DFP Inter;3.24700
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;4.02900
+Configure Soot DFP Inter;1.14700
+Time to perform DFP Inter;4.15400
+Configure Soot DFP Inter;1.12300
+Time to perform DFP Inter;4.31500
+Configure Soot DFP Inter;1.08300
+Time to perform DFP Inter;3.11500
+Configure Soot DFP Inter;1.10900
+Time to perform DFP Inter;3.60300
+Configure Soot DFP Inter;1.04500
+Time to perform DFP Inter;3.46100
+Configure Soot DFP Inter;1.11200
+Time to perform DFP Inter;3.22900
+Configure Soot DFP Inter;1.82700
+Time to perform DFP Inter;2.60800
+Configure Soot DFP Inter;1.65200
+Time to perform DFP Inter;2.11300
+Configure Soot DFP Inter;1.71700
+Time to perform DFP Inter;5.51500
+Configure Soot DFP Inter;1.60700
+Time to perform DFP Inter;5.05000
+Configure Soot DFP Inter;0.77100
+Time to perform DFP Inter;2.92400
+Configure Soot DFP Inter;0.81900
+Time to perform DFP Inter;2.87800
+Configure Soot DFP Inter;1.16400
+Time to perform DFP Inter;0.96000
+Configure Soot DFP Inter;1.18300
+Time to perform DFP Inter;0.96000
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;2.27400
+Configure Soot DFP Inter;1.00300
+Time to perform DFP Inter;2.30000
+Configure Soot DFP Inter;1.17800
+Time to perform DFP Inter;1.14600
+Configure Soot DFP Inter;1.18600
+Time to perform DFP Inter;1.01000
+Configure Soot DFP Inter;0.98500
+Time to perform DFP Inter;0.97700
+Configure Soot DFP Inter;1.18600
+Time to perform DFP Inter;0.97600
+Configure Soot DFP Inter;0.93600
+Time to perform DFP Inter;2.25700
+Configure Soot DFP Inter;0.93000
+Time to perform DFP Inter;2.14300
+Configure Soot DFP Inter;0.99900
+Time to perform DFP Inter;1.02600
+Configure Soot DFP Inter;1.14400
+Time to perform DFP Inter;1.06400
+Configure Soot DFP Inter;0.92800
+Time to perform DFP Inter;0.94400
+Configure Soot DFP Inter;0.95400
+Time to perform DFP Inter;0.99500
+Configure Soot DFP Inter;0.88600
+Time to perform DFP Inter;0.99500
+Configure Soot DFP Inter;0.99700
+Time to perform DFP Inter;1.04700
+Configure Soot DFP Inter;1.78600
+Time to perform DFP Inter;16.80400
+Configure Soot DFP Inter;1.46900
+Time to perform DFP Inter;16.43100
+Configure Soot DFP Inter;1.47000
+Time to perform DFP Inter;3.45100
+Configure Soot DFP Inter;1.08300
+Time to perform DFP Inter;3.17200
+Configure Soot DFP Inter;1.36700
+Time to perform DFP Inter;3.17600
+Configure Soot DFP Inter;1.37300
+Time to perform DFP Inter;3.57200
+Configure Soot DFP Inter;1.35200
+Time to perform DFP Inter;2.97000
+Configure Soot DFP Inter;1.24200
+Time to perform DFP Inter;3.48200
+Configure Soot DFP Inter;1.35800
+Time to perform DFP Inter;3.32300
+Configure Soot DFP Inter;1.06800
+Time to perform DFP Inter;3.50300
+Configure Soot DFP Inter;0.71500
+Time to perform DFP Inter;0.76500
+Configure Soot DFP Inter;0.68600
+Time to perform DFP Inter;0.49700
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;2.20300
+Configure Soot DFP Inter;0.81900
+Time to perform DFP Inter;1.93600
+Configure Soot DFP Inter;0.83100
+Time to perform DFP Inter;1.42000
+Configure Soot DFP Inter;0.82200
+Time to perform DFP Inter;1.21100
+Configure Soot DFP Inter;1.31600
+Time to perform DFP Inter;5.98600
+Configure Soot DFP Inter;1.17700
+Time to perform DFP Inter;5.09700
+Configure Soot DFP Inter;0.67300
+Time to perform DFP Inter;0.62300
+Configure Soot DFP Inter;0.70000
+Time to perform DFP Inter;0.78000
+Configure Soot DFP Inter;1.26300
+Time to perform DFP Inter;5.50600
+Configure Soot DFP Inter;1.10000
+Time to perform DFP Inter;5.94100
+Configure Soot DFP Inter;1.08700
+Time to perform DFP Inter;4.87300
+Configure Soot DFP Inter;1.81100
+Time to perform DFP Inter;5.07400
+Configure Soot DFP Inter;0.66900
+Time to perform DFP Inter;0.80700
+Configure Soot DFP Inter;0.66000
+Time to perform DFP Inter;0.80800
+Configure Soot DFP Inter;0.88400
+Time to perform DFP Inter;1.38900
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.35900
+Configure Soot DFP Inter;0.91500
+Time to perform DFP Inter;3.01600
+Configure Soot DFP Inter;1.19200
+Time to perform DFP Inter;4.02900
+Configure Soot DFP Inter;1.07400
+Time to perform DFP Inter;3.64000
+Configure Soot DFP Inter;0.94800
+Time to perform DFP Inter;3.60300
+Configure Soot DFP Inter;1.09700
+Time to perform DFP Inter;2.88900
+Configure Soot DFP Inter;0.93100
+Time to perform DFP Inter;2.93400
+Configure Soot DFP Inter;1.05300
+Time to perform DFP Inter;10.54000
+Configure Soot DFP Inter;0.99400
+Time to perform DFP Inter;9.25600
+Configure Soot DFP Inter;1.25900
+Time to perform DFP Inter;4.72900
+Configure Soot DFP Inter;1.24400
+Time to perform DFP Inter;6.47300
+Configure Soot DFP Inter;0.91400
+Time to perform DFP Inter;1.10200
+Configure Soot DFP Inter;0.95600
+Time to perform DFP Inter;1.39000
+Configure Soot DFP Inter;1.50800
+Time to perform DFP Inter;7.00600
+Configure Soot DFP Inter;1.50800
+Time to perform DFP Inter;6.03300
+Configure Soot DFP Inter;1.81700
+Time to perform DFP Inter;6.42100
+Configure Soot DFP Inter;1.40600
+Time to perform DFP Inter;6.20900
+Configure Soot DFP Inter;0.78900
+Time to perform DFP Inter;1.29200
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;1.31800
+Configure Soot DFP Inter;2.44700
+Time to perform DFP Inter;22.08900
+Configure Soot DFP Inter;2.44200
+Time to perform DFP Inter;21.98300
+Configure Soot DFP Inter;2.46200
+Time to perform DFP Inter;20.66600
+Configure Soot DFP Inter;1.89200
+Time to perform DFP Inter;20.63400
+Configure Soot DFP Inter;0.91600
+Time to perform DFP Inter;4.72800
+Configure Soot DFP Inter;0.90900
+Time to perform DFP Inter;4.85400
+Configure Soot DFP Inter;0.89600
+Time to perform DFP Inter;4.02000
+Configure Soot DFP Inter;0.86400
+Time to perform DFP Inter;3.77900
+Configure Soot DFP Inter;1.15400
+Time to perform DFP Inter;2.16500
+Configure Soot DFP Inter;1.13100
+Time to perform DFP Inter;2.25000
+Configure Soot DFP Inter;0.92900
+Time to perform DFP Inter;2.13300
+Configure Soot DFP Inter;1.07200
+Time to perform DFP Inter;2.44700
+Configure Soot DFP Inter;1.06300
+Time to perform DFP Inter;2.71000
+Configure Soot DFP Inter;0.90500
+Time to perform DFP Inter;2.55200
+Configure Soot DFP Inter;0.96500
+Time to perform DFP Inter;2.72300
+Configure Soot DFP Inter;0.96100
+Time to perform DFP Inter;2.23300
+Configure Soot DFP Inter;1.02500
+Time to perform DFP Inter;3.97400
+Configure Soot DFP Inter;0.82200
+Time to perform DFP Inter;4.48800
+Configure Soot DFP Inter;1.00400
+Time to perform DFP Inter;4.43000
+Configure Soot DFP Inter;0.85600
+Time to perform DFP Inter;3.67800
+Configure Soot DFP Inter;0.76100
+Time to perform DFP Inter;4.14200
+Configure Soot DFP Inter;0.98200
+Time to perform DFP Inter;3.58700
+Configure Soot DFP Inter;0.79100
+Time to perform DFP Inter;4.67000
+Configure Soot DFP Inter;0.90600
+Time to perform DFP Inter;3.83700
+Configure Soot DFP Inter;0.76800
+Time to perform DFP Inter;4.29100
+Configure Soot DFP Inter;0.78800
+Time to perform DFP Inter;4.38200
+Configure Soot DFP Inter;0.84700
+Time to perform DFP Inter;3.79700
+Configure Soot DFP Inter;0.81100
+Time to perform DFP Inter;3.60200
+Configure Soot DFP Inter;1.01600
+Time to perform DFP Inter;3.77900
+Configure Soot DFP Inter;0.80700
+Time to perform DFP Inter;4.41800
+Configure Soot DFP Inter;0.83000
+Time to perform DFP Inter;4.03900
+Configure Soot DFP Inter;0.80600
+Time to perform DFP Inter;4.66200
+Configure Soot DFP Inter;0.98600
+Time to perform DFP Inter;3.57400
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;3.58700
+Configure Soot DFP Inter;0.82100
+Time to perform DFP Inter;1.92800
+Configure Soot DFP Inter;0.83300
+Time to perform DFP Inter;1.84700
+Configure Soot DFP Inter;0.77800
+Time to perform DFP Inter;1.97400
+Configure Soot DFP Inter;0.95500
+Time to perform DFP Inter;2.23300
+Configure Soot DFP Inter;1.02700
+Time to perform DFP Inter;4.52400
+Configure Soot DFP Inter;1.03800
+Time to perform DFP Inter;4.04600
+Configure Soot DFP Inter;0.97400
+Time to perform DFP Inter;4.50500
+Configure Soot DFP Inter;0.92000
+Time to perform DFP Inter;4.49400
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;4.32700
+Configure Soot DFP Inter;0.82600
+Time to perform DFP Inter;3.52300
+Configure Soot DFP Inter;1.07200
+Time to perform DFP Inter;4.73300
+Configure Soot DFP Inter;0.85500
+Time to perform DFP Inter;4.14800
+Configure Soot DFP Inter;0.87700
+Time to perform DFP Inter;4.35100
+Configure Soot DFP Inter;0.81500
+Time to perform DFP Inter;4.24100
+Configure Soot DFP Inter;1.16900
+Time to perform DFP Inter;3.97500
+Configure Soot DFP Inter;1.18400
+Time to perform DFP Inter;3.47200
+Configure Soot DFP Inter;1.16200
+Time to perform DFP Inter;4.47000
+Configure Soot DFP Inter;0.94000
+Time to perform DFP Inter;4.47500
+Configure Soot DFP Inter;1.00100
+Time to perform DFP Inter;4.56800
+Configure Soot DFP Inter;0.82100
+Time to perform DFP Inter;4.58700
+Configure Soot DFP Inter;1.03100
+Time to perform DFP Inter;4.53500
+Configure Soot DFP Inter;0.99200
+Time to perform DFP Inter;4.58900
+Configure Soot DFP Inter;0.77300
+Time to perform DFP Inter;4.37700
+Configure Soot DFP Inter;0.86800
+Time to perform DFP Inter;4.74900
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;3.53600
+Configure Soot DFP Inter;0.78500
+Time to perform DFP Inter;3.41500
+Configure Soot DFP Inter;0.79800
+Time to perform DFP Inter;3.63200
+Configure Soot DFP Inter;0.94400
+Time to perform DFP Inter;4.23500
+Configure Soot DFP Inter;0.78100
+Time to perform DFP Inter;3.91200
+Configure Soot DFP Inter;0.85500
+Time to perform DFP Inter;4.49200
+Configure Soot DFP Inter;0.98500
+Time to perform DFP Inter;3.71700
+Configure Soot DFP Inter;0.78700
+Time to perform DFP Inter;4.23800
+Configure Soot DFP Inter;0.84600
+Time to perform DFP Inter;3.76300
+Configure Soot DFP Inter;1.01200
+Time to perform DFP Inter;4.16100
+Configure Soot DFP Inter;0.74900
+Time to perform DFP Inter;0.99600
+Configure Soot DFP Inter;0.91600
+Time to perform DFP Inter;0.88000
+Configure Soot DFP Inter;0.91300
+Time to perform DFP Inter;1.58300
+Configure Soot DFP Inter;0.90200
+Time to perform DFP Inter;1.46900
+Configure Soot DFP Inter;1.32100
+Time to perform DFP Inter;1.15300
+Configure Soot DFP Inter;1.27500
+Time to perform DFP Inter;1.22900
+Configure Soot DFP Inter;1.30200
+Time to perform DFP Inter;0.96900
+Configure Soot DFP Inter;1.20300
+Time to perform DFP Inter;0.96500
+Configure Soot DFP Inter;1.25200
+Time to perform DFP Inter;1.22700
+Configure Soot DFP Inter;1.26400
+Time to perform DFP Inter;1.23800
+Configure Soot DFP Inter;1.33000
+Time to perform DFP Inter;1.31800
+Configure Soot DFP Inter;1.33400
+Time to perform DFP Inter;1.24000
+Configure Soot DFP Inter;1.32800
+Time to perform DFP Inter;1.08900
+Configure Soot DFP Inter;1.29800
+Time to perform DFP Inter;1.08900
+Configure Soot DFP Inter;1.20800
+Time to perform DFP Inter;1.08500
+Configure Soot DFP Inter;1.17700
+Time to perform DFP Inter;1.12700
+Configure Soot DFP Inter;1.28300
+Time to perform DFP Inter;1.07700
+Configure Soot DFP Inter;1.34000
+Time to perform DFP Inter;1.14300
+Configure Soot DFP Inter;1.85700
+Time to perform DFP Inter;1.35700
+Configure Soot DFP Inter;1.73500
+Time to perform DFP Inter;1.39600
+Configure Soot DFP Inter;0.95200
+Time to perform DFP Inter;2.84300
+Configure Soot DFP Inter;0.88900
+Time to perform DFP Inter;3.57200
+Configure Soot DFP Inter;1.56700
+Time to perform DFP Inter;1.22200
+Configure Soot DFP Inter;1.70800
+Time to perform DFP Inter;1.14000
+Configure Soot DFP Inter;1.02500
+Time to perform DFP Inter;2.64400
+Configure Soot DFP Inter;1.05200
+Time to perform DFP Inter;2.55900
+Configure Soot DFP Inter;0.85800
+Time to perform DFP Inter;1.84500
+Configure Soot DFP Inter;1.03200
+Time to perform DFP Inter;1.88100
+Configure Soot DFP Inter;1.04500
+Time to perform DFP Inter;1.97400
+Configure Soot DFP Inter;1.05900
+Time to perform DFP Inter;1.46300
+Configure Soot DFP Inter;0.96000
+Time to perform DFP Inter;1.85100
+Configure Soot DFP Inter;1.30500
+Time to perform DFP Inter;1.95300
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;1.66400
+Configure Soot DFP Inter;1.20600
+Time to perform DFP Inter;1.85300
+Configure Soot DFP Inter;0.96700
+Time to perform DFP Inter;1.14400
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;1.15400
+Configure Soot DFP Inter;1.13600
+Time to perform DFP Inter;3.86800
+Configure Soot DFP Inter;1.15200
+Time to perform DFP Inter;4.10700
+Configure Soot DFP Inter;1.10000
+Time to perform DFP Inter;5.63200
+Configure Soot DFP Inter;1.10300
+Time to perform DFP Inter;5.65600
+Configure Soot DFP Inter;0.92800
+Time to perform DFP Inter;1.54700
+Configure Soot DFP Inter;0.93100
+Time to perform DFP Inter;1.65100
+Configure Soot DFP Inter;0.88800
+Time to perform DFP Inter;1.60900
+Configure Soot DFP Inter;0.85700
+Time to perform DFP Inter;1.54400
+Configure Soot DFP Inter;1.03600
+Time to perform DFP Inter;1.65400
+Configure Soot DFP Inter;1.02700
+Time to perform DFP Inter;1.63100
+Configure Soot DFP Inter;1.04100
+Time to perform DFP Inter;1.64300
+Configure Soot DFP Inter;1.04400
+Time to perform DFP Inter;1.65500
+Configure Soot DFP Inter;0.88700
+Time to perform DFP Inter;1.74400
+Configure Soot DFP Inter;0.91300
+Time to perform DFP Inter;1.81900
+Configure Soot DFP Inter;0.96900
+Time to perform DFP Inter;1.96000
+Configure Soot DFP Inter;0.94700
+Time to perform DFP Inter;1.81100
+Configure Soot DFP Inter;1.00500
+Time to perform DFP Inter;1.16100
+Configure Soot DFP Inter;0.77600
+Configure Soot DFP Inter;0.79900
+Time to perform DFP Inter;1.99100
+Configure Soot DFP Inter;0.80000
+Time to perform DFP Inter;1.90000
+Configure Soot DFP Inter;1.05700
+Time to perform DFP Inter;1.60200
+Configure Soot DFP Inter;1.04700
+Time to perform DFP Inter;1.68100
+Configure Soot DFP Inter;0.98300
+Time to perform DFP Inter;1.85500
+Configure Soot DFP Inter;0.95200
+Time to perform DFP Inter;1.91100
+Configure Soot DFP Inter;1.63500
+Time to perform DFP Inter;8.92900
+Configure Soot DFP Inter;1.26900
+Time to perform DFP Inter;9.46800
+Configure Soot DFP Inter;1.12100
+Time to perform DFP Inter;4.62000
+Configure Soot DFP Inter;1.12200
+Time to perform DFP Inter;5.04600
+Configure Soot DFP Inter;1.03200
+Time to perform DFP Inter;13.58600
+Configure Soot DFP Inter;1.32900
+Time to perform DFP Inter;14.00500
+Configure Soot DFP Inter;0.99900
+Time to perform DFP Inter;6.43400
+Configure Soot DFP Inter;0.74400
+Time to perform DFP Inter;4.62700
+Configure Soot DFP Inter;0.97900
+Time to perform DFP Inter;21.53500
+Configure Soot DFP Inter;1.23200
+Time to perform DFP Inter;24.25000
+Configure Soot DFP Inter;1.35100
+Time to perform DFP Inter;21.86800
+Configure Soot DFP Inter;1.05600
+Time to perform DFP Inter;23.88700
+Configure Soot DFP Inter;0.97800
+Time to perform DFP Inter;1.57900
+Configure Soot DFP Inter;0.95000
+Time to perform DFP Inter;1.66700
+Configure Soot DFP Inter;1.04800
+Time to perform DFP Inter;1.00700
+Configure Soot DFP Inter;1.01600
+Time to perform DFP Inter;1.04100
+Configure Soot DFP Inter;1.13300
+Time to perform DFP Inter;0.88400
+Configure Soot DFP Inter;1.11400
+Time to perform DFP Inter;0.95100
+Configure Soot DFP Inter;1.21100
+Time to perform DFP Inter;1.11600
+Configure Soot DFP Inter;1.23300
+Time to perform DFP Inter;1.01500
+Configure Soot DFP Inter;0.74300
+Time to perform DFP Inter;1.03400
+Configure Soot DFP Inter;0.65900
+Time to perform DFP Inter;1.08700
+Configure Soot DFP Inter;0.88400
+Time to perform DFP Inter;1.08200
+Configure Soot DFP Inter;0.87400
+Time to perform DFP Inter;1.11500
+Configure Soot DFP Inter;0.94100
+Time to perform DFP Inter;0.95000
+Configure Soot DFP Inter;0.92600
+Time to perform DFP Inter;1.08400
+Configure Soot DFP Inter;0.88300
+Time to perform DFP Inter;0.94600
+Configure Soot DFP Inter;0.88900
+Time to perform DFP Inter;1.08900
+Configure Soot DFP Inter;0.88100
+Time to perform DFP Inter;1.17100
+Configure Soot DFP Inter;0.87900
+Time to perform DFP Inter;1.15700

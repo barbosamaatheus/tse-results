@@ -1,0 +1,43 @@
+project;class;method;merge commit;ANALISE;TOOL_ORIGINAL;VALOR_TOOL;VALOR_SPARK;GT
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;icf;RTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;icf;RTA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;ioa;CHA;TRUE;FALSE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;CHA;TRUE;FALSE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;CHA;TRUE;FALSE;TRUE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;ioa;CHA;TRUE;FALSE;TRUE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;ioa;CHA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;CHA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;CHA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;ioa;CHA;TRUE;FALSE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;CHA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;ioa;RTA;TRUE;FALSE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;RTA;TRUE;FALSE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;RTA;TRUE;FALSE;TRUE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;ioa;RTA;TRUE;FALSE;TRUE
+logback;ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase;start();542843fd04a793fb9e0eea0c84d199e66d7c15af;ioa;RTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;RTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;RTA;TRUE;FALSE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;RTA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;ioa;VTA;TRUE;FALSE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceResponse(String, Response, long);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;VTA;TRUE;FALSE;TRUE
+retrofit;retrofit.RestAdapter;logAndReplaceRequest(Request);2b6c719c6645f8e48dca6d0047c752069d321bc4;ioa;VTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;assignCollections();3d4f99516ba3177f7d88a1f600923138a8b77cc8;ioa;VTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;ioa;VTA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;ioa;VTA;TRUE;FALSE;TRUE
+fitnesse;fitnesse.testsystems.slim.tables.SlimTableFactoryTest;setUp();4d9ba9d221d879507440feb084fa7521b95111ec;ioa;VTA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.support.replication.TransportReplicationAction;doRun();d896886973660785aac45275ddb110c1a6babc57;idfp;CHA;TRUE;FALSE;TRUE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;idfp;RTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;idfp;RTA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;or all;CHA;TRUE;FALSE;TRUE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;or all;CHA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;CHA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;toXContent(XContentBuilder, Params);d896886973660785aac45275ddb110c1a6babc57;or all;CHA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.helper.HttpConnection;execute(Connection.Request, Response);3f7d2c71dbbbb289c684f339874eed8ac2747fa0;or all;RTA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;or all;RTA;TRUE;FALSE;TRUE
+activiti;org.activiti.engine.impl.bpmn.behavior.UserTaskActivityBehavior;execute(ActivityExecution);bf46684ba62f5883673ea8fb0a14aecfe0aedea2;or all;RTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;RTA;TRUE;FALSE;TRUE
+jsoup;org.jsoup.nodes.TextNode;outerHtmlHead(StringBuilder, int, Document.OutputSettings);a44e18aa3c1fcd25a68a5965f9490d8f7d026509;or all;VTA;TRUE;FALSE;TRUE
+elasticsearch-river-mongodb;org.elasticsearch.river.mongodb.Slurper;addToStream(Operation, Timestamp<?>, DBObject, String);6b6ce8e851c6613213c4508c3f277a80649e0c7b;or all;VTA;TRUE;FALSE;TRUE
+elasticsearch;org.elasticsearch.action.DocWriteResponse;writeTo(StreamOutput);d896886973660785aac45275ddb110c1a6babc57;or all;VTA;TRUE;FALSE;TRUE

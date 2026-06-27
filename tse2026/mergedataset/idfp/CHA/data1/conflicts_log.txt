@@ -1,0 +1,754 @@
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <retrofit.RestAdapter: retrofit.client.Response logAndReplaceResponse(java.lang.String,retrofit.client.Response,long)>
+Data flows from execution of line 415 to 438, defined in $stack58 = this.<retrofit.RestAdapter: retrofit.RestAdapter$Log log> and propagated in interfaceinvoke $stack43.<retrofit.RestAdapter$Log: void log(java.lang.String)>($stack42)
+Caused by line 415 flow: path: (<retrofit.RestAdapter: retrofit.client.Response logAndReplaceResponse(java.lang.String,retrofit.client.Response,long)>, $stack58 = this.<retrofit.RestAdapter: retrofit.RestAdapter$Log log>, 415)
+Caused by line 438 flow: path: (<retrofit.RestAdapter: retrofit.client.Response logAndReplaceResponse(java.lang.String,retrofit.client.Response,long)>, interfaceinvoke $stack43.<retrofit.RestAdapter$Log: void log(java.lang.String)>($stack42), 438)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <retrofit.RestAdapter: retrofit.client.Request logAndReplaceRequest(retrofit.client.Request)>
+Data flows from execution of line 369 to 398, defined in $stack66 = this.<retrofit.RestAdapter: retrofit.RestAdapter$Log log> and propagated in interfaceinvoke $stack40.<retrofit.RestAdapter$Log: void log(java.lang.String)>($stack39)
+Caused by line 369 flow: path: (<retrofit.RestAdapter: retrofit.client.Request logAndReplaceRequest(retrofit.client.Request)>, $stack66 = this.<retrofit.RestAdapter: retrofit.RestAdapter$Log log>, 369)
+Caused by line 398 flow: path: (<retrofit.RestAdapter: retrofit.client.Request logAndReplaceRequest(retrofit.client.Request)>, interfaceinvoke $stack40.<retrofit.RestAdapter$Log: void log(java.lang.String)>($stack39), 398)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 340 to 365, defined in $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in this.<com.zaxxer.hikari.HikariPool: int transactionIsolation> = $stack13
+Caused by line 340 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 340)
+Caused by line 365 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, this.<com.zaxxer.hikari.HikariPool: int transactionIsolation> = $stack13, 365)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 339 to 365, defined in $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in this.<com.zaxxer.hikari.HikariPool: int transactionIsolation> = $stack13
+Caused by line 339 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 339)
+Caused by line 365 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, this.<com.zaxxer.hikari.HikariPool: int transactionIsolation> = $stack13, 365)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 362 to 372, defined in $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource> and propagated in specialinvoke this.<com.zaxxer.hikari.HikariPool: void executeInitSql(java.sql.Connection)>($stack42)
+Caused by line 362 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>, 362)
+Caused by line 372 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, specialinvoke this.<com.zaxxer.hikari.HikariPool: void executeInitSql(java.sql.Connection)>($stack42), 372)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 339 to 374, defined in $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in $stack29 = staticinvoke <com.zaxxer.hikari.proxy.ProxyFactory: com.zaxxer.hikari.proxy.IHikariConnectionProxy getProxyConnection(com.zaxxer.hikari.HikariPool,java.sql.Connection,int,boolean,boolean,java.lang.String)>(this, $stack42, $stack18, $stack17, $stack16, $stack15)
+Caused by line 339 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 339)
+Caused by line 374 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack29 = staticinvoke <com.zaxxer.hikari.proxy.ProxyFactory: com.zaxxer.hikari.proxy.IHikariConnectionProxy getProxyConnection(com.zaxxer.hikari.HikariPool,java.sql.Connection,int,boolean,boolean,java.lang.String)>(this, $stack42, $stack18, $stack17, $stack16, $stack15), 374)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 362 to 365, defined in $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource> and propagated in this.<com.zaxxer.hikari.HikariPool: int transactionIsolation> = $stack13
+Caused by line 362 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>, 362)
+Caused by line 365 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, this.<com.zaxxer.hikari.HikariPool: int transactionIsolation> = $stack13, 365)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 340 to 356, defined in $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in if $stack38 <= $stack37 goto $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>
+Caused by line 340 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 340)
+Caused by line 356 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, if $stack38 <= $stack37 goto $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>, 356)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 340 to 372, defined in $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in specialinvoke this.<com.zaxxer.hikari.HikariPool: void executeInitSql(java.sql.Connection)>($stack42)
+Caused by line 340 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 340)
+Caused by line 372 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, specialinvoke this.<com.zaxxer.hikari.HikariPool: void executeInitSql(java.sql.Connection)>($stack42), 372)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 362 to 374, defined in $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource> and propagated in $stack29 = staticinvoke <com.zaxxer.hikari.proxy.ProxyFactory: com.zaxxer.hikari.proxy.IHikariConnectionProxy getProxyConnection(com.zaxxer.hikari.HikariPool,java.sql.Connection,int,boolean,boolean,java.lang.String)>(this, $stack42, $stack18, $stack17, $stack16, $stack15)
+Caused by line 362 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>, 362)
+Caused by line 374 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack29 = staticinvoke <com.zaxxer.hikari.proxy.ProxyFactory: com.zaxxer.hikari.proxy.IHikariConnectionProxy getProxyConnection(com.zaxxer.hikari.HikariPool,java.sql.Connection,int,boolean,boolean,java.lang.String)>(this, $stack42, $stack18, $stack17, $stack16, $stack15), 374)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 340 to 374, defined in $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in $stack29 = staticinvoke <com.zaxxer.hikari.proxy.ProxyFactory: com.zaxxer.hikari.proxy.IHikariConnectionProxy getProxyConnection(com.zaxxer.hikari.HikariPool,java.sql.Connection,int,boolean,boolean,java.lang.String)>(this, $stack42, $stack18, $stack17, $stack16, $stack15)
+Caused by line 340 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack8 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 340)
+Caused by line 374 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack29 = staticinvoke <com.zaxxer.hikari.proxy.ProxyFactory: com.zaxxer.hikari.proxy.IHikariConnectionProxy getProxyConnection(com.zaxxer.hikari.HikariPool,java.sql.Connection,int,boolean,boolean,java.lang.String)>(this, $stack42, $stack18, $stack17, $stack16, $stack15), 374)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 339 to 372, defined in $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in specialinvoke this.<com.zaxxer.hikari.HikariPool: void executeInitSql(java.sql.Connection)>($stack42)
+Caused by line 339 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 339)
+Caused by line 372 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, specialinvoke this.<com.zaxxer.hikari.HikariPool: void executeInitSql(java.sql.Connection)>($stack42), 372)
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 339 to 356, defined in $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in if $stack38 <= $stack37 goto $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>
+Caused by line 339 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack6 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 339)
+Caused by line 356 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, if $stack38 <= $stack37 goto $stack10 = this.<com.zaxxer.hikari.HikariPool: javax.sql.DataSource dataSource>, 356)
+
+==== DFP Inter ====
+DF interference in <com.zaxxer.hikari.HikariPool: void addConnection()>
+Data flows from execution of line 356 to 362, defined in $stack36 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration> and propagated in interfaceinvoke $stack10.<javax.sql.DataSource: void setLoginTimeout(int)>(loginTimeout)
+Caused by line 356 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, $stack36 = this.<com.zaxxer.hikari.HikariPool: com.zaxxer.hikari.HikariConfig configuration>, 356)
+Caused by line 362 flow: path: (<com.zaxxer.hikari.HikariPool: void addConnection()>, interfaceinvoke $stack10.<javax.sql.DataSource: void setLoginTimeout(int)>(loginTimeout), 362)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <com.relayrides.pushy.apns.PushManager: void handleConnectionClosure(com.relayrides.pushy.apns.ApnsConnection)>
+Data flows from execution of line 500 to 510, defined in $stack2 = this.<com.relayrides.pushy.apns.PushManager: com.relayrides.pushy.apns.ApnsConnectionPool connectionPool> and propagated in interfaceinvoke $stack6.<java.util.concurrent.ExecutorService: java.util.concurrent.Future submit(java.lang.Runnable)>($stack5)
+Caused by line 500 flow: path: (<com.relayrides.pushy.apns.PushManager: void handleConnectionClosure(com.relayrides.pushy.apns.ApnsConnection)>, $stack2 = this.<com.relayrides.pushy.apns.PushManager: com.relayrides.pushy.apns.ApnsConnectionPool connectionPool>, 500)
+Caused by line 510 flow: path: (<com.relayrides.pushy.apns.PushManager: void handleConnectionClosure(com.relayrides.pushy.apns.ApnsConnection)>, interfaceinvoke $stack6.<java.util.concurrent.ExecutorService: java.util.concurrent.Future submit(java.lang.Runnable)>($stack5), 510)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <cuke4duke.internal.java.JavaLanguage: void load(java.lang.String)>
+Data flows from execution of line 36 to 38, defined in clazz = specialinvoke this.<cuke4duke.internal.java.JavaLanguage: java.lang.Class loadClass(java.lang.String)>(java_file) and propagated in if $stack4 != 0 goto return
+Caused by line 36 flow: path: (<cuke4duke.internal.java.JavaLanguage: void load(java.lang.String)>, clazz = specialinvoke this.<cuke4duke.internal.java.JavaLanguage: java.lang.Class loadClass(java.lang.String)>(java_file), 36)
+Caused by line 38 flow: path: (<cuke4duke.internal.java.JavaLanguage: void load(java.lang.String)>, if $stack4 != 0 goto return, 38)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase: void start()>
+Data flows from execution of line 45 to 52, defined in dtc = virtualinvoke $stack4.<ch.qos.logback.core.rolling.helper.FileNamePattern: ch.qos.logback.core.rolling.helper.DateTokenConverter getPrimaryDateTokenConverter()>() and propagated in $stack5 = virtualinvoke dtc.<ch.qos.logback.core.rolling.helper.DateTokenConverter: java.util.TimeZone getTimeZone()>()
+Caused by line 45 flow: path: (<ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase: void start()>, dtc = virtualinvoke $stack4.<ch.qos.logback.core.rolling.helper.FileNamePattern: ch.qos.logback.core.rolling.helper.DateTokenConverter getPrimaryDateTokenConverter()>(), 45)
+Caused by line 52 flow: path: (<ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase: void start()>, $stack5 = virtualinvoke dtc.<ch.qos.logback.core.rolling.helper.DateTokenConverter: java.util.TimeZone getTimeZone()>(), 52)
+DF interference in <ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase: void start()>
+Data flows from execution of line 45 to 53, defined in dtc = virtualinvoke $stack4.<ch.qos.logback.core.rolling.helper.FileNamePattern: ch.qos.logback.core.rolling.helper.DateTokenConverter getPrimaryDateTokenConverter()>() and propagated in specialinvoke $stack41.<ch.qos.logback.core.rolling.helper.RollingCalendar: void <init>(java.util.TimeZone,java.util.Locale)>($stack43, $stack42)
+Caused by line 45 flow: path: (<ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase: void start()>, dtc = virtualinvoke $stack4.<ch.qos.logback.core.rolling.helper.FileNamePattern: ch.qos.logback.core.rolling.helper.DateTokenConverter getPrimaryDateTokenConverter()>(), 45)
+Caused by line 53 flow: path: (<ch.qos.logback.core.rolling.TimeBasedFileNamingAndTriggeringPolicyBase: void start()>, specialinvoke $stack41.<ch.qos.logback.core.rolling.helper.RollingCalendar: void <init>(java.util.TimeZone,java.util.Locale)>($stack43, $stack42), 53)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <voldemort.VoldemortClientShell: void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream)>
+Data flows from execution of line 123 to 127, defined in specialinvoke $stack12.<voldemort.client.protocol.admin.AdminClient: void <init>(java.lang.String,voldemort.client.protocol.admin.AdminClientConfig,voldemort.client.ClientConfig)>(bootstrapUrl, $stack13, clientConfig) and propagated in cluster = virtualinvoke $stack17.<voldemort.client.protocol.admin.AdminClient: voldemort.cluster.Cluster getAdminClientCluster()>()
+Caused by line 123 flow: path: (<voldemort.VoldemortClientShell: void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream)>, specialinvoke $stack12.<voldemort.client.protocol.admin.AdminClient: void <init>(java.lang.String,voldemort.client.protocol.admin.AdminClientConfig,voldemort.client.ClientConfig)>(bootstrapUrl, $stack13, clientConfig), 123)
+Caused by line 127 flow: path: (<voldemort.VoldemortClientShell: void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream)>, cluster = virtualinvoke $stack17.<voldemort.client.protocol.admin.AdminClient: voldemort.cluster.Cluster getAdminClientCluster()>(), 127)
+DF interference in <voldemort.VoldemortClientShell: void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream)>
+Data flows from execution of line 123 to 128, defined in specialinvoke $stack12.<voldemort.client.protocol.admin.AdminClient: void <init>(java.lang.String,voldemort.client.protocol.admin.AdminClientConfig,voldemort.client.ClientConfig)>(bootstrapUrl, $stack13, clientConfig) and propagated in $stack20 = virtualinvoke $stack18.<voldemort.routing.RoutingStrategyFactory: voldemort.routing.RoutingStrategy updateRoutingStrategy(voldemort.store.StoreDefinition,voldemort.cluster.Cluster)>($stack19, cluster)
+Caused by line 123 flow: path: (<voldemort.VoldemortClientShell: void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream)>, specialinvoke $stack12.<voldemort.client.protocol.admin.AdminClient: void <init>(java.lang.String,voldemort.client.protocol.admin.AdminClientConfig,voldemort.client.ClientConfig)>(bootstrapUrl, $stack13, clientConfig), 123)
+Caused by line 128 flow: path: (<voldemort.VoldemortClientShell: void <init>(voldemort.client.ClientConfig,java.lang.String,java.io.BufferedReader,java.io.PrintStream,java.io.PrintStream)>, $stack20 = virtualinvoke $stack18.<voldemort.routing.RoutingStrategyFactory: voldemort.routing.RoutingStrategy updateRoutingStrategy(voldemort.store.StoreDefinition,voldemort.cluster.Cluster)>($stack19, cluster), 128)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 298 to 331, defined in $stack18 = virtualinvoke $stack17.<com.mongodb.Mongo: com.mongodb.DB getDB(java.lang.String)>("local") and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 298 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack18 = virtualinvoke $stack17.<com.mongodb.Mongo: com.mongodb.DB getDB(java.lang.String)>('local'), 298)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 294 to 302, defined in $stack99 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>()
+Caused by line 294 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack99 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 294)
+Caused by line 302 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>(), 302)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 288 to 302, defined in $stack113 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>()
+Caused by line 288 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack113 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 288)
+Caused by line 302 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>(), 302)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 287 to 315, defined in $stack3 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>()
+Caused by line 287 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack3 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 287)
+Caused by line 315 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>(), 315)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 290 to 331, defined in adminDb = virtualinvoke $stack6.<com.mongodb.Mongo: com.mongodb.DB getDB(java.lang.String)>("admin") and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 290 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, adminDb = virtualinvoke $stack6.<com.mongodb.Mongo: com.mongodb.DB getDB(java.lang.String)>('admin'), 290)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 294 to 331, defined in $stack99 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 294 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack99 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 294)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 295 to 331, defined in $stack108 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 295 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack108 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 295)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 297 to 315, defined in $stack12 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>()
+Caused by line 297 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack12 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 297)
+Caused by line 315 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>(), 315)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 293 to 315, defined in $stack7 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>()
+Caused by line 293 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack7 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 293)
+Caused by line 315 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>(), 315)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 294 to 315, defined in $stack99 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>()
+Caused by line 294 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack99 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 294)
+Caused by line 315 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>(), 315)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 295 to 315, defined in $stack108 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>()
+Caused by line 295 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack108 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 295)
+Caused by line 315 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>(), 315)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 287 to 331, defined in $stack3 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 287 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack3 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 287)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 293 to 331, defined in $stack7 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 293 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack7 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 293)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 287 to 302, defined in $stack3 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>()
+Caused by line 287 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack3 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 287)
+Caused by line 302 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>(), 302)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 288 to 315, defined in $stack113 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>()
+Caused by line 288 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack113 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 288)
+Caused by line 315 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack61 = virtualinvoke $stack59.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoLocalUser()>(), 315)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 322 to 331, defined in this.<org.elasticsearch.river.mongodb.Slurper: com.mongodb.DB oplogDb> = $stack71 and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 322 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, this.<org.elasticsearch.river.mongodb.Slurper: com.mongodb.DB oplogDb> = $stack71, 322)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 288 to 331, defined in $stack113 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>("oplog.refs")
+Caused by line 288 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack113 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 288)
+Caused by line 331 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack30 = virtualinvoke $stack29.<com.mongodb.DB: com.mongodb.DBCollection getCollection(java.lang.String)>('oplog.refs'), 331)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 293 to 302, defined in $stack7 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>()
+Caused by line 293 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack7 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 293)
+Caused by line 302 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>(), 302)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 297 to 302, defined in $stack12 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>()
+Caused by line 297 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack12 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 297)
+Caused by line 302 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>(), 302)
+DF interference in <org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>
+Data flows from execution of line 295 to 302, defined in $stack108 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition> and propagated in $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>()
+Caused by line 295 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack108 = this.<org.elasticsearch.river.mongodb.Slurper: org.elasticsearch.river.mongodb.MongoDBRiverDefinition definition>, 295)
+Caused by line 302 flow: path: (<org.elasticsearch.river.mongodb.Slurper: boolean assignCollections()>, $stack82 = virtualinvoke $stack80.<org.elasticsearch.river.mongodb.MongoDBRiverDefinition: java.lang.String getMongoAdminUser()>(), 302)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.river.mongodb.Indexer: org.elasticsearch.river.mongodb.Timestamp processBlockingQueue(org.elasticsearch.river.mongodb.MongoDBRiver$QueueEntry)>
+Data flows from execution of line 175 to 201, defined in $stack67 = <org.elasticsearch.script.ScriptService$ScriptType: org.elasticsearch.script.ScriptService$ScriptType INLINE> and propagated in $stack80 = interfaceinvoke $r7.<java.util.Map: java.lang.Object get(java.lang.Object)>("operation")
+Caused by line 175 flow: path: (<org.elasticsearch.river.mongodb.Indexer: org.elasticsearch.river.mongodb.Timestamp processBlockingQueue(org.elasticsearch.river.mongodb.MongoDBRiver$QueueEntry)>, $stack118 = virtualinvoke $stack64.<org.elasticsearch.script.ScriptService: org.elasticsearch.script.ExecutableScript executable(java.lang.String,java.lang.String,org.elasticsearch.script.ScriptService$ScriptType,java.util.Map)>($stack70, $stack69, $stack67, $r0), 175)
+Caused by line 201 flow: path: (<org.elasticsearch.river.mongodb.Indexer: org.elasticsearch.river.mongodb.Timestamp processBlockingQueue(org.elasticsearch.river.mongodb.MongoDBRiver$QueueEntry)>, $stack80 = interfaceinvoke $r7.<java.util.Map: java.lang.Object get(java.lang.Object)>('operation'), 201)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>
+Data flows from execution of line 97 to 122, defined in $stack12 = virtualinvoke $stack7.<me.prettyprint.cassandra.service.CassandraHost: java.lang.String getHost()>() and propagated in $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17)
+Caused by line 97 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack12 = virtualinvoke $stack7.<me.prettyprint.cassandra.service.CassandraHost: java.lang.String getHost()>(), 97)
+Caused by line 122 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17), 122)
+DF interference in <me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>
+Data flows from execution of line 95 to 122, defined in $u1 = new org.apache.thrift.transport.TSocket and propagated in $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17)
+Caused by line 95 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, specialinvoke $u1.<org.apache.thrift.transport.TSocket: void <init>(java.lang.String,int,int)>($stack28, $stack27, $stack26), 95)
+Caused by line 122 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17), 122)
+DF interference in <me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>
+Data flows from execution of line 94 to 122, defined in $stack6 = this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters params> and propagated in $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17)
+Caused by line 94 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack6 = this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters params>, 94)
+Caused by line 122 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17), 122)
+DF interference in <me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>
+Data flows from execution of line 111 to 122, defined in $stack16 = staticinvoke <me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport openKerberosTransport(org.apache.thrift.transport.TTransport,java.lang.String)>($r0, $stack15) and propagated in $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17)
+Caused by line 111 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack16 = staticinvoke <me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport openKerberosTransport(org.apache.thrift.transport.TTransport,java.lang.String)>($r0, $stack15), 111)
+Caused by line 122 flow: path: (<me.prettyprint.cassandra.connection.client.HSaslThriftClient: me.prettyprint.cassandra.connection.client.HSaslThriftClient open()>, $stack18 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HSaslThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($stack17), 122)
+
+==== DFP Inter ====
+DF interference in <me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>
+Data flows from execution of line 73 to 88, defined in socket = $stack27 and propagated in this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TTransport transport> = $stack16
+Caused by line 73 flow: path: (<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>, socket = $stack27, 73)
+Caused by line 88 flow: path: (<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>, this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TTransport transport> = $stack16, 88)
+DF interference in <me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>
+Data flows from execution of line 71 to 88, defined in $stack7 = this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters params> and propagated in this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TTransport transport> = $stack16
+Caused by line 71 flow: path: (<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>, $stack7 = this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters params>, 71)
+Caused by line 88 flow: path: (<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>, this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TTransport transport> = $stack16, 88)
+DF interference in <me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>
+Data flows from execution of line 72 to 88, defined in $stack29 = this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.service.CassandraHost cassandraHost> and propagated in this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TTransport transport> = $stack16
+Caused by line 72 flow: path: (<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>, $stack29 = this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.service.CassandraHost cassandraHost>, 72)
+Caused by line 88 flow: path: (<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: me.prettyprint.cassandra.connection.client.HKerberosThriftClient open()>, this.<me.prettyprint.cassandra.connection.client.HKerberosThriftClient: org.apache.thrift.transport.TTransport transport> = $stack16, 88)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>
+Data flows from execution of line 151 to 164, defined in $stack7 = this.<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.service.CassandraHost cassandraHost> and propagated in $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0)
+Caused by line 151 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack7 = this.<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.service.CassandraHost cassandraHost>, 151)
+Caused by line 164 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0), 164)
+DF interference in <me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>
+Data flows from execution of line 150 to 164, defined in $stack25 = staticinvoke <org.apache.thrift.transport.TSSLTransportFactory: org.apache.thrift.transport.TSocket getClientSocket(java.lang.String,int,int,org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters)>($stack12, $stack11, $stack10, $stack9) and propagated in $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0)
+Caused by line 150 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack25 = staticinvoke <org.apache.thrift.transport.TSSLTransportFactory: org.apache.thrift.transport.TSocket getClientSocket(java.lang.String,int,int,org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters)>($stack12, $stack11, $stack10, $stack9), 150)
+Caused by line 164 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0), 164)
+DF interference in <me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>
+Data flows from execution of line 149 to 164, defined in $stack6 = this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters params> and propagated in $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0)
+Caused by line 149 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack6 = this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters params>, 149)
+Caused by line 164 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0), 164)
+
+==== DFP Inter ====
+DF interference in <me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>
+Data flows from execution of line 164 to 169, defined in $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0) and propagated in $stack17 = virtualinvoke $stack16.<org.apache.thrift.transport.TTransport: boolean isOpen()>()
+Caused by line 164 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack15 = virtualinvoke this.<me.prettyprint.cassandra.connection.client.HThriftClient: org.apache.thrift.transport.TTransport maybeWrapWithTFramedTransport(org.apache.thrift.transport.TTransport)>($r0), 164)
+Caused by line 169 flow: path: (<me.prettyprint.cassandra.connection.client.HThriftClient: me.prettyprint.cassandra.connection.client.HThriftClient open()>, $stack17 = virtualinvoke $stack16.<org.apache.thrift.transport.TTransport: boolean isOpen()>(), 169)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>
+Data flows from execution of line 57 to 77, defined in $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart> and propagated in virtualinvoke l.<com.github.mikephil.charting.components.Legend: void setTypeface(android.graphics.Typeface)>($stack33)
+Caused by line 57 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart>, 57)
+Caused by line 77 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, virtualinvoke l.<com.github.mikephil.charting.components.Legend: void setTypeface(android.graphics.Typeface)>($stack33), 77)
+DF interference in <com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>
+Data flows from execution of line 57 to 86, defined in $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart> and propagated in virtualinvoke xl.<com.github.mikephil.charting.components.XAxis: void setTypeface(android.graphics.Typeface)>($stack39)
+Caused by line 57 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart>, 57)
+Caused by line 86 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, virtualinvoke xl.<com.github.mikephil.charting.components.XAxis: void setTypeface(android.graphics.Typeface)>($stack39), 86)
+DF interference in <com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>
+Data flows from execution of line 57 to 63, defined in $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart> and propagated in $stack24 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart>
+Caused by line 57 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart>, 57)
+Caused by line 63 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, $stack24 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart>, 63)
+DF interference in <com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>
+Data flows from execution of line 57 to 80, defined in $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart> and propagated in $stack35 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: android.graphics.Typeface mTfLight>
+Caused by line 57 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, $stack20 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: com.github.mikephil.charting.charts.ScatterChart mChart>, 57)
+Caused by line 80 flow: path: (<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: void onCreate(android.os.Bundle)>, $stack35 = this.<com.xxmassdeveloper.mpchartexample.ScatterChartActivity: android.graphics.Typeface mTfLight>, 80)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <com.xxmassdeveloper.mpchartexample.RadarChartActivitry: void onCreate(android.os.Bundle)>
+Data flows from execution of line 59 to 72, defined in $stack19 = this.<com.xxmassdeveloper.mpchartexample.RadarChartActivitry: com.github.mikephil.charting.charts.RadarChart mChart> and propagated in virtualinvoke yAxis.<com.github.mikephil.charting.components.YAxis: void setAxisMinValue(float)>(0.0F)
+Caused by line 59 flow: path: (<com.xxmassdeveloper.mpchartexample.RadarChartActivitry: void onCreate(android.os.Bundle)>, $stack19 = this.<com.xxmassdeveloper.mpchartexample.RadarChartActivitry: com.github.mikephil.charting.charts.RadarChart mChart>, 59)
+Caused by line 72 flow: path: (<com.xxmassdeveloper.mpchartexample.RadarChartActivitry: void onCreate(android.os.Bundle)>, virtualinvoke yAxis.<com.github.mikephil.charting.components.YAxis: void setAxisMinValue(float)>(0.0F), 72)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.IndexSettings: void <init>(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.common.settings.Settings,java.util.function.Predicate,org.elasticsearch.common.settings.IndexScopedSettings)>
+Data flows from execution of line 238 to 269, defined in $stack65 = this.<org.elasticsearch.index.IndexSettings: org.elasticsearch.common.settings.IndexScopedSettings scopedSettings> and propagated in virtualinvoke $stack185.<org.elasticsearch.common.settings.IndexScopedSettings: void addSettingsUpdateConsumer(org.elasticsearch.common.settings.Setting,java.util.function.Consumer)>($stack186, $stack187)
+Caused by line 238 flow: path: (<org.elasticsearch.index.IndexSettings: void <init>(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.common.settings.Settings,java.util.function.Predicate,org.elasticsearch.common.settings.IndexScopedSettings)>, $stack65 = this.<org.elasticsearch.index.IndexSettings: org.elasticsearch.common.settings.IndexScopedSettings scopedSettings>, 238)
+Caused by line 269 flow: path: (<org.elasticsearch.index.IndexSettings: void <init>(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.common.settings.Settings,java.util.function.Predicate,org.elasticsearch.common.settings.IndexScopedSettings)>, virtualinvoke $stack185.<org.elasticsearch.common.settings.IndexScopedSettings: void addSettingsUpdateConsumer(org.elasticsearch.common.settings.Setting,java.util.function.Consumer)>($stack186, $stack187), 269)
+DF interference in <org.elasticsearch.index.IndexSettings: void <init>(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.common.settings.Settings,java.util.function.Predicate,org.elasticsearch.common.settings.IndexScopedSettings)>
+Data flows from execution of line 238 to 246, defined in $stack65 = this.<org.elasticsearch.index.IndexSettings: org.elasticsearch.common.settings.IndexScopedSettings scopedSettings> and propagated in $stack100 = virtualinvoke $stack99.<org.elasticsearch.common.settings.IndexScopedSettings: java.lang.Object get(org.elasticsearch.common.settings.Setting)>($stack98)
+Caused by line 238 flow: path: (<org.elasticsearch.index.IndexSettings: void <init>(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.common.settings.Settings,java.util.function.Predicate,org.elasticsearch.common.settings.IndexScopedSettings)>, $stack65 = this.<org.elasticsearch.index.IndexSettings: org.elasticsearch.common.settings.IndexScopedSettings scopedSettings>, 238)
+Caused by line 246 flow: path: (<org.elasticsearch.index.IndexSettings: void <init>(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.common.settings.Settings,java.util.function.Predicate,org.elasticsearch.common.settings.IndexScopedSettings)>, $stack100 = virtualinvoke $stack99.<org.elasticsearch.common.settings.IndexScopedSettings: java.lang.Object get(org.elasticsearch.common.settings.Setting)>($stack98), 246)
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>
+Data flows from execution of line 266 to 268, defined in $stack88 = virtualinvoke sourceAndContent#45.<org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult: org.elasticsearch.action.support.replication.ReplicationResponse getResponse()>() and propagated in $stack96 = virtualinvoke response.<org.elasticsearch.action.delete.DeleteResponse: org.elasticsearch.action.support.replication.ReplicationResponse$ShardInfo getShardInfo()>()
+Caused by line 266 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack88 = virtualinvoke sourceAndContent#45.<org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult: org.elasticsearch.action.support.replication.ReplicationResponse getResponse()>(), 266)
+Caused by line 268 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack96 = virtualinvoke response.<org.elasticsearch.action.delete.DeleteResponse: org.elasticsearch.action.support.replication.ReplicationResponse$ShardInfo getShardInfo()>(), 268)
+DF interference in <org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>
+Data flows from execution of line 244 to 268, defined in $stack150 = updateResult.<org.elasticsearch.action.bulk.TransportShardBulkAction$UpdateResult: org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult writeResult> and propagated in $stack96 = virtualinvoke response.<org.elasticsearch.action.delete.DeleteResponse: org.elasticsearch.action.support.replication.ReplicationResponse$ShardInfo getShardInfo()>()
+Caused by line 244 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack150 = updateResult.<org.elasticsearch.action.bulk.TransportShardBulkAction$UpdateResult: org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult writeResult>, 244)
+Caused by line 268 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack96 = virtualinvoke response.<org.elasticsearch.action.delete.DeleteResponse: org.elasticsearch.action.support.replication.ReplicationResponse$ShardInfo getShardInfo()>(), 268)
+DF interference in <org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>
+Data flows from execution of line 244 to 255, defined in $stack150 = updateResult.<org.elasticsearch.action.bulk.TransportShardBulkAction$UpdateResult: org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult writeResult> and propagated in $stack116 = virtualinvoke indexResponse.<org.elasticsearch.action.index.IndexResponse: long getVersion()>()
+Caused by line 244 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack150 = updateResult.<org.elasticsearch.action.bulk.TransportShardBulkAction$UpdateResult: org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult writeResult>, 244)
+Caused by line 255 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack116 = virtualinvoke indexResponse.<org.elasticsearch.action.index.IndexResponse: long getVersion()>(), 255)
+DF interference in <org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>
+Data flows from execution of line 254 to 255, defined in $stack113 = virtualinvoke t#6.<org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult: org.elasticsearch.action.support.replication.ReplicationResponse getResponse()>() and propagated in $stack116 = virtualinvoke indexResponse.<org.elasticsearch.action.index.IndexResponse: long getVersion()>()
+Caused by line 254 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack113 = virtualinvoke t#6.<org.elasticsearch.action.support.replication.TransportWriteAction$WriteResult: org.elasticsearch.action.support.replication.ReplicationResponse getResponse()>(), 254)
+Caused by line 255 flow: path: (<org.elasticsearch.action.bulk.TransportShardBulkAction: org.elasticsearch.common.collect.Tuple update(org.elasticsearch.cluster.metadata.IndexMetaData,org.elasticsearch.action.bulk.BulkShardRequest,org.elasticsearch.index.shard.IndexShard,long[],org.elasticsearch.index.VersionType[],org.elasticsearch.index.translog.Translog$Location,int,org.elasticsearch.action.bulk.BulkItemRequest)>, $stack116 = virtualinvoke indexResponse.<org.elasticsearch.action.index.IndexResponse: long getVersion()>(), 255)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: void doRun()>
+Data flows from execution of line 458 to 459, defined in $stack11 = this.<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: org.elasticsearch.action.support.replication.TransportReplicationAction this$0> and propagated in $stack16 = this.<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: org.elasticsearch.action.support.replication.TransportReplicationAction this$0>
+Caused by line 458 flow: path: (<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: void doRun()>, $stack11 = this.<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: org.elasticsearch.action.support.replication.TransportReplicationAction this$0>, 458)
+Caused by line 459 flow: path: (<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: void doRun()>, $stack16 = this.<org.elasticsearch.action.support.replication.TransportReplicationAction$AsyncReplicaAction: org.elasticsearch.action.support.replication.TransportReplicationAction this$0>, 459)
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 108 to 109, defined in $stack16 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in $stack21 = interfaceinvoke $stack20.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: long localCheckpoint()>()
+Caused by line 108 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack16 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 108)
+Caused by line 109 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack21 = interfaceinvoke $stack20.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: long localCheckpoint()>(), 109)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 98 to 109, defined in $stack73 = interfaceinvoke $stack10.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: org.elasticsearch.cluster.routing.ShardRouting routingEntry()>() and propagated in $stack22 = virtualinvoke $stack19.<org.elasticsearch.cluster.routing.AllocationId: java.lang.String getId()>()
+Caused by line 98 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack73 = interfaceinvoke $stack10.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: org.elasticsearch.cluster.routing.ShardRouting routingEntry()>(), 98)
+Caused by line 109 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack22 = virtualinvoke $stack19.<org.elasticsearch.cluster.routing.AllocationId: java.lang.String getId()>(), 109)
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 98 to 113, defined in $stack10 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in $stack51 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: java.lang.String opType>
+Caused by line 98 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack10 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 98)
+Caused by line 113 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack51 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: java.lang.String opType>, 113)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 109 to 113, defined in $stack20 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in $stack51 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: java.lang.String opType>
+Caused by line 109 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack20 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 109)
+Caused by line 113 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack51 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: java.lang.String opType>, 113)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 98 to 99, defined in $stack73 = interfaceinvoke $stack10.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: org.elasticsearch.cluster.routing.ShardRouting routingEntry()>() and propagated in primaryId = $stack75
+Caused by line 98 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack73 = interfaceinvoke $stack10.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: org.elasticsearch.cluster.routing.ShardRouting routingEntry()>(), 98)
+Caused by line 99 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, primaryId = $stack75, 99)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 98 to 108, defined in $stack10 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in $stack15 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationRequest request>
+Caused by line 98 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack10 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 98)
+Caused by line 108 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack15 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationRequest request>, 108)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 98 to 119, defined in $stack73 = interfaceinvoke $stack10.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: org.elasticsearch.cluster.routing.ShardRouting routingEntry()>() and propagated in shards = $stack57
+Caused by line 98 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack73 = interfaceinvoke $stack10.<org.elasticsearch.action.support.replication.ReplicationOperation$Primary: org.elasticsearch.cluster.routing.ShardRouting routingEntry()>(), 98)
+Caused by line 119 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, shards = $stack57, 119)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 109 to 119, defined in $stack20 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in shards = $stack57
+Caused by line 109 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack20 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 109)
+Caused by line 119 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, shards = $stack57, 119)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 98 to 110, defined in $stack10 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in $stack23 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$PrimaryResult primaryResult>
+Caused by line 98 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack10 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 98)
+Caused by line 110 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack23 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$PrimaryResult primaryResult>, 110)
+DF interference in <org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>
+Data flows from execution of line 109 to 110, defined in $stack20 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary> and propagated in $stack23 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$PrimaryResult primaryResult>
+Caused by line 109 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack20 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$Primary primary>, 109)
+Caused by line 110 flow: path: (<org.elasticsearch.action.support.replication.ReplicationOperation: void execute()>, $stack23 = this.<org.elasticsearch.action.support.replication.ReplicationOperation: org.elasticsearch.action.support.replication.ReplicationOperation$PrimaryResult primaryResult>, 110)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.engine.InternalEngine: void <init>(org.elasticsearch.index.engine.EngineConfig)>
+Data flows from execution of line 134 to 162, defined in $stack21 = this.<org.elasticsearch.index.engine.InternalEngine: org.elasticsearch.index.shard.ShardId shardId> and propagated in virtualinvoke $stack50.<org.apache.lucene.search.SearcherManager: void addListener(org.apache.lucene.search.ReferenceManager$RefreshListener)>($stack51)
+Caused by line 134 flow: path: (<org.elasticsearch.index.engine.InternalEngine: void <init>(org.elasticsearch.index.engine.EngineConfig)>, $stack21 = this.<org.elasticsearch.index.engine.InternalEngine: org.elasticsearch.index.shard.ShardId shardId>, 134)
+Caused by line 162 flow: path: (<org.elasticsearch.index.engine.InternalEngine: void <init>(org.elasticsearch.index.engine.EngineConfig)>, virtualinvoke $stack50.<org.apache.lucene.search.SearcherManager: void addListener(org.apache.lucene.search.ReferenceManager$RefreshListener)>($stack51), 162)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.test.ESSingleNodeTestCase: org.elasticsearch.node.Node newNode()>
+Data flows from execution of line 171 to 173, defined in $stack24 = virtualinvoke $stack23.<org.elasticsearch.common.settings.Setting: java.lang.String getKey()>() and propagated in $stack29 = virtualinvoke $stack26.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder put(java.lang.String,boolean)>("http.enabled", 0)
+Caused by line 171 flow: path: (<org.elasticsearch.test.ESSingleNodeTestCase: org.elasticsearch.node.Node newNode()>, $stack24 = virtualinvoke $stack23.<org.elasticsearch.common.settings.Setting: java.lang.String getKey()>(), 171)
+Caused by line 173 flow: path: (<org.elasticsearch.test.ESSingleNodeTestCase: org.elasticsearch.node.Node newNode()>, $stack29 = virtualinvoke $stack26.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder put(java.lang.String,boolean)>('http.enabled', 0), 173)
+DF interference in <org.elasticsearch.test.ESSingleNodeTestCase: org.elasticsearch.node.Node newNode()>
+Data flows from execution of line 171 to 174, defined in $stack24 = virtualinvoke $stack23.<org.elasticsearch.common.settings.Setting: java.lang.String getKey()>() and propagated in $stack32 = virtualinvoke $stack29.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder put(java.lang.String,boolean)>($stack28, 1)
+Caused by line 171 flow: path: (<org.elasticsearch.test.ESSingleNodeTestCase: org.elasticsearch.node.Node newNode()>, $stack24 = virtualinvoke $stack23.<org.elasticsearch.common.settings.Setting: java.lang.String getKey()>(), 171)
+Caused by line 174 flow: path: (<org.elasticsearch.test.ESSingleNodeTestCase: org.elasticsearch.node.Node newNode()>, $stack32 = virtualinvoke $stack29.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder put(java.lang.String,boolean)>($stack28, 1), 174)
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>
+Data flows from execution of line 199 to 200, defined in $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper> and propagated in $stack9 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext>
+Caused by line 199 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>, 199)
+Caused by line 200 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack9 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext>, 200)
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>
+Data flows from execution of line 195 to 199, defined in $stack13 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext> and propagated in $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>
+Caused by line 195 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack13 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext>, 195)
+Caused by line 199 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>, 199)
+DF interference in <org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>
+Data flows from execution of line 197 to 199, defined in $stack4 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext> and propagated in $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>
+Caused by line 197 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack4 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext>, 197)
+Caused by line 199 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>, 199)
+DF interference in <org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>
+Data flows from execution of line 193 to 199, defined in $stack2 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext> and propagated in $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>
+Caused by line 193 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack2 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.query.QueryShardContext shardContext>, 193)
+Caused by line 199 flow: path: (<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: void setPathLevel()>, $stack7 = this.<org.elasticsearch.index.query.support.NestedInnerQueryParseSupport: org.elasticsearch.index.mapper.object.ObjectMapper nestedObjectMapper>, 199)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest: void testSynonymsAnalysis()>
+Data flows from execution of line 75 to 76, defined in $stack22 = staticinvoke <org.elasticsearch.common.settings.Settings: org.elasticsearch.common.settings.Settings$Builder settingsBuilder()>() and propagated in $stack24 = virtualinvoke $stack22.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder loadFromStream(java.lang.String,java.io.InputStream)>("/org/elasticsearch/index/analysis/synonyms/synonyms.json", $stack21)
+Caused by line 75 flow: path: (<org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest: void testSynonymsAnalysis()>, $stack22 = staticinvoke <org.elasticsearch.common.settings.Settings: org.elasticsearch.common.settings.Settings$Builder settingsBuilder()>(), 75)
+Caused by line 76 flow: path: (<org.elasticsearch.index.analysis.synonyms.SynonymsAnalysisTest: void testSynonymsAnalysis()>, $stack24 = virtualinvoke $stack22.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder loadFromStream(java.lang.String,java.io.InputStream)>('/org/elasticsearch/index/analysis/synonyms/synonyms.json', $stack21), 76)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests: void testQueryModeCommonGramsAnalysis()>
+Data flows from execution of line 228 to 229, defined in $stack9 = staticinvoke <org.elasticsearch.common.settings.Settings: org.elasticsearch.common.settings.Settings$Builder settingsBuilder()>() and propagated in $stack12 = virtualinvoke $stack9.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder loadFromStream(java.lang.String,java.io.InputStream)>("/org/elasticsearch/index/analysis/commongrams/commongrams_query_mode.json", $stack8)
+Caused by line 228 flow: path: (<org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests: void testQueryModeCommonGramsAnalysis()>, $stack9 = staticinvoke <org.elasticsearch.common.settings.Settings: org.elasticsearch.common.settings.Settings$Builder settingsBuilder()>(), 228)
+Caused by line 229 flow: path: (<org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests: void testQueryModeCommonGramsAnalysis()>, $stack12 = virtualinvoke $stack9.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder loadFromStream(java.lang.String,java.io.InputStream)>('/org/elasticsearch/index/analysis/commongrams/commongrams_query_mode.json', $stack8), 229)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests: void testCommonGramsAnalysis()>
+Data flows from execution of line 143 to 144, defined in $stack8 = virtualinvoke $stack7.<java.lang.Class: java.io.InputStream getResourceAsStream(java.lang.String)>("/org/elasticsearch/index/analysis/commongrams/commongrams.json") and propagated in $stack12 = virtualinvoke $stack9.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder loadFromStream(java.lang.String,java.io.InputStream)>("/org/elasticsearch/index/analysis/commongrams/commongrams.json", $stack8)
+Caused by line 143 flow: path: (<org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests: void testCommonGramsAnalysis()>, $stack8 = virtualinvoke $stack7.<java.lang.Class: java.io.InputStream getResourceAsStream(java.lang.String)>('/org/elasticsearch/index/analysis/commongrams/commongrams.json'), 143)
+Caused by line 144 flow: path: (<org.elasticsearch.index.analysis.commongrams.CommonGramsTokenFilterFactoryTests: void testCommonGramsAnalysis()>, $stack12 = virtualinvoke $stack9.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder loadFromStream(java.lang.String,java.io.InputStream)>('/org/elasticsearch/index/analysis/commongrams/commongrams.json', $stack8), 144)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.analysis.KuromojiAnalysisTests: org.elasticsearch.index.analysis.AnalysisService createAnalysisService()>
+Data flows from execution of line 206 to 207, defined in $stack22 = staticinvoke <org.elasticsearch.common.settings.Settings: org.elasticsearch.common.settings.Settings$Builder settingsBuilder()>() and propagated in $stack25 = virtualinvoke $stack22.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder put(java.lang.Object[])>($stack21)
+Caused by line 206 flow: path: (<org.elasticsearch.index.analysis.KuromojiAnalysisTests: org.elasticsearch.index.analysis.AnalysisService createAnalysisService()>, $stack22 = staticinvoke <org.elasticsearch.common.settings.Settings: org.elasticsearch.common.settings.Settings$Builder settingsBuilder()>(), 206)
+Caused by line 207 flow: path: (<org.elasticsearch.index.analysis.KuromojiAnalysisTests: org.elasticsearch.index.analysis.AnalysisService createAnalysisService()>, $stack25 = virtualinvoke $stack22.<org.elasticsearch.common.settings.Settings$Builder: org.elasticsearch.common.settings.Settings$Builder put(java.lang.Object[])>($stack21), 207)
+
+==== DFP Inter ====
+DF interference in <org.elasticsearch.index.query.SimpleIndexQueryParserTests: void setup()>
+Data flows from execution of line 208 to 217, defined in $stack6 = staticinvoke <org.elasticsearch.common.settings.ImmutableSettings: org.elasticsearch.common.settings.ImmutableSettings$Builder settingsBuilder()>() and propagated in doc = virtualinvoke $stack14.<org.elasticsearch.index.mapper.DocumentMapper: org.elasticsearch.index.mapper.ParsedDocument parse(java.lang.String,java.lang.String,org.elasticsearch.common.bytes.BytesReference)>("person", "1", $r0)
+Caused by line 208 flow: path: (<org.elasticsearch.index.query.SimpleIndexQueryParserTests: void setup()>, $stack6 = staticinvoke <org.elasticsearch.common.settings.ImmutableSettings: org.elasticsearch.common.settings.ImmutableSettings$Builder settingsBuilder()>(), 208)
+Caused by line 217 flow: path: (<org.elasticsearch.index.query.SimpleIndexQueryParserTests: void setup()>, doc = virtualinvoke $stack14.<org.elasticsearch.index.mapper.DocumentMapper: org.elasticsearch.index.mapper.ParsedDocument parse(java.lang.String,java.lang.String,org.elasticsearch.common.bytes.BytesReference)>('person', '1', $r0), 217)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <fitnesse.testsystems.slim.tables.SlimTableFactoryTest: void setUp()>
+Data flows from execution of line 32 to 38, defined in $stack13 = this.<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: java.util.Map map> and propagated in interfaceinvoke $stack25.<java.util.Map: java.lang.Object put(java.lang.Object,java.lang.Object)>("script:", class "Lfitnesse/testsystems/slim/tables/ScriptTable;")
+Caused by line 32 flow: path: (<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: void setUp()>, $stack13 = this.<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: java.util.Map map>, 32)
+Caused by line 38 flow: path: (<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: void setUp()>, interfaceinvoke $stack25.<java.util.Map: java.lang.Object put(java.lang.Object,java.lang.Object)>('script:', class 'Lfitnesse/testsystems/slim/tables/ScriptTable;'), 38)
+DF interference in <fitnesse.testsystems.slim.tables.SlimTableFactoryTest: void setUp()>
+Data flows from execution of line 31 to 38, defined in $stack11 = this.<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: java.util.Map map> and propagated in interfaceinvoke $stack25.<java.util.Map: java.lang.Object put(java.lang.Object,java.lang.Object)>("script:", class "Lfitnesse/testsystems/slim/tables/ScriptTable;")
+Caused by line 31 flow: path: (<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: void setUp()>, $stack11 = this.<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: java.util.Map map>, 31)
+Caused by line 38 flow: path: (<fitnesse.testsystems.slim.tables.SlimTableFactoryTest: void setUp()>, interfaceinvoke $stack25.<java.util.Map: java.lang.Object put(java.lang.Object,java.lang.Object)>('script:', class 'Lfitnesse/testsystems/slim/tables/ScriptTable;'), 38)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+DF interference in <org.springframework.boot.context.web.SpringBootServletInitializer: org.springframework.web.context.WebApplicationContext createRootApplicationContext(javax.servlet.ServletContext)>
+Data flows from execution of line 87 to 88, defined in builder = virtualinvoke this.<org.springframework.boot.context.web.SpringBootServletInitializer: org.springframework.boot.builder.SpringApplicationBuilder createSpringApplicationBuilder()>() and propagated in virtualinvoke builder.<org.springframework.boot.builder.SpringApplicationBuilder: org.springframework.boot.builder.SpringApplicationBuilder main(java.lang.Class)>($stack5)
+Caused by line 87 flow: path: (<org.springframework.boot.context.web.SpringBootServletInitializer: org.springframework.web.context.WebApplicationContext createRootApplicationContext(javax.servlet.ServletContext)>, builder = virtualinvoke this.<org.springframework.boot.context.web.SpringBootServletInitializer: org.springframework.boot.builder.SpringApplicationBuilder createSpringApplicationBuilder()>(), 87)
+Caused by line 88 flow: path: (<org.springframework.boot.context.web.SpringBootServletInitializer: org.springframework.web.context.WebApplicationContext createRootApplicationContext(javax.servlet.ServletContext)>, virtualinvoke builder.<org.springframework.boot.builder.SpringApplicationBuilder: org.springframework.boot.builder.SpringApplicationBuilder main(java.lang.Class)>($stack5), 88)
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
+==== DFP Inter ====
+
