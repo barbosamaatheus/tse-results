@@ -1,81 +1,58 @@
-# Containerize an application
+# Docker Experiment Runner
 
-## Configure the server
+This directory contains the necessary scripts and Dockerfile to execute the experimental evaluation for the replication package. The experiments run across multiple Docker containers to execute static analysis tools in parallel.
 
-1. Make sure docker is installed and updated on the target machine. Run `docker -v`.
-2. Copy `Dockerfile` and `settings.xml` to target machine.
-3. Update **username** and **password** in servers context in `settings.xml` file.
+## Structure
 
-## Build the app’s container image
+- `Dockerfile`: Defines the base image `tse-base-image`, which includes Java, Maven, Python, and the required project repositories and datasets.
+- `run_experiment.sh`: The main orchestrator script. It automates the entire process of building the image, creating the containers, running the pipelines for both the **MergeDataset (MDS)** and **RefDataset (RDS)** sequentially, and eventually analyzing and collecting the results.
+- `scripts/`: Contains the individual shell and Python scripts for container lifecycle management, execution, and statistical analysis.
 
-Run `docker build --no-cache -t run-experiment .`
+## Usage
 
-This command used the Dockerfile to build a new container image.
-
-> The `-t` flag tags our image. Think of this simply as a human-readable name for the final image. Since we named the image `getting-started`, we can refer to that image when we run a container.
-
-> The `.` at the end of the docker build command tells Docker that it should look for the `Dockerfile` in the current directory.
-
-## Start an app container
-
-Change the entrypoint to an interactive shell
-Start your container using the docker run command and specify the name of the image we just created:
-
-Run `docker run --entrypoint /bin/sh -itd run-experiment:latest`
-
-> This is useful if you want to use a container like a virtual machine, and keep it running in the background when you’re not using it. If you override the entrypoint to the container with a shell, like sh or bash, and run the container with the -itd switches, Docker will run the container, detach it (run it in the background), and attach an interactive terminal. Note that this won’t run the container’s default entrypoint script, but run a shell instead. Effectively, you will have a container that stays running permanently.
-
-## Accessing Docker Containers
-
-Once your implementation is up and running, you can access your Docker containers to get started using the app
-
-Run the Docker list command to get a list of all Docker containers running on the system:
-
-`docker container ls`
-
-For remote access, run:
-
-`docker exec -it <container-id> /bin/bash`
-
-## Running the Experiment Multiple Times
-
-To run the experiment ten times (as defined by the default configuration), access the container and execute the script:
-
-```bash 
-cd /home && ./entrypoint.sh
-```
-
-### Copying Results from the Container
-
-Use the docker cp command to copy result files from the container to your local machine:
+To execute the entire replication pipeline (running both MDS and RDS sequentially):
 
 ```bash
-docker cp <container-id>:/home/mds/miningframework/results <your-local-path>
-docker cp <container-id>:/home/rds/miningframework/results <your-local-path>
+bash run_experiment.sh [NUM_CONTAINERS] [TARGET_DATASET]
 ```
 
-## Running Analysis Manually
+- `[NUM_CONTAINERS]` is optional (defaults to 10).
+- `[TARGET_DATASET]` is optional (defaults to `all`). It can be `all`, `mds`, or `rds`.
 
-At the root of the mining framework, if you want to run the analyses outside of the experiment infrastructure, you can
-run, for example:
+### Running Specific Datasets
 
+If you wish to test or run only the **MergeDataset (MDS)** pipeline, pass `mds` as the second argument:
 ```bash
-./gradlew run -DmainClass="services.outputProcessors.soot.Main" --args="--ioa --ioa-without-pa"`
+bash run_experiment.sh 10 mds
 ```
 
-You can pass the `-l` flag to set the prodnfdity limit and the `-t` flag to set the timeout.
-
-### To retrieve the output files:
-
+If you wish to run only the **RefDataset (RDS)** pipeline, pass `rds`:
 ```bash
-docker cp <container-id>:/miningframework/out.txt <seu-caminho>
-docker cp <container-id>:/miningframework/outConsole.txt <seu-caminho>
-docker cp <container-id>:/miningframework/time.txt <seu-caminho>
-docker cp <id-do-container>:/miningframework/output/data/soot-results.csv <seu-caminho>
+bash run_experiment.sh 10 rds
 ```
 
-## Stopping and Removing a Docker Container
+### Saving Execution Logs (Windows)
 
-To stop and remove a Docker container, run the following command:
+If you are running the scripts in a Windows environment (like CMD or PowerShell), it is highly recommended to redirect the output to a log file to capture any errors.
 
-`docker stop <id-do-container>`
+**Using Command Prompt (CMD):**
+```cmd
+cd docker
+bash run_experiment.sh 10 > experiment_run.log 2>&1
+```
+
+**Using PowerShell:**
+```powershell
+cd docker
+bash run_experiment.sh 10 2>&1 | Tee-Object -FilePath "experiment_run.log"
+```
+
+The script will:
+1. Build the Docker image.
+2. Create the containers.
+3. Execute the analysis pipeline for MDS and collect its results.
+4. Clean up, then execute the analysis pipeline for RDS and collect its results.
+5. Process the collected results using the statistical analysis and miss-reference scripts.
+6. Output a structured directory (`experiment_out_<timestamp>`) containing the final metrics, CSVs, and PDFs.
+
+For more details on the sub-scripts, check the individual READMEs in the `scripts/` directory.

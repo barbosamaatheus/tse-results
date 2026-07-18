@@ -1,67 +1,55 @@
-# Scripts de Execução em Containers
+# Container Execution Scripts
 
-Roteiros para executar experimentos em múltiplos containers Docker com controle de CPU, monitoramento de recursos e
-coleta de resultados.
+Scripts to run experiments across multiple Docker containers with CPU control, resource monitoring, and results collection.
 
-## Pré-requisitos
+## Prerequisites
 
-- Docker instalado e funcionando
-- Imagem Docker `tse-base-image` criada
-- Arquivo JAR: `soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar`
-- Biblioteca Python: `psutil`
+- Docker installed and running
+- `tse-base-image` Docker image created
+- JAR file: `soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar`
+- Python library: `psutil`
 
-## Fluxo de Uso (Ordem)
+## Execution Flow
 
-Execute os scripts nesta ordem:
+The main `run_experiment.sh` script automates this flow. If running manually, execute in this order for each dataset (`mds` or `rds`):
 
-1. **create_containers.sh** - Cria 10 containers
-2. **clear_containers.sh** - Limpa estado anterior
-3. **update_cpus.sh** - Configura CPUs para cada container
-4. **show_cpus.sh** - Verifica configuração de CPUs
-5. **install_psutil_all_containers.sh** - Instala psutil (se necessário)
-6. **copy_to_containers.sh** - Copia arquivos para containers
-7. **run_in_all_containers.sh** - Executa os experimentos
-8. **copy_results.sh** - Copia resultados dos containers
+1. **create_containers.sh** - Creates 10 containers.
+2. **clear_containers.sh [dataset]** - Clears previous state for the specified dataset.
+3. **reset_results.sh [dataset]** - Removes old results and residual files for the specified dataset.
+4. **update_cpus.sh** - Configures CPU pinning for each container.
+5. **show_cpus.sh** - Verifies CPU configuration.
+6. **install_psutil_all_containers.sh** - Installs psutil.
+7. **copy_to_containers.sh** - Copies files to containers (if needed manually).
+8. **run_in_all_containers.sh [dataset]** - Executes the experiment in parallel for the specified dataset.
+9. **copy_results.sh [dataset] [dest]** - Copies results from containers to the host.
 
-## Scripts Principais
+## Main Scripts
 
 ### create_containers.sh
+Creates 10 Docker containers with 4 CPUs and 20GB RAM each.
 
-Cria 10 containers Docker com 4 CPUs e 20GB RAM cada.
+### clear_containers.sh [dataset]
+Removes residual files from previous executions inside the containers for the target dataset.
 
-### clear_containers.sh
-
-Remove resíduos de execuções anteriores nos containers.
+### reset_results.sh [dataset]
+Cleans the `results` folder and other temporary logs for the target dataset to ensure a clean run.
 
 ### update_cpus.sh
-
-Aloca CPUs específicas para cada container (sem sobreposição).
+Pins specific CPUs to each container to avoid overlapping.
 
 ### show_cpus.sh
-
-Mostra quais CPUs estão atribuídas a cada container.
+Displays which CPUs are assigned to each container.
 
 ### install_psutil_all_containers.sh
-
-Instala biblioteca Python psutil em todos os containers.
-
-- Necessário: pip ou apt-get disponível nos containers
+Installs the `psutil` Python library in all containers.
 
 ### copy_to_containers.sh
+Copies the JAR and Python scripts to all containers.
 
-Copia JAR e script Python para todos os containers.
+### run_in_all_containers.sh [dataset]
+Executes the experiment in parallel across all containers for the target dataset.
+- Runs: `run_organize_monit_exp.py` in each container.
+- Monitors: CPU, memory, and time.
 
-- Arquivos copiados: `run_organize_monit_exp.py` e JAR
-
-> Verifique se os caminhos dos arquivos estão corretos no script.
-
-### run_in_all_containers.sh
-
-Executa os experimentos em paralelo nos containers.
-
-- Executa: `run_organize_monit_exp.py` em cada container
-- Monitoramento automático: CPU, memória, tempo
-
-### copy_results.sh
-
-Copia para o host os resultados gerados dentro dos containers após o término da execução.
+### copy_results.sh [dataset] [dest]
+Copies the generated results from the containers to the host after execution finishes.

@@ -19,7 +19,7 @@ ENV PATH=$JAVA_HOME/bin:$PATH
 # -------------------------------------
 ARG MAVEN_VERSION=3.8.9
 ARG USER_HOME_DIR="/root"
-ARG BASE_URL=https://dlcdn.apache.org/maven/maven-3/${MAVEN_VERSION}/binaries
+ARG BASE_URL=https://archive.apache.org/dist/maven/maven-3/${MAVEN_VERSION}/binaries
 
 RUN mkdir -p /usr/share/maven /usr/share/maven/ref && \
     curl -fsSL -o /tmp/apache-maven.tar.gz ${BASE_URL}/apache-maven-${MAVEN_VERSION}-bin.tar.gz && \
@@ -34,7 +34,7 @@ ENV MAVEN_CONFIG "$USER_HOME_DIR/.m2"
 # 4. Prepare miningframework
 # -------------------------------------
 
-RUN git clone --recursive --depth 1 https://github.com/spgroup/miningframework.git /home/tmp/miningframework
+RUN git clone --recursive --branch tse2026 --depth 1 https://github.com/spgroup/miningframework.git /home/tmp/miningframework
 RUN pip install -r /home/tmp/miningframework/requirements.txt
 
 RUN mkdir -p /home/mds /home/rds && \
@@ -51,11 +51,15 @@ ADD results-with-build-information.csv /home/mds/miningframework/output/data/
 # -------------------------------------
 ADD settings.xml $USER_HOME_DIR/.m2/
 RUN git config --global http.postBuffer 524288000
-RUN git clone --branch article_ioa_2025 --depth 1 https://github.com/spgroup/conflict-static-analysis.git /home/conflict-static-analysis
+# If you want to build from source instead of using the pre-built jar, uncomment the lines below and ensure you have valid credentials in settings.xml.
+# RUN git clone --branch tse2026 --depth 1 https://github.com/spgroup/conflict-static-analysis.git /home/conflict-static-analysis
+# RUN cd /home/conflict-static-analysis && mvn clean install -DskipTests && mvn compile assembly:single && \
+#     cp /home/conflict-static-analysis/target/*.jar /home/mds/miningframework/dependencies/ && \
+#     cp /home/conflict-static-analysis/target/*.jar /home/rds/miningframework/dependencies/
 
-RUN cd /home/conflict-static-analysis && mvn clean install -DskipTests && mvn compile assembly:single && \
-    cp /home/conflict-static-analysis/target/*.jar /home/mds/miningframework/dependencies/ && \
-    cp /home/conflict-static-analysis/target/*.jar /home/rds/miningframework/dependencies/
+# Copying the pre-built jar directly to avoid the build process
+COPY soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar /home/mds/miningframework/dependencies/
+COPY soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar /home/rds/miningframework/dependencies/
 
 
 # -------------------------------------
@@ -63,12 +67,15 @@ RUN cd /home/conflict-static-analysis && mvn clean install -DskipTests && mvn co
 # -------------------------------------
 
 RUN git clone --branch article_ioa_2025 --depth 1 https://github.com/spgroup/mergedataset.git /home/mds/miningframework/output/files
-RUN /home/mds/miningframework/output/files/prepareDataset.sh
+RUN cd /home/mds/miningframework/output/files && ./prepareDataset.sh
 
 RUN git clone --branch article_ioa_2025 --depth 1 https://github.com/barbosamaatheus/ref-dataset.git /home/rds/miningframework/output/files
-RUN /home/rds/miningframework/output/files/prepare-dataset.sh
+RUN cd /home/rds/miningframework/output/files && ./prepare-dataset.sh
 RUN mkdir -p /home/rds/miningframework/output/data && \
     cp /home/rds/miningframework/output/files/results-with-build-information.csv /home/rds/miningframework/output/data/results-with-build-information.csv
+
+RUN mkdir -p /home/rds/miningframework/output/data
+ADD results-with-build-information.csv /home/rds/miningframework/output/data/
 
 
 # -------------------------------------
@@ -80,8 +87,7 @@ COPY scripts/run_organize_monit_exp.py /home/rds/miningframework/run_organize_mo
 COPY scripts /home/mds/miningframework/results
 COPY scripts /home/rds/miningframework/results
 
-COPY entrypoint.sh /home/
-RUN chmod +x /home/entrypoint.sh && chmod +x /home/mds/miningframework/gradlew && chmod +x /home/rds/miningframework/gradlew
+RUN chmod +x /home/mds/miningframework/gradlew && chmod +x /home/rds/miningframework/gradlew
 
 # -------------------------------------
 # 8. Instalar dependências dos scripts experimentais
