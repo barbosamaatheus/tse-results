@@ -6,7 +6,7 @@ IMAGE="tse-base-image"
 MEMORY="20g"                 # limite de RAM
 CPUS_PER_CONTAINER=4
 
-echo "== Criando $NUM_CONTAINERS containers =="
+echo "== Creating $NUM_CONTAINERS containers =="
 
 for ((i=1; i<=NUM_CONTAINERS; i++)); do
     name="mbo2-tse-exp$i"
@@ -15,7 +15,7 @@ for ((i=1; i<=NUM_CONTAINERS; i++)); do
     end_cpu=$((start_cpu + CPUS_PER_CONTAINER - 1))
     cpu_set="${start_cpu}-${end_cpu}"
 
-    echo "? Criando $name  | CPUs: $cpu_set | Memria: $MEMORY"
+    echo "? Creating $name  | CPUs: $cpu_set | Memory: $MEMORY"
 
     # Remove o container se ele já existir (para evitar erro de conflito)
     docker rm -f "$name" 2>/dev/null || true
@@ -30,10 +30,10 @@ for ((i=1; i<=NUM_CONTAINERS; i++)); do
         "$IMAGE"
 
     if [ $? -eq 0 ]; then
-        echo "? $name criado com sucesso"
+        echo "? $name created successfully"
     else
-        echo "? Erro ao criar $name"
+        echo "? Error creating $name"
     fi
 done
 
-echo "== Finalizado =="
+echo "== Finished =="

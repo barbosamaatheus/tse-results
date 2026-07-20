@@ -8,16 +8,16 @@ BASE_DIR="/home/$DATASET/miningframework"
 CONTAINERS=$(docker ps --format '{{.Names}}' | grep '^mbo2-tse' || true)
 
 if [ -z "$CONTAINERS" ]; then
-    echo "Nenhum container ativo encontrado com prefixo mbo2-tse-exp"
+    echo "No active container found with prefix mbo2-tse-exp"
     exit 1
 fi
 
-echo "Containers detectados:"
+echo "Detected containers:"
 echo "$CONTAINERS"
 echo "----------------------------------------"
 
 for C in $CONTAINERS; do
-    echo "Limpando arquivos no container: $C"
+    echo "Clearing files in container: $C"
 
     docker exec "$C" bash -c "
         set -e
@@ -39,8 +39,8 @@ for C in $CONTAINERS; do
         rm -rf results
     "
 
-    echo "Container $C limpo com sucesso"
+    echo "Container $C cleared successfully"
     echo "----------------------------------------"
 done
 
-echo "Limpeza finalizada em todos os containers."
+echo "Clearance finished in all containers."

@@ -13,7 +13,7 @@ for container in $containers; do
 
     dest_dir="${DEST_BASE}/results${num}"
 
-    echo "Copiando do container $container (dataset $DATASET) -> $dest_dir"
+    echo "Copying from container $container (dataset $DATASET) -> $dest_dir"
 
     # cria diretorio local
     mkdir -p "$dest_dir"
@@ -22,4 +22,4 @@ for container in $containers; do
     docker cp "${container}:/home/$DATASET/miningframework/results/." "$dest_dir/"
 done
 
-echo "Copiado com sucesso!"
+echo "Copied successfully!"

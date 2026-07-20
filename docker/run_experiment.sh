@@ -15,12 +15,12 @@ mkdir -p "$OUTPUT_DIR/mergedataset"
 mkdir -p "$OUTPUT_DIR/refdataset"
 
 echo "==================================================="
-echo "1. Criando imagem docker..."
+echo "1. Creating docker image..."
 echo "==================================================="
 docker build -t "$IMAGE_NAME" .
 
 echo "==================================================="
-echo "2. Criando $NUM_CONTAINERS containers..."
+echo "2. Creating $NUM_CONTAINERS containers..."
 echo "==================================================="
 cd "$SCRIPTS_DIR"
 bash create_containers.sh
@@ -32,17 +32,17 @@ run_dataset_pipeline() {
     local out_dest="$OUTPUT_DIR/$out_folder"
     
     echo "==================================================="
-    echo ">>> INICIANDO PIPELINE: $dataset <<<"
+    echo ">>> STARTING PIPELINE: $dataset <<<"
     echo "==================================================="
     
-    echo "[$dataset] Limpando containers..."
+    echo "[$dataset] Clearing containers..."
     bash clear_containers.sh "$dataset"
     bash reset_results.sh "$dataset"
     
-    echo "[$dataset] Executando analise nos containers..."
+    echo "[$dataset] Executing analysis in containers..."
     bash run_in_all_containers.sh "$dataset"
     
-    echo "[$dataset] Copiando resultados..."
+    echo "[$dataset] Copying results..."
     bash copy_results.sh "$dataset" "$out_dest"
 }
 
@@ -57,24 +57,24 @@ if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "rds" ]; then
 fi
 
 echo "==================================================="
-echo "3. Executando scripts de analise de resultados..."
+echo "3. Executing results analysis scripts..."
 echo "==================================================="
 
 if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "mds" ]; then
-    echo "-> Configurando ambiente de analise do MDS..."
+    echo "-> Configuring MDS analysis environment..."
     cd "$OUTPUT_DIR/mergedataset"
     
     # Elevar as pastas icf, idfp, ioa do results1 para a raiz do mergedataset
     cp -r results1/* . 2>/dev/null || true
     
     # Executar mds_results.py
-    echo "-> Executando mds_results.py (MDS)..."
+    echo "-> Executing mds_results.py (MDS)..."
     cp "$SCRIPTS_DIR/results/mds_results.py" .
     cp "$SCRIPTS_DIR/results/loi.csv" . 2>/dev/null || true
     python3 mds_results.py
     
     # Executar MissRef MergeDataset
-    echo "-> Executando missRef MergeDataset..."
+    echo "-> Executing missRef MergeDataset..."
     mkdir -p missref_run
     cp -r "$SCRIPTS_DIR/missRef/MergeDataset/"* missref_run/
     cp "$SCRIPTS_DIR/missRef/soot-results-with-lines.csv" missref_run/ 2>/dev/null || true
@@ -87,7 +87,7 @@ if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "mds" ]; then
     rm -rf missref_run
     
     # Executar Estatisticas
-    echo "-> Executando estatisticas MDS..."
+    echo "-> Executing MDS statistics..."
     cp "$SCRIPTS_DIR/statistics/merge_data.py" .
     cp "$SCRIPTS_DIR/statistics/stats_results.py" .
     cp "$SCRIPTS_DIR/statistics/plot_results_v2.py" .
@@ -102,17 +102,17 @@ if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "mds" ]; then
 fi
 
 if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "rds" ]; then
-    echo "-> Configurando ambiente de analise do RDS..."
+    echo "-> Configuring RDS analysis environment..."
     cd "$OUTPUT_DIR/refdataset"
     
     # Para o rds-results, copiamos os resultados temporariamente para simular a pasta original
-    echo "-> Executando rds-results.py (RDS)..."
+    echo "-> Executing rds-results.py (RDS)..."
     cp -r results1/* . 2>/dev/null || true
     cp "$SCRIPTS_DIR/results/rds-results.py" .
     python3 rds-results.py
     
     # Executar MissRef RefDataset
-    echo "-> Executando missRef RefDataset..."
+    echo "-> Executing missRef RefDataset..."
     mkdir -p missref_run
     cp -r "$SCRIPTS_DIR/missRef/RefDataset/"* missref_run/
     cp "$SCRIPTS_DIR/missRef/soot-results-with-lines.csv" missref_run/ 2>/dev/null || true
@@ -130,7 +130,7 @@ if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "rds" ]; then
     rm -rf missref_run
     
     # Executar Estatisticas
-    echo "-> Executando estatisticas RDS..."
+    echo "-> Executing RDS statistics..."
     cp "$SCRIPTS_DIR/statistics/merge_data.py" .
     cp "$SCRIPTS_DIR/statistics/stats_results.py" .
     cp "$SCRIPTS_DIR/statistics/plot_results_v2.py" .
@@ -145,7 +145,7 @@ if [ "$TARGET_DATASET" == "all" ] || [ "$TARGET_DATASET" == "rds" ]; then
 fi
 
 echo "==================================================="
-echo "Processo completo com sucesso!"
-echo "Resultados disponiveis em: $OUTPUT_DIR"
-echo "Estrutura final baseada na tse2026 configurada com sucesso."
+echo "Process completed successfully!"
+echo "Results available at: $OUTPUT_DIR"
+echo "Final structure based on tse2026 successfully configured."
 echo "==================================================="

@@ -1,11 +1,11 @@
-#!/bin/bash
+ï»¿#!/bin/bash
 
 SRC_FILE="soot-analysis-0.2.1-SNAPSHOT-jar-with-dependencies.jar"
 DEST_PATH="/home/oav2/miningframework/dependencies"
 
 # Verifica se o arquivo existe
 if [ ! -f "$SRC_FILE" ]; then
-    echo "Erro: arquivo $SRC_FILE não encontrado."
+    echo "Error: file $SRC_FILE not found."
     exit 1
 fi
 
@@ -13,20 +13,20 @@ fi
 CONTAINERS=$(docker ps --format '{{.Names}}' | grep '^mbo2-tse')
 
 if [ -z "$CONTAINERS" ]; then
-    echo "Nenhum container ativo encontrado com o prefixo mbo2-tse-exp"
+    echo "No active container found with prefix mbo2-tse-exp"
     exit 1
 fi
 
-echo "Containers detectados:"
+echo "Detected containers:"
 echo "$CONTAINERS"
 echo ""
 
 # Copia para cada container encontrado
 for C in $CONTAINERS; do
-    echo "Copiando para $C ..."
+    echo "Copying to $C ..."
     docker exec "$C" mkdir -p "$DEST_PATH"
     docker cp "$SRC_FILE" "$C:$DEST_PATH/" 
 done
 
 echo ""
-echo "Concluído!"
+echo "Done!"

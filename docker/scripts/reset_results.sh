@@ -26,11 +26,11 @@ EXTRA_PATHS=(
   "/home/$DATASET/miningframework/output/data/soot-results.csv"
 )
 
-echo "== Limpando resultados e residuos em ${NUM_CONTAINERS} containers para o dataset ${DATASET} =="
+echo "== Clearing results and residuals in ${NUM_CONTAINERS} containers for dataset ${DATASET} =="
 
 for ((i=1; i<=NUM_CONTAINERS; i++)); do
   CONTAINER="${CONTAINERS_PREFIX}${i}"
-  echo "-> Limpando ${CONTAINER}"
+  echo "-> Clearing ${CONTAINER}"
 
   # Limpa diretorio de resultados
   docker exec "$CONTAINER" sh -c "mkdir -p ${RESULTS_DIR} && rm -rf ${RESULTS_DIR}/*"
@@ -41,10 +41,10 @@ for ((i=1; i<=NUM_CONTAINERS; i++)); do
   done
 
   if [ $? -eq 0 ]; then
-    echo "   OK: ${CONTAINER} limpo"
+    echo "   OK: ${CONTAINER} cleared"
   else
-    echo "   ERRO: falha ao limpar ${CONTAINER}"
+    echo "   ERROR: failed to clear ${CONTAINER}"
   fi
 done
 
-echo "== Finalizado =="
+echo "== Finished =="
