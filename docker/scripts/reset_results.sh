@@ -1,40 +1,41 @@
 #!/bin/bash
 
 # Script para limpar resultados e arquivos residuais em todos os containers mbo2-tse-exp
-# Uso: ./reset_results.sh
+# Uso: ./reset_results.sh [dataset]
 
 CONTAINERS_PREFIX="mbo2-tse-exp"
 NUM_CONTAINERS=10
-RESULTS_DIR="/home/oav2/miningframework/results"
+DATASET=${1:-mds}
+RESULTS_DIR="/home/$DATASET/miningframework/results"
 
 # Arquivos grandes/residuais a remover (OOM, logs antigos, dumps)
 EXTRA_PATHS=(
-  "/home/oav2/miningframework/java_pid*.hprof"
-  "/home/oav2/miningframework/logs.log"
-  "/home/oav2/miningframework/logs.txt"
-  "/home/oav2/miningframework/mbo2-tse-exp*_logs.log"
-  "/home/oav2/miningframework/AnalysisRecords.csv"
-  "/home/oav2/miningframework/conflicts_log.txt"
-  "/home/oav2/miningframework/outConsole.txt"
-  "/home/oav2/miningframework/out.txt"
-  "/home/oav2/miningframework/out.json"
-  "/home/oav2/miningframework/HasMainMethod.csv"
-  "/home/oav2/miningframework/PANotResolve.csv"
-  "/home/oav2/miningframework/visited_methods.txt"
-  "/home/oav2/miningframework/time.txt"
-  "/home/oav2/miningframework/output/data/soot-results.csv"
+  "/home/$DATASET/miningframework/java_pid*.hprof"
+  "/home/$DATASET/miningframework/logs.log"
+  "/home/$DATASET/miningframework/logs.txt"
+  "/home/$DATASET/miningframework/mbo2-tse-exp*_logs.log"
+  "/home/$DATASET/miningframework/AnalysisRecords.csv"
+  "/home/$DATASET/miningframework/conflicts_log.txt"
+  "/home/$DATASET/miningframework/outConsole.txt"
+  "/home/$DATASET/miningframework/out.txt"
+  "/home/$DATASET/miningframework/out.json"
+  "/home/$DATASET/miningframework/HasMainMethod.csv"
+  "/home/$DATASET/miningframework/PANotResolve.csv"
+  "/home/$DATASET/miningframework/visited_methods.txt"
+  "/home/$DATASET/miningframework/time.txt"
+  "/home/$DATASET/miningframework/output/data/soot-results.csv"
 )
 
-echo "== Limpando resultados e resíduos em ${NUM_CONTAINERS} containers =="
+echo "== Limpando resultados e residuos em ${NUM_CONTAINERS} containers para o dataset ${DATASET} =="
 
 for ((i=1; i<=NUM_CONTAINERS; i++)); do
   CONTAINER="${CONTAINERS_PREFIX}${i}"
   echo "-> Limpando ${CONTAINER}"
 
-  # Limpa diretório de resultados
+  # Limpa diretorio de resultados
   docker exec "$CONTAINER" sh -c "mkdir -p ${RESULTS_DIR} && rm -rf ${RESULTS_DIR}/*"
 
-  # Remove arquivos residuais específicos
+  # Remove arquivos residuais especificos
   for path in "${EXTRA_PATHS[@]}"; do
     docker exec "$CONTAINER" sh -c "rm -f ${path}" >/dev/null 2>&1
   done

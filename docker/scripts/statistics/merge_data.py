@@ -6,7 +6,8 @@ from collections import defaultdict
 BASE_DIR = Path(".")
 OUTPUT_FILENAME = "merged_multialgo_results.csv"
 DISCARDED_FILENAME = "discarded_scenarios.csv"
-NUM_EXECUTIONS = 10
+import os
+NUM_EXECUTIONS = int(os.environ.get('NUM_CONTAINERS', 10))
 
 # Configuração das colunas de validação por análise
 ANALYSIS_CONFIG = {

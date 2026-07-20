@@ -1,7 +1,8 @@
 #!/bin/bash
 set -euo pipefail
 
-BASE_DIR="/home/oav2/miningframework"
+DATASET=${1:-mds}
+BASE_DIR="/home/$DATASET/miningframework"
 
 # Lista somente containers ativos com prefixo mbo2-tse-exp
 CONTAINERS=$(docker ps --format '{{.Names}}' | grep '^mbo2-tse' || true)

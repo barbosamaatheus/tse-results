@@ -35,34 +35,21 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)  # refdataset/
 # === Arquivo compartilhado de cenários de merge ===
 SOOT_RESULTS_WITH_LINES = os.path.join(SCRIPT_DIR, 'soot-results-with-lines.csv')
 
-# === Mapeamento de análise → formato do out.txt e script correspondente ===
+# === Mapeamento de Configurações ===
 ANALYSIS_MAP = {
-    'ICF': {
-        'format': 'CF',
-        'script2': '2hasMissReferenceOnConflict_CF.py',
-        'out_dir': 'icf',
-        'output_label': 'CF',
-    },
-    'IDFP': {
-        'format': 'DF',
-        'script2': '2hasMissReferenceOnConflict_DF.py',
-        'out_dir': 'idfp',
-        'output_label': 'DF',
-    },
-    'IOA': {
-        'format': 'OA',
-        'script2': '2hasMissReferenceOnConflict_OPTZ.py',
-        'out_dir': 'ioa',
-        'output_label': 'OA',
-    },
+    'ICF': {'out_dir': 'icf', 'format': 'CF', 'output_label': 'CF', 'script2': '2hasMissReferenceOnConflict_CF.py'},
+    'IDFP': {'out_dir': 'idfp', 'format': 'DF', 'output_label': 'DF', 'script2': '2hasMissReferenceOnConflict_DF.py'},
+    'IOA': {'out_dir': 'ioa', 'format': 'OA', 'output_label': 'OA', 'script2': '2hasMissReferenceOnConflict_OPTZ.py'},
 }
 
 CG_OPTIONS = ['CHA', 'RTA', 'VTA']
-# Para o refdataset existem 10 pastas de repetição (results1 a results10)
-RESULTS_DIRS = [f'results{i}' for i in range(1, 11)]
+import os
+# Para o refdataset existem N pastas de repetição (results1 a resultsN)
+NUM_CONTAINERS = int(os.environ.get('NUM_CONTAINERS', 10))
+RESULTS_DIRS = [f'results{i}' for i in range(1, NUM_CONTAINERS + 1)]
 
 def get_paths(results_folder, analysis, cg):
-    """Retorna os caminhos dos arquivos de entrada para uma configuração e repetição específica."""
+    """Retorna os caminhos dos arquivos de entrada para uma configuração."""
     info = ANALYSIS_MAP[analysis]
 
     # No refdataset, os arquivos de cada repetição estão em resultsX/analise/cg/data1/

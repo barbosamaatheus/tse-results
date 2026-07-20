@@ -159,7 +159,7 @@ def run_soot(mode, cg, run_number):
     err_file_path = os.path.join(SOURCE_BASE, "execution_err.txt")
 
     env_vars = os.environ.copy()
-    env_vars["_JAVA_OPTIONS"] = "-Xmx20g -Xms20g -XX:-UseGCOverheadLimit"
+    env_vars["_JAVA_OPTIONS"] = "-Xmx800m -Xms800m -XX:-UseGCOverheadLimit"
 
     start_wall_time = time.time()
     exit_code = None
